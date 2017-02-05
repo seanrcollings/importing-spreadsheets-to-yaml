@@ -1,0 +1,108 @@
+name|type|slots|intReq|faithReq|id
+No Spell||0|||0
+Affinity|Hex|3|40|24|1
+Climax|Hex|4|30|47|2
+Darkstorm|Hex|2|12|21|3
+Dark Dance|Hex|2|22|60|4
+Dark Fog|Hex|2|25|14|5
+Dark Greatsword|Hex|2|55|29|6
+Dark Hail|Hex|2|19|12|7
+Dark Orb|Hex|1|12|10|8
+Dark Weapon|Hex|1|16|14|9
+Dead Again|Hex|2|22|20|10
+Great Resonant Soul|Hex|2|13|26|11
+Lifedrain Patch|Hex|1|20|35|12
+Numbness|Hex|1|42|30|13
+Profound Still|Hex|2|20|42|14
+Promised Walk of Peace|Hex|2|30|40|15
+Recollection|Hex|1|35|30|16
+Repel|Hex|3|35|27|17
+Resonant Flesh|Hex|1|11|19|18
+Resonant Soul|Hex|2|10|18|19
+Resonant Weapon|Hex|2|15|24|20
+Scraps of Life|Hex|1|8|12|21
+Twisted Barricade|Hex|2|38|25|22
+Whisper of Despair|Hex|1|24|18|23
+Acid Surge|Pyromancy|1|0|0|24
+Chaos Storm|Pyromancy|1|0|0|25
+Combustion|Pyromancy|1|0|0|26
+Dance of Fire|Pyromancy|1|0|0|27
+Fireball|Pyromancy|1|0|0|28
+Fire Orb|Pyromancy|1|0|0|29
+Fire Snake|Pyromancy|2|0|0|30
+Firestorm|Pyromancy|1|0|0|31
+Fire Tempest|Pyromancy|1|0|0|32
+Fire Whip|Pyromancy|1|0|0|33
+Flame Swathe|Pyromancy|1|0|0|34
+Flame Weapon|Pyromancy|1|0|0|35
+Flash Sweat|Pyromancy|1|0|0|36
+Forbidden Sun|Pyromancy|3|0|0|37
+Great Chaos Fireball|Pyromancy|2|0|0|38
+Great Combustion|Pyromancy|1|0|0|39
+Great Fireball|Pyromancy|1|0|0|40
+Immolation|Pyromancy|1|0|0|41
+Iron Flesh|Pyromancy|1|0|0|42
+Lingering Flame|Pyromancy|2|0|0|43
+Outcry|Pyromancy|2|0|0|44
+Poison Mist|Pyromancy|1|0|0|45
+Toxic Mist|Pyromancy|1|0|0|46
+Warmth|Pyromancy|1|0|0|47
+Cast Light|Sorcery|1|14|0|48
+Chameleon|Sorcery|1|14|0|49
+Crystal Magic Weapon|Sorcery|1|28|0|50
+Crystal Soul Spear|Sorcery|2|53|0|51
+Fall Control|Sorcery|1|15|0|52
+Focus Souls|Sorcery|2|60|0|53
+Great Heavy Soul Arrow|Sorcery|1|16|0|54
+Great Magic Weapon|Sorcery|1|18|0|55
+Great Soul Arrow|Sorcery|1|14|0|56
+Heavy Homing Soul Arrow|Sorcery|1|35|0|57
+Heavy Soul Arrow|Sorcery|1|12|0|58
+Hidden Weapon|Sorcery|1|14|0|59
+Homing Crystal Soulmass|Sorcery|1|32|0|60
+Homing Soul Arrow|Sorcery|1|25|0|61
+Homing Soulmass|Sorcery|1|24|0|62
+Hush|Sorcery|1|15|0|63
+Magic Weapon|Sorcery|1|10|0|64
+Repair|Sorcery|1|15|0|65
+Shockwave|Sorcery|1|13|0|66
+Soul Arrow|Sorcery|1|10|0|67
+Soul Bolt|Sorcery|1|45|0|68
+Soul Flash|Sorcery|1|28|0|69
+Soul Geyser|Sorcery|1|64|0|70
+Soul Greatsword|Sorcery|1|27|0|71
+Soul Shower|Sorcery|1|22|0|72
+Soul Spear|Sorcery|1|40|0|73
+Soul Spear Barrage|Sorcery|1|17|0|74
+Soul Vortex|Sorcery|1|37|0|75
+Strong Magic Shield|Sorcery|1|18|0|76
+Unleash Magic|Sorcery|3|58|0|77
+Yearn|Sorcery|1|19|0|78
+Blinding Bolt|Miracle|1||65|79
+Bountiful Sunlight|Miracle|3||38|80
+Caressing Prayer|Miracle|1||15|81
+Denial|Miracle|3||24|82
+Emit Force|Miracle|1||20|83
+Force|Miracle|1||12|84
+Great Heal|Miracle|1||28|85
+Great Heal Excerpt|Miracle|1||14|86
+Great Lightning Spear|Miracle|1||42|87
+Great Magic Barrier|Miracle|1||28|88
+Guidance|Miracle|1||12|89
+Heal|Miracle|1||12|90
+Heavenly Thunder|Miracle|1||17|91
+Homeward|Miracle|1||18|92
+Lightning Spear|Miracle|1||22|93
+Magic Barrier|Miracle|1||14|94
+Med Heal|Miracle|1||18|95
+Perserverance|Miracle|1||15|96
+Replenishment|Miracle|1||16|97
+Resplendent Life|Miracle|2||25|98
+Sacred Oath|Miracle|4||25|99
+Soothing Sunlight|Miracle|2||52|100
+Soul Appease|Miracle|1||19|101
+Splintering Lightning Spear|Miracle|1||50|102
+Sunlight Blade|Miracle|1||36|103
+Sunlight Spear|Miracle|2||55|104
+Unveil|Miracle|1||13|105
+Wrath of the Gods|Miracle|1||30|106

@@ -1,0 +1,642 @@
+- faithReq: ''
+  id: '0'
+  intReq: ''
+  name: No Spell
+  slots: '0'
+  type: ''
+- faithReq: '24'
+  id: '1'
+  intReq: '40'
+  name: Affinity
+  slots: '3'
+  type: Hex
+- faithReq: '47'
+  id: '2'
+  intReq: '30'
+  name: Climax
+  slots: '4'
+  type: Hex
+- faithReq: '21'
+  id: '3'
+  intReq: '12'
+  name: Darkstorm
+  slots: '2'
+  type: Hex
+- faithReq: '60'
+  id: '4'
+  intReq: '22'
+  name: Dark Dance
+  slots: '2'
+  type: Hex
+- faithReq: '14'
+  id: '5'
+  intReq: '25'
+  name: Dark Fog
+  slots: '2'
+  type: Hex
+- faithReq: '29'
+  id: '6'
+  intReq: '55'
+  name: Dark Greatsword
+  slots: '2'
+  type: Hex
+- faithReq: '12'
+  id: '7'
+  intReq: '19'
+  name: Dark Hail
+  slots: '2'
+  type: Hex
+- faithReq: '10'
+  id: '8'
+  intReq: '12'
+  name: Dark Orb
+  slots: '1'
+  type: Hex
+- faithReq: '14'
+  id: '9'
+  intReq: '16'
+  name: Dark Weapon
+  slots: '1'
+  type: Hex
+- faithReq: '20'
+  id: '10'
+  intReq: '22'
+  name: Dead Again
+  slots: '2'
+  type: Hex
+- faithReq: '26'
+  id: '11'
+  intReq: '13'
+  name: Great Resonant Soul
+  slots: '2'
+  type: Hex
+- faithReq: '35'
+  id: '12'
+  intReq: '20'
+  name: Lifedrain Patch
+  slots: '1'
+  type: Hex
+- faithReq: '30'
+  id: '13'
+  intReq: '42'
+  name: Numbness
+  slots: '1'
+  type: Hex
+- faithReq: '42'
+  id: '14'
+  intReq: '20'
+  name: Profound Still
+  slots: '2'
+  type: Hex
+- faithReq: '40'
+  id: '15'
+  intReq: '30'
+  name: Promised Walk of Peace
+  slots: '2'
+  type: Hex
+- faithReq: '30'
+  id: '16'
+  intReq: '35'
+  name: Recollection
+  slots: '1'
+  type: Hex
+- faithReq: '27'
+  id: '17'
+  intReq: '35'
+  name: Repel
+  slots: '3'
+  type: Hex
+- faithReq: '19'
+  id: '18'
+  intReq: '11'
+  name: Resonant Flesh
+  slots: '1'
+  type: Hex
+- faithReq: '18'
+  id: '19'
+  intReq: '10'
+  name: Resonant Soul
+  slots: '2'
+  type: Hex
+- faithReq: '24'
+  id: '20'
+  intReq: '15'
+  name: Resonant Weapon
+  slots: '2'
+  type: Hex
+- faithReq: '12'
+  id: '21'
+  intReq: '8'
+  name: Scraps of Life
+  slots: '1'
+  type: Hex
+- faithReq: '25'
+  id: '22'
+  intReq: '38'
+  name: Twisted Barricade
+  slots: '2'
+  type: Hex
+- faithReq: '18'
+  id: '23'
+  intReq: '24'
+  name: Whisper of Despair
+  slots: '1'
+  type: Hex
+- faithReq: '0'
+  id: '24'
+  intReq: '0'
+  name: Acid Surge
+  slots: '1'
+  type: Pyromancy
+- faithReq: '0'
+  id: '25'
+  intReq: '0'
+  name: Chaos Storm
+  slots: '1'
+  type: Pyromancy
+- faithReq: '0'
+  id: '26'
+  intReq: '0'
+  name: Combustion
+  slots: '1'
+  type: Pyromancy
+- faithReq: '0'
+  id: '27'
+  intReq: '0'
+  name: Dance of Fire
+  slots: '1'
+  type: Pyromancy
+- faithReq: '0'
+  id: '28'
+  intReq: '0'
+  name: Fireball
+  slots: '1'
+  type: Pyromancy
+- faithReq: '0'
+  id: '29'
+  intReq: '0'
+  name: Fire Orb
+  slots: '1'
+  type: Pyromancy
+- faithReq: '0'
+  id: '30'
+  intReq: '0'
+  name: Fire Snake
+  slots: '2'
+  type: Pyromancy
+- faithReq: '0'
+  id: '31'
+  intReq: '0'
+  name: Firestorm
+  slots: '1'
+  type: Pyromancy
+- faithReq: '0'
+  id: '32'
+  intReq: '0'
+  name: Fire Tempest
+  slots: '1'
+  type: Pyromancy
+- faithReq: '0'
+  id: '33'
+  intReq: '0'
+  name: Fire Whip
+  slots: '1'
+  type: Pyromancy
+- faithReq: '0'
+  id: '34'
+  intReq: '0'
+  name: Flame Swathe
+  slots: '1'
+  type: Pyromancy
+- faithReq: '0'
+  id: '35'
+  intReq: '0'
+  name: Flame Weapon
+  slots: '1'
+  type: Pyromancy
+- faithReq: '0'
+  id: '36'
+  intReq: '0'
+  name: Flash Sweat
+  slots: '1'
+  type: Pyromancy
+- faithReq: '0'
+  id: '37'
+  intReq: '0'
+  name: Forbidden Sun
+  slots: '3'
+  type: Pyromancy
+- faithReq: '0'
+  id: '38'
+  intReq: '0'
+  name: Great Chaos Fireball
+  slots: '2'
+  type: Pyromancy
+- faithReq: '0'
+  id: '39'
+  intReq: '0'
+  name: Great Combustion
+  slots: '1'
+  type: Pyromancy
+- faithReq: '0'
+  id: '40'
+  intReq: '0'
+  name: Great Fireball
+  slots: '1'
+  type: Pyromancy
+- faithReq: '0'
+  id: '41'
+  intReq: '0'
+  name: Immolation
+  slots: '1'
+  type: Pyromancy
+- faithReq: '0'
+  id: '42'
+  intReq: '0'
+  name: Iron Flesh
+  slots: '1'
+  type: Pyromancy
+- faithReq: '0'
+  id: '43'
+  intReq: '0'
+  name: Lingering Flame
+  slots: '2'
+  type: Pyromancy
+- faithReq: '0'
+  id: '44'
+  intReq: '0'
+  name: Outcry
+  slots: '2'
+  type: Pyromancy
+- faithReq: '0'
+  id: '45'
+  intReq: '0'
+  name: Poison Mist
+  slots: '1'
+  type: Pyromancy
+- faithReq: '0'
+  id: '46'
+  intReq: '0'
+  name: Toxic Mist
+  slots: '1'
+  type: Pyromancy
+- faithReq: '0'
+  id: '47'
+  intReq: '0'
+  name: Warmth
+  slots: '1'
+  type: Pyromancy
+- faithReq: '0'
+  id: '48'
+  intReq: '14'
+  name: Cast Light
+  slots: '1'
+  type: Sorcery
+- faithReq: '0'
+  id: '49'
+  intReq: '14'
+  name: Chameleon
+  slots: '1'
+  type: Sorcery
+- faithReq: '0'
+  id: '50'
+  intReq: '28'
+  name: Crystal Magic Weapon
+  slots: '1'
+  type: Sorcery
+- faithReq: '0'
+  id: '51'
+  intReq: '53'
+  name: Crystal Soul Spear
+  slots: '2'
+  type: Sorcery
+- faithReq: '0'
+  id: '52'
+  intReq: '15'
+  name: Fall Control
+  slots: '1'
+  type: Sorcery
+- faithReq: '0'
+  id: '53'
+  intReq: '60'
+  name: Focus Souls
+  slots: '2'
+  type: Sorcery
+- faithReq: '0'
+  id: '54'
+  intReq: '16'
+  name: Great Heavy Soul Arrow
+  slots: '1'
+  type: Sorcery
+- faithReq: '0'
+  id: '55'
+  intReq: '18'
+  name: Great Magic Weapon
+  slots: '1'
+  type: Sorcery
+- faithReq: '0'
+  id: '56'
+  intReq: '14'
+  name: Great Soul Arrow
+  slots: '1'
+  type: Sorcery
+- faithReq: '0'
+  id: '57'
+  intReq: '35'
+  name: Heavy Homing Soul Arrow
+  slots: '1'
+  type: Sorcery
+- faithReq: '0'
+  id: '58'
+  intReq: '12'
+  name: Heavy Soul Arrow
+  slots: '1'
+  type: Sorcery
+- faithReq: '0'
+  id: '59'
+  intReq: '14'
+  name: Hidden Weapon
+  slots: '1'
+  type: Sorcery
+- faithReq: '0'
+  id: '60'
+  intReq: '32'
+  name: Homing Crystal Soulmass
+  slots: '1'
+  type: Sorcery
+- faithReq: '0'
+  id: '61'
+  intReq: '25'
+  name: Homing Soul Arrow
+  slots: '1'
+  type: Sorcery
+- faithReq: '0'
+  id: '62'
+  intReq: '24'
+  name: Homing Soulmass
+  slots: '1'
+  type: Sorcery
+- faithReq: '0'
+  id: '63'
+  intReq: '15'
+  name: Hush
+  slots: '1'
+  type: Sorcery
+- faithReq: '0'
+  id: '64'
+  intReq: '10'
+  name: Magic Weapon
+  slots: '1'
+  type: Sorcery
+- faithReq: '0'
+  id: '65'
+  intReq: '15'
+  name: Repair
+  slots: '1'
+  type: Sorcery
+- faithReq: '0'
+  id: '66'
+  intReq: '13'
+  name: Shockwave
+  slots: '1'
+  type: Sorcery
+- faithReq: '0'
+  id: '67'
+  intReq: '10'
+  name: Soul Arrow
+  slots: '1'
+  type: Sorcery
+- faithReq: '0'
+  id: '68'
+  intReq: '45'
+  name: Soul Bolt
+  slots: '1'
+  type: Sorcery
+- faithReq: '0'
+  id: '69'
+  intReq: '28'
+  name: Soul Flash
+  slots: '1'
+  type: Sorcery
+- faithReq: '0'
+  id: '70'
+  intReq: '64'
+  name: Soul Geyser
+  slots: '1'
+  type: Sorcery
+- faithReq: '0'
+  id: '71'
+  intReq: '27'
+  name: Soul Greatsword
+  slots: '1'
+  type: Sorcery
+- faithReq: '0'
+  id: '72'
+  intReq: '22'
+  name: Soul Shower
+  slots: '1'
+  type: Sorcery
+- faithReq: '0'
+  id: '73'
+  intReq: '40'
+  name: Soul Spear
+  slots: '1'
+  type: Sorcery
+- faithReq: '0'
+  id: '74'
+  intReq: '17'
+  name: Soul Spear Barrage
+  slots: '1'
+  type: Sorcery
+- faithReq: '0'
+  id: '75'
+  intReq: '37'
+  name: Soul Vortex
+  slots: '1'
+  type: Sorcery
+- faithReq: '0'
+  id: '76'
+  intReq: '18'
+  name: Strong Magic Shield
+  slots: '1'
+  type: Sorcery
+- faithReq: '0'
+  id: '77'
+  intReq: '58'
+  name: Unleash Magic
+  slots: '3'
+  type: Sorcery
+- faithReq: '0'
+  id: '78'
+  intReq: '19'
+  name: Yearn
+  slots: '1'
+  type: Sorcery
+- faithReq: '65'
+  id: '79'
+  intReq: ''
+  name: Blinding Bolt
+  slots: '1'
+  type: Miracle
+- faithReq: '38'
+  id: '80'
+  intReq: ''
+  name: Bountiful Sunlight
+  slots: '3'
+  type: Miracle
+- faithReq: '15'
+  id: '81'
+  intReq: ''
+  name: Caressing Prayer
+  slots: '1'
+  type: Miracle
+- faithReq: '24'
+  id: '82'
+  intReq: ''
+  name: Denial
+  slots: '3'
+  type: Miracle
+- faithReq: '20'
+  id: '83'
+  intReq: ''
+  name: Emit Force
+  slots: '1'
+  type: Miracle
+- faithReq: '12'
+  id: '84'
+  intReq: ''
+  name: Force
+  slots: '1'
+  type: Miracle
+- faithReq: '28'
+  id: '85'
+  intReq: ''
+  name: Great Heal
+  slots: '1'
+  type: Miracle
+- faithReq: '14'
+  id: '86'
+  intReq: ''
+  name: Great Heal Excerpt
+  slots: '1'
+  type: Miracle
+- faithReq: '42'
+  id: '87'
+  intReq: ''
+  name: Great Lightning Spear
+  slots: '1'
+  type: Miracle
+- faithReq: '28'
+  id: '88'
+  intReq: ''
+  name: Great Magic Barrier
+  slots: '1'
+  type: Miracle
+- faithReq: '12'
+  id: '89'
+  intReq: ''
+  name: Guidance
+  slots: '1'
+  type: Miracle
+- faithReq: '12'
+  id: '90'
+  intReq: ''
+  name: Heal
+  slots: '1'
+  type: Miracle
+- faithReq: '17'
+  id: '91'
+  intReq: ''
+  name: Heavenly Thunder
+  slots: '1'
+  type: Miracle
+- faithReq: '18'
+  id: '92'
+  intReq: ''
+  name: Homeward
+  slots: '1'
+  type: Miracle
+- faithReq: '22'
+  id: '93'
+  intReq: ''
+  name: Lightning Spear
+  slots: '1'
+  type: Miracle
+- faithReq: '14'
+  id: '94'
+  intReq: ''
+  name: Magic Barrier
+  slots: '1'
+  type: Miracle
+- faithReq: '18'
+  id: '95'
+  intReq: ''
+  name: Med Heal
+  slots: '1'
+  type: Miracle
+- faithReq: '15'
+  id: '96'
+  intReq: ''
+  name: Perserverance
+  slots: '1'
+  type: Miracle
+- faithReq: '16'
+  id: '97'
+  intReq: ''
+  name: Replenishment
+  slots: '1'
+  type: Miracle
+- faithReq: '25'
+  id: '98'
+  intReq: ''
+  name: Resplendent Life
+  slots: '2'
+  type: Miracle
+- faithReq: '25'
+  id: '99'
+  intReq: ''
+  name: Sacred Oath
+  slots: '4'
+  type: Miracle
+- faithReq: '52'
+  id: '100'
+  intReq: ''
+  name: Soothing Sunlight
+  slots: '2'
+  type: Miracle
+- faithReq: '19'
+  id: '101'
+  intReq: ''
+  name: Soul Appease
+  slots: '1'
+  type: Miracle
+- faithReq: '50'
+  id: '102'
+  intReq: ''
+  name: Splintering Lightning Spear
+  slots: '1'
+  type: Miracle
+- faithReq: '36'
+  id: '103'
+  intReq: ''
+  name: Sunlight Blade
+  slots: '1'
+  type: Miracle
+- faithReq: '55'
+  id: '104'
+  intReq: ''
+  name: Sunlight Spear
+  slots: '2'
+  type: Miracle
+- faithReq: '13'
+  id: '105'
+  intReq: ''
+  name: Unveil
+  slots: '1'
+  type: Miracle
+- faithReq: '30'
+  id: '106'
+  intReq: ''
+  name: Wrath of the Gods
+  slots: '1'
+  type: Miracle

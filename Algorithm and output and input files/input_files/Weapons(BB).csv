@@ -1,0 +1,43 @@
+name|type|Physical|Blood|Arcane|Fire|Bolt|Total Base|Strength Scale|Skill Scale|Bloodtinge Scale|Arcane Scale|Fire Scale|Bolt Scale|strReq|skillReq|bloodReq|arcaneReq|id
+Saw Cleaver|Trick|180|0|0|0|0|180|0.6|0.4|0|0.55|0|0|8|7|0|0|1
+Saw Spear|Trick|170|0|0|0|0|170|0.5|0.63|0|0.625|0|0|7|8|0|0|2
+Hunter Axe|Trick|196|0|0|0|0|196|0.65|0.35|0|0.55|0|0|9|8|0|0|3
+Threaded Cane|Trick|156|0|0|0|0|156|0.29|0.9|0|0.65|0|0|7|9|0|0|4
+Burial Blade|Trick|160|0|60|0|0|220|0.3|0.75|0|0.69|0|0|10|12|0|0|5
+Blade of Mercy|Trick|120|0|60|0|0|180|0|1.085|0|0.69|0|0|7|11|0|0|6
+Kirkhammer|Trick|210|0|0|0|0|210|1|0.29|0|0.695|0|0|16|10|0|0|7
+Ludwig's Holy Blade|Trick|200|0|0|0|0|200|0.8|0.8|0|0.88|0|0|16|12|0|0|8
+Reiterpallasch |Trick|150|150|0|0|0|150|0.2|1|0.4|0|0|0|8|12|10|0|9
+Chikage|Trick|184|184|0|0|0|184|0.25|0.65|1.1|0|0|0|10|14|12|0|10
+Rifle Spear|Trick|170|170|0|0|0|170|0.3|0.7|0.65|0|0|0|10|11|9|0|11
+Stake Driver|Trick|170|0|0|0|0|170|0.6|0.55|0|0.625|0|0|18|9|0|0|12
+Tonitrus|Trick|160|0|0|0|80|240|0.65|0.25|0|0.5|0|0.5|12|8|0|0|13
+Logarius' Wheel|Trick|200|0|50|0|0|250|1.1|0|0|0.56|0|0|20|12|0|10|14
+Beast Claw|Trick|150|0|0|0|0|150|0.62|0.335|0|0.52|0|0|14|12|0|0|15
+Hunter Pistol|Left Hand|0|160|0|0|0|160|0|0|0.85|0|0|0|7|9|5|0|16
+Hunter Blunderbuss|Left Hand|0|45|0|0|0|45|0|0|1|0|0|0|7|9|5|0|17
+Repeating Pistol|Left Hand|0|200|0|0|0|200|0|0|0.8|0|0|0|10|11|8|0|18
+Ludwig's Rifle|Left Hand|0|55|0|0|0|55|0|0|0.5|0|0|0|9|10|9|0|19
+Evelyn|Left Hand|0|140|0|0|0|140|0|0|1.35|0|0|0|9|11|18|0|20
+Cannon|Left Hand|0|600|0|0|0|600|0|0|0.4|0|0|0|30|13|0|0|21
+Flamesprayer|Left Hand|0|0|0|95|0|95|0|0|0|0.7|0|0|0|8|0|8|22
+Rosmarinus|Left Hand|0|0|80|0|0|80|0|0|0|1.21|0|0|0|8|0|8|23
+Hunter's Torch|Left Hand|0|0|0|100|0|100|0|0|0|0.7|0|0|6|0|0|0|24
+Wooden Shield|Left Hand|0|0|0|0|0|0|0|0|0|0|0|0|8|8|0|0|25
+ Bare Fists|Special|25|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0
+Amygdalan Arm|Trick|160|0|80|0|0|240|0.9|0.25|0|0.625|0|0|17|9|0|0|26
+Beasthunter Saif|Trick|180|0|0|0|0|180|0.3|0.7|0|0.55|0|0|9|11|0|0|27
+Beast Cutter|Trick|184|0|0|0|0|184|0.6|0.3|0|0.495|0|0|11|9|0|0|28
+Bloodletter|Trick|180|180|0|0|0|360|1|0|1.1|0|0|0|14|6|16|0|29
+Boom Hammer|Trick|180|0|0|120|0|300|0.9|0.25|0|0.625|0|0|14|8|0|0|30
+Church Pick|Trick|176|0|0|0|0|176|0.4|0.7|0|0.55|0|0|9|14|0|0|31
+Holy Moonlight Sword|Trick|180|0|100|0|0|280|0.8|0.6|0|1|0|0|16|12|0|14|32
+Kos Parasite|Trick|0|0|60|0|0|60|0|0|0|1.6|0|0|0|0|0|20|33
+Rakuyo|Trick|164|0|0|0|0|164|0|1|0|0|0|0|10|20|0|0|34
+Simon's Bowblade|Trick|160|160|0|0|0|320|0|1.1|1.1|0|0|0|8|15|9|0|35
+Whirligig Saw|Trick|190|0|0|0|0|190|1.1|0.3|0|0.77|0|0|16|12|0|0|36
+Church Cannon|Left Hand|0|480|0|0|0|480|0|0|0.5|0|0|0|27|0|16|0|37
+Fist of Gratia|Left Hand|130|0|0|0|0|130|1|0|0|0|0|0|7|9|5|0|38
+Gatling Gun|Left Hand|0|180|0|0|0|180|0|0|0.4|0|0|0|28|12|0|0|39
+Loch Shield|Left Hand|0|0|0|0|0|0|0|0|0|0|0|0|11|8|0|0|40
+Piercing Rifle|Left Hand|0|160|0|0|0|160|0|0|1|0|0|0|9|10|9|0|41

@@ -1,0 +1,333 @@
+- effects: ''
+  id: '0'
+  imageurl: ''
+  name: ' No Rune'
+- effects: '[{"effect":  "Boosts Max Stamina 20%", "alters": "Stamina",  "method":
+    "mul", "value": 1.20}]'
+  id: '1'
+  imageurl: ''
+  name: Anti-Clockwise Metamorphosis (3)
+- effects: '[{"effect":  "Increases Arcane DEF 10%", "alters": "Arcane DEF",  "method":
+    "mul", "value": 1.10}]'
+  id: '2'
+  imageurl: ''
+  name: Arcane Lake (3)
+- effects: '[{"effect":  "Boost effect from transformation +100", "alters": "",  "method":
+    "", "value": 0}]'
+  id: '3'
+  imageurl: ''
+  name: Beast (3)
+- effects: '[{"effect":  "V. ATKs restore 300 HP", "alters": "",  "method": "", "value":
+    0}]'
+  id: '4'
+  imageurl: ''
+  name: Blood Rapture (3)
+- effects: '[{"effect":  "Strengthens V. ATKs 30%", "alters": "",  "method": "", "value":
+    0}]'
+  id: '5'
+  imageurl: ''
+  name: Clawmark (3)
+- effects: '[{"effect":  "Increases slow poison resistance +300", "alters": "Slow
+    Poison RES",  "method": "add", "value": 300}]'
+  id: '6'
+  imageurl: ''
+  name: Clear Deep Sea (3)
+- effects: '[{"effect":  "Boosts max HP +15%", "alters": "HP",  "method": "mul", "value":
+    1.15}]'
+  id: '7'
+  imageurl: ''
+  name: Clockwise Metamorphosis (3)
+- effects: '[{"effect": "Blood Vial Maximum +5", "alters": "",  "method": "", "value":
+    0}]'
+  id: '8'
+  imageurl: ''
+  name: Communion (5)
+- effects: '[{"effect": "+1 Health Regen near death", "alters": "",  "method": "",
+    "value": 0}]'
+  id: '9'
+  imageurl: ''
+  name: Corruption
+- effects: '[{"effect": "Increase frenzy resistance +300", "alters": "Frenzy RES",  "method":
+    "add", "value": 300}]'
+  id: '10'
+  imageurl: ''
+  name: Deep Sea (3)
+- effects: '[{"effect": "Increase Bolt defense +10%", "alters": "Bolt DEF",  "method":
+    "mul", "value": 1.10}]'
+  id: '11'
+  imageurl: ''
+  name: Dissipating Lake (2)
+- effects: '[{"effect": "Item Discovery +100", "alters": "Discovery",  "method": "add",
+    "value": 100}]'
+  id: '12'
+  imageurl: ''
+  name: Eye (3)
+- effects: '[{"effect": "Increases Fire DEF +10%", "alters": "Fire DEF",  "method":
+    "mul", "value": 1.10}]'
+  id: '13'
+  imageurl: ''
+  name: Fading Lake (2)
+- effects: '[{"effect": "Quicksilver Bullet Max +5", "alters": "",  "method": "",
+    "value": 0}]'
+  id: '14'
+  imageurl: ''
+  name: Formless Oedon (3)
+- effects: '[{"effect": "Increases Slow Poison RES +150", "alters": "Slow Poison RES",  "method":
+    "add", "value": 150},{"effect": "Increases Rapid Poison RES +150", "alters": "Rapid
+    Poison RES",  "method": "add", "value": 150},{"effect": "Increases Frenzy RES
+    +150", "alters": "Frenzy RES",  "method": "add", "value": 150}]'
+  id: '15'
+  imageurl: ''
+  name: Great Deep Sea (2)
+- effects: '[{"effect": "Increases Physical DEF +7%", "alters": "Physical DEF",  "method":
+    "mul", "value": 1.07}]'
+  id: '16'
+  imageurl: ''
+  name: Lake (3)
+- effects: '[{"effect": "Stamina recovery speed increased", "alters": "",  "method":
+    "", "value": 0}]'
+  id: '17'
+  imageurl: ''
+  name: Hunter
+- effects: '[{"effect": "Increases Physical DEF +5%", "alters": "Physical DEF",  "method":
+    "mul", "value": 1.05},{"effect": "Increases VS. Blunt DEF +5%", "alters": "VS.
+    Blunt",  "method": "mul", "value": 1.05},{"effect": "Increases VS. Thrust DEF
+    +5%", "alters": "VS. Thrust",  "method": "mul", "value": 1.05},{"effect": "Increses
+    Blood DEF +5%", "alters": "Blood DEF", "method": "mul", "value": 1.05},{"effect":
+    "Increses Fire DEF +5%", "alters": "Fire DEF", "method": "mul", "value": 1.05},{"effect":
+    "Increses Bolt DEF +5%", "alters": "Bolt DEF", "method": "mul", "value": 1.05}]'
+  id: '18'
+  imageurl: ''
+  name: Great Lake (3)
+- effects: '[{"effect": "Gain 30% more Blood Echoes", "alters": "",  "method": "",
+    "value": 0}]'
+  id: '19'
+  imageurl: ''
+  name: Moon (3)
+- effects: '[{"effect": "Visceral Attacks grant Quicksilver Bullets (+3)", "alters":
+    "",  "method": "", "value": 0}]'
+  id: '20'
+  imageurl: ''
+  name: Oedon Writhe (3)
+- effects: '[{"effect": "Increases HP recovered by blood vials", "alters": "",  "method":
+    "", "value": 0}]'
+  id: '21'
+  imageurl: ''
+  name: Radiance
+- effects: '[{"effect": "Increases rapid poison resistance (+300)", "alters": "Rapid
+    Poison RES",  "method": "add", "value": 300}]'
+  id: '22'
+  imageurl: ''
+  name: Stunning Deep Sea (2)
+- effects: '[{"effect":  "Boosts Max Stamina 10%", "alters": "Stamina",  "method":
+    "mul", "value": 1.10}]'
+  id: '23'
+  imageurl: ''
+  name: Anti-Clockwise Metamorphosis (1)
+- effects: '[{"effect":  "Boosts Max Stamina 15%", "alters": "Stamina",  "method":
+    "mul", "value": 1.15}]'
+  id: '24'
+  imageurl: ''
+  name: Anti-Clockwise Metamorphosis (2)
+- effects: '[{"effect":  "Increases Arcane DEF 5%", "alters": "Arcane DEF",  "method":
+    "mul", "value": 1.05}]'
+  id: '25'
+  imageurl: ''
+  name: Arcane Lake (1)
+- effects: '[{"effect":  "Increases Arcane DEF 7%", "alters": "Arcane DEF",  "method":
+    "mul", "value": 1.07}]'
+  id: '26'
+  imageurl: ''
+  name: Arcane Lake (2)
+- effects: '[{"effect":  "Boost effect from transformation +20", "alters": "",  "method":
+    "", "value": 0}]'
+  id: '27'
+  imageurl: ''
+  name: Beast (1)
+- effects: '[{"effect":  "Boost effect from transformation +50", "alters": "",  "method":
+    "", "value": 0}]'
+  id: '28'
+  imageurl: ''
+  name: Beast (2)
+- effects: '[{"effect":  "V. ATKs restore 200 HP", "alters": "",  "method": "", "value":
+    0}]'
+  id: '29'
+  imageurl: ''
+  name: Blood Rapture (1)
+- effects: '[{"effect":  "V. ATKs restore 250 HP", "alters": "",  "method": "", "value":
+    0}]'
+  id: '30'
+  imageurl: ''
+  name: Blood Rapture (2)
+- effects: '[{"effect":  "Strengthens V. ATKs 10%", "alters": "",  "method": "", "value":
+    0}]'
+  id: '31'
+  imageurl: ''
+  name: Clawmark (1)
+- effects: '[{"effect":  "Strengthens V. ATKs 20%", "alters": "",  "method": "", "value":
+    0}]'
+  id: '32'
+  imageurl: ''
+  name: Clawmark (2)
+- effects: '[{"effect":  "Increases slow poison resistance +300", "alters": "Slow
+    Poison RES",  "method": "add", "value": 300}]'
+  id: '33'
+  imageurl: ''
+  name: Clear Deep Sea (1)
+- effects: '[{"effect":  "Increases slow poison resistance +300", "alters": "Slow
+    Poison RES",  "method": "add", "value": 300}]'
+  id: '34'
+  imageurl: ''
+  name: Clear Deep Sea (2)
+- effects: '[{"effect":  "Boosts max HP +5%", "alters": "HP",  "method": "mul", "value":
+    1.05}]'
+  id: '35'
+  imageurl: ''
+  name: Clockwise Metamorphosis (1)
+- effects: '[{"effect":  "Boosts max HP +10%", "alters": "HP",  "method": "mul", "value":
+    1.10}]'
+  id: '36'
+  imageurl: ''
+  name: Clockwise Metamorphosis (2)
+- effects: '[{"effect": "Blood Vial Maximum +1", "alters": "",  "method": "", "value":
+    0}]'
+  id: '37'
+  imageurl: ''
+  name: Communion (1)
+- effects: '[{"effect": "Blood Vial Maximum +2", "alters": "",  "method": "", "value":
+    0}]'
+  id: '38'
+  imageurl: ''
+  name: Communion (2)
+- effects: '[{"effect": "Blood Vial Maximum +3", "alters": "",  "method": "", "value":
+    0}]'
+  id: '39'
+  imageurl: ''
+  name: Communion (3)
+- effects: '[{"effect": "Blood Vial Maximum +4", "alters": "",  "method": "", "value":
+    0}]'
+  id: '40'
+  imageurl: ''
+  name: Communion (4)
+- effects: '[{"effect": "Increase frenzy resistance +100", "alters": "Frenzy RES",  "method":
+    "add", "value": 100}]'
+  id: '41'
+  imageurl: ''
+  name: Deep Sea (1)
+- effects: '[{"effect": "Increase frenzy resistance +200", "alters": "Frenzy RES",  "method":
+    "add", "value": 200}]'
+  id: '42'
+  imageurl: ''
+  name: Deep Sea (2)
+- effects: '[{"effect": "Increase Bolt defense +5%", "alters": "Bolt DEF",  "method":
+    "mul", "value": 1.05}]'
+  id: '43'
+  imageurl: ''
+  name: Dissipating Lake (1)
+- effects: '[{"effect": "Item Discovery +50", "alters": "Discovery",  "method": "add",
+    "value": 100}]'
+  id: '44'
+  imageurl: ''
+  name: Eye (1)
+- effects: '[{"effect": "Item Discovery +70", "alters": "Discovery",  "method": "add",
+    "value": 100}]'
+  id: '45'
+  imageurl: ''
+  name: Eye (2)
+- effects: '[{"effect": "Increases Fire DEF +5%", "alters": "Fire DEF",  "method":
+    "mul", "value": 1.05}]'
+  id: '46'
+  imageurl: ''
+  name: Fading Lake (1)
+- effects: '[{"effect": "Quicksilver Bullet Max +3", "alters": "",  "method": "",
+    "value": 0}]'
+  id: '47'
+  imageurl: ''
+  name: Formless Oedon (1)
+- effects: '[{"effect": "Quicksilver Bullet Max +4", "alters": "",  "method": "",
+    "value": 0}]'
+  id: '48'
+  imageurl: ''
+  name: Formless Oedon (2)
+- effects: '[{"effect": "Increases Slow Poison RES +100", "alters": "Slow Poison RES",  "method":
+    "add", "value": 100},{"effect": "Increases Rapid Poison RES +100", "alters": "Rapid
+    Poison RES",  "method": "add", "value": 100},{"effect": "Increases Frenzy RES
+    +100", "alters": "Frenzy RES",  "method": "add", "value": 100}]'
+  id: '49'
+  imageurl: ''
+  name: Great Deep Sea (1)
+- effects: '[{"effect": "Increases Physical DEF +3%", "alters": "Physical DEF",  "method":
+    "mul", "value": 1.03}]'
+  id: '50'
+  imageurl: ''
+  name: Lake (1)
+- effects: '[{"effect": "Increases Physical DEF +5%", "alters": "Physical DEF",  "method":
+    "mul", "value": 1.05}]'
+  id: '51'
+  imageurl: ''
+  name: Lake (2)
+- effects: '[{"effect": "Increases Physical DEF +3%", "alters": "Physical DEF",  "method":
+    "mul", "value": 1.03},{"effect": "Increases VS. Blunt DEF +3%", "alters": "VS.
+    Blunt",  "method": "mul", "value": 1.03},{"effect": "Increases VS. Thrust DEF
+    +3%", "alters": "VS. Thrust",  "method": "mul", "value": 1.03},{"effect": "Increses
+    Blood DEF +3%", "alters": "Blood DEF", "method": "mul", "value": 1.03},{"effect":
+    "Increses Fire DEF +3%", "alters": "Fire DEF", "method": "mul", "value": 1.03},{"effect":
+    "Increses Bolt DEF +3%", "alters": "Bolt DEF", "method": "mul", "value": 1.03}]'
+  id: '52'
+  imageurl: ''
+  name: Great Lake (1)
+- effects: '[{"effect": "Increases Physical DEF +4%", "alters": "Physical DEF",  "method":
+    "mul", "value": 1.04},{"effect": "Increases VS. Blunt DEF +4%", "alters": "VS.
+    Blunt",  "method": "mul", "value": 1.04},{"effect": "Increases VS. Thrust DEF
+    +4%", "alters": "VS. Thrust",  "method": "mul", "value": 1.04},{"effect": "Increses
+    Blood DEF +4%", "alters": "Blood DEF", "method": "mul", "value": 1.04},{"effect":
+    "Increses Fire DEF +4%", "alters": "Fire DEF", "method": "mul", "value": 1.04},{"effect":
+    "Increses Bolt DEF +4%", "alters": "Bolt DEF", "method": "mul", "value": 1.04}]'
+  id: '53'
+  imageurl: ''
+  name: Great Lake (2)
+- effects: '[{"effect": "Gain 10% more Blood Echoes", "alters": "",  "method": "",
+    "value": 0}]'
+  id: '54'
+  imageurl: ''
+  name: Moon (1)
+- effects: '[{"effect": "Gain 20% more Blood Echoes", "alters": "",  "method": "",
+    "value": 0}]'
+  id: '55'
+  imageurl: ''
+  name: Moon (2)
+- effects: '[{"effect": "Visceral Attacks grant Quicksilver Bullets (+1)", "alters":
+    "",  "method": "", "value": 0}]'
+  id: '56'
+  imageurl: ''
+  name: Oedon Writhe (1)
+- effects: '[{"effect": "Visceral Attacks grant Quicksilver Bullets (+2)", "alters":
+    "",  "method": "", "value": 0}]'
+  id: '57'
+  imageurl: ''
+  name: Oedon Writhe (2)
+- effects: '[{"effect": "Increases rapid poison resistance (+200)", "alters": "Rapid
+    Poison RES",  "method": "add", "value": 200}]'
+  id: '58'
+  imageurl: ''
+  name: Stunning Deep Sea (1)
+- effects: '[{"effect": "Increases max HP by 2% during co-op", "alters": "HP",  "method":
+    "mul", "value": 1.02}]'
+  id: '59'
+  imageurl: ''
+  name: Impurity
+- effects: '[{"effect": "+29 to Item Discovery", "alters": "",  "method": "", "value":
+    0}, {"effect": "Transforms the player into Kin form", "alters": "",  "method":
+    "", "value": 0}]'
+  id: '60'
+  imageurl: ''
+  name: Milkweed
+- effects: '[{"effect": "Increased transformation effects",  "method": "", "value":
+    0}]'
+  id: '61'
+  imageurl: ''
+  name: Beast's Embrace
+- effects: '[{"effect": "+20% rally potential",  "method": "", "value": 0}]'
+  id: '62'
+  imageurl: ''
+  name: Guidance
