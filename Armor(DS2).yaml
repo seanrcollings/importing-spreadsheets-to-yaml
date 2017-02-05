@@ -17,12 +17,7 @@
   Weight: '9.8'
   effects: ''
   fashionID: '177'
-  ? 'id
-
-    '
-  : '1
-
-    '
+  id: '1'
   name: Minotaur Helm
   type: head
 - Bleed RES: '46'
@@ -44,12 +39,7 @@
   Weight: '8.9'
   effects: ''
   fashionID: '101'
-  ? 'id
-
-    '
-  : '2
-
-    '
+  id: '2'
   name: Gyrm Warrior Greathelm
   type: head
 - Bleed RES: '46'
@@ -71,12 +61,7 @@
   Weight: '8.9'
   effects: ''
   fashionID: '102'
-  ? 'id
-
-    '
-  : '3
-
-    '
+  id: '3'
   name: Gyrm Warrior Helm
   type: head
 - Bleed RES: '37'
@@ -98,12 +83,7 @@
   Weight: '8.2'
   effects: ''
   fashionID: '100'
-  ? 'id
-
-    '
-  : '4
-
-    '
+  id: '4'
   name: Gyrm Helm
   type: head
 - Bleed RES: '22'
@@ -125,12 +105,7 @@
   Weight: '6'
   effects: ''
   fashionID: '189'
-  ? 'id
-
-    '
-  : '5
-
-    '
+  id: '5'
   name: Rusted Mastodon Helm
   type: head
 - Bleed RES: '40'
@@ -152,12 +127,7 @@
   Weight: '7.5'
   effects: ''
   fashionID: '160'
-  ? 'id
-
-    '
-  : '6
-
-    '
+  id: '6'
   name: Havel's Helm
   type: head
 - Bleed RES: '37'
@@ -179,12 +149,7 @@
   Weight: '7'
   effects: ''
   fashionID: '111'
-  ? 'id
-
-    '
-  : '7
-
-    '
+  id: '7'
   name: Looking Glass Mask
   type: head
 - Bleed RES: '25'
@@ -206,12 +171,7 @@
   Weight: '7'
   effects: ''
   fashionID: '111'
-  ? 'id
-
-    '
-  : '8
-
-    '
+  id: '8'
   name: Looking Glass Mask
   type: head
 - Bleed RES: '42'
@@ -233,12 +193,7 @@
   Weight: '9'
   effects: ''
   fashionID: '113'
-  ? 'id
-
-    '
-  : '9
-
-    '
+  id: '9'
   name: Smelter Demon Helm
   type: head
 - Bleed RES: '23'
@@ -260,12 +215,7 @@
   Weight: '7.5'
   effects: ''
   fashionID: '153'
-  ? 'id
-
-    '
-  : '10
-
-    '
+  id: '10'
   name: Dragonrider Helm
   type: head
 - Bleed RES: '29'
@@ -287,12 +237,7 @@
   Weight: '7'
   effects: ''
   fashionID: '181'
-  ? 'id
-
-    '
-  : '11
-
-    '
+  id: '11'
   name: Old Knight Helm
   type: head
 - Bleed RES: '35'
@@ -314,12 +259,7 @@
   Weight: '6.3'
   effects: ''
   fashionID: '103'
-  ? 'id
-
-    '
-  : '12
-
-    '
+  id: '12'
   name: Ironclad Helm
   type: head
 - Bleed RES: '27'
@@ -341,12 +281,7 @@
   Weight: '6.8'
   effects: ''
   fashionID: '198'
-  ? 'id
-
-    '
-  : '13
-
-    '
+  id: '13'
   name: Vengarl's Helm
   type: head
 - Bleed RES: '28'
@@ -368,12 +303,7 @@
   Weight: '6.6'
   effects: ''
   fashionID: '176'
-  ? 'id
-
-    '
-  : '14
-
-    '
+  id: '14'
   name: Mastodon Helm
   type: head
 - Bleed RES: '29'
@@ -395,12 +325,7 @@
   Weight: '6'
   effects: ''
   fashionID: '155'
-  ? 'id
-
-    '
-  : '15
-
-    '
+  id: '15'
   name: Drakekeeper Helm
   type: head
 - Bleed RES: '28'
@@ -422,12 +347,7 @@
   Weight: '5.4'
   effects: ''
   fashionID: '194'
-  ? 'id
-
-    '
-  : '16
-
-    '
+  id: '16'
   name: Steel Helm
   type: head
 - Bleed RES: '25'
@@ -449,12 +369,7 @@
   Weight: '5.1'
   effects: ''
   fashionID: '-1'
-  ? 'id
-
-    '
-  : '17
-
-    '
+  id: '17'
   name: Alonne Captain Helm
   type: head
 - Bleed RES: '46'
@@ -476,12 +391,7 @@
   Weight: '7.5'
   effects: ''
   fashionID: '-1'
-  ? 'id
-
-    '
-  : '18
-
-    '
+  id: '18'
   name: Velstadt's Helm
   type: head
 - Bleed RES: '28'
@@ -503,12 +413,7 @@
   Weight: '7'
   effects: ''
   fashionID: '86'
-  ? 'id
-
-    '
-  : '19
-
-    '
+  id: '19'
   name: Benhart's Knight Helm
   type: head
 - Bleed RES: '29'
@@ -530,12 +435,7 @@
   Weight: '6'
   effects: ''
   fashionID: '161'
-  ? 'id
-
-    '
-  : '20
-
-    '
+  id: '20'
   name: Heide Knight Greathelm
   type: head
 - Bleed RES: '29'
@@ -557,12 +457,7 @@
   Weight: '6'
   effects: ''
   fashionID: '162'
-  ? 'id
-
-    '
-  : '21
-
-    '
+  id: '21'
   name: Heide Knight Iron Mask
   type: head
 - Bleed RES: '28'
@@ -584,12 +479,7 @@
   Weight: '6.3'
   effects: ''
   fashionID: '180'
-  ? 'id
-
-    '
-  : '22
-
-    '
+  id: '22'
   name: Old Ironclad Helm
   type: head
 - Bleed RES: '27'
@@ -611,12 +501,7 @@
   Weight: '5.8'
   effects: ''
   fashionID: '165'
-  ? 'id
-
-    '
-  : '23
-
-    '
+  id: '23'
   name: Imperious Helm
   type: head
 - Bleed RES: '41'
@@ -638,12 +523,7 @@
   Weight: '6.2'
   effects: ''
   fashionID: '195'
-  ? 'id
-
-    '
-  : '24
-
-    '
+  id: '24'
   name: Syan's Helm
   type: head
 - Bleed RES: '26'
@@ -665,12 +545,7 @@
   Weight: '5.9'
   effects: ''
   fashionID: '110'
-  ? 'id
-
-    '
-  : '25
-
-    '
+  id: '25'
   name: Drangleic Helm
   type: head
 - Bleed RES: '40'
@@ -692,12 +567,7 @@
   Weight: '6'
   effects: ''
   fashionID: '187'
-  ? 'id
-
-    '
-  : '26
-
-    '
+  id: '26'
   name: Raime's Helm
   type: head
 - Bleed RES: '27'
@@ -719,12 +589,7 @@
   Weight: '5.8'
   effects: ''
   fashionID: '191'
-  ? 'id
-
-    '
-  : '27
-
-    '
+  id: '27'
   name: Sanctum Knight Helm
   type: head
 - Bleed RES: '21'
@@ -746,12 +611,7 @@
   Weight: '5'
   effects: ''
   fashionID: '174'
-  ? 'id
-
-    '
-  : '28
-
-    '
+  id: '28'
   name: Mad Warrior Mask
   type: head
 - Bleed RES: '18'
@@ -773,12 +633,7 @@
   Weight: '5.8'
   effects: ''
   fashionID: '191'
-  ? 'id
-
-    '
-  : '29
-
-    '
+  id: '29'
   name: Sanctum Knight Helm
   type: head
 - Bleed RES: '21'
@@ -800,12 +655,7 @@
   Weight: '4.6'
   effects: ''
   fashionID: '60'
-  ? 'id
-
-    '
-  : '30
-
-    '
+  id: '30'
   name: Alonne Knight Helm
   type: head
 - Bleed RES: '25'
@@ -827,12 +677,7 @@
   Weight: '4.8'
   effects: ''
   fashionID: '20'
-  ? 'id
-
-    '
-  : '31
-
-    '
+  id: '31'
   name: Faraam Helm
   type: head
 - Bleed RES: '24'
@@ -854,12 +699,7 @@
   Weight: '4.5'
   effects: ''
   fashionID: '145'
-  ? 'id
-
-    '
-  : '32
-
-    '
+  id: '32'
   name: Catarina Helm
   type: head
 - Bleed RES: '31'
@@ -881,12 +721,7 @@
   Weight: '6.4'
   effects: ''
   fashionID: '114'
-  ? 'id
-
-    '
-  : '33
-
-    '
+  id: '33'
   name: Throne Defender Helm
   type: head
 - Bleed RES: '27'
@@ -908,12 +743,7 @@
   Weight: '4.5'
   effects: ''
   fashionID: '18'
-  ? 'id
-
-    '
-  : '34
-
-    '
+  id: '34'
   name: Elite Knight Helm
   type: head
 - Bleed RES: '25'
@@ -935,12 +765,7 @@
   Weight: '4'
   effects: ''
   fashionID: '188'
-  ? 'id
-
-    '
-  : '35
-
-    '
+  id: '35'
   name: Ruin Helm
   type: head
 - Bleed RES: '27'
@@ -962,12 +787,7 @@
   Weight: '4.2'
   effects: ''
   fashionID: '17'
-  ? 'id
-
-    '
-  : '36
-
-    '
+  id: '36'
   name: Knight Helm
   type: head
 - Bleed RES: '28'
@@ -989,12 +809,7 @@
   Weight: '4'
   effects: ''
   fashionID: '141'
-  ? 'id
-
-    '
-  : '37
-
-    '
+  id: '37'
   name: Alonne's Helm
   type: head
 - Bleed RES: '22'
@@ -1017,12 +832,7 @@
   effects: '[{"effect":  "Raises Intelligence by 1 point", "alters": "Intelligence",  "method":
     "add", "value": 1}]'
   fashionID: '2'
-  ? 'id
-
-    '
-  : '38
-
-    '
+  id: '38'
   name: Archdrake Helm
   type: head
 - Bleed RES: '26'
@@ -1044,12 +854,7 @@
   Weight: '4.7'
   effects: ''
   fashionID: '154'
-  ? 'id
-
-    '
-  : '39
-
-    '
+  id: '39'
   name: Drakeblood Helm
   type: head
 - Bleed RES: '25'
@@ -1071,12 +876,7 @@
   Weight: '4.7'
   effects: ''
   fashionID: '106'
-  ? 'id
-
-    '
-  : '40
-
-    '
+  id: '40'
   name: Royal Swordsman Helm
   type: head
 - Bleed RES: '33'
@@ -1098,12 +898,7 @@
   Weight: '4.5'
   effects: ''
   fashionID: '158'
-  ? 'id
-
-    '
-  : '41
-
-    '
+  id: '41'
   name: Falconer Helm
   type: head
 - Bleed RES: '25'
@@ -1126,12 +921,7 @@
   effects: '[{"effect":  "Increases Faith by 2", "alters": "Faith",  "method": "add",
     "value": 1}]'
   fashionID: '168'
-  ? 'id
-
-    '
-  : '42
-
-    '
+  id: '42'
   name: Insolent Helm
   type: head
 - Bleed RES: '25'
@@ -1153,12 +943,7 @@
   Weight: '4.8'
   effects: ''
   fashionID: '99'
-  ? 'id
-
-    '
-  : '43
-
-    '
+  id: '43'
   name: Royal Solider Helm
   type: head
 - Bleed RES: '30'
@@ -1180,12 +965,7 @@
   Weight: '4.3'
   effects: ''
   fashionID: '146'
-  ? 'id
-
-    '
-  : '44
-
-    '
+  id: '44'
   name: Creighton's Helm
   type: head
 - Bleed RES: '23'
@@ -1207,12 +987,7 @@
   Weight: '3.7'
   effects: ''
   fashionID: '27'
-  ? 'id
-
-    '
-  : '45
-
-    '
+  id: '45'
   name: Alva Helm
   type: head
 - Bleed RES: '25'
@@ -1234,12 +1009,7 @@
   Weight: '3.8'
   effects: ''
   fashionID: '92'
-  ? 'id
-
-    '
-  : '46
-
-    '
+  id: '46'
   name: Helm of Aurous
   type: head
 - Bleed RES: '21'
@@ -1263,12 +1033,7 @@
     "add", "value":1},{"effect": "Increases Faith by 1", "alters": "Faith", "method":
     "add", "value":1}]'
   fashionID: '149'
-  ? 'id
-
-    '
-  : '47
-
-    '
+  id: '47'
   name: Dark Mask
   type: head
 - Bleed RES: '12'
@@ -1290,12 +1055,7 @@
   Weight: '2'
   effects: ''
   fashionID: '159'
-  ? 'id
-
-    '
-  : '48
-
-    '
+  id: '48'
   name: Fume Sorcerer Mask
   type: head
 - Bleed RES: '24'
@@ -1317,12 +1077,7 @@
   Weight: '4'
   effects: ''
   fashionID: '196'
-  ? 'id
-
-    '
-  : '49
-
-    '
+  id: '49'
   name: Targray's Helm
   type: head
 - Bleed RES: '45'
@@ -1344,12 +1099,7 @@
   Weight: '4.6'
   effects: ''
   fashionID: '95'
-  ? 'id
-
-    '
-  : '50
-
-    '
+  id: '50'
   name: Varangian Helm
   type: head
 - Bleed RES: '31'
@@ -1371,12 +1121,7 @@
   Weight: '4.8'
   effects: ''
   fashionID: '81'
-  ? 'id
-
-    '
-  : '51
-
-    '
+  id: '51'
   name: Bell Keeper Helmet
   type: head
 - Bleed RES: '22'
@@ -1399,12 +1144,7 @@
   effects: '[{"effect":  "Increases maximum equipment load by 3%", "alters": "Equip
     Load",  "method": "mul", "value": 1.03}]'
   fashionID: '112'
-  ? 'id
-
-    '
-  : '52
-
-    '
+  id: '52'
   name: Penal Mask
   type: head
 - Bleed RES: '36'
@@ -1426,12 +1166,7 @@
   Weight: '4'
   effects: ''
   fashionID: '15'
-  ? 'id
-
-    '
-  : '53
-
-    '
+  id: '53'
   name: Standard Helm
   type: head
 - Bleed RES: '34'
@@ -1453,12 +1188,7 @@
   Weight: '3.5'
   effects: ''
   fashionID: '182'
-  ? 'id
-
-    '
-  : '54
-
-    '
+  id: '54'
   name: Pate's Helm
   type: head
 - Bleed RES: '63'
@@ -1480,12 +1210,7 @@
   Weight: '4.4'
   effects: ''
   fashionID: '157'
-  ? 'id
-
-    '
-  : '55
-
-    '
+  id: '55'
   name: Executioner Helm
   type: head
 - Bleed RES: '28'
@@ -1507,12 +1232,7 @@
   Weight: '5.6'
   effects: ''
   fashionID: '115'
-  ? 'id
-
-    '
-  : '56
-
-    '
+  id: '56'
   name: Throne Watcher Helm
   type: head
 - Bleed RES: '21'
@@ -1534,12 +1254,7 @@
   Weight: '4.3'
   effects: ''
   fashionID: '29'
-  ? 'id
-
-    '
-  : '57
-
-    '
+  id: '57'
   name: Hollow Solider Helm
   type: head
 - Bleed RES: '17'
@@ -1561,12 +1276,7 @@
   Weight: '4.3'
   effects: ''
   fashionID: '184'
-  ? 'id
-
-    '
-  : '58
-
-    '
+  id: '58'
   name: Pharros Mask
   type: head
 - Bleed RES: '38'
@@ -1590,12 +1300,7 @@
     "", "value": 0},{"effect": "Increases Int by 1", "alters": "Intelligence", "method":
     "add", "value": 1}]'
   fashionID: '200'
-  ? 'id
-
-    '
-  : '59
-
-    '
+  id: '59'
   name: Warlock Mask
   type: head
 - Bleed RES: '28'
@@ -1617,12 +1322,7 @@
   Weight: '4.1'
   effects: ''
   fashionID: '93'
-  ? 'id
-
-    '
-  : '60
-
-    '
+  id: '60'
   name: Spiked Bandit Helm
   type: head
 - Bleed RES: '23'
@@ -1648,12 +1348,7 @@
     "", "value": 0},{"effect":  "Prevents Hollowing after receiving Vendrick''s Blessing",
     "alters": "",  "method": "", "value": 0}]'
   fashionID: '170'
-  ? 'id
-
-    '
-  : '61
-
-    '
+  id: '61'
   name: King's Crown
   type: head
 - Bleed RES: '10'
@@ -1675,12 +1370,7 @@
   Weight: '5'
   effects: ''
   fashionID: '203'
-  ? 'id
-
-    '
-  : '62
-
-    '
+  id: '62'
   name: Xanthous Crown
   type: head
 - Bleed RES: '21'
@@ -1702,12 +1392,7 @@
   Weight: '3'
   effects: ''
   fashionID: '144'
-  ? 'id
-
-    '
-  : '63
-
-    '
+  id: '63'
   name: Cale's Helm
   type: head
 - Bleed RES: '20'
@@ -1729,12 +1414,7 @@
   Weight: '4'
   effects: ''
   fashionID: '167'
-  ? 'id
-
-    '
-  : '64
-
-    '
+  id: '64'
   name: Infantry Helm
   type: head
 - Bleed RES: '17'
@@ -1758,12 +1438,7 @@
     "", "value":0},{"effect":  "Prevents Hollowing after receiving Vendrick''s Blessing",
     "alters": "",  "method": "", "value": 0}]'
   fashionID: '147'
-  ? 'id
-
-    '
-  : '65
-
-    '
+  id: '65'
   name: Crown of the Old Iron King
   type: head
 - Bleed RES: '21'
@@ -1785,12 +1460,7 @@
   Weight: '2.5'
   effects: ''
   fashionID: '175'
-  ? 'id
-
-    '
-  : '66
-
-    '
+  id: '66'
   name: Mask of Judgment
   type: head
 - Bleed RES: '20'
@@ -1814,12 +1484,7 @@
     "value":1},{"effect": "Increases Int by 1", "alters": "Intelligence", "method":
     "add", "value":1}]'
   fashionID: '148'
-  ? 'id
-
-    '
-  : '67
-
-    '
+  id: '67'
   name: Crown of the Sunken King
   type: head
 - Bleed RES: '59'
@@ -1841,12 +1506,7 @@
   Weight: '1.8'
   effects: ''
   fashionID: '104'
-  ? 'id
-
-    '
-  : '68
-
-    '
+  id: '68'
   name: Manikin Mask
   type: head
 - Bleed RES: '32'
@@ -1869,12 +1529,7 @@
   effects: '[{"effect":  "Increases item discovery", "alters": "",  "method": "",
     "value": 0}]'
   fashionID: '169'
-  ? 'id
-
-    '
-  : '69
-
-    '
+  id: '69'
   name: Jester's Cap
   type: head
 - Bleed RES: '25'
@@ -1897,12 +1552,7 @@
   effects: '[{"effect": "Increases Int by 1", "alters": "Intelligence", "method":
     "add", "value": 1}]'
   fashionID: '201'
-  ? 'id
-
-    '
-  : '70
-
-    '
+  id: '70'
   name: White Hollow Mage Hood
   type: head
 - Bleed RES: '24'
@@ -1925,12 +1575,7 @@
   effects: '[{"effect":  "Raises Intelligence by 1 point", "alters": "Intelligence",  "method":
     "add", "value": 1}]'
   fashionID: '96'
-  ? 'id
-
-    '
-  : '71
-
-    '
+  id: '71'
   name: Black Hollow Mage Hood
   type: head
 - Bleed RES: '13'
@@ -1952,12 +1597,7 @@
   Weight: '4'
   effects: ''
   fashionID: '97'
-  ? 'id
-
-    '
-  : '72
-
-    '
+  id: '72'
   name: Hollow Infantry Helm
   type: head
 - Bleed RES: '41'
@@ -1979,12 +1619,7 @@
   Weight: '1.8'
   effects: ''
   fashionID: '193'
-  ? 'id
-
-    '
-  : '73
-
-    '
+  id: '73'
   name: Shadow Mask
   type: head
 - Bleed RES: '16'
@@ -2007,12 +1642,7 @@
   effects: '[{"effect":  "Increases Int by 1", "alters": "Intelligence",  "method":
     "add", "value": 1}]'
   fashionID: '21'
-  ? 'id
-
-    '
-  : '74
-
-    '
+  id: '74'
   name: Moon Hat
   type: head
 - Bleed RES: '20'
@@ -2035,12 +1665,7 @@
   effects: '[{"effect":  "Increases item discovery", "alters": "",  "method": "",
     "value": 0}]'
   fashionID: '22'
-  ? 'id
-
-    '
-  : '75
-
-    '
+  id: '75'
   name: Traveling Merchant Hat
   type: head
 - Bleed RES: '19'
@@ -2064,12 +1689,7 @@
     "value":1},{"effect": "Increases Int by 1", "alters": "Intelligence", "method":
     "add", "value":1}]'
   fashionID: '152'
-  ? 'id
-
-    '
-  : '76
-
-    '
+  id: '76'
   name: Dragon Sage Hood
   type: head
 - Bleed RES: '17'
@@ -2091,12 +1711,7 @@
   Weight: '2'
   effects: ''
   fashionID: '173'
-  ? 'id
-
-    '
-  : '77
-
-    '
+  id: '77'
   name: Lucatiel's Mask
   type: head
 - Bleed RES: '28'
@@ -2118,12 +1733,7 @@
   Weight: '1.4'
   effects: ''
   fashionID: '199'
-  ? 'id
-
-    '
-  : '78
-
-    '
+  id: '78'
   name: Wanderer Hood
   type: head
 - Bleed RES: '16'
@@ -2145,12 +1755,7 @@
   Weight: '1.7'
   effects: ''
   fashionID: '143'
-  ? 'id
-
-    '
-  : '79
-
-    '
+  id: '79'
   name: Bone Crown
   type: head
 - Bleed RES: '9'
@@ -2173,12 +1778,7 @@
   effects: '[{"effect": "Increases Faith by 1", "alters": "Faith", "method": "add",
     "value": 1}]'
   fashionID: '-1'
-  ? 'id
-
-    '
-  : '80
-
-    '
+  id: '80'
   name: White Priest Headset
   type: head
 - Bleed RES: '17'
@@ -2200,12 +1800,7 @@
   Weight: '1.5'
   effects: ''
   fashionID: '151'
-  ? 'id
-
-    '
-  : '81
-
-    '
+  id: '81'
   name: Dragon Acolyte Mask
   type: head
 - Bleed RES: '18'
@@ -2228,12 +1823,7 @@
   effects: '[{"effect":  "Increases Faith by 1", "alters": "Faith",  "method": "add",
     "value": 1}]'
   fashionID: '185'
-  ? 'id
-
-    '
-  : '82
-
-    '
+  id: '82'
   name: Priestess Headpiece
   type: head
 - Bleed RES: '18'
@@ -2255,12 +1845,7 @@
   Weight: '1.2'
   effects: ''
   fashionID: '19'
-  ? 'id
-
-    '
-  : '83
-
-    '
+  id: '83'
   name: Brigand Hood
   type: head
 - Bleed RES: '13'
@@ -2283,12 +1868,7 @@
   effects: '[{"effect":  "Increases maximum equipment load by 1%", "alters": "Equip
     Load",  "method": "mul", "value": 1.01}]'
   fashionID: '425'
-  ? 'id
-
-    '
-  : '84
-
-    '
+  id: '84'
   name: Helm of Aurous (Transparent)
   type: head
 - Bleed RES: '16'
@@ -2310,12 +1890,7 @@
   Weight: '1.2'
   effects: ''
   fashionID: '16'
-  ? 'id
-
-    '
-  : '85
-
-    '
+  id: '85'
   name: Thief Mask
   type: head
 - Bleed RES: '12'
@@ -2337,12 +1912,7 @@
   Weight: '1.1'
   effects: ''
   fashionID: '197'
-  ? 'id
-
-    '
-  : '86
-
-    '
+  id: '86'
   name: Tattered Cloth Hood
   type: head
 - Bleed RES: '17'
@@ -2366,12 +1936,7 @@
     "value": 0},{"effect":  "Increases Int by 1", "alters": "Intelligence",  "method":
     "add", "value": 1}]'
   fashionID: '178'
-  ? 'id
-
-    '
-  : '87
-
-    '
+  id: '87'
   name: Moon Butterfly Hat
   type: head
 - Bleed RES: '19'
@@ -2394,12 +1959,7 @@
   effects: '[{"effect":  "Increases souls gained by 2.5%", "alters": "",  "method":
     "", "value": 0}]'
   fashionID: '179'
-  ? 'id
-
-    '
-  : '88
-
-    '
+  id: '88'
   name: Nahr Alma Hood
   type: head
 - Bleed RES: '12'
@@ -2422,12 +1982,7 @@
   effects: '[{"effect":  "Increases bow range", "alters": "",  "method": "", "value":
     0}]'
   fashionID: '156'
-  ? 'id
-
-    '
-  : '89
-
-    '
+  id: '89'
   name: Durgo's Hat
   type: head
 - Bleed RES: '16'
@@ -2449,12 +2004,7 @@
   Weight: '2'
   effects: ''
   fashionID: '192'
-  ? 'id
-
-    '
-  : '90
-
-    '
+  id: '90'
   name: Sanctum Priestess Tiara
   type: head
 - Bleed RES: '14'
@@ -2479,12 +2029,7 @@
     "add", "value": 2},{"effect":  "Increases casting speed by 11%", "alters": "Cast
     Speed",  "method": "mul", "value": 1.11}]'
   fashionID: '89'
-  ? 'id
-
-    '
-  : '91
-
-    '
+  id: '91'
   name: Black Hood
   type: head
 - Bleed RES: '14'
@@ -2508,12 +2053,7 @@
     "add", "value": 3},{"effect":  "Increases casting speed by 5%", "alters": "Cast
     Speed",  "method": "mul", "value": 1.05}]'
   fashionID: '109'
-  ? 'id
-
-    '
-  : '92
-
-    '
+  id: '92'
   name: Chaos Hood
   type: head
 - Bleed RES: '14'
@@ -2538,12 +2078,7 @@
     "add", "value": 1},{"effect":  "Gives 10% extra spell casts", "alters": "",  "method":
     "", "value": 0}]'
   fashionID: '163'
-  ? 'id
-
-    '
-  : '93
-
-    '
+  id: '93'
   name: Hexer's Hood
   type: head
 - Bleed RES: '14'
@@ -2567,12 +2102,7 @@
     "value": 1},{"effect":  "Increases # of spells by 1", "alters": "",  "method":
     "", "value": 0}]'
   fashionID: '190'
-  ? 'id
-
-    '
-  : '94
-
-    '
+  id: '94'
   name: Saint's Hood
   type: head
 - Bleed RES: '11'
@@ -2594,12 +2124,7 @@
   Weight: '1.2'
   effects: ''
   fashionID: '-1'
-  ? 'id
-
-    '
-  : '95
-
-    '
+  id: '95'
   name: Hunter's Hat
   type: head
 - Bleed RES: '13'
@@ -2621,12 +2146,7 @@
   Weight: '2.2'
   effects: ''
   fashionID: '166'
-  ? 'id
-
-    '
-  : '96
-
-    '
+  id: '96'
   name: Imported Hood
   type: head
 - Bleed RES: '12'
@@ -2649,12 +2169,7 @@
   effects: '[{"effect":  "Gives 1 Attunement Slot", "alters": "Slots",  "method":
     "add", "value": 1}]'
   fashionID: '28'
-  ? 'id
-
-    '
-  : '97
-
-    '
+  id: '97'
   name: Black Witch Hat
   type: head
 - Bleed RES: '14'
@@ -2678,12 +2193,7 @@
     "value": 1},{"effect":  "Increases Int by 1", "alters": "Intelligence",  "method":
     "add", "value": 1}]'
   fashionID: '171'
-  ? 'id
-
-    '
-  : '98
-
-    '
+  id: '98'
   name: Leydia Black Hood
   type: head
 - Bleed RES: '12'
@@ -2705,12 +2215,7 @@
   Weight: '0.8'
   effects: ''
   fashionID: '150'
-  ? 'id
-
-    '
-  : '99
-
-    '
+  id: '99'
   name: Dingy Hood
   type: head
 - Bleed RES: '12'
@@ -2732,12 +2237,7 @@
   Weight: '1'
   effects: ''
   fashionID: '172'
-  ? 'id
-
-    '
-  : '100
-
-    '
+  id: '100'
   name: Leydia White Hood
   type: head
 - Bleed RES: '8'
@@ -2759,12 +2259,7 @@
   Weight: '0.7'
   effects: ''
   fashionID: '98'
-  ? 'id
-
-    '
-  : '101
-
-    '
+  id: '101'
   name: Rogue Hood
   type: head
 - Bleed RES: '8'
@@ -2787,12 +2282,7 @@
   effects: '[{"effect":  "Reduces falling damage", "alters": "",  "method": "", "value":
     0}]'
   fashionID: '51'
-  ? 'id
-
-    '
-  : '102
-
-    '
+  id: '102'
   name: Lion Warrior Helm
   type: head
 - Bleed RES: '16'
@@ -2814,12 +2304,7 @@
   Weight: '0.6'
   effects: ''
   fashionID: '52'
-  ? 'id
-
-    '
-  : '103
-
-    '
+  id: '103'
   name: Monastery Headcloth
   type: head
 - Bleed RES: '10'
@@ -2842,12 +2327,7 @@
   effects: '[{"effect":  "Increases souls gained by 2.5%", "alters": "",  "method":
     "", "value": 0}]'
   fashionID: '107'
-  ? 'id
-
-    '
-  : '104
-
-    '
+  id: '104'
   name: Tseldora Cap
   type: head
 - Bleed RES: '5'
@@ -2870,12 +2350,7 @@
   effects: '[{"effect": "Increases Int by 3", "alters": "Intelligence", "method":
     "add", "value":3}]'
   fashionID: '47'
-  ? 'id
-
-    '
-  : '105
-
-    '
+  id: '105'
   name: Desert Sorcesress Hood
   type: head
 - Bleed RES: '10'
@@ -2897,12 +2372,7 @@
   Weight: '1.3'
   effects: ''
   fashionID: '183'
-  ? 'id
-
-    '
-  : '106
-
-    '
+  id: '106'
   name: Peasant Hat
   type: head
 - Bleed RES: '6'
@@ -2924,12 +2394,7 @@
   Weight: '0.5'
   effects: ''
   fashionID: '48'
-  ? 'id
-
-    '
-  : '107
-
-    '
+  id: '107'
   name: Black Witch Veil
   type: head
 - Bleed RES: '8'
@@ -2953,12 +2418,7 @@
     0.85},{"effect":  "Increases Spell Damage By 3%", "alters": "",  "method": "",
     "value": 0}]'
   fashionID: '46'
-  ? 'id
-
-    '
-  : '108
-
-    '
+  id: '108'
   name: Black Witch Domino Mask
   type: head
 - Bleed RES: '4'
@@ -2980,12 +2440,7 @@
   Weight: '1.5'
   effects: ''
   fashionID: '164'
-  ? 'id
-
-    '
-  : '109
-
-    '
+  id: '109'
   name: Hollow Skin
   type: head
 - Bleed RES: '6'
@@ -3007,12 +2462,7 @@
   Weight: '0.5'
   effects: ''
   fashionID: '49'
-  ? 'id
-
-    '
-  : '110
-
-    '
+  id: '110'
   name: Grave Warden Mask
   type: head
 - Bleed RES: '7'
@@ -3035,12 +2485,7 @@
   effects: '[{"effect":  "Increases item discovery", "alters": "",  "method": "",
     "value": 0}]'
   fashionID: '186'
-  ? 'id
-
-    '
-  : '111
-
-    '
+  id: '111'
   name: Prisoner's Hood
   type: head
 - Bleed RES: '103'
@@ -3062,12 +2507,7 @@
   Weight: '19.5'
   effects: ''
   fashionID: '236'
-  ? 'id
-
-    '
-  : '112
-
-    '
+  id: '112'
   name: Havel's Armor
   type: chest
 - Bleed RES: '50'
@@ -3089,12 +2529,7 @@
   Weight: '16'
   effects: ''
   fashionID: '415'
-  ? 'id
-
-    '
-  : '113
-
-    '
+  id: '113'
   name: Dragonrider Armor
   type: chest
 - Bleed RES: '68'
@@ -3116,12 +2551,7 @@
   Weight: '16.4'
   effects: ''
   fashionID: '-1'
-  ? 'id
-
-    '
-  : '114
-
-    '
+  id: '114'
   name: Old Knight Armor
   type: chest
 - Bleed RES: '96'
@@ -3143,12 +2573,7 @@
   Weight: '18.3'
   effects: ''
   fashionID: '251'
-  ? 'id
-
-    '
-  : '115
-
-    '
+  id: '115'
   name: Looking Glass Armor
   type: chest
 - Bleed RES: '82'
@@ -3170,12 +2595,7 @@
   Weight: '17.6'
   effects: ''
   fashionID: '275'
-  ? 'id
-
-    '
-  : '116
-
-    '
+  id: '116'
   name: Smelter Demon Armor
   type: chest
 - Bleed RES: '64'
@@ -3197,12 +2617,7 @@
   Weight: '14.2'
   effects: ''
   fashionID: '58'
-  ? 'id
-
-    '
-  : '117
-
-    '
+  id: '117'
   name: Alonne Knight Armor
   type: chest
 - Bleed RES: '75'
@@ -3224,12 +2639,7 @@
   Weight: '15.6'
   effects: ''
   fashionID: '56'
-  ? 'id
-
-    '
-  : '118
-
-    '
+  id: '118'
   name: Alonne Captain Armor
   type: chest
 - Bleed RES: '75'
@@ -3251,12 +2661,7 @@
   Weight: '15.7'
   effects: ''
   fashionID: '224'
-  ? 'id
-
-    '
-  : '119
-
-    '
+  id: '119'
   name: Drakekeeper Armor
   type: chest
 - Bleed RES: '74'
@@ -3278,12 +2683,7 @@
   Weight: '17.7'
   effects: ''
   fashionID: '255'
-  ? 'id
-
-    '
-  : '120
-
-    '
+  id: '120'
   name: Mastodon Armor
   type: chest
 - Bleed RES: '59'
@@ -3305,12 +2705,7 @@
   Weight: '15.1'
   effects: ''
   fashionID: '286'
-  ? 'id
-
-    '
-  : '121
-
-    '
+  id: '121'
   name: Vengarl's Armor
   type: chest
 - Bleed RES: '72'
@@ -3332,12 +2727,7 @@
   Weight: '14'
   effects: ''
   fashionID: '276'
-  ? 'id
-
-    '
-  : '122
-
-    '
+  id: '122'
   name: Steel Armor
   type: chest
 - Bleed RES: '93'
@@ -3359,12 +2749,7 @@
   Weight: '29.8'
   effects: ''
   fashionID: '230'
-  ? 'id
-
-    '
-  : '123
-
-    '
+  id: '123'
   name: Ironclad Armor
   type: chest
 - Bleed RES: '68'
@@ -3386,12 +2771,7 @@
   Weight: '14.7'
   effects: ''
   fashionID: '240'
-  ? 'id
-
-    '
-  : '124
-
-    '
+  id: '124'
   name: Imperious Armor
   type: chest
 - Bleed RES: '64'
@@ -3413,12 +2793,7 @@
   Weight: '14.5'
   effects: ''
   fashionID: '219'
-  ? 'id
-
-    '
-  : '125
-
-    '
+  id: '125'
   name: Drangleic Mail
   type: chest
 - Bleed RES: '94'
@@ -3442,12 +2817,7 @@
     "add", "value": 1},{"effect":  "Increases Endurance by 1", "alters": "Endurance",  "method":
     "add", "value": 1}]'
   fashionID: '285'
-  ? 'id
-
-    '
-  : '126
-
-    '
+  id: '126'
   name: Velstadt's Armor
   type: chest
 - Bleed RES: '60'
@@ -3469,12 +2839,7 @@
   Weight: '15.9'
   effects: ''
   fashionID: '-1'
-  ? 'id
-
-    '
-  : '127
-
-    '
+  id: '127'
   name: Rusted Mastodon Armor
   type: chest
 - Bleed RES: '75'
@@ -3496,12 +2861,7 @@
   Weight: '29.8'
   effects: ''
   fashionID: '258'
-  ? 'id
-
-    '
-  : '128
-
-    '
+  id: '128'
   name: Old Ironclad Armor
   type: chest
 - Bleed RES: '56'
@@ -3523,12 +2883,7 @@
   Weight: '12'
   effects: ''
   fashionID: '235'
-  ? 'id
-
-    '
-  : '129
-
-    '
+  id: '129'
   name: Gyrm Armor
   type: chest
 - Bleed RES: '56'
@@ -3550,12 +2905,7 @@
   Weight: '12.3'
   effects: ''
   fashionID: '24'
-  ? 'id
-
-    '
-  : '130
-
-    '
+  id: '130'
   name: Gyrm Warrior Armor
   type: chest
 - Bleed RES: '62'
@@ -3577,12 +2927,7 @@
   Weight: '11.7'
   effects: ''
   fashionID: '124'
-  ? 'id
-
-    '
-  : '131
-
-    '
+  id: '131'
   name: Catarina Armor
   type: chest
 - Bleed RES: '53'
@@ -3604,12 +2949,7 @@
   Weight: '12.5'
   effects: ''
   fashionID: '253'
-  ? 'id
-
-    '
-  : '132
-
-    '
+  id: '132'
   name: Mad Warrior Armor
   type: chest
 - Bleed RES: '66'
@@ -3631,12 +2971,7 @@
   Weight: '13.8'
   effects: ''
   fashionID: '280'
-  ? 'id
-
-    '
-  : '133
-
-    '
+  id: '133'
   name: Throne Defender Armor
   type: chest
 - Bleed RES: '65'
@@ -3658,12 +2993,7 @@
   Weight: '12.6'
   effects: ''
   fashionID: '233'
-  ? 'id
-
-    '
-  : '134
-
-    '
+  id: '134'
   name: Faraam Armor
   type: chest
 - Bleed RES: '91'
@@ -3685,12 +3015,7 @@
   Weight: '13.8'
   effects: ''
   fashionID: '277'
-  ? 'id
-
-    '
-  : '135
-
-    '
+  id: '135'
   name: Syan's Armor
   type: chest
 - Bleed RES: '66'
@@ -3712,12 +3037,7 @@
   Weight: '12.5'
   effects: ''
   fashionID: '223'
-  ? 'id
-
-    '
-  : '136
-
-    '
+  id: '136'
   name: Drakeblood Armor
   type: chest
 - Bleed RES: '53'
@@ -3739,12 +3059,7 @@
   Weight: '10.9'
   effects: ''
   fashionID: '237'
-  ? 'id
-
-    '
-  : '137
-
-    '
+  id: '137'
   name: Heide Knight Chainmail
   type: chest
 - Bleed RES: '69'
@@ -3766,12 +3081,7 @@
   Weight: '10.9'
   effects: ''
   fashionID: '231'
-  ? 'id
-
-    '
-  : '138
-
-    '
+  id: '138'
   name: Knight Armor
   type: chest
 - Bleed RES: '65'
@@ -3793,12 +3103,7 @@
   Weight: '10.1'
   effects: ''
   fashionID: '72'
-  ? 'id
-
-    '
-  : '139
-
-    '
+  id: '139'
   name: Armor of Aurous
   type: chest
 - Bleed RES: '66'
@@ -3820,12 +3125,7 @@
   Weight: '10.5'
   effects: ''
   fashionID: '270'
-  ? 'id
-
-    '
-  : '140
-
-    '
+  id: '140'
   name: Ruin Armor
   type: chest
 - Bleed RES: '42'
@@ -3847,12 +3147,7 @@
   Weight: '10.5'
   effects: ''
   fashionID: '83'
-  ? 'id
-
-    '
-  : '141
-
-    '
+  id: '141'
   name: Benhart's Armor
   type: chest
 - Bleed RES: '59'
@@ -3874,12 +3169,7 @@
   Weight: '11.2'
   effects: ''
   fashionID: '269'
-  ? 'id
-
-    '
-  : '142
-
-    '
+  id: '142'
   name: Royal Swordsman Armor
   type: chest
 - Bleed RES: '59'
@@ -3901,12 +3191,7 @@
   Weight: '9.8'
   effects: ''
   fashionID: '278'
-  ? 'id
-
-    '
-  : '143
-
-    '
+  id: '143'
   name: Targray's Armor
   type: chest
 - Bleed RES: '74'
@@ -3928,12 +3213,7 @@
   Weight: '12'
   effects: ''
   fashionID: '416'
-  ? 'id
-
-    '
-  : '144
-
-    '
+  id: '144'
   name: King's Armor
   type: chest
 - Bleed RES: '47'
@@ -3955,12 +3235,7 @@
   Weight: '9.2'
   effects: ''
   fashionID: '268'
-  ? 'id
-
-    '
-  : '145
-
-    '
+  id: '145'
   name: Royal Soldier Armor
   type: chest
 - Bleed RES: '53'
@@ -3982,12 +3257,7 @@
   Weight: '9.8'
   effects: ''
   fashionID: '127'
-  ? 'id
-
-    '
-  : '146
-
-    '
+  id: '146'
   name: Dark Armor
   type: chest
 - Bleed RES: '51'
@@ -4009,12 +3279,7 @@
   Weight: '9.8'
   effects: ''
   fashionID: '229'
-  ? 'id
-
-    '
-  : '147
-
-    '
+  id: '147'
   name: Insolent Armor
   type: chest
 - Bleed RES: '56'
@@ -4036,12 +3301,7 @@
   Weight: '11.2'
   effects: ''
   fashionID: '281'
-  ? 'id
-
-    '
-  : '148
-
-    '
+  id: '148'
   name: Throne Watcher Armor
   type: chest
 - Bleed RES: '69'
@@ -4063,12 +3323,7 @@
   Weight: '8.8'
   effects: ''
   fashionID: '62'
-  ? 'id
-
-    '
-  : '149
-
-    '
+  id: '149'
   name: Alva Armor
   type: chest
 - Bleed RES: '69'
@@ -4090,12 +3345,7 @@
   Weight: '11.7'
   effects: ''
   fashionID: '220'
-  ? 'id
-
-    '
-  : '150
-
-    '
+  id: '150'
   name: Elite Knight Armor
   type: chest
 - Bleed RES: '67'
@@ -4117,12 +3367,7 @@
   Weight: '9.7'
   effects: ''
   fashionID: '126'
-  ? 'id
-
-    '
-  : '151
-
-    '
+  id: '151'
   name: Creighton's Chainmail
   type: chest
 - Bleed RES: '40'
@@ -4144,12 +3389,7 @@
   Weight: '9.8'
   effects: ''
   fashionID: '68'
-  ? 'id
-
-    '
-  : '152
-
-    '
+  id: '152'
   name: Archdrake Robes
   type: chest
 - Bleed RES: '39'
@@ -4171,12 +3411,7 @@
   Weight: '7.7'
   effects: ''
   fashionID: '70'
-  ? 'id
-
-    '
-  : '153
-
-    '
+  id: '153'
   name: Falconer Armor
   type: chest
 - Bleed RES: '0'
@@ -4198,12 +3433,7 @@
   Weight: '14.4'
   effects: ''
   fashionID: '272'
-  ? 'id
-
-    '
-  : '154
-
-    '
+  id: '154'
   name: Sanctum Knight Armor
   type: chest
 - Bleed RES: '95'
@@ -4225,12 +3455,7 @@
   Weight: '6.7'
   effects: ''
   fashionID: '221'
-  ? 'id
-
-    '
-  : '155
-
-    '
+  id: '155'
   name: Executioner Armor
   type: chest
 - Bleed RES: '42'
@@ -4252,12 +3477,7 @@
   Weight: '8.6'
   effects: ''
   fashionID: '239'
-  ? 'id
-
-    '
-  : '156
-
-    '
+  id: '156'
   name: Hollow Soldier Armor
   type: chest
 - Bleed RES: '42'
@@ -4279,12 +3499,7 @@
   Weight: '6.2'
   effects: ''
   fashionID: '76'
-  ? 'id
-
-    '
-  : '157
-
-    '
+  id: '157'
   name: Bandit Armor
   type: chest
 - Bleed RES: '39'
@@ -4306,12 +3521,7 @@
   Weight: '2.6'
   effects: ''
   fashionID: '125'
-  ? 'id
-
-    '
-  : '158
-
-    '
+  id: '158'
   name: Chaos Robe
   type: chest
 - Bleed RES: '29'
@@ -4335,12 +3545,7 @@
     "value": 0},{"effect":  "Increases jump length", "alters": "",  "method": "",
     "value": 0}]'
   fashionID: '26'
-  ? 'id
-
-    '
-  : '159
-
-    '
+  id: '159'
   name: Moon Butterfly Wings
   type: chest
 - Bleed RES: '39'
@@ -4362,12 +3567,7 @@
   Weight: '2.6'
   effects: ''
   fashionID: '90'
-  ? 'id
-
-    '
-  : '160
-
-    '
+  id: '160'
   name: Black Robes
   type: chest
 - Bleed RES: '39'
@@ -4389,12 +3589,7 @@
   Weight: '2.6'
   effects: ''
   fashionID: '238'
-  ? 'id
-
-    '
-  : '161
-
-    '
+  id: '161'
   name: Hexer's Robes
   type: chest
 - Bleed RES: '39'
@@ -4416,12 +3611,7 @@
   Weight: '2.6'
   effects: ''
   fashionID: '271'
-  ? 'id
-
-    '
-  : '162
-
-    '
+  id: '162'
   name: Saint's Dress
   type: chest
 - Bleed RES: '23'
@@ -4444,12 +3634,7 @@
   effects: '[{"effect":  "Reduces falling damage", "alters": "",  "method": "", "value":
     0}]'
   fashionID: '265'
-  ? 'id
-
-    '
-  : '163
-
-    '
+  id: '163'
   name: Red Lion Warrior Cape
   type: chest
 - Bleed RES: '34'
@@ -4472,12 +3657,7 @@
   effects: '[{"effect":  "Increases cast speed by 5%", "alters": "Cast Speed",  "method":
     "mul", "value": 1.05}]'
   fashionID: '12'
-  ? 'id
-
-    '
-  : '164
-
-    '
+  id: '164'
   name: Lion Mage Robe
   type: chest
 - Bleed RES: '42'
@@ -4499,12 +3679,7 @@
   Weight: '2.8'
   effects: ''
   fashionID: '14'
-  ? 'id
-
-    '
-  : '165
-
-    '
+  id: '165'
   name: Priestess Robe
   type: chest
 - Bleed RES: '39'
@@ -4526,12 +3701,7 @@
   Weight: '2.8'
   effects: ''
   fashionID: '288'
-  ? 'id
-
-    '
-  : '166
-
-    '
+  id: '166'
   name: White Hollow Mage Robe
   type: chest
 - Bleed RES: '42'
@@ -4553,12 +3723,7 @@
   Weight: '1.6'
   effects: ''
   fashionID: '256'
-  ? 'id
-
-    '
-  : '167
-
-    '
+  id: '167'
   name: Monastery Longshirt
   type: chest
 - Bleed RES: '75'
@@ -4580,12 +3745,7 @@
   Weight: '2.3'
   effects: ''
   fashionID: '254'
-  ? 'id
-
-    '
-  : '168
-
-    '
+  id: '168'
   name: Manikin Top
   type: chest
 - Bleed RES: '21'
@@ -4607,12 +3767,7 @@
   Weight: '2.7'
   effects: ''
   fashionID: '420'
-  ? 'id
-
-    '
-  : '169
-
-    '
+  id: '169'
   name: Desert Sorceress Top
   type: chest
 - Bleed RES: '60'
@@ -4634,12 +3789,7 @@
   Weight: '2.6'
   effects: ''
   fashionID: '273'
-  ? 'id
-
-    '
-  : '170
-
-    '
+  id: '170'
   name: Shadow Top
   type: chest
 - Bleed RES: '42'
@@ -4661,12 +3811,7 @@
   Weight: '3.3'
   effects: ''
   fashionID: '119'
-  ? 'id
-
-    '
-  : '171
-
-    '
+  id: '171'
   name: Black Hollow Mage Robe
   type: chest
 - Bleed RES: '30'
@@ -4688,12 +3833,7 @@
   Weight: '2.7'
   effects: ''
   fashionID: '279'
-  ? 'id
-
-    '
-  : '172
-
-    '
+  id: '172'
   name: Tattered Cloth Robe
   type: chest
 - Bleed RES: '46'
@@ -4715,12 +3855,7 @@
   Weight: '3'
   effects: ''
   fashionID: '128'
-  ? 'id
-
-    '
-  : '173
-
-    '
+  id: '173'
   name: Dingy Robe
   type: chest
 - Bleed RES: '43'
@@ -4742,12 +3877,7 @@
   Weight: '3.3'
   effects: ''
   fashionID: '289'
-  ? 'id
-
-    '
-  : '174
-
-    '
+  id: '174'
   name: White Priest Robe
   type: chest
 - Bleed RES: '15'
@@ -4770,12 +3900,7 @@
   effects: '[{"effect":  "Reduces falling damage", "alters": "",  "method": "", "value":
     0}]'
   fashionID: '249'
-  ? 'id
-
-    '
-  : '175
-
-    '
+  id: '175'
   name: Lion Warrior Cape
   type: chest
 - Bleed RES: '58'
@@ -4797,12 +3922,7 @@
   Weight: '4.8'
   effects: ''
   fashionID: '23'
-  ? 'id
-
-    '
-  : '176
-
-    '
+  id: '176'
   name: Black Witch Robe
   type: chest
 - Bleed RES: '46'
@@ -4824,12 +3944,7 @@
   Weight: '3.1'
   effects: ''
   fashionID: '122'
-  ? 'id
-
-    '
-  : '177
-
-    '
+  id: '177'
   name: Brigand Armor
   type: chest
 - Bleed RES: '50'
@@ -4851,12 +3966,7 @@
   Weight: '3.5'
   effects: ''
   fashionID: '421'
-  ? 'id
-
-    '
-  : '178
-
-    '
+  id: '178'
   name: Leydia Black Robe
   type: chest
 - Bleed RES: '35'
@@ -4878,12 +3988,7 @@
   Weight: '3.8'
   effects: ''
   fashionID: '121'
-  ? 'id
-
-    '
-  : '179
-
-    '
+  id: '179'
   name: Bone King Armor
   type: chest
 - Bleed RES: '36'
@@ -4906,12 +4011,7 @@
   effects: '[{"effect":  "Increases maximum equipment load by 1.5%", "alters": "Equip
     Load",  "method": "mul", "value": 1.015}]'
   fashionID: '424'
-  ? 'id
-
-    '
-  : '180
-
-    '
+  id: '180'
   name: Armor of Aurous (Transparent)
   type: chest
 - Bleed RES: '43'
@@ -4933,12 +4033,7 @@
   Weight: '3.5'
   effects: ''
   fashionID: '4'
-  ? 'id
-
-    '
-  : '181
-
-    '
+  id: '181'
   name: Leydia White Robe
   type: chest
 - Bleed RES: '51'
@@ -4960,12 +4055,7 @@
   Weight: '3.9'
   effects: ''
   fashionID: '120'
-  ? 'id
-
-    '
-  : '182
-
-    '
+  id: '182'
   name: Black Leather Armor
   type: chest
 - Bleed RES: '70'
@@ -4987,12 +4077,7 @@
   Weight: '3.5'
   effects: ''
   fashionID: '287'
-  ? 'id
-
-    '
-  : '183
-
-    '
+  id: '183'
   name: Wanderer Coat
   type: chest
 - Bleed RES: '35'
@@ -5014,12 +4099,7 @@
   Weight: '2.6'
   effects: ''
   fashionID: '274'
-  ? 'id
-
-    '
-  : '184
-
-    '
+  id: '184'
   name: Singer's Dress
   type: chest
 - Bleed RES: '45'
@@ -5041,12 +4121,7 @@
   Weight: '3.9'
   effects: ''
   fashionID: '129'
-  ? 'id
-
-    '
-  : '185
-
-    '
+  id: '185'
   name: Dragon Acolyte Robe
   type: chest
 - Bleed RES: '40'
@@ -5068,12 +4143,7 @@
   Weight: '3.5'
   effects: ''
   fashionID: '267'
-  ? 'id
-
-    '
-  : '186
-
-    '
+  id: '186'
   name: Rogue Armor
   type: chest
 - Bleed RES: '44'
@@ -5096,12 +4166,7 @@
   effects: '[{"effect":  "Increases souls gained by 10%", "alters": "",  "method":
     "", "value": 0}]'
   fashionID: '257'
-  ? 'id
-
-    '
-  : '187
-
-    '
+  id: '187'
   name: Nahr Alma Robes
   type: chest
 - Bleed RES: '33'
@@ -5123,12 +4188,7 @@
   Weight: '3.9'
   effects: ''
   fashionID: '266'
-  ? 'id
-
-    '
-  : '188
-
-    '
+  id: '188'
   name: Robe of Judgment
   type: chest
 - Bleed RES: '51'
@@ -5150,12 +4210,7 @@
   Weight: '6'
   effects: ''
   fashionID: '329'
-  ? 'id
-
-    '
-  : '189
-
-    '
+  id: '189'
   name: Lucatiel's Vest
   type: chest
 - Bleed RES: '69'
@@ -5177,12 +4232,7 @@
   Weight: '6'
   effects: ''
   fashionID: '71'
-  ? 'id
-
-    '
-  : '190
-
-    '
+  id: '190'
   name: Grave Warden Top
   type: chest
 - Bleed RES: '57'
@@ -5204,12 +4254,7 @@
   Weight: '5.8'
   effects: ''
   fashionID: '53'
-  ? 'id
-
-    '
-  : '191
-
-    '
+  id: '191'
   name: Agdayne's Black Robe
   type: chest
 - Bleed RES: '37'
@@ -5231,12 +4276,7 @@
   Weight: '5.1'
   effects: ''
   fashionID: '69'
-  ? 'id
-
-    '
-  : '192
-
-    '
+  id: '192'
   name: Astrologist's Robes
   type: chest
 - Bleed RES: '45'
@@ -5258,12 +4298,7 @@
   Weight: '4.7'
   effects: ''
   fashionID: '234'
-  ? 'id
-
-    '
-  : '193
-
-    '
+  id: '193'
   name: Fume Sorcerer Robes
   type: chest
 - Bleed RES: '44'
@@ -5285,12 +4320,7 @@
   Weight: '4.7'
   effects: ''
   fashionID: '232'
-  ? 'id
-
-    '
-  : '194
-
-    '
+  id: '194'
   name: Leather Armor
   type: chest
 - Bleed RES: '60'
@@ -5313,12 +4343,7 @@
   effects: '[{"effect":  "Prevents backstabs", "alters": "",  "method": "", "value":
     0}]'
   fashionID: '422'
-  ? 'id
-
-    '
-  : '195
-
-    '
+  id: '195'
   name: Jester's Robes
   type: chest
 - Bleed RES: '47'
@@ -5340,12 +4365,7 @@
   Weight: '5.1'
   effects: ''
   fashionID: '284'
-  ? 'id
-
-    '
-  : '196
-
-    '
+  id: '196'
   name: Varangian Armor
   type: chest
 - Bleed RES: '82'
@@ -5367,12 +4387,7 @@
   Weight: '6.8'
   effects: ''
   fashionID: '250'
-  ? 'id
-
-    '
-  : '197
-
-    '
+  id: '197'
   name: Llewellyn Armor
   type: chest
 - Bleed RES: '21'
@@ -5394,12 +4409,7 @@
   Weight: '3'
   effects: ''
   fashionID: '123'
-  ? 'id
-
-    '
-  : '198
-
-    '
+  id: '198'
   name: Cale's Leather Armor
   type: chest
 - Bleed RES: '31'
@@ -5421,12 +4431,7 @@
   Weight: '3.9'
   effects: ''
   fashionID: '290'
-  ? 'id
-
-    '
-  : '199
-
-    '
+  id: '199'
   name: Xanthous Overcoat
   type: chest
 - Bleed RES: '41'
@@ -5448,12 +4453,7 @@
   Weight: '5.9'
   effects: ''
   fashionID: '259'
-  ? 'id
-
-    '
-  : '200
-
-    '
+  id: '200'
   name: Pate's Armor
   type: chest
 - Bleed RES: '26'
@@ -5475,12 +4475,7 @@
   Weight: '6'
   effects: ''
   fashionID: '79'
-  ? 'id
-
-    '
-  : '201
-
-    '
+  id: '201'
   name: Bell Keeper Bellyband
   type: chest
 - Bleed RES: '14'
@@ -5502,12 +4497,7 @@
   Weight: '6.2'
   effects: ''
   fashionID: '261'
-  ? 'id
-
-    '
-  : '202
-
-    '
+  id: '202'
   name: Penal Straighjacket
   type: chest
 - Bleed RES: '59'
@@ -5529,12 +4519,7 @@
   Weight: '7.7'
   effects: ''
   fashionID: '282'
-  ? 'id
-
-    '
-  : '203
-
-    '
+  id: '203'
   name: Traveling Merchant Coat
   type: chest
 - Bleed RES: '47'
@@ -5556,12 +4541,7 @@
   Weight: '7.2'
   effects: ''
   fashionID: '5'
-  ? 'id
-
-    '
-  : '204
-
-    '
+  id: '204'
   name: Hard Leather Armor
   type: chest
 - Bleed RES: '19'
@@ -5583,12 +4563,7 @@
   Weight: '2.2'
   effects: ''
   fashionID: '262'
-  ? 'id
-
-    '
-  : '205
-
-    '
+  id: '205'
   name: Prisoner's Tatters (2)
   type: chest
 - Bleed RES: '19'
@@ -5610,12 +4585,7 @@
   Weight: '2.2'
   effects: ''
   fashionID: '263'
-  ? 'id
-
-    '
-  : '206
-
-    '
+  id: '206'
   name: Prisoner's Tatters
   type: chest
 - Bleed RES: '29'
@@ -5637,12 +4607,7 @@
   Weight: '5.9'
   effects: ''
   fashionID: '228'
-  ? 'id
-
-    '
-  : '207
-
-    '
+  id: '207'
   name: Infantry Armor
   type: chest
 - Bleed RES: '21'
@@ -5665,12 +4630,7 @@
   effects: '[{"effect": "Increases souls gained by 5%", "alters": "", "method": "",
     "value": 0}]'
   fashionID: '283'
-  ? 'id
-
-    '
-  : '208
-
-    '
+  id: '208'
   name: Tseldora Robe
   type: chest
 - Bleed RES: '29'
@@ -5692,12 +4652,7 @@
   Weight: '3.8'
   effects: ''
   fashionID: '260'
-  ? 'id
-
-    '
-  : '209
-
-    '
+  id: '209'
   name: Peasant Attire
   type: chest
 - Bleed RES: '34'
@@ -5719,12 +4674,7 @@
   Weight: '6'
   effects: ''
   fashionID: '71'
-  ? 'id
-
-    '
-  : '210
-
-    '
+  id: '210'
   name: Grave Warden Top
   type: chest
 - Bleed RES: '19'
@@ -5746,12 +4696,7 @@
   Weight: '5.1'
   effects: ''
   fashionID: '75'
-  ? 'id
-
-    '
-  : '211
-
-    '
+  id: '211'
   name: Astrologist's Robes
   type: chest
 - Bleed RES: '38'
@@ -5773,12 +4718,7 @@
   Weight: '6.5'
   effects: ''
   fashionID: '3'
-  ? 'id
-
-    '
-  : '212
-
-    '
+  id: '212'
   name: Imported Tunic
   type: chest
 - Bleed RES: '20'
@@ -5800,12 +4740,7 @@
   Weight: '5.9'
   effects: ''
   fashionID: '-1'
-  ? 'id
-
-    '
-  : '213
-
-    '
+  id: '213'
   name: Hollow Infantry Armor
   type: chest
 - Bleed RES: '21'
@@ -5827,12 +4762,7 @@
   Weight: '4.1'
   effects: ''
   fashionID: '36'
-  ? 'id
-
-    '
-  : '214
-
-    '
+  id: '214'
   name: Throne Watcher Gauntlets
   type: hands
 - Bleed RES: '61'
@@ -5854,12 +4784,7 @@
   Weight: '11.5'
   effects: ''
   fashionID: '314'
-  ? 'id
-
-    '
-  : '215
-
-    '
+  id: '215'
   name: Havel's Gauntlets
   type: hands
 - Bleed RES: '31'
@@ -5881,12 +4806,7 @@
   Weight: '5'
   effects: ''
   fashionID: '-1'
-  ? 'id
-
-    '
-  : '216
-
-    '
+  id: '216'
   name: Velstadt's Gauntlets
   type: hands
 - Bleed RES: '24'
@@ -5908,12 +4828,7 @@
   Weight: '4.7'
   effects: ''
   fashionID: '309'
-  ? 'id
-
-    '
-  : '217
-
-    '
+  id: '217'
   name: Faraam Gauntlets
   type: hands
 - Bleed RES: '55'
@@ -5935,12 +4850,7 @@
   Weight: '10.4'
   effects: ''
   fashionID: '328'
-  ? 'id
-
-    '
-  : '218
-
-    '
+  id: '218'
   name: Looking Glass Gauntlets
   type: hands
 - Bleed RES: '16'
@@ -5962,12 +4872,7 @@
   Weight: '3.6'
   effects: ''
   fashionID: '312'
-  ? 'id
-
-    '
-  : '219
-
-    '
+  id: '219'
   name: Gyrm Gloves
   type: hands
 - Bleed RES: '16'
@@ -5989,12 +4894,7 @@
   Weight: '3.6'
   effects: ''
   fashionID: '313'
-  ? 'id
-
-    '
-  : '220
-
-    '
+  id: '220'
   name: Gyrm Warrior Gloves
   type: hands
 - Bleed RES: '48'
@@ -6016,12 +4916,7 @@
   Weight: '10.4'
   effects: ''
   fashionID: '7'
-  ? 'id
-
-    '
-  : '221
-
-    '
+  id: '221'
   name: Smelter Demon Gauntlets
   type: hands
 - Bleed RES: '52'
@@ -6043,12 +4938,7 @@
   Weight: '9.4'
   effects: ''
   fashionID: '321'
-  ? 'id
-
-    '
-  : '222
-
-    '
+  id: '222'
   name: Ironclad Gauntlets
   type: hands
 - Bleed RES: '20'
@@ -6070,12 +4960,7 @@
   Weight: '3.3'
   effects: ''
   fashionID: '349'
-  ? 'id
-
-    '
-  : '223
-
-    '
+  id: '223'
   name: Targray's Manifers
   type: hands
 - Bleed RES: '37'
@@ -6097,12 +4982,7 @@
   Weight: '8.8'
   effects: ''
   fashionID: '332'
-  ? 'id
-
-    '
-  : '224
-
-    '
+  id: '224'
   name: Mastodon Gauntlets
   type: hands
 - Bleed RES: '26'
@@ -6124,12 +5004,7 @@
   Weight: '4.2'
   effects: ''
   fashionID: '323'
-  ? 'id
-
-    '
-  : '225
-
-    '
+  id: '225'
   name: King's Gauntlets
   type: hands
 - Bleed RES: '25'
@@ -6151,12 +5026,7 @@
   Weight: '4.6'
   effects: ''
   fashionID: '304'
-  ? 'id
-
-    '
-  : '226
-
-    '
+  id: '226'
   name: Drakeblood Gauntlets
   type: hands
 - Bleed RES: '34'
@@ -6178,12 +5048,7 @@
   Weight: '8.2'
   effects: ''
   fashionID: '-1'
-  ? 'id
-
-    '
-  : '227
-
-    '
+  id: '227'
   name: Old Knight Gauntlets
   type: hands
 - Bleed RES: '43'
@@ -6205,12 +5070,7 @@
   Weight: '8.3'
   effects: ''
   fashionID: '347'
-  ? 'id
-
-    '
-  : '228
-
-    '
+  id: '228'
   name: Steel Gauntlets
   type: hands
 - Bleed RES: '24'
@@ -6232,12 +5092,7 @@
   Weight: '3.4'
   effects: ''
   fashionID: '136'
-  ? 'id
-
-    '
-  : '229
-
-    '
+  id: '229'
   name: Creighton's Chain Gloves
   type: hands
 - Bleed RES: '42'
@@ -6259,12 +5114,7 @@
   Weight: '9.4'
   effects: ''
   fashionID: '334'
-  ? 'id
-
-    '
-  : '230
-
-    '
+  id: '230'
   name: Old Ironclad Gauntlets
   type: hands
 - Bleed RES: '20'
@@ -6286,12 +5136,7 @@
   Weight: '4.2'
   effects: ''
   fashionID: '35'
-  ? 'id
-
-    '
-  : '231
-
-    '
+  id: '231'
   name: Throne Defender Gauntlets
   type: hands
 - Bleed RES: '13'
@@ -6313,12 +5158,7 @@
   Weight: '3.2'
   effects: ''
   fashionID: '67'
-  ? 'id
-
-    '
-  : '232
-
-    '
+  id: '232'
   name: Archdrake Gloves
   type: hands
 - Bleed RES: '21'
@@ -6340,12 +5180,7 @@
   Weight: '3.2'
   effects: ''
   fashionID: '311'
-  ? 'id
-
-    '
-  : '233
-
-    '
+  id: '233'
   name: Gauntlets of Aurous
   type: hands
 - Bleed RES: '36'
@@ -6367,12 +5202,7 @@
   Weight: '6.9'
   effects: ''
   fashionID: '134'
-  ? 'id
-
-    '
-  : '234
-
-    '
+  id: '234'
   name: Catarina Gauntlets
   type: hands
 - Bleed RES: '34'
@@ -6394,12 +5224,7 @@
   Weight: '5.2'
   effects: ''
   fashionID: '348'
-  ? 'id
-
-    '
-  : '235
-
-    '
+  id: '235'
   name: Syan's Gauntlets
   type: hands
 - Bleed RES: '30'
@@ -6421,12 +5246,7 @@
   Weight: '6.7'
   effects: ''
   fashionID: '59'
-  ? 'id
-
-    '
-  : '236
-
-    '
+  id: '236'
   name: Alonne Knight Gauntlets
   type: hands
 - Bleed RES: '22'
@@ -6448,12 +5268,7 @@
   Weight: '3.5'
   effects: ''
   fashionID: '-1'
-  ? 'id
-
-    '
-  : '237
-
-    '
+  id: '237'
   name: Knight Gauntlets
   type: hands
 - Bleed RES: '28'
@@ -6475,12 +5290,7 @@
   Weight: '6'
   effects: ''
   fashionID: '318'
-  ? 'id
-
-    '
-  : '238
-
-    '
+  id: '238'
   name: Imperious Gloves
   type: hands
 - Bleed RES: '40'
@@ -6502,12 +5312,7 @@
   Weight: '8.4'
   effects: ''
   fashionID: '305'
-  ? 'id
-
-    '
-  : '239
-
-    '
+  id: '239'
   name: Drakekeeper Gauntlets
   type: hands
 - Bleed RES: '29'
@@ -6529,12 +5334,7 @@
   Weight: '7.8'
   effects: ''
   fashionID: '-1'
-  ? 'id
-
-    '
-  : '240
-
-    '
+  id: '240'
   name: Rusted Mastodon Gauntlets
   type: hands
 - Bleed RES: '22'
@@ -6556,12 +5356,7 @@
   Weight: '5.5'
   effects: ''
   fashionID: '85'
-  ? 'id
-
-    '
-  : '241
-
-    '
+  id: '241'
   name: Benhart's Gauntlets
   type: hands
 - Bleed RES: '32'
@@ -6583,12 +5378,7 @@
   Weight: '6.1'
   effects: ''
   fashionID: '342'
-  ? 'id
-
-    '
-  : '242
-
-    '
+  id: '242'
   name: Royal Swordsman Gloves
   type: hands
 - Bleed RES: '32'
@@ -6610,12 +5400,7 @@
   Weight: '7.4'
   effects: ''
   fashionID: '330'
-  ? 'id
-
-    '
-  : '243
-
-    '
+  id: '243'
   name: Mad Warrior Gauntlets
   type: hands
 - Bleed RES: '39'
@@ -6637,12 +5422,7 @@
   Weight: '6.2'
   effects: ''
   fashionID: '343'
-  ? 'id
-
-    '
-  : '244
-
-    '
+  id: '244'
   name: Ruin Gauntlets
   type: hands
 - Bleed RES: '19'
@@ -6664,12 +5444,7 @@
   Weight: '6.2'
   effects: ''
   fashionID: '303'
-  ? 'id
-
-    '
-  : '245
-
-    '
+  id: '245'
   name: Dragonrider Gauntlets
   type: hands
 - Bleed RES: '27'
@@ -6691,12 +5466,7 @@
   Weight: '6.2'
   effects: ''
   fashionID: '34'
-  ? 'id
-
-    '
-  : '246
-
-    '
+  id: '246'
   name: Drangleic Gauntlets
   type: hands
 - Bleed RES: '19'
@@ -6718,12 +5488,7 @@
   Weight: '3.8'
   effects: ''
   fashionID: '341'
-  ? 'id
-
-    '
-  : '247
-
-    '
+  id: '247'
   name: Royal Soldier Gauntlets
   type: hands
 - Bleed RES: '31'
@@ -6745,12 +5510,7 @@
   Weight: '5.8'
   effects: ''
   fashionID: '299'
-  ? 'id
-
-    '
-  : '248
-
-    '
+  id: '248'
   name: Dark Gauntlets
   type: hands
 - Bleed RES: '30'
@@ -6772,12 +5532,7 @@
   Weight: '5.8'
   effects: ''
   fashionID: '320'
-  ? 'id
-
-    '
-  : '249
-
-    '
+  id: '249'
   name: Insolent Gloves
   type: hands
 - Bleed RES: '21'
@@ -6799,12 +5554,7 @@
   Weight: '5.3'
   effects: ''
   fashionID: '38'
-  ? 'id
-
-    '
-  : '250
-
-    '
+  id: '250'
   name: Vengarl's Gloves
   type: hands
 - Bleed RES: '0'
@@ -6826,12 +5576,7 @@
   Weight: '6'
   effects: ''
   fashionID: '345'
-  ? 'id
-
-    '
-  : '251
-
-    '
+  id: '251'
   name: Sanctum Knight Gauntlets
   type: hands
 - Bleed RES: '38'
@@ -6853,12 +5598,7 @@
   Weight: '2.7'
   effects: ''
   fashionID: '-1'
-  ? 'id
-
-    '
-  : '252
-
-    '
+  id: '252'
   name: Executioner Gauntlets
   type: hands
 - Bleed RES: '26'
@@ -6880,12 +5620,7 @@
   Weight: '5.4'
   effects: ''
   fashionID: '315'
-  ? 'id
-
-    '
-  : '253
-
-    '
+  id: '253'
   name: Heide Knight Gauntlets
   type: hands
 - Bleed RES: '22'
@@ -6907,12 +5642,7 @@
   Weight: '3.5'
   effects: ''
   fashionID: '346'
-  ? 'id
-
-    '
-  : '254
-
-    '
+  id: '254'
   name: Sanctum Solider Gauntlets
   type: hands
 - Bleed RES: '23'
@@ -6934,12 +5664,7 @@
   Weight: '2.9'
   effects: ''
   fashionID: '64'
-  ? 'id
-
-    '
-  : '255
-
-    '
+  id: '255'
   name: Alva Gauntlets
   type: hands
 - Bleed RES: '19'
@@ -6961,12 +5686,7 @@
   Weight: '2.8'
   effects: ''
   fashionID: '78'
-  ? 'id
-
-    '
-  : '256
-
-    '
+  id: '256'
   name: Bandit Gauntlets
   type: hands
 - Bleed RES: '16'
@@ -6988,12 +5708,7 @@
   Weight: '3.2'
   effects: ''
   fashionID: '308'
-  ? 'id
-
-    '
-  : '257
-
-    '
+  id: '257'
   name: Falconer Gloves
   type: hands
 - Bleed RES: '16'
@@ -7015,12 +5730,7 @@
   Weight: '3.2'
   effects: ''
   fashionID: '317'
-  ? 'id
-
-    '
-  : '258
-
-    '
+  id: '258'
   name: Hollow Soldier Gauntlets
   type: hands
 - Bleed RES: '22'
@@ -7042,12 +5752,7 @@
   Weight: '3.7'
   effects: ''
   fashionID: '306'
-  ? 'id
-
-    '
-  : '259
-
-    '
+  id: '259'
   name: Elite Knight Gloves
   type: hands
 - Bleed RES: '15'
@@ -7069,12 +5774,7 @@
   Weight: '1'
   effects: ''
   fashionID: '135'
-  ? 'id
-
-    '
-  : '260
-
-    '
+  id: '260'
   name: Chaos Gloves
   type: hands
 - Bleed RES: '17'
@@ -7097,12 +5797,7 @@
   effects: '[{"effect": "Poisons nearby characters", "alters": "", "method": "", "value":
     0}]'
   fashionID: '-1'
-  ? 'id
-
-    '
-  : '261
-
-    '
+  id: '261'
   name: Moon Butterfly Cuffs
   type: hands
 - Bleed RES: '15'
@@ -7124,12 +5819,7 @@
   Weight: '1'
   effects: ''
   fashionID: '88'
-  ? 'id
-
-    '
-  : '262
-
-    '
+  id: '262'
   name: Black Gloves
   type: hands
 - Bleed RES: '15'
@@ -7151,12 +5841,7 @@
   Weight: '1'
   effects: ''
   fashionID: '316'
-  ? 'id
-
-    '
-  : '263
-
-    '
+  id: '263'
   name: Hexer's Gloves
   type: hands
 - Bleed RES: '15'
@@ -7178,12 +5863,7 @@
   Weight: '1'
   effects: ''
   fashionID: '344'
-  ? 'id
-
-    '
-  : '264
-
-    '
+  id: '264'
   name: Saint's Long Gloves
   type: hands
 - Bleed RES: '22'
@@ -7206,12 +5886,7 @@
   effects: '[{"effect": "Increases casting speed by 5%", "alters": "Cast Speed", "method":
     "mul", "value": 1.05}]'
   fashionID: '325'
-  ? 'id
-
-    '
-  : '265
-
-    '
+  id: '265'
   name: Lion Mage Cuffs
   type: hands
 - Bleed RES: '14'
@@ -7233,12 +5908,7 @@
   Weight: '0.9'
   effects: ''
   fashionID: '337'
-  ? 'id
-
-    '
-  : '266
-
-    '
+  id: '266'
   name: Priestess Gloves
   type: hands
 - Bleed RES: '23'
@@ -7260,12 +5930,7 @@
   Weight: '0.9'
   effects: ''
   fashionID: '333'
-  ? 'id
-
-    '
-  : '267
-
-    '
+  id: '267'
   name: Monastary Long Gloves
   type: hands
 - Bleed RES: '30'
@@ -7287,12 +5952,7 @@
   Weight: '1.2'
   effects: ''
   fashionID: '-1'
-  ? 'id
-
-    '
-  : '268
-
-    '
+  id: '268'
   name: Manikin Gloves
   type: hands
 - Bleed RES: '12'
@@ -7314,12 +5974,7 @@
   Weight: '1.5'
   effects: ''
   fashionID: '300'
-  ? 'id
-
-    '
-  : '269
-
-    '
+  id: '269'
   name: Desert Soceress Gloves
   type: hands
 - Bleed RES: '37'
@@ -7341,12 +5996,7 @@
   Weight: '1.6'
   effects: ''
   fashionID: '428'
-  ? 'id
-
-    '
-  : '270
-
-    '
+  id: '270'
   name: Shadow Gauntlets
   type: hands
 - Bleed RES: '21'
@@ -7368,12 +6018,7 @@
   Weight: '1.7'
   effects: ''
   fashionID: '293'
-  ? 'id
-
-    '
-  : '271
-
-    '
+  id: '271'
   name: Black Witch Gloves
   type: hands
 - Bleed RES: '18'
@@ -7395,12 +6040,7 @@
   Weight: '1.6'
   effects: ''
   fashionID: '350'
-  ? 'id
-
-    '
-  : '272
-
-    '
+  id: '272'
   name: Tattered Cloth Manchettes
   type: hands
 - Bleed RES: '19'
@@ -7422,12 +6062,7 @@
   Weight: '1.2'
   effects: ''
   fashionID: '139'
-  ? 'id
-
-    '
-  : '273
-
-    '
+  id: '273'
   name: Dingy Cuffs
   type: hands
 - Bleed RES: '14'
@@ -7449,12 +6084,7 @@
   Weight: '1.1'
   effects: ''
   fashionID: '-1'
-  ? 'id
-
-    '
-  : '274
-
-    '
+  id: '274'
   name: White Priest Gloves
   type: hands
 - Bleed RES: '13'
@@ -7477,12 +6107,7 @@
   effects: '[{"effect": "Reduces falling damage", "alters": "", "method": "", "value":
     0}]'
   fashionID: '326'
-  ? 'id
-
-    '
-  : '275
-
-    '
+  id: '275'
   name: Lion Warrior Cuffs
   type: hands
 - Bleed RES: '27'
@@ -7504,12 +6129,7 @@
   Weight: '1.8'
   effects: ''
   fashionID: '133'
-  ? 'id
-
-    '
-  : '276
-
-    '
+  id: '276'
   name: Brigand Gauntlets
   type: hands
 - Bleed RES: '17'
@@ -7531,12 +6151,7 @@
   Weight: '1.9'
   effects: ''
   fashionID: '294'
-  ? 'id
-
-    '
-  : '277
-
-    '
+  id: '277'
   name: Bone King Cuffs
   type: hands
 - Bleed RES: '13'
@@ -7559,12 +6174,7 @@
   effects: '[{"effect": "Increases maximum equipment load by 1%", "alters": "Equip
     Load", "method": "mul", "value": 1.01}]'
   fashionID: '426'
-  ? 'id
-
-    '
-  : '278
-
-    '
+  id: '278'
   name: Gauntlets of Aurous (transparent)
   type: hands
 - Bleed RES: '15'
@@ -7586,12 +6196,7 @@
   Weight: '1.2'
   effects: ''
   fashionID: '50'
-  ? 'id
-
-    '
-  : '279
-
-    '
+  id: '279'
   name: Leydia Gauntlets
   type: hands
 - Bleed RES: '24'
@@ -7613,12 +6218,7 @@
   Weight: '1.8'
   effects: ''
   fashionID: '30'
-  ? 'id
-
-    '
-  : '280
-
-    '
+  id: '280'
   name: Black Leather Gloves
   type: hands
 - Bleed RES: '42'
@@ -7640,12 +6240,7 @@
   Weight: '2.1'
   effects: ''
   fashionID: '354'
-  ? 'id
-
-    '
-  : '281
-
-    '
+  id: '281'
   name: Wanderer Manchettes
   type: hands
 - Bleed RES: '47'
@@ -7667,12 +6262,7 @@
   Weight: '1.6'
   effects: ''
   fashionID: '140'
-  ? 'id
-
-    '
-  : '282
-
-    '
+  id: '282'
   name: Dragon Acolyte Gloves
   type: hands
 - Bleed RES: '21'
@@ -7694,12 +6284,7 @@
   Weight: '1.8'
   effects: ''
   fashionID: '340'
-  ? 'id
-
-    '
-  : '283
-
-    '
+  id: '283'
   name: Rogue Gauntlets
   type: hands
 - Bleed RES: '15'
@@ -7721,12 +6306,7 @@
   Weight: '1.8'
   effects: ''
   fashionID: '331'
-  ? 'id
-
-    '
-  : '284
-
-    '
+  id: '284'
   name: Manchettes of Judgment
   type: hands
 - Bleed RES: '17'
@@ -7748,12 +6328,7 @@
   Weight: '2'
   effects: ''
   fashionID: '329'
-  ? 'id
-
-    '
-  : '285
-
-    '
+  id: '285'
   name: Lucatiel's Gloves
   type: hands
 - Bleed RES: '28'
@@ -7776,12 +6351,7 @@
   effects: '[{"effect": "Increases Faith by 1", "alters": "Faith", "method": "add",
     "value":1}]'
   fashionID: '54'
-  ? 'id
-
-    '
-  : '286
-
-    '
+  id: '286'
   name: Agdayne's Cuffs
   type: hands
 - Bleed RES: '25'
@@ -7803,12 +6373,7 @@
   Weight: '2.2'
   effects: ''
   fashionID: '-1'
-  ? 'id
-
-    '
-  : '287
-
-    '
+  id: '287'
   name: Grave Warden Cuffs
   type: hands
 - Bleed RES: '15'
@@ -7830,12 +6395,7 @@
   Weight: '2.1'
   effects: ''
   fashionID: '74'
-  ? 'id
-
-    '
-  : '288
-
-    '
+  id: '288'
   name: Astrologist's Gauntlets
   type: hands
 - Bleed RES: '26'
@@ -7857,12 +6417,7 @@
   Weight: '2.8'
   effects: ''
   fashionID: '32'
-  ? 'id
-
-    '
-  : '289
-
-    '
+  id: '289'
   name: Leather Gloves
   type: hands
 - Bleed RES: '24'
@@ -7885,12 +6440,7 @@
   effects: '[{"effect": "Increases souls gained by 10%", "alters": "", "method": "",
     "value": 0}]'
   fashionID: '322'
-  ? 'id
-
-    '
-  : '290
-
-    '
+  id: '290'
   name: Jester's Gloves
   type: hands
 - Bleed RES: '37'
@@ -7912,12 +6462,7 @@
   Weight: '3.1'
   effects: ''
   fashionID: '327'
-  ? 'id
-
-    '
-  : '291
-
-    '
+  id: '291'
   name: Llewellyn Gloves
   type: hands
 - Bleed RES: '18'
@@ -7939,12 +6484,7 @@
   Weight: '2.3'
   effects: ''
   fashionID: '355'
-  ? 'id
-
-    '
-  : '292
-
-    '
+  id: '292'
   name: Xanthous Gloves
   type: hands
 - Bleed RES: '24'
@@ -7966,12 +6506,7 @@
   Weight: '3.5'
   effects: ''
   fashionID: '335'
-  ? 'id
-
-    '
-  : '293
-
-    '
+  id: '293'
   name: Pate's Gloves
   type: hands
 - Bleed RES: '11'
@@ -7993,12 +6528,7 @@
   Weight: '2.5'
   effects: ''
   fashionID: '80'
-  ? 'id
-
-    '
-  : '294
-
-    '
+  id: '294'
   name: Bell Keeper Cuffs
   type: hands
 - Bleed RES: '25'
@@ -8020,12 +6550,7 @@
   Weight: '3.8'
   effects: ''
   fashionID: '31'
-  ? 'id
-
-    '
-  : '295
-
-    '
+  id: '295'
   name: Hard Leather Gauntlets
   type: hands
 - Bleed RES: '29'
@@ -8047,12 +6572,7 @@
   Weight: '3.6'
   effects: ''
   fashionID: '351'
-  ? 'id
-
-    '
-  : '296
-
-    '
+  id: '296'
   name: Traveling Merchant Gloves
   type: hands
 - Bleed RES: '12'
@@ -8074,12 +6594,7 @@
   Weight: '1.8'
   effects: ''
   fashionID: '353'
-  ? 'id
-
-    '
-  : '297
-
-    '
+  id: '297'
   name: Varangian Cuffs
   type: hands
 - Bleed RES: '13'
@@ -8102,12 +6617,7 @@
   effects: '[{"effect":  "Increases pyromancy damage by 7.5%", "alters": "",  "method":
     "", "value": 0}]'
   fashionID: '33'
-  ? 'id
-
-    '
-  : '298
-
-    '
+  id: '298'
   name: Penal Handcuffs
   type: hands
 - Bleed RES: '14'
@@ -8129,12 +6639,7 @@
   Weight: '2.8'
   effects: ''
   fashionID: '319'
-  ? 'id
-
-    '
-  : '299
-
-    '
+  id: '299'
   name: Infantry Gloves
   type: hands
 - Bleed RES: '9'
@@ -8156,12 +6661,7 @@
   Weight: '1'
   effects: ''
   fashionID: '338'
-  ? 'id
-
-    '
-  : '300
-
-    '
+  id: '300'
   name: Prisoner's Gloves
   type: hands
 - Bleed RES: '14'
@@ -8184,12 +6684,7 @@
   effects: '[{"effect": "Increases souls gained by 10%", "alters": "", "method": "",
     "value": 0}]'
   fashionID: '352'
-  ? 'id
-
-    '
-  : '301
-
-    '
+  id: '301'
   name: Tseldora Manchettes
   type: hands
 - Bleed RES: '14'
@@ -8211,12 +6706,7 @@
   Weight: '1.8'
   effects: ''
   fashionID: '336'
-  ? 'id
-
-    '
-  : '302
-
-    '
+  id: '302'
   name: Peasant Long Gloves
   type: hands
 - Bleed RES: '10'
@@ -8238,12 +6728,7 @@
   Weight: '1.8'
   effects: ''
   fashionID: '6'
-  ? 'id
-
-    '
-  : '303
-
-    '
+  id: '303'
   name: Imported Manchettes
   type: hands
 - Bleed RES: '9'
@@ -8265,12 +6750,7 @@
   Weight: '2.8'
   effects: ''
   fashionID: '356'
-  ? 'id
-
-    '
-  : '304
-
-    '
+  id: '304'
   name: Hollow Infantry Gloves
   type: hands
 - Bleed RES: '22'
@@ -8292,12 +6772,7 @@
   Weight: '5.5'
   effects: ''
   fashionID: '307'
-  ? 'id
-
-    '
-  : '305
-
-    '
+  id: '305'
   name: Engraved Gauntlets
   type: hands
 - Bleed RES: '61'
@@ -8319,12 +6794,7 @@
   Weight: '11.5'
   effects: ''
   fashionID: '369'
-  ? 'id
-
-    '
-  : '306
-
-    '
+  id: '306'
   name: Havel's Leggings
   type: legs
 - Bleed RES: '55'
@@ -8346,12 +6816,7 @@
   Weight: '10.4'
   effects: ''
   fashionID: '9'
-  ? 'id
-
-    '
-  : '307
-
-    '
+  id: '307'
   name: Looking Glass Leggings
   type: legs
 - Bleed RES: '45'
@@ -8373,12 +6838,7 @@
   Weight: '10.8'
   effects: ''
   fashionID: '386'
-  ? 'id
-
-    '
-  : '308
-
-    '
+  id: '308'
   name: Mastodon Leggings
   type: legs
 - Bleed RES: '48'
@@ -8400,12 +6860,7 @@
   Weight: '10.4'
   effects: ''
   fashionID: '403'
-  ? 'id
-
-    '
-  : '309
-
-    '
+  id: '309'
   name: Smelter Demon Leggings
   type: legs
 - Bleed RES: '44'
@@ -8427,12 +6882,7 @@
   Weight: '9.8'
   effects: ''
   fashionID: '61'
-  ? 'id
-
-    '
-  : '310
-
-    '
+  id: '310'
   name: Alonne Knight Leggings
   type: legs
 - Bleed RES: '42'
@@ -8454,12 +6904,7 @@
   Weight: '9.4'
   effects: ''
   fashionID: '389'
-  ? 'id
-
-    '
-  : '311
-
-    '
+  id: '311'
   name: Old Ironclad Leggings
   type: legs
 - Bleed RES: '52'
@@ -8481,12 +6926,7 @@
   Weight: '9.4'
   effects: ''
   fashionID: '377'
-  ? 'id
-
-    '
-  : '312
-
-    '
+  id: '312'
   name: Ironclad Leggings
   type: legs
 - Bleed RES: '37'
@@ -8508,12 +6948,7 @@
   Weight: '9.8'
   effects: ''
   fashionID: '-1'
-  ? 'id
-
-    '
-  : '313
-
-    '
+  id: '313'
   name: Rusted Mastodon Leggings
   type: legs
 - Bleed RES: '34'
@@ -8535,12 +6970,7 @@
   Weight: '8.2'
   effects: ''
   fashionID: '-1'
-  ? 'id
-
-    '
-  : '314
-
-    '
+  id: '314'
   name: Old Knight Leggings
   type: legs
 - Bleed RES: '43'
@@ -8562,12 +6992,7 @@
   Weight: '8.3'
   effects: ''
   fashionID: '404'
-  ? 'id
-
-    '
-  : '315
-
-    '
+  id: '315'
   name: Steel Leggings
   type: legs
 - Bleed RES: '26'
@@ -8589,12 +7014,7 @@
   Weight: '5.6'
   effects: ''
   fashionID: '367'
-  ? 'id
-
-    '
-  : '316
-
-    '
+  id: '316'
   name: Gyrm Boots
   type: legs
 - Bleed RES: '26'
@@ -8616,12 +7036,7 @@
   Weight: '5.6'
   effects: ''
   fashionID: '368'
-  ? 'id
-
-    '
-  : '317
-
-    '
+  id: '317'
   name: Gyrm Warrior Boots
   type: legs
 - Bleed RES: '45'
@@ -8643,12 +7058,7 @@
   Weight: '7.2'
   effects: ''
   fashionID: '412'
-  ? 'id
-
-    '
-  : '318
-
-    '
+  id: '318'
   name: Velstadt's Leggings
   type: legs
 - Bleed RES: '35'
@@ -8670,12 +7080,7 @@
   Weight: '7.5'
   effects: ''
   fashionID: '374'
-  ? 'id
-
-    '
-  : '319
-
-    '
+  id: '319'
   name: Imperious Leggings
   type: legs
 - Bleed RES: '31'
@@ -8697,12 +7102,7 @@
   Weight: '7.9'
   effects: ''
   fashionID: '419'
-  ? 'id
-
-    '
-  : '320
-
-    '
+  id: '320'
   name: Vengarl's Boots
   type: legs
 - Bleed RES: '40'
@@ -8724,12 +7124,7 @@
   Weight: '8.4'
   effects: ''
   fashionID: '359'
-  ? 'id
-
-    '
-  : '321
-
-    '
+  id: '321'
   name: Drakekeeper Boots
   type: legs
 - Bleed RES: '36'
@@ -8751,12 +7146,7 @@
   Weight: '6.9'
   effects: ''
   fashionID: '210'
-  ? 'id
-
-    '
-  : '322
-
-    '
+  id: '322'
   name: Catarina Leggings
   type: legs
 - Bleed RES: '37'
@@ -8778,12 +7168,7 @@
   Weight: '7.7'
   effects: ''
   fashionID: '407'
-  ? 'id
-
-    '
-  : '323
-
-    '
+  id: '323'
   name: Throne Defender Leggings
   type: legs
 - Bleed RES: '39'
@@ -8805,12 +7190,7 @@
   Weight: '6.2'
   effects: ''
   fashionID: '399'
-  ? 'id
-
-    '
-  : '324
-
-    '
+  id: '324'
   name: Ruin Leggings
   type: legs
 - Bleed RES: '40'
@@ -8832,12 +7212,7 @@
   Weight: '6.4'
   effects: ''
   fashionID: '43'
-  ? 'id
-
-    '
-  : '325
-
-    '
+  id: '325'
   name: Knight Leggings
   type: legs
 - Bleed RES: '33'
@@ -8859,12 +7234,7 @@
   Weight: '6.6'
   effects: ''
   fashionID: '408'
-  ? 'id
-
-    '
-  : '326
-
-    '
+  id: '326'
   name: Throne Watcher Leggings
   type: legs
 - Bleed RES: '47'
@@ -8886,12 +7256,7 @@
   Weight: '7.1'
   effects: ''
   fashionID: '405'
-  ? 'id
-
-    '
-  : '327
-
-    '
+  id: '327'
   name: Syan's Leggings
   type: legs
 - Bleed RES: '23'
@@ -8913,12 +7278,7 @@
   Weight: '7.4'
   effects: ''
   fashionID: '357'
-  ? 'id
-
-    '
-  : '328
-
-    '
+  id: '328'
   name: Dragonrider Leggings
   type: legs
 - Bleed RES: '32'
@@ -8940,12 +7300,7 @@
   Weight: '7.4'
   effects: ''
   fashionID: '117'
-  ? 'id
-
-    '
-  : '329
-
-    '
+  id: '329'
   name: Mad Warrior Leggings
   type: legs
 - Bleed RES: '33'
@@ -8967,12 +7322,7 @@
   Weight: '7.6'
   effects: ''
   fashionID: '360'
-  ? 'id
-
-    '
-  : '330
-
-    '
+  id: '330'
   name: Drangleic Leggings
   type: legs
 - Bleed RES: '26'
@@ -8994,12 +7344,7 @@
   Weight: '6.5'
   effects: ''
   fashionID: '84'
-  ? 'id
-
-    '
-  : '331
-
-    '
+  id: '331'
   name: Benhart's Boots
   type: legs
 - Bleed RES: '41'
@@ -9021,12 +7366,7 @@
   Weight: '7.9'
   effects: ''
   fashionID: '363'
-  ? 'id
-
-    '
-  : '332
-
-    '
+  id: '332'
   name: Faraam Boots
   type: legs
 - Bleed RES: '37'
@@ -9048,12 +7388,7 @@
   Weight: '5.8'
   effects: ''
   fashionID: '94'
-  ? 'id
-
-    '
-  : '333
-
-    '
+  id: '333'
   name: Leggings of Aurous
   type: legs
 - Bleed RES: '35'
@@ -9075,12 +7410,7 @@
   Weight: '5.8'
   effects: ''
   fashionID: '406'
-  ? 'id
-
-    '
-  : '334
-
-    '
+  id: '334'
   name: Targray's Leggings
   type: legs
 - Bleed RES: '32'
@@ -9102,12 +7432,7 @@
   Weight: '6.1'
   effects: ''
   fashionID: '398'
-  ? 'id
-
-    '
-  : '335
-
-    '
+  id: '335'
   name: Royal Swordsman Leggings
   type: legs
 - Bleed RES: '31'
@@ -9129,12 +7454,7 @@
   Weight: '6.4'
   effects: ''
   fashionID: '370'
-  ? 'id
-
-    '
-  : '336
-
-    '
+  id: '336'
   name: Heide Knight Leggings
   type: legs
 - Bleed RES: '43'
@@ -9156,12 +7476,7 @@
   Weight: '7.1'
   effects: ''
   fashionID: '379'
-  ? 'id
-
-    '
-  : '337
-
-    '
+  id: '337'
   name: King's Leggings
   type: legs
 - Bleed RES: '33'
@@ -9185,12 +7500,7 @@
     0},{"effect":  "Makes your footsteps silent", "alters": "",  "method": "", "value":
     0}]'
   fashionID: '401'
-  ? 'id
-
-    '
-  : '338
-
-    '
+  id: '338'
   name: Sanctum Knight Leggings
   type: legs
 - Bleed RES: '41'
@@ -9212,12 +7522,7 @@
   Weight: '5.2'
   effects: ''
   fashionID: '65'
-  ? 'id
-
-    '
-  : '339
-
-    '
+  id: '339'
   name: Alva Leggings
   type: legs
 - Bleed RES: '31'
@@ -9239,12 +7544,7 @@
   Weight: '5.8'
   effects: ''
   fashionID: '213'
-  ? 'id
-
-    '
-  : '340
-
-    '
+  id: '340'
   name: Dark Leggings
   type: legs
 - Bleed RES: '30'
@@ -9266,12 +7566,7 @@
   Weight: '5.8'
   effects: ''
   fashionID: '376'
-  ? 'id
-
-    '
-  : '341
-
-    '
+  id: '341'
   name: Insolent Boots
   type: legs
 - Bleed RES: '41'
@@ -9293,12 +7588,7 @@
   Weight: '6.9'
   effects: ''
   fashionID: '40'
-  ? 'id
-
-    '
-  : '342
-
-    '
+  id: '342'
   name: Elite Knight Leggings
   type: legs
 - Bleed RES: '42'
@@ -9320,12 +7610,7 @@
   Weight: '7.8'
   effects: ''
   fashionID: '358'
-  ? 'id
-
-    '
-  : '343
-
-    '
+  id: '343'
   name: Drakeblood Leggings
   type: legs
 - Bleed RES: '27'
@@ -9347,12 +7632,7 @@
   Weight: '5.3'
   effects: ''
   fashionID: '397'
-  ? 'id
-
-    '
-  : '344
-
-    '
+  id: '344'
   name: Royal Soliders Leggings
   type: legs
 - Bleed RES: '29'
@@ -9374,12 +7654,7 @@
   Weight: '5.8'
   effects: ''
   fashionID: '362'
-  ? 'id
-
-    '
-  : '345
-
-    '
+  id: '345'
   name: Falconer Boots
   type: legs
 - Bleed RES: '31'
@@ -9401,12 +7676,7 @@
   Weight: '4.5'
   effects: ''
   fashionID: '212'
-  ? 'id
-
-    '
-  : '346
-
-    '
+  id: '346'
   name: Creighton's Chain Leggings
   type: legs
 - Bleed RES: '19'
@@ -9428,12 +7698,7 @@
   Weight: '4.7'
   effects: ''
   fashionID: '66'
-  ? 'id
-
-    '
-  : '347
-
-    '
+  id: '347'
   name: Archdrake Boots
   type: legs
 - Bleed RES: '38'
@@ -9455,12 +7720,7 @@
   Weight: '2.7'
   effects: ''
   fashionID: '361'
-  ? 'id
-
-    '
-  : '348
-
-    '
+  id: '348'
   name: Executioner Leggings
   type: legs
 - Bleed RES: '19'
@@ -9482,12 +7742,7 @@
   Weight: '2.8'
   effects: ''
   fashionID: '77'
-  ? 'id
-
-    '
-  : '349
-
-    '
+  id: '349'
   name: Bandit Boots
   type: legs
 - Bleed RES: '21'
@@ -9509,12 +7764,7 @@
   Weight: '6.4'
   effects: ''
   fashionID: '209'
-  ? 'id
-
-    '
-  : '350
-
-    '
+  id: '350'
   name: Cale's Shoes
   type: legs
 - Bleed RES: '13'
@@ -9536,12 +7786,7 @@
   Weight: '4.8'
   effects: ''
   fashionID: '392'
-  ? 'id
-
-    '
-  : '351
-
-    '
+  id: '351'
   name: Penal Skirt
   type: legs
 - Bleed RES: '15'
@@ -9563,12 +7808,7 @@
   Weight: '4.5'
   effects: ''
   fashionID: '372'
-  ? 'id
-
-    '
-  : '352
-
-    '
+  id: '352'
   name: Hollow Infantry Boots
   type: legs
 - Bleed RES: '22'
@@ -9590,12 +7830,7 @@
   Weight: '4.5'
   effects: ''
   fashionID: '375'
-  ? 'id
-
-    '
-  : '353
-
-    '
+  id: '353'
   name: Infantry Boots
   type: legs
 - Bleed RES: '17'
@@ -9617,12 +7852,7 @@
   Weight: '4'
   effects: ''
   fashionID: '82'
-  ? 'id
-
-    '
-  : '354
-
-    '
+  id: '354'
   name: Bell Keeper Trousers
   type: legs
 - Bleed RES: '34'
@@ -9644,12 +7874,7 @@
   Weight: '4'
   effects: ''
   fashionID: '383'
-  ? 'id
-
-    '
-  : '355
-
-    '
+  id: '355'
   name: Lucatiel's Trousers
   type: legs
 - Bleed RES: '50'
@@ -9671,12 +7896,7 @@
   Weight: '4'
   effects: ''
   fashionID: '387'
-  ? 'id
-
-    '
-  : '356
-
-    '
+  id: '356'
   name: Monastery Skirt
   type: legs
 - Bleed RES: '32'
@@ -9698,12 +7918,7 @@
   Weight: '4'
   effects: ''
   fashionID: '414'
-  ? 'id
-
-    '
-  : '357
-
-    '
+  id: '357'
   name: Xanthous Waistcloth
   type: legs
 - Bleed RES: '28'
@@ -9725,12 +7940,7 @@
   Weight: '3.8'
   effects: ''
   fashionID: '73'
-  ? 'id
-
-    '
-  : '358
-
-    '
+  id: '358'
   name: Astrologist's Bottoms
   type: legs
 - Bleed RES: '43'
@@ -9752,12 +7962,7 @@
   Weight: '3.8'
   effects: ''
   fashionID: '423'
-  ? 'id
-
-    '
-  : '359
-
-    '
+  id: '359'
   name: Grave Warden Bottoms
   type: legs
 - Bleed RES: '25'
@@ -9779,12 +7984,7 @@
   Weight: '3.8'
   effects: ''
   fashionID: '8'
-  ? 'id
-
-    '
-  : '360
-
-    '
+  id: '360'
   name: Hard Leather Leggings
   type: legs
 - Bleed RES: '28'
@@ -9806,12 +8006,7 @@
   Weight: '3.8'
   effects: ''
   fashionID: '45'
-  ? 'id
-
-    '
-  : '361
-
-    '
+  id: '361'
   name: Traveling Merchant Boots
   type: legs
 - Bleed RES: '21'
@@ -9833,12 +8028,7 @@
   Weight: '3.6'
   effects: ''
   fashionID: '42'
-  ? 'id
-
-    '
-  : '362
-
-    '
+  id: '362'
   name: Imported Trousers
   type: legs
 - Bleed RES: '24'
@@ -9860,12 +8050,7 @@
   Weight: '3.5'
   effects: ''
   fashionID: '390'
-  ? 'id
-
-    '
-  : '363
-
-    '
+  id: '363'
   name: Pate's Trousers
   type: legs
 - Bleed RES: '37'
@@ -9887,12 +8072,7 @@
   Weight: '3.1'
   effects: ''
   fashionID: '382'
-  ? 'id
-
-    '
-  : '364
-
-    '
+  id: '364'
   name: Llewellyn Shoes
   type: legs
 - Bleed RES: '28'
@@ -9914,12 +8094,7 @@
   Weight: '2.9'
   effects: ''
   fashionID: '55'
-  ? 'id
-
-    '
-  : '365
-
-    '
+  id: '365'
   name: Agdayne's Kilt
   type: legs
 - Bleed RES: '26'
@@ -9941,12 +8116,7 @@
   Weight: '2.9'
   effects: ''
   fashionID: '207'
-  ? 'id
-
-    '
-  : '366
-
-    '
+  id: '366'
   name: Bone King Skirt
   type: legs
 - Bleed RES: '26'
@@ -9968,12 +8138,7 @@
   Weight: '2.8'
   effects: ''
   fashionID: '44'
-  ? 'id
-
-    '
-  : '367
-
-    '
+  id: '367'
   name: Leather Boots
   type: legs
 - Bleed RES: '24'
@@ -9995,12 +8160,7 @@
   Weight: '2.8'
   effects: ''
   fashionID: '409'
-  ? 'id
-
-    '
-  : '368
-
-    '
+  id: '368'
   name: Tights of Judgement
   type: legs
 - Bleed RES: '29'
@@ -10023,12 +8183,7 @@
   effects: '[{"effect":  "Reduces falling damage", "alters": "",  "method": "", "value":
     0}]'
   fashionID: '378'
-  ? 'id
-
-    '
-  : '369
-
-    '
+  id: '369'
   name: Jester's Tights
   type: legs
 - Bleed RES: '20'
@@ -10050,12 +8205,7 @@
   Weight: '2.6'
   effects: ''
   fashionID: '391'
-  ? 'id
-
-    '
-  : '370
-
-    '
+  id: '370'
   name: Peasant Trousers
   type: legs
 - Bleed RES: '39'
@@ -10077,12 +8227,7 @@
   Weight: '2.5'
   effects: ''
   fashionID: '206'
-  ? 'id
-
-    '
-  : '371
-
-    '
+  id: '371'
   name: Blood-Stained Skirt
   type: legs
 - Bleed RES: '29'
@@ -10104,12 +8249,7 @@
   Weight: '2.5'
   effects: ''
   fashionID: '396'
-  ? 'id
-
-    '
-  : '372
-
-    '
+  id: '372'
   name: Rogue Leggings
   type: legs
 - Bleed RES: '19'
@@ -10131,12 +8271,7 @@
   Weight: '2.4'
   effects: ''
   fashionID: '214'
-  ? 'id
-
-    '
-  : '373
-
-    '
+  id: '373'
   name: Desert Sorceress Skirt
   type: legs
 - Bleed RES: '66'
@@ -10158,12 +8293,7 @@
   Weight: '2.4'
   effects: ''
   fashionID: '215'
-  ? 'id
-
-    '
-  : '374
-
-    '
+  id: '374'
   name: Dragon Acolyte Boots
   type: legs
 - Bleed RES: '18'
@@ -10185,12 +8315,7 @@
   Weight: '2.4'
   effects: ''
   fashionID: '411'
-  ? 'id
-
-    '
-  : '375
-
-    '
+  id: '375'
   name: Varangian Leggings
   type: legs
 - Bleed RES: '31'
@@ -10212,12 +8337,7 @@
   Weight: '2.4'
   effects: ''
   fashionID: '-1'
-  ? 'id
-
-    '
-  : '376
-
-    '
+  id: '376'
   name: White Priest Skirt
   type: legs
 - Bleed RES: '29'
@@ -10239,12 +8359,7 @@
   Weight: '2.2'
   effects: ''
   fashionID: '39'
-  ? 'id
-
-    '
-  : '377
-
-    '
+  id: '377'
   name: Black Leather Boots
   type: legs
 - Bleed RES: '42'
@@ -10266,12 +8381,7 @@
   Weight: '2.1'
   effects: ''
   fashionID: '413'
-  ? 'id
-
-    '
-  : '378
-
-    '
+  id: '378'
   name: Wanderer Boots
   type: legs
 - Bleed RES: '30'
@@ -10293,12 +8403,7 @@
   Weight: '2'
   effects: ''
   fashionID: '87'
-  ? 'id
-
-    '
-  : '379
-
-    '
+  id: '379'
   name: Black Boots
   type: legs
 - Bleed RES: '30'
@@ -10320,12 +8425,7 @@
   Weight: '2'
   effects: ''
   fashionID: '211'
-  ? 'id
-
-    '
-  : '380
-
-    '
+  id: '380'
   name: Chaos Boots
   type: legs
 - Bleed RES: '28'
@@ -10348,12 +8448,7 @@
   effects: '[{"effect":  "Reduces falling damage", "alters": "",  "method": "", "value":
     0}]'
   fashionID: '365'
-  ? 'id
-
-    '
-  : '381
-
-    '
+  id: '381'
   name: Flying Feline Boots
   type: legs
 - Bleed RES: '30'
@@ -10375,12 +8470,7 @@
   Weight: '2'
   effects: ''
   fashionID: '371'
-  ? 'id
-
-    '
-  : '382
-
-    '
+  id: '382'
   name: Hexer's Boots
   type: legs
 - Bleed RES: '22'
@@ -10403,12 +8493,7 @@
   effects: '[{"effect":  "Increases maximum equipment load by 1.5%", "alters": "Equip
     Load",  "method": "mul", "value": 1.015}]'
   fashionID: '427'
-  ? 'id
-
-    '
-  : '383
-
-    '
+  id: '383'
   name: Leggings of Aurous (transparent)
   type: legs
 - Bleed RES: '30'
@@ -10430,12 +8515,7 @@
   Weight: '2'
   effects: ''
   fashionID: '400'
-  ? 'id
-
-    '
-  : '384
-
-    '
+  id: '384'
   name: Saint's Trousers
   type: legs
 - Bleed RES: '14'
@@ -10458,12 +8538,7 @@
   effects: '[{"effect": "Increases souls gained by 5%", "alters": "", "method": "",
     "value": 0}]'
   fashionID: '410'
-  ? 'id
-
-    '
-  : '385
-
-    '
+  id: '385'
   name: Tseldora Trousers
   type: legs
 - Bleed RES: '29'
@@ -10485,12 +8560,7 @@
   Weight: '1.9'
   effects: ''
   fashionID: '393'
-  ? 'id
-
-    '
-  : '386
-
-    '
+  id: '386'
   name: Priestess Skirt
   type: legs
 - Bleed RES: '27'
@@ -10512,12 +8582,7 @@
   Weight: '1.8'
   effects: ''
   fashionID: '208'
-  ? 'id
-
-    '
-  : '387
-
-    '
+  id: '387'
   name: Brigand Trousers
   type: legs
 - Bleed RES: '9'
@@ -10539,12 +8604,7 @@
   Weight: '1.8'
   effects: ''
   fashionID: '373'
-  ? 'id
-
-    '
-  : '388
-
-    '
+  id: '388'
   name: Hollow Soldier Leggings
   type: legs
 - Bleed RES: '21'
@@ -10566,12 +8626,7 @@
   Weight: '1.7'
   effects: ''
   fashionID: '205'
-  ? 'id
-
-    '
-  : '389
-
-    '
+  id: '389'
   name: Black Witch Trousers
   type: legs
 - Bleed RES: '30'
@@ -10593,12 +8648,7 @@
   Weight: '1.7'
   effects: ''
   fashionID: '364'
-  ? 'id
-
-    '
-  : '390
-
-    '
+  id: '390'
   name: Flower Skirt
   type: legs
 - Bleed RES: '18'
@@ -10620,12 +8670,7 @@
   Weight: '1.6'
   effects: ''
   fashionID: '41'
-  ? 'id
-
-    '
-  : '391
-
-    '
+  id: '391'
   name: Heavy Boots
   type: legs
 - Bleed RES: '52'
@@ -10647,12 +8692,7 @@
   Weight: '1.6'
   effects: ''
   fashionID: '385'
-  ? 'id
-
-    '
-  : '392
-
-    '
+  id: '392'
   name: Manikin Boots
   type: legs
 - Bleed RES: '37'
@@ -10674,12 +8714,7 @@
   Weight: '1.6'
   effects: ''
   fashionID: '402'
-  ? 'id
-
-    '
-  : '393
-
-    '
+  id: '393'
   name: Shadow Leggings
   type: legs
 - Bleed RES: '22'
@@ -10702,12 +8737,7 @@
   effects: '[{"effect": "Increases casting speed by 5%", "alters": "Cast Speed", "method":
     "mul", "value": 1.05}]'
   fashionID: '380'
-  ? 'id
-
-    '
-  : '394
-
-    '
+  id: '394'
   name: Lion Mage Skirt
   type: legs
 - Bleed RES: '12'
@@ -10730,12 +8760,7 @@
   effects: '[{"effect":  "Reduces falling damage", "alters": "",  "method": "", "value":
     0}]'
   fashionID: '381'
-  ? 'id
-
-    '
-  : '395
-
-    '
+  id: '395'
   name: Lion Warrior Skirt
   type: legs
 - Bleed RES: '25'
@@ -10758,12 +8783,7 @@
   effects: '[{"effect": "Poisons nearby characters", "alters": "", "method": "", "value":
     0},{"effect": "Increases jump length", "alters": "", "method": "", "value": 0}]'
   fashionID: '388'
-  ? 'id
-
-    '
-  : '396
-
-    '
+  id: '396'
   name: Moon Butterfly Skirt
   type: legs
 - Bleed RES: '9'
@@ -10785,12 +8805,7 @@
   Weight: '1'
   effects: ''
   fashionID: '394'
-  ? 'id
-
-    '
-  : '397
-
-    '
+  id: '397'
   name: Prisoner's Waistloth
   type: legs
 - Bleed RES: '0'
@@ -10812,12 +8827,7 @@
   Weight: '0'
   effects: ''
   fashionID: '-1'
-  ? 'id
-
-    '
-  : '0
-
-    '
+  id: '0'
   name: defaulthead
   type: head
 - Bleed RES: '0'
@@ -10839,12 +8849,7 @@
   Weight: '0'
   effects: ''
   fashionID: '-1'
-  ? 'id
-
-    '
-  : '0
-
-    '
+  id: '0'
   name: defaultchest
   type: chest
 - Bleed RES: '0'
@@ -10866,12 +8871,7 @@
   Weight: '0'
   effects: ''
   fashionID: '-1'
-  ? 'id
-
-    '
-  : '0
-
-    '
+  id: '0'
   name: defaulthands
   type: hands
 - Bleed RES: '0'
@@ -10893,12 +8893,7 @@
   Weight: '0'
   effects: ''
   fashionID: '-1'
-  ? 'id
-
-    '
-  : '0
-
-    '
+  id: '0'
   name: defaultlegs
   type: legs
 - Bleed RES: '12'
@@ -10922,12 +8917,7 @@
     0},{"effect":  "Prevents Hollowing after receiving Vendrick''s Blessing", "alters":
     "",  "method": "", "value": 0}]'
   fashionID: '-1'
-  ? 'id
-
-    '
-  : '398
-
-    '
+  id: '398'
   name: Crown of the Ivory King
   type: head
 - Bleed RES: '8'
@@ -10949,12 +8939,7 @@
   Weight: '1.5'
   effects: ''
   fashionID: '-1'
-  ? 'id
-
-    '
-  : '399
-
-    '
+  id: '399'
   name: Mirrah Hat
   type: head
 - Bleed RES: '16'
@@ -10977,12 +8962,7 @@
   effects: '[{"effect":  "Negates headshots", "alters": "",  "method": "", "value":
     0}]'
   fashionID: '-1'
-  ? 'id
-
-    '
-  : '400
-
-    '
+  id: '400'
   name: Old Bell Helm
   type: head
 - Bleed RES: '20'
@@ -11004,12 +8984,7 @@
   Weight: '3.3'
   effects: ''
   fashionID: '-1'
-  ? 'id
-
-    '
-  : '401
-
-    '
+  id: '401'
   name: Retainer Robe
   type: chest
 - Bleed RES: '19'
@@ -11034,12 +9009,7 @@
     "", "value": 0},{"effect":  "Lose 5HP/2sec", "alters": "",  "method": "", "value":
     0}]'
   fashionID: '-1'
-  ? 'id
-
-    '
-  : '402
-
-    '
+  id: '402'
   name: Symbol of Avarice
   type: head
 - Bleed RES: '18'
@@ -11061,12 +9031,7 @@
   Weight: '6.5'
   effects: ''
   fashionID: '429'
-  ? 'id
-
-    '
-  : '403
-
-    '
+  id: '403'
   name: Charred Loyce Helm
   type: head
 - Bleed RES: '36'
@@ -11088,12 +9053,7 @@
   Weight: '12.8'
   effects: ''
   fashionID: '434'
-  ? 'id
-
-    '
-  : '404
-
-    '
+  id: '404'
   name: Charred Loyce Armor
   type: chest
 - Bleed RES: '13'
@@ -11115,12 +9075,7 @@
   Weight: '4.5'
   effects: ''
   fashionID: '439'
-  ? 'id
-
-    '
-  : '405
-
-    '
+  id: '405'
   name: Charred Loyce Gauntlets
   type: hands
 - Bleed RES: '21'
@@ -11142,12 +9097,7 @@
   Weight: '7.8'
   effects: ''
   fashionID: '443'
-  ? 'id
-
-    '
-  : '406
-
-    '
+  id: '406'
   name: Charred Loyce Leggings
   type: legs
 - Bleed RES: '18'
@@ -11169,12 +9119,7 @@
   Weight: '7'
   effects: ''
   fashionID: '430'
-  ? 'id
-
-    '
-  : '407
-
-    '
+  id: '407'
   name: Ivory King Helm
   type: head
 - Bleed RES: '0'
@@ -11196,12 +9141,7 @@
   Weight: '14.8'
   effects: ''
   fashionID: '435'
-  ? 'id
-
-    '
-  : '408
-
-    '
+  id: '408'
   name: Ivory King Armor
   type: chest
 - Bleed RES: '13'
@@ -11223,12 +9163,7 @@
   Weight: '5'
   effects: ''
   fashionID: '440'
-  ? 'id
-
-    '
-  : '409
-
-    '
+  id: '409'
   name: Ivory King Gauntlets
   type: hands
 - Bleed RES: '21'
@@ -11250,12 +9185,7 @@
   Weight: '8.6'
   effects: ''
   fashionID: '444'
-  ? 'id
-
-    '
-  : '410
-
-    '
+  id: '410'
   name: Ivory King Leggings
   type: legs
 - Bleed RES: '18'
@@ -11277,12 +9207,7 @@
   Weight: '6.3'
   effects: ''
   fashionID: '431'
-  ? 'id
-
-    '
-  : '411
-
-    '
+  id: '411'
   name: Loyce Helm
   type: head
 - Bleed RES: '36'
@@ -11304,12 +9229,7 @@
   Weight: '12.3'
   effects: ''
   fashionID: '436'
-  ? 'id
-
-    '
-  : '412
-
-    '
+  id: '412'
   name: Loyce Armor
   type: chest
 - Bleed RES: '13'
@@ -11331,12 +9251,7 @@
   Weight: '4.4'
   effects: ''
   fashionID: '441'
-  ? 'id
-
-    '
-  : '413
-
-    '
+  id: '413'
   name: Loyce Gauntlets
   type: hands
 - Bleed RES: '21'
@@ -11358,12 +9273,7 @@
   Weight: '7.5'
   effects: ''
   fashionID: '445'
-  ? 'id
-
-    '
-  : '414
-
-    '
+  id: '414'
   name: Loyce Leggings
   type: legs
 - Bleed RES: '9'
@@ -11385,12 +9295,7 @@
   Weight: '0.9'
   effects: ''
   fashionID: '432'
-  ? 'id
-
-    '
-  : '415
-
-    '
+  id: '415'
   name: Northwarder Hood
   type: head
 - Bleed RES: '21'
@@ -11412,12 +9317,7 @@
   Weight: '2.5'
   effects: ''
   fashionID: '437'
-  ? 'id
-
-    '
-  : '416
-
-    '
+  id: '416'
   name: Northwarder Robe
   type: chest
 - Bleed RES: '13'
@@ -11439,12 +9339,7 @@
   Weight: '1'
   effects: ''
   fashionID: '442'
-  ? 'id
-
-    '
-  : '417
-
-    '
+  id: '417'
   name: Northwarder Manchettes
   type: hands
 - Bleed RES: '14'
@@ -11466,12 +9361,7 @@
   Weight: '1.8'
   effects: ''
   fashionID: '447'
-  ? 'id
-
-    '
-  : '418
-
-    '
+  id: '418'
   name: Northwarder Trousers
   type: legs
 - Bleed RES: '16'
@@ -11493,12 +9383,7 @@
   Weight: '5.8'
   effects: ''
   fashionID: '433'
-  ? 'id
-
-    '
-  : '419
-
-    '
+  id: '419'
   name: Rampart Golem Helm
   type: head
 - Bleed RES: '43'
@@ -11520,12 +9405,7 @@
   Weight: '15.5'
   effects: ''
   fashionID: '438'
-  ? 'id
-
-    '
-  : '420
-
-    '
+  id: '420'
   name: Rampart Golem Armor
   type: chest
 - Bleed RES: '22'
@@ -11547,12 +9427,7 @@
   Weight: '8.2'
   effects: ''
   fashionID: '-1'
-  ? 'id
-
-    '
-  : '421
-
-    '
+  id: '421'
   name: Rampart Golem Leggings
   type: legs
 - Bleed RES: '22'
@@ -11574,12 +9449,7 @@
   Weight: '8.8'
   effects: ''
   fashionID: '-1'
-  ? 'id
-
-    '
-  : '422
-
-    '
+  id: '422'
   name: Rampart Golem Gauntlets
   type: hands
 - Bleed RES: '68'
@@ -11601,12 +9471,7 @@
   Weight: '9'
   effects: ''
   fashionID: '118'
-  ? 'id
-
-    '
-  : '423
-
-    '
+  id: '423'
   name: Alonne's Armor
   type: chest
 - Bleed RES: '22'
@@ -11628,12 +9493,7 @@
   Weight: '3'
   effects: ''
   fashionID: '291'
-  ? 'id
-
-    '
-  : '424
-
-    '
+  id: '424'
   name: Alonne's Gauntlets
   type: hands
 - Bleed RES: '40'
@@ -11655,12 +9515,7 @@
   Weight: '5.5'
   effects: ''
   fashionID: '204'
-  ? 'id
-
-    '
-  : '425
-
-    '
+  id: '425'
   name: Alonne's Leggings
   type: legs
 - Bleed RES: '60'
@@ -11682,12 +9537,7 @@
   Weight: '13.6'
   effects: ''
   fashionID: '264'
-  ? 'id
-
-    '
-  : '426
-
-    '
+  id: '426'
   name: Raime's Armor
   type: chest
 - Bleed RES: '32'
@@ -11709,12 +9559,7 @@
   Weight: '5'
   effects: ''
   fashionID: '339'
-  ? 'id
-
-    '
-  : '427
-
-    '
+  id: '427'
   name: Raime's Gauntlets
   type: hands
 - Bleed RES: '30'
@@ -11736,12 +9581,7 @@
   Weight: '6.9'
   effects: ''
   fashionID: '395'
-  ? 'id
-
-    '
-  : '428
-
-    '
+  id: '428'
   name: Raime's Leggings
   type: legs
 - Bleed RES: '20'
@@ -11763,12 +9603,7 @@
   Weight: '1.1'
   effects: ''
   fashionID: '-1'
-  ? 'id
-
-    '
-  : '429
-
-    '
+  id: '429'
   name: Hood of the Forlorn
   type: head
 - Bleed RES: '58'
@@ -11790,12 +9625,7 @@
   Weight: '11.3'
   effects: ''
   fashionID: '-1'
-  ? 'id
-
-    '
-  : '430
-
-    '
+  id: '430'
   name: Armor of the Forlorn
   type: chest
 - Bleed RES: '28'
@@ -11817,12 +9647,7 @@
   Weight: '5.5'
   effects: ''
   fashionID: '-1'
-  ? 'id
-
-    '
-  : '431
-
-    '
+  id: '431'
   name: Gauntlets of the Forlorn
   type: hands
 - Bleed RES: '29'
@@ -11844,12 +9669,7 @@
   Weight: '6.2'
   effects: ''
   fashionID: '-1'
-  ? 'id
-
-    '
-  : '432
-
-    '
+  id: '432'
   name: Leggings of the Forlorn
   type: legs
 - Bleed RES: '19'
@@ -11871,12 +9691,7 @@
   Weight: '2.8'
   effects: ''
   fashionID: '-1'
-  ? 'id
-
-    '
-  : '433
-
-    '
+  id: '433'
   name: Fume Sorcerer Gloves
   type: hands
 - Bleed RES: '28'
@@ -11898,11 +9713,6 @@
   Weight: '2.8'
   effects: ''
   fashionID: '-1'
-  ? 'id
-
-    '
-  : '434
-
-    '
+  id: '434'
   name: Fume Sorcerer Boots
   type: legs
