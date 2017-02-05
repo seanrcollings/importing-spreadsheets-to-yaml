@@ -1,6 +1,4 @@
-- ? ''
-  : ''
-  buffable: 'No'
+- buffable: 'No'
   castingSpeed: ''
   counter: ''
   defense: ''
@@ -69,9 +67,7 @@
   strReq: '0'
   type: Fists
   weight: '0'
-- ? ''
-  : ''
-  buffable: ''
+- buffable: ''
   castingSpeed: ''
   counter: ''
   defense: ''
@@ -140,9 +136,7 @@
   strReq: '2'
   type: Dagger
   weight: '0.5'
-- ? ''
-  : ''
-  buffable: ''
+- buffable: ''
   castingSpeed: ''
   counter: ''
   defense: ''
@@ -211,9 +205,7 @@
   strReq: '4'
   type: Dagger
   weight: '0.5'
-- ? ''
-  : ''
-  buffable: ''
+- buffable: ''
   castingSpeed: ''
   counter: ''
   defense: ''
@@ -282,9 +274,7 @@
   strReq: '3'
   type: Dagger
   weight: '1'
-- ? ''
-  : ''
-  buffable: ''
+- buffable: ''
   castingSpeed: ''
   counter: ''
   defense: ''
@@ -353,9 +343,7 @@
   strReq: '4'
   type: Dagger
   weight: '1.5'
-- ? ''
-  : ''
-  buffable: ''
+- buffable: ''
   castingSpeed: ''
   counter: ''
   defense: ''
@@ -424,9 +412,7 @@
   strReq: '2'
   type: Dagger
   weight: '0.5'
-- ? ''
-  : ''
-  buffable: ''
+- buffable: ''
   castingSpeed: ''
   counter: ''
   defense: ''
@@ -495,9 +481,7 @@
   strReq: '9'
   type: Dagger
   weight: '1'
-- ? ''
-  : ''
-  buffable: ''
+- buffable: ''
   castingSpeed: ''
   counter: ''
   defense: ''
@@ -566,9 +550,7 @@
   strReq: '6'
   type: Dagger
   weight: '1'
-- ? ''
-  : ''
-  buffable: ''
+- buffable: ''
   castingSpeed: ''
   counter: ''
   defense: ''
@@ -637,9 +619,7 @@
   strReq: '11'
   type: Dagger
   weight: '2'
-- ? ''
-  : ''
-  buffable: 'No'
+- buffable: 'No'
   castingSpeed: ''
   counter: ''
   defense: ''
@@ -708,9 +688,7 @@
   strReq: '5'
   type: Dagger
   weight: '0.5'
-- ? ''
-  : ''
-  buffable: ''
+- buffable: ''
   castingSpeed: ''
   counter: ''
   defense: ''
@@ -779,9 +757,7 @@
   strReq: '10'
   type: Dagger
   weight: '4'
-- ? ''
-  : ''
-  buffable: ''
+- buffable: ''
   castingSpeed: ''
   counter: ''
   defense: ''
@@ -850,9 +826,7 @@
   strReq: '6'
   type: Dagger
   weight: '0.5'
-- ? ''
-  : ''
-  buffable: ''
+- buffable: ''
   castingSpeed: ''
   counter: ''
   defense: ''
@@ -921,9 +895,7 @@
   strReq: '12'
   type: Dagger
   weight: '2'
-- ? ''
-  : ''
-  buffable: ''
+- buffable: ''
   castingSpeed: ''
   counter: ''
   defense: ''
@@ -992,9 +964,7 @@
   strReq: '11'
   type: Dagger
   weight: '2'
-- ? ''
-  : ''
-  buffable: ''
+- buffable: ''
   castingSpeed: ''
   counter: ''
   defense: ''
@@ -1063,9 +1033,7 @@
   strReq: '7'
   type: Straight Sword
   weight: '2'
-- ? ''
-  : ''
-  buffable: ''
+- buffable: ''
   castingSpeed: ''
   counter: ''
   defense: ''
@@ -1134,9 +1102,7 @@
   strReq: '10'
   type: Straight Sword
   weight: '3'
-- ? ''
-  : ''
-  buffable: ''
+- buffable: ''
   castingSpeed: ''
   counter: ''
   defense: ''
@@ -1205,9 +1171,7 @@
   strReq: '2'
   type: Straight Sword
   weight: '2'
-- ? ''
-  : ''
-  buffable: ''
+- buffable: ''
   castingSpeed: ''
   counter: ''
   defense: ''
@@ -1276,9 +1240,7 @@
   strReq: '11'
   type: Straight Sword
   weight: '3'
-- ? ''
-  : ''
-  buffable: ''
+- buffable: ''
   castingSpeed: ''
   counter: ''
   defense: ''
@@ -1347,9 +1309,7 @@
   strReq: '7'
   type: Straight Sword
   weight: '2'
-- ? ''
-  : ''
-  buffable: ''
+- buffable: ''
   castingSpeed: ''
   counter: ''
   defense: ''
@@ -1418,9 +1378,7 @@
   strReq: '14'
   type: Straight Sword
   weight: '5'
-- ? ''
-  : ''
-  buffable: ''
+- buffable: ''
   castingSpeed: '100'
   counter: ''
   defense: ''
@@ -1489,9 +1447,7 @@
   strReq: '13'
   type: Straight Sword
   weight: '3'
-- ? ''
-  : ''
-  buffable: ''
+- buffable: ''
   castingSpeed: ''
   counter: ''
   defense: ''
@@ -1560,9 +1516,7 @@
   strReq: '11'
   type: Straight Sword
   weight: '4'
-- ? ''
-  : ''
-  buffable: ''
+- buffable: ''
   castingSpeed: ''
   counter: ''
   defense: ''
@@ -1631,9 +1585,7 @@
   strReq: '23'
   type: Straight Sword
   weight: '8'
-- ? ''
-  : ''
-  buffable: ''
+- buffable: ''
   castingSpeed: ''
   counter: ''
   defense: ''
@@ -1702,9 +1654,7 @@
   strReq: '15'
   type: Straight Sword
   weight: '3'
-- ? ''
-  : ''
-  buffable: ''
+- buffable: ''
   castingSpeed: ''
   counter: ''
   defense: ''
@@ -1773,9 +1723,7 @@
   strReq: '16'
   type: Straight Sword
   weight: '6'
-- ? ''
-  : ''
-  buffable: ''
+- buffable: ''
   castingSpeed: ''
   counter: ''
   defense: ''
@@ -1844,9 +1792,7 @@
   strReq: '20'
   type: Straight Sword
   weight: '4'
-- ? ''
-  : ''
-  buffable: ''
+- buffable: ''
   castingSpeed: ''
   counter: ''
   defense: ''
@@ -1915,9 +1861,7 @@
   strReq: '13'
   type: Straight Sword
   weight: '2'
-- ? ''
-  : ''
-  buffable: 'No'
+- buffable: 'No'
   castingSpeed: ''
   counter: ''
   defense: ''
@@ -1986,9 +1930,7 @@
   strReq: '20'
   type: Straight Sword
   weight: '5'
-- ? ''
-  : ''
-  buffable: ''
+- buffable: ''
   castingSpeed: ''
   counter: ''
   defense: ''
@@ -2057,9 +1999,7 @@
   strReq: '10'
   type: Straight Sword
   weight: '3'
-- ? ''
-  : ''
-  buffable: ''
+- buffable: ''
   castingSpeed: ''
   counter: ''
   defense: ''
@@ -2128,9 +2068,7 @@
   strReq: '7'
   type: Straight Sword
   weight: '2'
-- ? ''
-  : ''
-  buffable: ''
+- buffable: ''
   castingSpeed: ''
   counter: ''
   defense: ''
@@ -2199,9 +2137,7 @@
   strReq: '15'
   type: Straight Sword
   weight: '3'
-- ? ''
-  : ''
-  buffable: 'No'
+- buffable: 'No'
   castingSpeed: ''
   counter: ''
   defense: ''
@@ -2270,9 +2206,7 @@
   strReq: '6'
   type: Straight Sword
   weight: '2'
-- ? ''
-  : ''
-  buffable: ''
+- buffable: ''
   castingSpeed: ''
   counter: ''
   defense: ''
@@ -2341,9 +2275,7 @@
   strReq: '20'
   type: Greatsword
   weight: '6'
-- ? ''
-  : ''
-  buffable: ''
+- buffable: ''
   castingSpeed: ''
   counter: ''
   defense: ''
@@ -2412,9 +2344,7 @@
   strReq: '16'
   type: Greatsword
   weight: '7'
-- ? ''
-  : ''
-  buffable: ''
+- buffable: ''
   castingSpeed: ''
   counter: ''
   defense: ''
@@ -2483,9 +2413,7 @@
   strReq: '20'
   type: Greatsword
   weight: '8'
-- ? ''
-  : ''
-  buffable: ''
+- buffable: ''
   castingSpeed: ''
   counter: ''
   defense: ''
@@ -2554,9 +2482,7 @@
   strReq: '20'
   type: Greatsword
   weight: '6'
-- ? ''
-  : ''
-  buffable: ''
+- buffable: ''
   castingSpeed: ''
   counter: ''
   defense: ''
@@ -2625,9 +2551,7 @@
   strReq: '25'
   type: Greatsword
   weight: '13'
-- ? ''
-  : ''
-  buffable: ''
+- buffable: ''
   castingSpeed: ''
   counter: ''
   defense: ''
@@ -2696,9 +2620,7 @@
   strReq: '30'
   type: Greatsword
   weight: '16'
-- ? ''
-  : ''
-  buffable: ''
+- buffable: ''
   castingSpeed: ''
   counter: ''
   defense: ''
@@ -2767,9 +2689,7 @@
   strReq: '25'
   type: Greatsword
   weight: '9'
-- ? ''
-  : ''
-  buffable: ''
+- buffable: ''
   castingSpeed: ''
   counter: ''
   defense: ''
@@ -2838,9 +2758,7 @@
   strReq: '16'
   type: Greatsword
   weight: '7'
-- ? ''
-  : ''
-  buffable: ''
+- buffable: ''
   castingSpeed: ''
   counter: ''
   defense: ''
@@ -2909,9 +2827,7 @@
   strReq: '16'
   type: Greatsword
   weight: '7'
-- ? ''
-  : ''
-  buffable: ''
+- buffable: ''
   castingSpeed: ''
   counter: ''
   defense: ''
@@ -2980,9 +2896,7 @@
   strReq: '28'
   type: Greatsword
   weight: '15'
-- ? ''
-  : ''
-  buffable: 'No'
+- buffable: 'No'
   castingSpeed: ''
   counter: ''
   defense: ''
@@ -3051,9 +2965,7 @@
   strReq: '18'
   type: Greatsword
   weight: '8'
-- ? ''
-  : ''
-  buffable: ''
+- buffable: ''
   castingSpeed: ''
   counter: ''
   defense: ''
@@ -3122,9 +3034,7 @@
   strReq: '28'
   type: Greatsword
   weight: '12'
-- ? ''
-  : ''
-  buffable: ''
+- buffable: ''
   castingSpeed: ''
   counter: ''
   defense: ''
@@ -3193,9 +3103,7 @@
   strReq: '20'
   type: Greatsword
   weight: '8'
-- ? ''
-  : ''
-  buffable: 'No'
+- buffable: 'No'
   castingSpeed: ''
   counter: ''
   defense: ''
@@ -3264,9 +3172,7 @@
   strReq: '20'
   type: Greatsword
   weight: '8'
-- ? ''
-  : ''
-  buffable: 'No'
+- buffable: 'No'
   castingSpeed: ''
   counter: ''
   defense: ''
@@ -3335,9 +3241,7 @@
   strReq: '18'
   type: Greatsword
   weight: '8'
-- ? ''
-  : ''
-  buffable: ''
+- buffable: ''
   castingSpeed: ''
   counter: ''
   defense: ''
@@ -3406,9 +3310,7 @@
   strReq: '20'
   type: Greatsword
   weight: '8'
-- ? ''
-  : ''
-  buffable: ''
+- buffable: ''
   castingSpeed: ''
   counter: ''
   defense: ''
@@ -3477,9 +3379,7 @@
   strReq: '20'
   type: Greatsword
   weight: '8'
-- ? ''
-  : ''
-  buffable: ''
+- buffable: ''
   castingSpeed: ''
   counter: ''
   defense: ''
@@ -3548,9 +3448,7 @@
   strReq: '20'
   type: Greatsword
   weight: '8'
-- ? ''
-  : ''
-  buffable: ''
+- buffable: ''
   castingSpeed: ''
   counter: ''
   defense: ''
@@ -3619,9 +3517,7 @@
   strReq: '25'
   type: Greatsword
   weight: '9'
-- ? ''
-  : ''
-  buffable: 'No'
+- buffable: 'No'
   castingSpeed: ''
   counter: ''
   defense: ''
@@ -3690,9 +3586,7 @@
   strReq: '15'
   type: Greatsword
   weight: '4'
-- ? ''
-  : ''
-  buffable: 'No'
+- buffable: 'No'
   castingSpeed: ''
   counter: ''
   defense: ''
@@ -3761,9 +3655,7 @@
   strReq: '25'
   type: Greatsword
   weight: '9'
-- ? ''
-  : ''
-  buffable: ''
+- buffable: ''
   castingSpeed: ''
   counter: ''
   defense: ''
@@ -3832,9 +3724,7 @@
   strReq: '20'
   type: Greatsword
   weight: '6'
-- ? ''
-  : ''
-  buffable: ''
+- buffable: ''
   castingSpeed: ''
   counter: ''
   defense: ''
@@ -3903,9 +3793,7 @@
   strReq: '25'
   type: Greatsword
   weight: '8'
-- ? ''
-  : ''
-  buffable: ''
+- buffable: ''
   castingSpeed: ''
   counter: ''
   defense: ''
@@ -3974,9 +3862,7 @@
   strReq: '25'
   type: Greatsword
   weight: '9'
-- ? ''
-  : ''
-  buffable: ''
+- buffable: ''
   castingSpeed: ''
   counter: ''
   defense: ''
@@ -4045,9 +3931,7 @@
   strReq: '24'
   type: Ultra Greatsword
   weight: '12'
-- ? ''
-  : ''
-  buffable: ''
+- buffable: ''
   castingSpeed: ''
   counter: ''
   defense: ''
@@ -4116,9 +4000,7 @@
   strReq: '28'
   type: Ultra Greatsword
   weight: '22'
-- ? ''
-  : ''
-  buffable: ''
+- buffable: ''
   castingSpeed: ''
   counter: ''
   defense: ''
@@ -4187,9 +4069,7 @@
   strReq: '24'
   type: Ultra Greatsword
   weight: '20'
-- ? ''
-  : ''
-  buffable: ''
+- buffable: ''
   castingSpeed: ''
   counter: ''
   defense: ''
@@ -4258,9 +4138,7 @@
   strReq: '38'
   type: Ultra Greatsword
   weight: '20'
-- ? ''
-  : ''
-  buffable: ''
+- buffable: ''
   castingSpeed: ''
   counter: ''
   defense: ''
@@ -4329,9 +4207,7 @@
   strReq: '30'
   type: Ultra Greatsword
   weight: '20'
-- ? ''
-  : ''
-  buffable: 'No'
+- buffable: 'No'
   castingSpeed: ''
   counter: ''
   defense: ''
@@ -4400,9 +4276,7 @@
   strReq: '40'
   type: Ultra Greatsword
   weight: '22'
-- ? ''
-  : ''
-  buffable: ''
+- buffable: ''
   castingSpeed: ''
   counter: ''
   defense: ''
@@ -4471,9 +4345,7 @@
   strReq: '24'
   type: Ultra Greatsword
   weight: '12'
-- ? ''
-  : ''
-  buffable: ''
+- buffable: ''
   castingSpeed: ''
   counter: ''
   defense: ''
@@ -4542,9 +4414,7 @@
   strReq: '30'
   type: Ultra Greatsword
   weight: '18'
-- ? ''
-  : ''
-  buffable: ''
+- buffable: ''
   castingSpeed: ''
   counter: ''
   defense: ''
@@ -4613,9 +4483,7 @@
   strReq: '20'
   type: Ultra Greatsword
   weight: '12'
-- ? ''
-  : ''
-  buffable: ''
+- buffable: ''
   castingSpeed: ''
   counter: ''
   defense: ''
@@ -4684,9 +4552,7 @@
   strReq: '50'
   type: Ultra Greatsword
   weight: '28'
-- ? ''
-  : ''
-  buffable: ''
+- buffable: ''
   castingSpeed: ''
   counter: ''
   defense: ''
@@ -4755,9 +4621,7 @@
   strReq: '40'
   type: Ultra Greatsword
   weight: '24'
-- ? ''
-  : ''
-  buffable: 'No'
+- buffable: 'No'
   castingSpeed: ''
   counter: ''
   defense: ''
@@ -4826,9 +4690,7 @@
   strReq: '40'
   type: Ultra Greatsword
   weight: '28'
-- ? ''
-  : ''
-  buffable: 'No'
+- buffable: 'No'
   castingSpeed: ''
   counter: ''
   defense: ''
@@ -4897,9 +4759,7 @@
   strReq: '40'
   type: Ultra Greatsword
   weight: '22'
-- ? ''
-  : ''
-  buffable: 'No'
+- buffable: 'No'
   castingSpeed: ''
   counter: ''
   defense: ''
@@ -4968,9 +4828,7 @@
   strReq: '30'
   type: Ultra Greatsword
   weight: '14'
-- ? ''
-  : ''
-  buffable: ''
+- buffable: ''
   castingSpeed: ''
   counter: ''
   defense: ''
@@ -5039,9 +4897,7 @@
   strReq: '9'
   type: Curved Sword
   weight: '2.5'
-- ? ''
-  : ''
-  buffable: ''
+- buffable: ''
   castingSpeed: ''
   counter: ''
   defense: ''
@@ -5110,9 +4966,7 @@
   strReq: '10'
   type: Curved Sword
   weight: '2.5'
-- ? ''
-  : ''
-  buffable: ''
+- buffable: ''
   castingSpeed: ''
   counter: ''
   defense: ''
@@ -5181,9 +5035,7 @@
   strReq: '7'
   type: Curved Sword
   weight: '1.5'
-- ? ''
-  : ''
-  buffable: ''
+- buffable: ''
   castingSpeed: ''
   counter: ''
   defense: ''
@@ -5252,9 +5104,7 @@
   strReq: '6'
   type: Curved Sword
   weight: '2.5'
-- ? ''
-  : ''
-  buffable: ''
+- buffable: ''
   castingSpeed: ''
   counter: ''
   defense: ''
@@ -5323,9 +5173,7 @@
   strReq: '9'
   type: Curved Sword
   weight: '1.5'
-- ? ''
-  : ''
-  buffable: ''
+- buffable: ''
   castingSpeed: ''
   counter: ''
   defense: ''
@@ -5394,9 +5242,7 @@
   strReq: '12'
   type: Curved Sword
   weight: '4'
-- ? ''
-  : ''
-  buffable: ''
+- buffable: ''
   castingSpeed: ''
   counter: ''
   defense: ''
@@ -5465,9 +5311,7 @@
   strReq: '18'
   type: Curved Sword
   weight: '6'
-- ? ''
-  : ''
-  buffable: ''
+- buffable: ''
   castingSpeed: ''
   counter: ''
   defense: ''
@@ -5536,9 +5380,7 @@
   strReq: '15'
   type: Curved Sword
   weight: '3.5'
-- ? ''
-  : ''
-  buffable: ''
+- buffable: ''
   castingSpeed: ''
   counter: ''
   defense: ''
@@ -5607,9 +5449,7 @@
   strReq: '10'
   type: Curved Sword
   weight: '2'
-- ? ''
-  : ''
-  buffable: ''
+- buffable: ''
   castingSpeed: ''
   counter: ''
   defense: ''
@@ -5678,9 +5518,7 @@
   strReq: '18'
   type: Curved Sword
   weight: '3.5'
-- ? ''
-  : ''
-  buffable: ''
+- buffable: ''
   castingSpeed: ''
   counter: ''
   defense: ''
@@ -5749,9 +5587,7 @@
   strReq: '20'
   type: Curved Greatsword
   weight: '12'
-- ? ''
-  : ''
-  buffable: ''
+- buffable: ''
   castingSpeed: ''
   counter: ''
   defense: ''
@@ -5820,9 +5656,7 @@
   strReq: '26'
   type: Curved Greatsword
   weight: '14'
-- ? ''
-  : ''
-  buffable: ''
+- buffable: ''
   castingSpeed: ''
   counter: ''
   defense: ''
@@ -5891,9 +5725,7 @@
   strReq: '30'
   type: Curved Greatsword
   weight: '18'
-- ? ''
-  : ''
-  buffable: 'No'
+- buffable: 'No'
   castingSpeed: ''
   counter: ''
   defense: ''
@@ -5962,9 +5794,7 @@
   strReq: '28'
   type: Curved Greatsword
   weight: '17'
-- ? ''
-  : ''
-  buffable: ''
+- buffable: ''
   castingSpeed: ''
   counter: ''
   defense: ''
@@ -6033,9 +5863,7 @@
   strReq: '10'
   type: Katana
   weight: '5'
-- ? ''
-  : ''
-  buffable: ''
+- buffable: ''
   castingSpeed: ''
   counter: ''
   defense: ''
@@ -6104,9 +5932,7 @@
   strReq: '18'
   type: Katana
   weight: '10'
-- ? ''
-  : ''
-  buffable: ''
+- buffable: ''
   castingSpeed: ''
   counter: ''
   defense: ''
@@ -6175,9 +6001,7 @@
   strReq: '14'
   type: Katana
   weight: '8'
-- ? ''
-  : ''
-  buffable: ''
+- buffable: ''
   castingSpeed: ''
   counter: ''
   defense: ''
@@ -6246,9 +6070,7 @@
   strReq: '12'
   type: Katana
   weight: '6'
-- ? ''
-  : ''
-  buffable: ''
+- buffable: ''
   castingSpeed: ''
   counter: ''
   defense: ''
@@ -6317,9 +6139,7 @@
   strReq: '11'
   type: Katana
   weight: '6'
-- ? ''
-  : ''
-  buffable: ''
+- buffable: ''
   castingSpeed: ''
   counter: ''
   defense: ''
@@ -6388,9 +6208,7 @@
   strReq: '18'
   type: Katana
   weight: '6'
-- ? ''
-  : ''
-  buffable: ''
+- buffable: ''
   castingSpeed: ''
   counter: ''
   defense: ''
@@ -6459,9 +6277,7 @@
   strReq: '12'
   type: Katana
   weight: '3'
-- ? ''
-  : ''
-  buffable: ''
+- buffable: ''
   castingSpeed: ''
   counter: ''
   defense: ''
@@ -6530,9 +6346,7 @@
   strReq: '22'
   type: Katana
   weight: '9'
-- ? ''
-  : ''
-  buffable: ''
+- buffable: ''
   castingSpeed: ''
   counter: ''
   defense: ''
@@ -6601,9 +6415,7 @@
   strReq: '12'
   type: Thrusting Sword
   weight: '3'
-- ? ''
-  : ''
-  buffable: ''
+- buffable: ''
   castingSpeed: ''
   counter: ''
   defense: ''
@@ -6672,9 +6484,7 @@
   strReq: '5'
   type: Thrusting Sword
   weight: '1.5'
-- ? ''
-  : ''
-  buffable: ''
+- buffable: ''
   castingSpeed: ''
   counter: ''
   defense: ''
@@ -6743,9 +6553,7 @@
   strReq: '5'
   type: Thrusting Sword
   weight: '0.5'
-- ? ''
-  : ''
-  buffable: ''
+- buffable: ''
   castingSpeed: ''
   counter: ''
   defense: ''
@@ -6814,9 +6622,7 @@
   strReq: '8'
   type: Thrusting Sword
   weight: '2'
-- ? ''
-  : ''
-  buffable: ''
+- buffable: ''
   castingSpeed: ''
   counter: ''
   defense: ''
@@ -6885,9 +6691,7 @@
   strReq: '7'
   type: Thrusting Sword
   weight: '1.5'
-- ? ''
-  : ''
-  buffable: ''
+- buffable: ''
   castingSpeed: ''
   counter: ''
   defense: ''
@@ -6956,9 +6760,7 @@
   strReq: '11'
   type: Thrusting Sword
   weight: '2'
-- ? ''
-  : ''
-  buffable: ''
+- buffable: ''
   castingSpeed: ''
   counter: ''
   defense: ''
@@ -7027,9 +6829,7 @@
   strReq: '10'
   type: Thrusting Sword
   weight: '2'
-- ? ''
-  : ''
-  buffable: ''
+- buffable: ''
   castingSpeed: ''
   counter: ''
   defense: ''
@@ -7098,9 +6898,7 @@
   strReq: '5'
   type: Thrusting Sword
   weight: '0.5'
-- ? ''
-  : ''
-  buffable: ''
+- buffable: ''
   castingSpeed: ''
   counter: ''
   defense: ''
@@ -7169,9 +6967,7 @@
   strReq: '13'
   type: Thrusting Sword
   weight: '1.5'
-- ? ''
-  : ''
-  buffable: ''
+- buffable: ''
   castingSpeed: ''
   counter: ''
   defense: ''
@@ -7240,9 +7036,7 @@
   strReq: '9'
   type: Axe
   weight: '2'
-- ? ''
-  : ''
-  buffable: ''
+- buffable: ''
   castingSpeed: ''
   counter: ''
   defense: ''
@@ -7311,9 +7105,7 @@
   strReq: '15'
   type: Axe
   weight: '4'
-- ? ''
-  : ''
-  buffable: ''
+- buffable: ''
   castingSpeed: ''
   counter: ''
   defense: ''
@@ -7382,9 +7174,7 @@
   strReq: '25'
   type: Axe
   weight: '16'
-- ? ''
-  : ''
-  buffable: ''
+- buffable: ''
   castingSpeed: ''
   counter: ''
   defense: ''
@@ -7453,9 +7243,7 @@
   strReq: '13'
   type: Axe
   weight: '3.5'
-- ? ''
-  : ''
-  buffable: ''
+- buffable: ''
   castingSpeed: ''
   counter: ''
   defense: ''
@@ -7524,9 +7312,7 @@
   strReq: '18'
   type: Axe
   weight: '5'
-- ? ''
-  : ''
-  buffable: ''
+- buffable: ''
   castingSpeed: ''
   counter: ''
   defense: ''
@@ -7595,9 +7381,7 @@
   strReq: '28'
   type: Axe
   weight: '18'
-- ? ''
-  : ''
-  buffable: ''
+- buffable: ''
   castingSpeed: ''
   counter: ''
   defense: ''
@@ -7666,9 +7450,7 @@
   strReq: '18'
   type: Axe
   weight: '7'
-- ? ''
-  : ''
-  buffable: ''
+- buffable: ''
   castingSpeed: ''
   counter: ''
   defense: ''
@@ -7737,9 +7519,7 @@
   strReq: '15'
   type: Axe
   weight: '3.5'
-- ? ''
-  : ''
-  buffable: ''
+- buffable: ''
   castingSpeed: ''
   counter: ''
   defense: ''
@@ -7808,9 +7588,7 @@
   strReq: '25'
   type: Great Axe
   weight: '12'
-- ? ''
-  : ''
-  buffable: ''
+- buffable: ''
   castingSpeed: ''
   counter: ''
   defense: ''
@@ -7879,9 +7657,7 @@
   strReq: '32'
   type: Great Axe
   weight: '15'
-- ? ''
-  : ''
-  buffable: ''
+- buffable: ''
   castingSpeed: ''
   counter: ''
   defense: ''
@@ -7950,9 +7726,7 @@
   strReq: '28'
   type: Great Axe
   weight: '10'
-- ? ''
-  : ''
-  buffable: ''
+- buffable: ''
   castingSpeed: ''
   counter: ''
   defense: ''
@@ -8021,9 +7795,7 @@
   strReq: '30'
   type: Great Axe
   weight: '12'
-- ? ''
-  : ''
-  buffable: ''
+- buffable: ''
   castingSpeed: ''
   counter: ''
   defense: ''
@@ -8092,9 +7864,7 @@
   strReq: '50'
   type: Great Axe
   weight: '24'
-- ? ''
-  : ''
-  buffable: ''
+- buffable: ''
   castingSpeed: ''
   counter: ''
   defense: ''
@@ -8163,9 +7933,7 @@
   strReq: '40'
   type: Great Axe
   weight: '24'
-- ? ''
-  : ''
-  buffable: ''
+- buffable: ''
   castingSpeed: ''
   counter: ''
   defense: ''
@@ -8234,9 +8002,7 @@
   strReq: '40'
   type: Great Axe
   weight: '20'
-- ? ''
-  : ''
-  buffable: ''
+- buffable: ''
   castingSpeed: ''
   counter: ''
   defense: ''
@@ -8305,9 +8071,7 @@
   strReq: '45'
   type: Great Axe
   weight: '25'
-- ? ''
-  : ''
-  buffable: ''
+- buffable: ''
   castingSpeed: ''
   counter: ''
   defense: ''
@@ -8376,9 +8140,7 @@
   strReq: '35'
   type: Great Axe
   weight: '12'
-- ? ''
-  : ''
-  buffable: ''
+- buffable: ''
   castingSpeed: ''
   counter: ''
   defense: ''
@@ -8447,9 +8209,7 @@
   strReq: '12'
   type: Hammer
   weight: '4'
-- ? ''
-  : ''
-  buffable: ''
+- buffable: ''
   castingSpeed: ''
   counter: ''
   defense: ''
@@ -8518,9 +8278,7 @@
   strReq: '12'
   type: Hammer
   weight: '4'
-- ? ''
-  : ''
-  buffable: ''
+- buffable: ''
   castingSpeed: ''
   counter: ''
   defense: ''
@@ -8589,9 +8347,7 @@
   strReq: '15'
   type: Hammer
   weight: '4'
-- ? ''
-  : ''
-  buffable: ''
+- buffable: ''
   castingSpeed: ''
   counter: ''
   defense: ''
@@ -8660,9 +8416,7 @@
   strReq: '16'
   type: Hammer
   weight: '4'
-- ? ''
-  : ''
-  buffable: ''
+- buffable: ''
   castingSpeed: ''
   counter: ''
   defense: ''
@@ -8731,9 +8485,7 @@
   strReq: '20'
   type: Hammer
   weight: '3'
-- ? ''
-  : ''
-  buffable: ''
+- buffable: ''
   castingSpeed: ''
   counter: ''
   defense: ''
@@ -8802,9 +8554,7 @@
   strReq: '18'
   type: Hammer
   weight: '3.5'
-- ? ''
-  : ''
-  buffable: ''
+- buffable: ''
   castingSpeed: ''
   counter: ''
   defense: ''
@@ -8873,9 +8623,7 @@
   strReq: '6'
   type: Hammer
   weight: '0.2'
-- ? ''
-  : ''
-  buffable: ''
+- buffable: ''
   castingSpeed: ''
   counter: ''
   defense: ''
@@ -8944,9 +8692,7 @@
   strReq: '15'
   type: Hammer
   weight: '6'
-- ? ''
-  : ''
-  buffable: ''
+- buffable: ''
   castingSpeed: ''
   counter: ''
   defense: ''
@@ -9015,9 +8761,7 @@
   strReq: '15'
   type: Hammer
   weight: '4'
-- ? ''
-  : ''
-  buffable: ''
+- buffable: ''
   castingSpeed: ''
   counter: ''
   defense: ''
@@ -9086,9 +8830,7 @@
   strReq: '20'
   type: Hammer
   weight: '5'
-- ? ''
-  : ''
-  buffable: ''
+- buffable: ''
   castingSpeed: ''
   counter: ''
   defense: ''
@@ -9157,9 +8899,7 @@
   strReq: '20'
   type: Hammer
   weight: '6'
-- ? ''
-  : ''
-  buffable: ''
+- buffable: ''
   castingSpeed: ''
   counter: ''
   defense: ''
@@ -9228,9 +8968,7 @@
   strReq: '14'
   type: Hammer
   weight: '6'
-- ? ''
-  : ''
-  buffable: ''
+- buffable: ''
   castingSpeed: ''
   counter: ''
   defense: ''
@@ -9299,9 +9037,7 @@
   strReq: '26'
   type: Great Hammer
   weight: '12'
-- ? ''
-  : ''
-  buffable: ''
+- buffable: ''
   castingSpeed: ''
   counter: ''
   defense: ''
@@ -9370,9 +9106,7 @@
   strReq: '28'
   type: Great Hammer
   weight: '15'
-- ? ''
-  : ''
-  buffable: ''
+- buffable: ''
   castingSpeed: ''
   counter: ''
   defense: ''
@@ -9441,9 +9175,7 @@
   strReq: '22'
   type: Great Hammer
   weight: '8'
-- ? ''
-  : ''
-  buffable: ''
+- buffable: ''
   castingSpeed: ''
   counter: ''
   defense: ''
@@ -9512,9 +9244,7 @@
   strReq: '30'
   type: Great Hammer
   weight: '18'
-- ? ''
-  : ''
-  buffable: ''
+- buffable: ''
   castingSpeed: ''
   counter: ''
   defense: ''
@@ -9583,9 +9313,7 @@
   strReq: '20'
   type: Great Hammer
   weight: '6'
-- ? ''
-  : ''
-  buffable: ''
+- buffable: ''
   castingSpeed: ''
   counter: ''
   defense: ''
@@ -9654,9 +9382,7 @@
   strReq: '60'
   type: Great Hammer
   weight: '30'
-- ? ''
-  : ''
-  buffable: ''
+- buffable: ''
   castingSpeed: ''
   counter: ''
   defense: ''
@@ -9725,9 +9451,7 @@
   strReq: '35'
   type: Great Hammer
   weight: '12'
-- ? ''
-  : ''
-  buffable: ''
+- buffable: ''
   castingSpeed: ''
   counter: ''
   defense: ''
@@ -9796,9 +9520,7 @@
   strReq: '40'
   type: Great Hammer
   weight: '20'
-- ? ''
-  : ''
-  buffable: ''
+- buffable: ''
   castingSpeed: ''
   counter: ''
   defense: ''
@@ -9867,9 +9589,7 @@
   strReq: '50'
   type: Great Hammer
   weight: '20'
-- ? ''
-  : ''
-  buffable: ''
+- buffable: ''
   castingSpeed: ''
   counter: ''
   defense: ''
@@ -9938,9 +9658,7 @@
   strReq: '40'
   type: Great Hammer
   weight: '20'
-- ? ''
-  : ''
-  buffable: ''
+- buffable: ''
   castingSpeed: ''
   counter: ''
   defense: ''
@@ -10009,9 +9727,7 @@
   strReq: '50'
   type: Great Hammer
   weight: '26'
-- ? ''
-  : ''
-  buffable: ''
+- buffable: ''
   castingSpeed: ''
   counter: ''
   defense: ''
@@ -10080,9 +9796,7 @@
   strReq: '50'
   type: Great Hammer
   weight: '20'
-- ? ''
-  : ''
-  buffable: ''
+- buffable: ''
   castingSpeed: ''
   counter: ''
   defense: ''
@@ -10151,9 +9865,7 @@
   strReq: '35'
   type: Great Hammer
   weight: '18'
-- ? ''
-  : ''
-  buffable: ''
+- buffable: ''
   castingSpeed: ''
   counter: ''
   defense: ''
@@ -10222,9 +9934,7 @@
   strReq: '40'
   type: Great Hammer
   weight: '22'
-- ? ''
-  : ''
-  buffable: ''
+- buffable: ''
   castingSpeed: ''
   counter: ''
   defense: ''
@@ -10293,9 +10003,7 @@
   strReq: '50'
   type: Great Hammer
   weight: '24'
-- ? ''
-  : ''
-  buffable: ''
+- buffable: ''
   castingSpeed: ''
   counter: ''
   defense: ''
@@ -10364,9 +10072,7 @@
   strReq: '35'
   type: Great Hammer
   weight: '17'
-- ? ''
-  : ''
-  buffable: ''
+- buffable: ''
   castingSpeed: ''
   counter: ''
   defense: ''
@@ -10435,9 +10141,7 @@
   strReq: '70'
   type: Great Hammer
   weight: '35'
-- ? ''
-  : ''
-  buffable: ''
+- buffable: ''
   castingSpeed: ''
   counter: ''
   defense: ''
@@ -10506,9 +10210,7 @@
   strReq: '9'
   type: Spear
   weight: '3.5'
-- ? ''
-  : ''
-  buffable: ''
+- buffable: ''
   castingSpeed: ''
   counter: ''
   defense: ''
@@ -10577,9 +10279,7 @@
   strReq: '11'
   type: Spear
   weight: '4.5'
-- ? ''
-  : ''
-  buffable: ''
+- buffable: ''
   castingSpeed: ''
   counter: ''
   defense: ''
@@ -10648,9 +10348,7 @@
   strReq: '12'
   type: Spear
   weight: '8'
-- ? ''
-  : ''
-  buffable: ''
+- buffable: ''
   castingSpeed: ''
   counter: ''
   defense: ''
@@ -10719,9 +10417,7 @@
   strReq: '12'
   type: Spear
   weight: '4.5'
-- ? ''
-  : ''
-  buffable: ''
+- buffable: ''
   castingSpeed: ''
   counter: ''
   defense: ''
@@ -10790,9 +10486,7 @@
   strReq: '16'
   type: Spear
   weight: '7'
-- ? ''
-  : ''
-  buffable: ''
+- buffable: ''
   castingSpeed: ''
   counter: ''
   defense: ''
@@ -10861,9 +10555,7 @@
   strReq: '9'
   type: Spear
   weight: '6'
-- ? ''
-  : ''
-  buffable: ''
+- buffable: ''
   castingSpeed: ''
   counter: ''
   defense: ''
@@ -10932,9 +10624,7 @@
   strReq: '12'
   type: Spear
   weight: '8'
-- ? ''
-  : ''
-  buffable: ''
+- buffable: ''
   castingSpeed: ''
   counter: ''
   defense: ''
@@ -11003,9 +10693,7 @@
   strReq: '11'
   type: Spear
   weight: '6'
-- ? ''
-  : ''
-  buffable: ''
+- buffable: ''
   castingSpeed: ''
   counter: ''
   defense: ''
@@ -11074,9 +10762,7 @@
   strReq: '11'
   type: Spear
   weight: '4'
-- ? ''
-  : ''
-  buffable: ''
+- buffable: ''
   castingSpeed: ''
   counter: ''
   defense: ''
@@ -11145,9 +10831,7 @@
   strReq: '10'
   type: Spear
   weight: '10'
-- ? ''
-  : ''
-  buffable: 'No'
+- buffable: 'No'
   castingSpeed: ''
   counter: ''
   defense: ''
@@ -11216,9 +10900,7 @@
   strReq: '16'
   type: Spear
   weight: '10'
-- ? ''
-  : ''
-  buffable: ''
+- buffable: ''
   castingSpeed: ''
   counter: ''
   defense: ''
@@ -11287,9 +10969,7 @@
   strReq: '15'
   type: Spear
   weight: '12'
-- ? ''
-  : ''
-  buffable: ''
+- buffable: ''
   castingSpeed: ''
   counter: ''
   defense: ''
@@ -11358,9 +11038,7 @@
   strReq: '30'
   type: Spear
   weight: '19'
-- ? ''
-  : ''
-  buffable: ''
+- buffable: ''
   castingSpeed: ''
   counter: ''
   defense: ''
@@ -11429,9 +11107,7 @@
   strReq: '11'
   type: Spear
   weight: '3.5'
-- ? ''
-  : ''
-  buffable: ''
+- buffable: ''
   castingSpeed: ''
   counter: ''
   defense: ''
@@ -11500,9 +11176,7 @@
   strReq: '18'
   type: Halberd
   weight: '5'
-- ? ''
-  : ''
-  buffable: ''
+- buffable: ''
   castingSpeed: ''
   counter: ''
   defense: ''
@@ -11571,9 +11245,7 @@
   strReq: '20'
   type: Halberd
   weight: '5'
-- ? ''
-  : ''
-  buffable: ''
+- buffable: ''
   castingSpeed: ''
   counter: ''
   defense: ''
@@ -11642,9 +11314,7 @@
   strReq: '20'
   type: Halberd
   weight: '6'
-- ? ''
-  : ''
-  buffable: ''
+- buffable: ''
   castingSpeed: ''
   counter: ''
   defense: ''
@@ -11713,9 +11383,7 @@
   strReq: '26'
   type: Halberd
   weight: '16'
-- ? ''
-  : ''
-  buffable: ''
+- buffable: ''
   castingSpeed: ''
   counter: ''
   defense: ''
@@ -11784,9 +11452,7 @@
   strReq: '20'
   type: Halberd
   weight: '16'
-- ? ''
-  : ''
-  buffable: ''
+- buffable: ''
   castingSpeed: ''
   counter: ''
   defense: ''
@@ -11855,9 +11521,7 @@
   strReq: '18'
   type: Halberd
   weight: '12'
-- ? ''
-  : ''
-  buffable: ''
+- buffable: ''
   castingSpeed: ''
   counter: ''
   defense: ''
@@ -11926,9 +11590,7 @@
   strReq: '18'
   type: Halberd
   weight: '12'
-- ? ''
-  : ''
-  buffable: ''
+- buffable: ''
   castingSpeed: ''
   counter: ''
   defense: ''
@@ -11997,9 +11659,7 @@
   strReq: '16'
   type: Halberd
   weight: '15'
-- ? ''
-  : ''
-  buffable: ''
+- buffable: ''
   castingSpeed: ''
   counter: ''
   defense: ''
@@ -12068,9 +11728,7 @@
   strReq: '20'
   type: Halberd
   weight: '16'
-- ? ''
-  : ''
-  buffable: ''
+- buffable: ''
   castingSpeed: ''
   counter: ''
   defense: ''
@@ -12139,9 +11797,7 @@
   strReq: '20'
   type: Halberd
   weight: '12'
-- ? ''
-  : ''
-  buffable: ''
+- buffable: ''
   castingSpeed: ''
   counter: ''
   defense: ''
@@ -12210,9 +11866,7 @@
   strReq: '17'
   type: Halberd
   weight: '14'
-- ? ''
-  : ''
-  buffable: ''
+- buffable: ''
   castingSpeed: ''
   counter: ''
   defense: ''
@@ -12281,9 +11935,7 @@
   strReq: '16'
   type: Halberd
   weight: '16'
-- ? ''
-  : ''
-  buffable: ''
+- buffable: ''
   castingSpeed: ''
   counter: ''
   defense: ''
@@ -12352,9 +12004,7 @@
   strReq: '16'
   type: Halberd
   weight: '9'
-- ? ''
-  : ''
-  buffable: ''
+- buffable: ''
   castingSpeed: ''
   counter: ''
   defense: ''
@@ -12423,9 +12073,7 @@
   strReq: '20'
   type: Halberd
   weight: '15'
-- ? ''
-  : ''
-  buffable: ''
+- buffable: ''
   castingSpeed: ''
   counter: ''
   defense: ''
@@ -12494,9 +12142,7 @@
   strReq: '12'
   type: Reaper
   weight: '5'
-- ? ''
-  : ''
-  buffable: ''
+- buffable: ''
   castingSpeed: ''
   counter: ''
   defense: ''
@@ -12565,9 +12211,7 @@
   strReq: '15'
   type: Reaper
   weight: '4'
-- ? ''
-  : ''
-  buffable: ''
+- buffable: ''
   castingSpeed: ''
   counter: ''
   defense: ''
@@ -12636,9 +12280,7 @@
   strReq: '18'
   type: Reaper
   weight: '6'
-- ? ''
-  : ''
-  buffable: ''
+- buffable: ''
   castingSpeed: ''
   counter: ''
   defense: ''
@@ -12707,9 +12349,7 @@
   strReq: '20'
   type: Reaper
   weight: '8'
-- ? ''
-  : ''
-  buffable: ''
+- buffable: ''
   castingSpeed: ''
   counter: ''
   defense: ''
@@ -12778,9 +12418,7 @@
   strReq: '12'
   type: Reaper
   weight: '8'
-- ? ''
-  : ''
-  buffable: ''
+- buffable: ''
   castingSpeed: ''
   counter: ''
   defense: ''
@@ -12849,9 +12487,7 @@
   strReq: '14'
   type: Reaper
   weight: '5'
-- ? ''
-  : ''
-  buffable: ''
+- buffable: ''
   castingSpeed: ''
   counter: ''
   defense: ''
@@ -12920,9 +12556,7 @@
   strReq: '28'
   type: Reaper
   weight: '10'
-- ? ''
-  : ''
-  buffable: 'No'
+- buffable: 'No'
   castingSpeed: ''
   counter: ''
   defense: ''
@@ -12991,9 +12625,7 @@
   strReq: '14'
   type: Reaper
   weight: '12'
-- ? ''
-  : ''
-  buffable: ''
+- buffable: ''
   castingSpeed: ''
   counter: ''
   defense: ''
@@ -13062,9 +12694,7 @@
   strReq: '18'
   type: Lance
   weight: '8'
-- ? ''
-  : ''
-  buffable: ''
+- buffable: ''
   castingSpeed: ''
   counter: ''
   defense: ''
@@ -13133,9 +12763,7 @@
   strReq: '20'
   type: Lance
   weight: '10'
-- ? ''
-  : ''
-  buffable: ''
+- buffable: ''
   castingSpeed: ''
   counter: ''
   defense: ''
@@ -13204,9 +12832,7 @@
   strReq: '22'
   type: Lance
   weight: '12'
-- ? ''
-  : ''
-  buffable: 'No'
+- buffable: 'No'
   castingSpeed: ''
   counter: ''
   defense: ''
@@ -13275,9 +12901,7 @@
   strReq: '30'
   type: Lance
   weight: '16'
-- ? ''
-  : ''
-  buffable: ''
+- buffable: ''
   castingSpeed: ''
   counter: ''
   defense: ''
@@ -13346,9 +12970,7 @@
   strReq: '35'
   type: Lance
   weight: '16'
-- ? ''
-  : ''
-  buffable: ''
+- buffable: ''
   castingSpeed: ''
   counter: ''
   defense: ''
@@ -13417,9 +13039,7 @@
   strReq: '14'
   type: Twinblade
   weight: '8'
-- ? ''
-  : ''
-  buffable: ''
+- buffable: ''
   castingSpeed: ''
   counter: ''
   defense: ''
@@ -13488,9 +13108,7 @@
   strReq: '16'
   type: Twinblade
   weight: '10'
-- ? ''
-  : ''
-  buffable: ''
+- buffable: ''
   castingSpeed: ''
   counter: ''
   defense: ''
@@ -13559,9 +13177,7 @@
   strReq: '18'
   type: Twinblade
   weight: '10'
-- ? ''
-  : ''
-  buffable: ''
+- buffable: ''
   castingSpeed: ''
   counter: ''
   defense: ''
@@ -13630,9 +13246,7 @@
   strReq: '26'
   type: Twinblade
   weight: '14'
-- ? ''
-  : ''
-  buffable: ''
+- buffable: ''
   castingSpeed: ''
   counter: ''
   defense: ''
@@ -13701,9 +13315,7 @@
   strReq: '20'
   type: Twinblade
   weight: '18'
-- ? ''
-  : ''
-  buffable: ''
+- buffable: ''
   castingSpeed: '20'
   counter: ''
   defense: ''
@@ -13772,9 +13384,7 @@
   strReq: '20'
   type: Twinblade
   weight: '10'
-- ? ''
-  : ''
-  buffable: ''
+- buffable: ''
   castingSpeed: ''
   counter: ''
   defense: ''
@@ -13843,9 +13453,7 @@
   strReq: '6'
   type: Whip
   weight: '1.5'
-- ? ''
-  : ''
-  buffable: 'No'
+- buffable: 'No'
   castingSpeed: ''
   counter: ''
   defense: ''
@@ -13914,9 +13522,7 @@
   strReq: '12'
   type: Whip
   weight: '2'
-- ? ''
-  : ''
-  buffable: ''
+- buffable: ''
   castingSpeed: ''
   counter: ''
   defense: ''
@@ -13985,9 +13591,7 @@
   strReq: '10'
   type: Whip
   weight: '3'
-- ? ''
-  : ''
-  buffable: ''
+- buffable: ''
   castingSpeed: ''
   counter: ''
   defense: ''
@@ -14056,9 +13660,7 @@
   strReq: '9'
   type: Whip
   weight: '2'
-- ? ''
-  : ''
-  buffable: ''
+- buffable: ''
   castingSpeed: ''
   counter: ''
   defense: ''
@@ -14127,9 +13729,7 @@
   strReq: '7'
   type: Whip
   weight: '2.5'
-- ? ''
-  : ''
-  buffable: ''
+- buffable: ''
   castingSpeed: ''
   counter: ''
   defense: ''
@@ -14198,9 +13798,7 @@
   strReq: '9'
   type: Claw
   weight: '1'
-- ? ''
-  : ''
-  buffable: ''
+- buffable: ''
   castingSpeed: ''
   counter: ''
   defense: ''
@@ -14269,9 +13867,7 @@
   strReq: '16'
   type: Claw
   weight: '1.5'
-- ? ''
-  : ''
-  buffable: ''
+- buffable: ''
   castingSpeed: ''
   counter: ''
   defense: ''
@@ -14340,9 +13936,7 @@
   strReq: '9'
   type: Claw
   weight: '1.5'
-- ? ''
-  : ''
-  buffable: ''
+- buffable: ''
   castingSpeed: ''
   counter: ''
   defense: ''
@@ -14411,9 +14005,7 @@
   strReq: '6'
   type: Claw
   weight: '1'
-- ? ''
-  : ''
-  buffable: ''
+- buffable: ''
   castingSpeed: ''
   counter: ''
   defense: ''
@@ -14482,9 +14074,7 @@
   strReq: '10'
   type: Fists
   weight: '0.5'
-- ? ''
-  : ''
-  buffable: ''
+- buffable: ''
   castingSpeed: ''
   counter: ''
   defense: ''
@@ -14553,9 +14143,7 @@
   strReq: '15'
   type: Fists
   weight: '1'
-- ? ''
-  : ''
-  buffable: 'No'
+- buffable: 'No'
   castingSpeed: ''
   counter: ''
   defense: ''
@@ -14624,9 +14212,7 @@
   strReq: '7'
   type: Bow
   weight: '1'
-- ? ''
-  : ''
-  buffable: 'No'
+- buffable: 'No'
   castingSpeed: ''
   counter: ''
   defense: ''
@@ -14695,9 +14281,7 @@
   strReq: '10'
   type: Bow
   weight: '2'
-- ? ''
-  : ''
-  buffable: 'No'
+- buffable: 'No'
   castingSpeed: ''
   counter: ''
   defense: ''
@@ -14766,9 +14350,7 @@
   strReq: '14'
   type: Bow
   weight: '2'
-- ? ''
-  : ''
-  buffable: 'No'
+- buffable: 'No'
   castingSpeed: ''
   counter: ''
   defense: ''
@@ -14837,9 +14419,7 @@
   strReq: '16'
   type: Bow
   weight: '2'
-- ? ''
-  : ''
-  buffable: 'No'
+- buffable: 'No'
   castingSpeed: ''
   counter: ''
   defense: ''
@@ -14908,9 +14488,7 @@
   strReq: '8'
   type: Bow
   weight: '1'
-- ? ''
-  : ''
-  buffable: 'No'
+- buffable: 'No'
   castingSpeed: ''
   counter: ''
   defense: ''
@@ -14979,9 +14557,7 @@
   strReq: '9'
   type: Bow
   weight: '2'
-- ? ''
-  : ''
-  buffable: 'No'
+- buffable: 'No'
   castingSpeed: ''
   counter: ''
   defense: ''
@@ -15050,9 +14626,7 @@
   strReq: '20'
   type: Bow
   weight: '3'
-- ? ''
-  : ''
-  buffable: 'No'
+- buffable: 'No'
   castingSpeed: ''
   counter: ''
   defense: ''
@@ -15121,9 +14695,7 @@
   strReq: '9'
   type: Bow
   weight: '2'
-- ? ''
-  : ''
-  buffable: 'No'
+- buffable: 'No'
   castingSpeed: ''
   counter: ''
   defense: ''
@@ -15192,9 +14764,7 @@
   strReq: '20'
   type: Greatbow
   weight: '8'
-- ? ''
-  : ''
-  buffable: 'No'
+- buffable: 'No'
   castingSpeed: ''
   counter: ''
   defense: ''
@@ -15263,9 +14833,7 @@
   strReq: '30'
   type: Greatbow
   weight: '10'
-- ? ''
-  : ''
-  buffable: 'No'
+- buffable: 'No'
   castingSpeed: ''
   counter: ''
   defense: ''
@@ -15334,9 +14902,7 @@
   strReq: '25'
   type: Greatbow
   weight: '10'
-- ? ''
-  : ''
-  buffable: 'No'
+- buffable: 'No'
   castingSpeed: ''
   counter: ''
   defense: ''
@@ -15405,9 +14971,7 @@
   strReq: '45'
   type: Greatbow
   weight: '15'
-- ? ''
-  : ''
-  buffable: 'No'
+- buffable: 'No'
   castingSpeed: ''
   counter: ''
   defense: ''
@@ -15476,9 +15040,7 @@
   strReq: '13'
   type: Crossbow
   weight: '3'
-- ? ''
-  : ''
-  buffable: 'No'
+- buffable: 'No'
   castingSpeed: ''
   counter: ''
   defense: ''
@@ -15547,9 +15109,7 @@
   strReq: '20'
   type: Crossbow
   weight: '4'
-- ? ''
-  : ''
-  buffable: 'No'
+- buffable: 'No'
   castingSpeed: ''
   counter: ''
   defense: ''
@@ -15618,9 +15178,7 @@
   strReq: '25'
   type: Crossbow
   weight: '6'
-- ? ''
-  : ''
-  buffable: 'No'
+- buffable: 'No'
   castingSpeed: ''
   counter: ''
   defense: ''
@@ -15689,9 +15247,7 @@
   strReq: '19'
   type: Crossbow
   weight: '8'
-- ? ''
-  : ''
-  buffable: 'No'
+- buffable: 'No'
   castingSpeed: ''
   counter: ''
   defense: ''
@@ -15760,9 +15316,7 @@
   strReq: '13'
   type: Crossbow
   weight: '3'
-- ? ''
-  : ''
-  buffable: 'No'
+- buffable: 'No'
   castingSpeed: ''
   counter: ''
   defense: ''
@@ -15831,9 +15385,7 @@
   strReq: '20'
   type: Crossbow
   weight: '10'
-- ? ''
-  : ''
-  buffable: 'No'
+- buffable: 'No'
   castingSpeed: '100'
   counter: ''
   defense: ''
@@ -15902,9 +15454,7 @@
   strReq: '0'
   type: Flame
   weight: '0'
-- ? ''
-  : ''
-  buffable: 'No'
+- buffable: 'No'
   castingSpeed: '100'
   counter: ''
   defense: ''
@@ -15973,9 +15523,7 @@
   strReq: '0'
   type: Flame
   weight: '0'
-- ? ''
-  : ''
-  buffable: ''
+- buffable: ''
   castingSpeed: '125'
   counter: ''
   defense: ''
@@ -16044,9 +15592,7 @@
   strReq: '0'
   type: Staff
   weight: '3.5'
-- ? ''
-  : ''
-  buffable: ''
+- buffable: ''
   castingSpeed: '125'
   counter: ''
   defense: ''
@@ -16115,9 +15661,7 @@
   strReq: '0'
   type: Staff
   weight: '4'
-- ? ''
-  : ''
-  buffable: ''
+- buffable: ''
   castingSpeed: '120'
   counter: ''
   defense: ''
@@ -16186,9 +15730,7 @@
   strReq: '0'
   type: Staff
   weight: '2'
-- ? ''
-  : ''
-  buffable: ''
+- buffable: ''
   castingSpeed: '100'
   counter: ''
   defense: ''
@@ -16257,9 +15799,7 @@
   strReq: '0'
   type: Staff
   weight: '3'
-- ? ''
-  : ''
-  buffable: ''
+- buffable: ''
   castingSpeed: '120'
   counter: ''
   defense: ''
@@ -16328,9 +15868,7 @@
   strReq: '0'
   type: Staff
   weight: '4.5'
-- ? ''
-  : ''
-  buffable: ''
+- buffable: ''
   castingSpeed: '80'
   counter: ''
   defense: ''
@@ -16399,9 +15937,7 @@
   strReq: '0'
   type: Staff
   weight: '2'
-- ? ''
-  : ''
-  buffable: ''
+- buffable: ''
   castingSpeed: '105'
   counter: ''
   defense: ''
@@ -16470,9 +16006,7 @@
   strReq: '0'
   type: Staff
   weight: '2.5'
-- ? ''
-  : ''
-  buffable: ''
+- buffable: ''
   castingSpeed: '100'
   counter: ''
   defense: ''
@@ -16541,9 +16075,7 @@
   strReq: '0'
   type: Staff
   weight: '3.5'
-- ? ''
-  : ''
-  buffable: ''
+- buffable: ''
   castingSpeed: '135'
   counter: ''
   defense: ''
@@ -16612,9 +16144,7 @@
   strReq: '0'
   type: Staff
   weight: '2'
-- ? ''
-  : ''
-  buffable: ''
+- buffable: ''
   castingSpeed: '100'
   counter: ''
   defense: ''
@@ -16683,9 +16213,7 @@
   strReq: '0'
   type: Staff
   weight: '3'
-- ? ''
-  : ''
-  buffable: ''
+- buffable: ''
   castingSpeed: '110'
   counter: ''
   defense: ''
@@ -16754,9 +16282,7 @@
   strReq: '0'
   type: Staff
   weight: '3'
-- ? ''
-  : ''
-  buffable: ''
+- buffable: ''
   castingSpeed: '105'
   counter: ''
   defense: ''
@@ -16825,9 +16351,7 @@
   strReq: '0'
   type: Staff
   weight: '2'
-- ? ''
-  : ''
-  buffable: ''
+- buffable: ''
   castingSpeed: '120'
   counter: ''
   defense: ''
@@ -16896,9 +16420,7 @@
   strReq: '0'
   type: Staff
   weight: '3'
-- ? ''
-  : ''
-  buffable: ''
+- buffable: ''
   castingSpeed: '140'
   counter: ''
   defense: ''
@@ -16967,9 +16489,7 @@
   strReq: '0'
   type: Staff
   weight: '1'
-- ? ''
-  : ''
-  buffable: ''
+- buffable: ''
   castingSpeed: '120'
   counter: ''
   defense: ''
@@ -17038,9 +16558,7 @@
   strReq: '0'
   type: Chime
   weight: '0.5'
-- ? ''
-  : ''
-  buffable: ''
+- buffable: ''
   castingSpeed: '120'
   counter: ''
   defense: ''
@@ -17109,9 +16627,7 @@
   strReq: '0'
   type: Chime
   weight: '2.5'
-- ? ''
-  : ''
-  buffable: ''
+- buffable: ''
   castingSpeed: '145'
   counter: ''
   defense: ''
@@ -17180,9 +16696,7 @@
   strReq: '0'
   type: Chime
   weight: '0.5'
-- ? ''
-  : ''
-  buffable: ''
+- buffable: ''
   castingSpeed: '25'
   counter: ''
   defense: ''
@@ -17251,9 +16765,7 @@
   strReq: '0'
   type: Chime
   weight: '0.5'
-- ? ''
-  : ''
-  buffable: ''
+- buffable: ''
   castingSpeed: '130'
   counter: ''
   defense: ''
@@ -17322,9 +16834,7 @@
   strReq: '0'
   type: Chime
   weight: '0.5'
-- ? ''
-  : ''
-  buffable: ''
+- buffable: ''
   castingSpeed: '140'
   counter: ''
   defense: ''
@@ -17393,9 +16903,7 @@
   strReq: '0'
   type: Chime
   weight: '0.5'
-- ? ''
-  : ''
-  buffable: ''
+- buffable: ''
   castingSpeed: '100'
   counter: ''
   defense: ''
@@ -17464,9 +16972,7 @@
   strReq: '0'
   type: Chime
   weight: '2'
-- ? ''
-  : ''
-  buffable: ''
+- buffable: ''
   castingSpeed: '145'
   counter: ''
   defense: ''
@@ -17535,9 +17041,7 @@
   strReq: '0'
   type: Chime
   weight: '0.5'
-- ? ''
-  : ''
-  buffable: ''
+- buffable: ''
   castingSpeed: '105'
   counter: ''
   defense: ''
@@ -17606,9 +17110,7 @@
   strReq: '0'
   type: Chime
   weight: '0.5'
-- ? ''
-  : ''
-  buffable: ''
+- buffable: ''
   castingSpeed: '120'
   counter: ''
   defense: ''
@@ -17677,9 +17179,7 @@
   strReq: '0'
   type: Chime
   weight: '0.5'
-- ? ''
-  : ''
-  buffable: ''
+- buffable: ''
   castingSpeed: '140'
   counter: ''
   defense: ''
@@ -17748,9 +17248,7 @@
   strReq: '0'
   type: Chime
   weight: '1'
-- ? ''
-  : ''
-  buffable: ''
+- buffable: ''
   castingSpeed: '100'
   counter: ''
   defense: ''
@@ -17819,9 +17317,7 @@
   strReq: '0'
   type: Chime
   weight: '0.5'
-- ? ''
-  : ''
-  buffable: ''
+- buffable: ''
   castingSpeed: ''
   counter: ''
   defense: 86/62.5/55/62.5/62.5
@@ -17890,9 +17386,7 @@
   strReq: ''
   type: Small Shield
   weight: '2'
-- ? ''
-  : ''
-  buffable: ''
+- buffable: ''
   castingSpeed: ''
   counter: ''
   defense: 81.2/47.5/73.7/62.5/62.
@@ -17961,9 +17455,7 @@
   strReq: ''
   type: Small Shield
   weight: '1.5'
-- ? ''
-  : ''
-  buffable: ''
+- buffable: ''
   castingSpeed: ''
   counter: ''
   defense: 62.5/77.5/81.2/81.2/73.7
@@ -18032,9 +17524,7 @@
   strReq: ''
   type: Small Shield
   weight: '1.5'
-- ? ''
-  : ''
-  buffable: ''
+- buffable: ''
   castingSpeed: ''
   counter: ''
   defense: 81.2/77.5/81.2/92.5/73.7
@@ -18103,9 +17593,7 @@
   strReq: ''
   type: Small Shield
   weight: '2.5'
-- ? ''
-  : ''
-  buffable: ''
+- buffable: ''
   castingSpeed: ''
   counter: ''
   defense: 81.2/55/40/58.7/58.7
@@ -18174,9 +17662,7 @@
   strReq: ''
   type: Small Shield
   weight: '1'
-- ? ''
-  : ''
-  buffable: ''
+- buffable: ''
   castingSpeed: ''
   counter: ''
   defense: 86.8/73.7/86.8/73.7/73.7
@@ -18245,9 +17731,7 @@
   strReq: ''
   type: Small Shield
   weight: '3'
-- ? ''
-  : ''
-  buffable: ''
+- buffable: ''
   castingSpeed: ''
   counter: ''
   defense: 70/66.2/40/51.2/40
@@ -18316,9 +17800,7 @@
   strReq: ''
   type: Small Shield
   weight: '1.5'
-- ? ''
-  : ''
-  buffable: ''
+- buffable: ''
   castingSpeed: ''
   counter: ''
   defense: 85/73.7/73.7/73.7/73.7
@@ -18387,9 +17869,7 @@
   strReq: ''
   type: Small Shield
   weight: '2'
-- ? ''
-  : ''
-  buffable: ''
+- buffable: ''
   castingSpeed: ''
   counter: ''
   defense: 88.7/47.5/73.7/73.7/62.5
@@ -18458,9 +17938,7 @@
   strReq: ''
   type: Small Shield
   weight: '3'
-- ? ''
-  : ''
-  buffable: ''
+- buffable: ''
   castingSpeed: ''
   counter: ''
   defense: 91.2/78.1/73.7/73.7/73.7
@@ -18529,9 +18007,7 @@
   strReq: ''
   type: Small Shield
   weight: '2.5'
-- ? ''
-  : ''
-  buffable: ''
+- buffable: ''
   castingSpeed: ''
   counter: ''
   defense: 81.2/96.2/77.5/77.5/77.5
@@ -18600,9 +18076,7 @@
   strReq: ''
   type: Small Shield
   weight: '2'
-- ? ''
-  : ''
-  buffable: ''
+- buffable: ''
   castingSpeed: ''
   counter: ''
   defense: 88.7/51.2/51.2/51.2/51.2
@@ -18671,9 +18145,7 @@
   strReq: ''
   type: Small Shield
   weight: '2'
-- ? ''
-  : ''
-  buffable: ''
+- buffable: ''
   castingSpeed: ''
   counter: ''
   defense: 77.5/55/92.5/55/55
@@ -18742,9 +18214,7 @@
   strReq: ''
   type: Small Shield
   weight: '1.5'
-- ? ''
-  : ''
-  buffable: ''
+- buffable: ''
   castingSpeed: ''
   counter: ''
   defense: 81.2/51.2/62.5/70/55
@@ -18813,9 +18283,7 @@
   strReq: ''
   type: Small Shield
   weight: '0.5'
-- ? ''
-  : ''
-  buffable: ''
+- buffable: ''
   castingSpeed: ''
   counter: ''
   defense: 73.7/58.7/47.5/58.7/55
@@ -18884,9 +18352,7 @@
   strReq: ''
   type: Small Shield
   weight: '0.5'
-- ? ''
-  : ''
-  buffable: ''
+- buffable: ''
   castingSpeed: ''
   counter: ''
   defense: 85/47.5/73.7/62.5/58.7
@@ -18955,9 +18421,7 @@
   strReq: ''
   type: Small Shield
   weight: '1.5'
-- ? ''
-  : ''
-  buffable: ''
+- buffable: ''
   castingSpeed: ''
   counter: ''
   defense: 81.2/51.2/62.5/70/92.5
@@ -19026,9 +18490,7 @@
   strReq: ''
   type: Small Shield
   weight: '2'
-- ? ''
-  : ''
-  buffable: ''
+- buffable: ''
   castingSpeed: ''
   counter: ''
   defense: 85/55/55/55/40
@@ -19097,9 +18559,7 @@
   strReq: ''
   type: Small Shield
   weight: '0.3'
-- ? ''
-  : ''
-  buffable: ''
+- buffable: ''
   castingSpeed: ''
   counter: ''
   defense: 95.6/69.3/69.3/91.2/82.5
@@ -19168,9 +18628,7 @@
   strReq: ''
   type: Small Shield
   weight: '3'
-- ? ''
-  : ''
-  buffable: ''
+- buffable: ''
   castingSpeed: ''
   counter: ''
   defense: 96.2/73.7/62.5/62.5/55
@@ -19239,9 +18697,7 @@
   strReq: ''
   type: Normal Shield
   weight: '4'
-- ? ''
-  : ''
-  buffable: ''
+- buffable: ''
   castingSpeed: ''
   counter: ''
   defense: 70/88.7/40/40/40
@@ -19310,9 +18766,7 @@
   strReq: ''
   type: Normal Shield
   weight: '2'
-- ? ''
-  : ''
-  buffable: ''
+- buffable: ''
   castingSpeed: ''
   counter: ''
   defense: 100/65/65/65/65
@@ -19381,9 +18835,7 @@
   strReq: ''
   type: Normal Shield
   weight: '5.5'
-- ? ''
-  : ''
-  buffable: ''
+- buffable: ''
   castingSpeed: ''
   counter: ''
   defense: 88.7/58.7/43.7/58.7/58.7
@@ -19452,9 +18904,7 @@
   strReq: ''
   type: Normal Shield
   weight: '2.5'
-- ? ''
-  : ''
-  buffable: ''
+- buffable: ''
   castingSpeed: ''
   counter: ''
   defense: 81.2/70/73.7/73.7/73.7
@@ -19523,9 +18973,7 @@
   strReq: ''
   type: Normal Shield
   weight: '4'
-- ? ''
-  : ''
-  buffable: ''
+- buffable: ''
   castingSpeed: ''
   counter: ''
   defense: 88.7/55/47.5/73.7/55
@@ -19594,9 +19042,7 @@
   strReq: ''
   type: Normal Shield
   weight: '1'
-- ? ''
-  : ''
-  buffable: ''
+- buffable: ''
   castingSpeed: ''
   counter: ''
   defense: 62.5/62.5/40/40/77.5
@@ -19665,9 +19111,7 @@
   strReq: ''
   type: Normal Shield
   weight: '6'
-- ? ''
-  : ''
-  buffable: ''
+- buffable: ''
   castingSpeed: ''
   counter: ''
   defense: 92.5/40/47.5/73.7/55
@@ -19736,9 +19180,7 @@
   strReq: ''
   type: Normal Shield
   weight: '3'
-- ? ''
-  : ''
-  buffable: ''
+- buffable: ''
   castingSpeed: ''
   counter: ''
   defense: 69.3/69.3/69.3/69.3
@@ -19807,9 +19249,7 @@
   strReq: ''
   type: Normal Shield
   weight: '4.5'
-- ? ''
-  : ''
-  buffable: ''
+- buffable: ''
   castingSpeed: ''
   counter: ''
   defense: 100/73.7/65/69.3/56.2
@@ -19878,9 +19318,7 @@
   strReq: ''
   type: Normal Shield
   weight: '5'
-- ? ''
-  : ''
-  buffable: ''
+- buffable: ''
   castingSpeed: ''
   counter: ''
   defense: 100.0/73.7/73.7/73.7/58.7
@@ -19949,9 +19387,7 @@
   strReq: ''
   type: Normal Shield
   weight: '6'
-- ? ''
-  : ''
-  buffable: ''
+- buffable: ''
   castingSpeed: ''
   counter: ''
   defense: 100.0/73.7/73.7/73.7/58.7
@@ -20020,9 +19456,7 @@
   strReq: ''
   type: Normal Shield
   weight: '6'
-- ? ''
-  : ''
-  buffable: ''
+- buffable: ''
   castingSpeed: ''
   counter: ''
   defense: 100/56.2/60.6/60.6/43.1
@@ -20091,9 +19525,7 @@
   strReq: ''
   type: Normal Shield
   weight: '5.5'
-- ? ''
-  : ''
-  buffable: ''
+- buffable: ''
   castingSpeed: ''
   counter: ''
   defense: 70/85/70/70/66.2
@@ -20162,9 +19594,7 @@
   strReq: ''
   type: Normal Shield
   weight: '5.5'
-- ? ''
-  : ''
-  buffable: ''
+- buffable: ''
   castingSpeed: ''
   counter: ''
   defense: 65/69.3/65/82.5/73.7
@@ -20233,9 +19663,7 @@
   strReq: ''
   type: Normal Shield
   weight: '3'
-- ? ''
-  : ''
-  buffable: ''
+- buffable: ''
   castingSpeed: ''
   counter: ''
   defense: 85/36.2/36.2/36.2/28.7
@@ -20304,9 +19732,7 @@
   strReq: ''
   type: Normal Shield
   weight: '3'
-- ? ''
-  : ''
-  buffable: ''
+- buffable: ''
   castingSpeed: ''
   counter: ''
   defense: 88.7/73.7/47.5/73.7/58.7
@@ -20375,9 +19801,7 @@
   strReq: ''
   type: Normal Shield
   weight: '3.5'
-- ? ''
-  : ''
-  buffable: ''
+- buffable: ''
   castingSpeed: ''
   counter: ''
   defense: 100.0/65.0/86.8/69.3/51.8
@@ -20446,9 +19870,7 @@
   strReq: ''
   type: Normal Shield
   weight: '5'
-- ? ''
-  : ''
-  buffable: ''
+- buffable: ''
   castingSpeed: ''
   counter: ''
   defense: 92.5/51.2/70/70/58.7
@@ -20517,9 +19939,7 @@
   strReq: ''
   type: Normal Shield
   weight: '1.5'
-- ? ''
-  : ''
-  buffable: ''
+- buffable: ''
   castingSpeed: ''
   counter: ''
   defense: 92.5/58.7/40/58.7/51.2
@@ -20588,9 +20008,7 @@
   strReq: ''
   type: Normal Shield
   weight: '2.5'
-- ? ''
-  : ''
-  buffable: ''
+- buffable: ''
   castingSpeed: ''
   counter: ''
   defense: 65/82.5/51.8/56.2/56.2
@@ -20659,9 +20077,7 @@
   strReq: ''
   type: Normal Shield
   weight: '4.5'
-- ? ''
-  : ''
-  buffable: ''
+- buffable: ''
   castingSpeed: ''
   counter: ''
   defense: 92.5/55/58.7/58.7/58.7
@@ -20730,9 +20146,7 @@
   strReq: ''
   type: Normal Shield
   weight: '4.5'
-- ? ''
-  : ''
-  buffable: ''
+- buffable: ''
   castingSpeed: ''
   counter: ''
   defense: 40/36.2/36.2/36.2/36.2
@@ -20801,9 +20215,7 @@
   strReq: ''
   type: Normal Shield
   weight: '3'
-- ? ''
-  : ''
-  buffable: ''
+- buffable: ''
   castingSpeed: ''
   counter: ''
   defense: 100/77.5/77.5/77.5/55
@@ -20872,9 +20284,7 @@
   strReq: ''
   type: Normal Shield
   weight: '8'
-- ? ''
-  : ''
-  buffable: ''
+- buffable: ''
   castingSpeed: ''
   counter: ''
   defense: 73.7/55/73.7/55/55
@@ -20943,9 +20353,7 @@
   strReq: ''
   type: Normal Shield
   weight: '4'
-- ? ''
-  : ''
-  buffable: ''
+- buffable: ''
   castingSpeed: ''
   counter: ''
   defense: 73.7/92.5/92.5/92.5/92.5
@@ -21014,9 +20422,7 @@
   strReq: ''
   type: Normal Shield
   weight: '8'
-- ? ''
-  : ''
-  buffable: ''
+- buffable: ''
   castingSpeed: ''
   counter: ''
   defense: 100/21.2/21.2/21.2/21.2
@@ -21085,9 +20491,7 @@
   strReq: ''
   type: Normal Shield
   weight: '5'
-- ? ''
-  : ''
-  buffable: ''
+- buffable: ''
   castingSpeed: ''
   counter: ''
   defense: 100/58.7/73.7/62.5/55
@@ -21156,9 +20560,7 @@
   strReq: ''
   type: Normal Shield
   weight: '4'
-- ? ''
-  : ''
-  buffable: ''
+- buffable: ''
   castingSpeed: ''
   counter: ''
   defense: 88.7/77.5/88.7/77.5/77.5
@@ -21227,9 +20629,7 @@
   strReq: ''
   type: Normal Shield
   weight: '2'
-- ? ''
-  : ''
-  buffable: ''
+- buffable: ''
   castingSpeed: ''
   counter: ''
   defense: 66.2/55/55/55/47.5
@@ -21298,9 +20698,7 @@
   strReq: ''
   type: Normal Shield
   weight: '6'
-- ? ''
-  : ''
-  buffable: ''
+- buffable: ''
   castingSpeed: ''
   counter: ''
   defense: 92.5/47.5/70/62.5/47.5
@@ -21369,9 +20767,7 @@
   strReq: ''
   type: Normal Shield
   weight: '3'
-- ? ''
-  : ''
-  buffable: ''
+- buffable: ''
   castingSpeed: ''
   counter: ''
   defense: 85.0/85.0/77.5/77.5/88.7
@@ -21440,9 +20836,7 @@
   strReq: ''
   type: Normal Shield
   weight: '5.5'
-- ? ''
-  : ''
-  buffable: ''
+- buffable: ''
   castingSpeed: ''
   counter: ''
   defense: 58.7/70/70/88.7/70
@@ -21511,9 +20905,7 @@
   strReq: ''
   type: Normal Shield
   weight: '4.5'
-- ? ''
-  : ''
-  buffable: ''
+- buffable: ''
   castingSpeed: ''
   counter: ''
   defense: 70/73.7/66.2/66.2/58.7
@@ -21582,9 +20974,7 @@
   strReq: ''
   type: Normal Shield
   weight: '5'
-- ? ''
-  : ''
-  buffable: ''
+- buffable: ''
   castingSpeed: ''
   counter: ''
   defense: 100/40/40/40/58.7
@@ -21653,9 +21043,7 @@
   strReq: ''
   type: Normal Shield
   weight: '5'
-- ? ''
-  : ''
-  buffable: ''
+- buffable: ''
   castingSpeed: ''
   counter: ''
   defense: 73.7/43.7/55/43.7/43.7
@@ -21724,9 +21112,7 @@
   strReq: ''
   type: Normal Shield
   weight: '7'
-- ? ''
-  : ''
-  buffable: ''
+- buffable: ''
   castingSpeed: ''
   counter: ''
   defense: 92.5/81.2/81.2/70.0/70.0
@@ -21795,9 +21181,7 @@
   strReq: ''
   type: Normal Shield
   weight: '4.5'
-- ? ''
-  : ''
-  buffable: ''
+- buffable: ''
   castingSpeed: ''
   counter: ''
   defense: 88.7/55/47.5/73.7/55
@@ -21866,9 +21250,7 @@
   strReq: ''
   type: Normal Shield
   weight: '1.5'
-- ? ''
-  : ''
-  buffable: ''
+- buffable: ''
   castingSpeed: ''
   counter: ''
   defense: 85/51.2/55/55/43.7
@@ -21937,9 +21319,7 @@
   strReq: ''
   type: Normal Shield
   weight: '3'
-- ? ''
-  : ''
-  buffable: ''
+- buffable: ''
   castingSpeed: ''
   counter: ''
   defense: 100/65/78.1/78.1/56.2
@@ -22008,9 +21388,7 @@
   strReq: ''
   type: Greatshield
   weight: '13.5'
-- ? ''
-  : ''
-  buffable: ''
+- buffable: ''
   castingSpeed: ''
   counter: ''
   defense: 100/77.5/81.5/81.5/70
@@ -22079,9 +21457,7 @@
   strReq: ''
   type: Greatshield
   weight: '16.5'
-- ? ''
-  : ''
-  buffable: ''
+- buffable: ''
   castingSpeed: ''
   counter: ''
   defense: 100/55/92.5/62.5/70
@@ -22150,9 +21526,7 @@
   strReq: ''
   type: Greatshield
   weight: '15'
-- ? ''
-  : ''
-  buffable: ''
+- buffable: ''
   castingSpeed: ''
   counter: ''
   defense: 100/47.5/100/47.5/47.5
@@ -22221,9 +21595,7 @@
   strReq: ''
   type: Greatshield
   weight: '15'
-- ? ''
-  : ''
-  buffable: ''
+- buffable: ''
   castingSpeed: ''
   counter: ''
   defense: 100.0/91.2/82.5/82.5/78.1
@@ -22292,9 +21664,7 @@
   strReq: ''
   type: Greatshield
   weight: '20'
-- ? ''
-  : ''
-  buffable: ''
+- buffable: ''
   castingSpeed: ''
   counter: ''
   defense: 95.6/78.1/73.7/73.7/73.7
@@ -22363,9 +21733,7 @@
   strReq: ''
   type: Greatshield
   weight: '14.5'
-- ? ''
-  : ''
-  buffable: ''
+- buffable: ''
   castingSpeed: ''
   counter: ''
   defense: 92.5/73.7/73.7/92.5/73.7
@@ -22434,9 +21802,7 @@
   strReq: ''
   type: Greatshield
   weight: '14'
-- ? ''
-  : ''
-  buffable: ''
+- buffable: ''
   castingSpeed: ''
   counter: ''
   defense: 100.0/40.0/40.0/40.0/40.0
@@ -22505,9 +21871,7 @@
   strReq: ''
   type: Greatshield
   weight: '13'
-- ? ''
-  : ''
-  buffable: ''
+- buffable: ''
   castingSpeed: ''
   counter: ''
   defense: 100/38.7/60.6/60.6/69.3
@@ -22576,9 +21940,7 @@
   strReq: ''
   type: Greatshield
   weight: '16'
-- ? ''
-  : ''
-  buffable: ''
+- buffable: ''
   castingSpeed: ''
   counter: ''
   defense: 96.2/58.7/58.7/58.7/66.2
@@ -22647,9 +22009,7 @@
   strReq: ''
   type: Greatshield
   weight: '10.5'
-- ? ''
-  : ''
-  buffable: ''
+- buffable: ''
   castingSpeed: ''
   counter: ''
   defense: 100/56.2/82.5/47.5/65
@@ -22718,9 +22078,7 @@
   strReq: ''
   type: Greatshield
   weight: '16'
-- ? ''
-  : ''
-  buffable: ''
+- buffable: ''
   castingSpeed: ''
   counter: ''
   defense: 77.5/92.5/92.5/92.5/88.7
@@ -22789,9 +22147,7 @@
   strReq: ''
   type: Greatshield
   weight: '13.5'
-- ? ''
-  : ''
-  buffable: ''
+- buffable: ''
   castingSpeed: ''
   counter: ''
   defense: 100/38.7/60.6/60.6/69.3
@@ -22860,9 +22216,7 @@
   strReq: ''
   type: Greatshield
   weight: '16'
-- ? ''
-  : ''
-  buffable: ''
+- buffable: ''
   castingSpeed: ''
   counter: ''
   defense: 100/55/81.2/62.5/55
@@ -22931,9 +22285,7 @@
   strReq: ''
   type: Greatshield
   weight: '13'
-- ? ''
-  : ''
-  buffable: ''
+- buffable: ''
   castingSpeed: ''
   counter: ''
   defense: 96.2/66.2/58.7/73.7/55
@@ -23002,9 +22354,7 @@
   strReq: ''
   type: Greatshield
   weight: '7'
-- ? ''
-  : ''
-  buffable: ''
+- buffable: ''
   castingSpeed: ''
   counter: ''
   defense: 85/73.7/77.5/77.5/55
