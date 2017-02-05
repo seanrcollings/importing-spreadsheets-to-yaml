@@ -1,0 +1,11908 @@
+- Bleed RES: '44'
+  Curse RES: '0'
+  Dark DEF: '18'
+  Durability: '100'
+  Fire DEF: '22'
+  Lightning DEF: '22'
+  Magic Def: '19'
+  Petrify RES: '0'
+  Physical Def: '122'
+  Poise: '30'
+  Poison RES: '14'
+  Requirements: ''
+  Scaling: C
+  Vs Slash: '128'
+  Vs Strike: '128'
+  Vs Thrust: '105'
+  Weight: '9.8'
+  effects: ''
+  fashionID: '177'
+  ? 'id
+
+    '
+  : '1
+
+    '
+  name: Minotaur Helm
+  type: head
+- Bleed RES: '46'
+  Curse RES: '0'
+  Dark DEF: '14'
+  Durability: '75'
+  Fire DEF: '28'
+  Lightning DEF: '28'
+  Magic Def: '24'
+  Petrify RES: '0'
+  Physical Def: '197'
+  Poise: '20'
+  Poison RES: '17'
+  Requirements: 14 STR
+  Scaling: C
+  Vs Slash: '205'
+  Vs Strike: '205'
+  Vs Thrust: '181'
+  Weight: '8.9'
+  effects: ''
+  fashionID: '101'
+  ? 'id
+
+    '
+  : '2
+
+    '
+  name: Gyrm Warrior Greathelm
+  type: head
+- Bleed RES: '46'
+  Curse RES: '0'
+  Dark DEF: '24'
+  Durability: '75'
+  Fire DEF: '28'
+  Lightning DEF: '28'
+  Magic Def: '24'
+  Petrify RES: '0'
+  Physical Def: '197'
+  Poise: '20'
+  Poison RES: '17'
+  Requirements: 14 STR
+  Scaling: C
+  Vs Slash: '205'
+  Vs Strike: '205'
+  Vs Thrust: '181'
+  Weight: '8.9'
+  effects: ''
+  fashionID: '102'
+  ? 'id
+
+    '
+  : '3
+
+    '
+  name: Gyrm Warrior Helm
+  type: head
+- Bleed RES: '37'
+  Curse RES: '26'
+  Dark DEF: '25'
+  Durability: '70'
+  Fire DEF: '23'
+  Lightning DEF: '20'
+  Magic Def: '25'
+  Petrify RES: '26'
+  Physical Def: '172'
+  Poise: '19'
+  Poison RES: '49'
+  Requirements: ''
+  Scaling: C
+  Vs Slash: '179'
+  Vs Strike: '172'
+  Vs Thrust: '164'
+  Weight: '8.2'
+  effects: ''
+  fashionID: '100'
+  ? 'id
+
+    '
+  : '4
+
+    '
+  name: Gyrm Helm
+  type: head
+- Bleed RES: '22'
+  Curse RES: '0'
+  Dark DEF: '15'
+  Durability: '40'
+  Fire DEF: '17'
+  Lightning DEF: '10'
+  Magic Def: '15'
+  Petrify RES: '0'
+  Physical Def: '118'
+  Poise: '19'
+  Poison RES: '20'
+  Requirements: 14 STR
+  Scaling: C
+  Vs Slash: '126'
+  Vs Strike: '110'
+  Vs Thrust: '118'
+  Weight: '6'
+  effects: ''
+  fashionID: '189'
+  ? 'id
+
+    '
+  : '5
+
+    '
+  name: Rusted Mastodon Helm
+  type: head
+- Bleed RES: '40'
+  Curse RES: '19'
+  Dark DEF: '24'
+  Durability: '255'
+  Fire DEF: '26'
+  Lightning DEF: '22'
+  Magic Def: '24'
+  Petrify RES: '19'
+  Physical Def: '168'
+  Poise: '17'
+  Poison RES: '10'
+  Requirements: 20 STR
+  Scaling: C
+  Vs Slash: '189'
+  Vs Strike: '147'
+  Vs Thrust: '168'
+  Weight: '7.5'
+  effects: ''
+  fashionID: '160'
+  ? 'id
+
+    '
+  : '6
+
+    '
+  name: Havel's Helm
+  type: head
+- Bleed RES: '37'
+  Curse RES: '0'
+  Dark DEF: '21'
+  Durability: '150'
+  Fire DEF: '23'
+  Lightning DEF: '34'
+  Magic Def: '21'
+  Petrify RES: '0'
+  Physical Def: '150'
+  Poise: '16'
+  Poison RES: '20'
+  Requirements: ''
+  Scaling: C
+  Vs Slash: '169'
+  Vs Strike: '133'
+  Vs Thrust: '150'
+  Weight: '7'
+  effects: ''
+  fashionID: '111'
+  ? 'id
+
+    '
+  : '7
+
+    '
+  name: Looking Glass Mask
+  type: head
+- Bleed RES: '25'
+  Curse RES: '0'
+  Dark DEF: '14'
+  Durability: '150'
+  Fire DEF: '15'
+  Lightning DEF: '23'
+  Magic Def: '14'
+  Petrify RES: '0'
+  Physical Def: '100'
+  Poise: '16'
+  Poison RES: '13'
+  Requirements: ''
+  Scaling: C
+  Vs Slash: '113'
+  Vs Strike: '89'
+  Vs Thrust: '100'
+  Weight: '7'
+  effects: ''
+  fashionID: '111'
+  ? 'id
+
+    '
+  : '8
+
+    '
+  name: Looking Glass Mask
+  type: head
+- Bleed RES: '42'
+  Curse RES: '28'
+  Dark DEF: '27'
+  Durability: '160'
+  Fire DEF: '51'
+  Lightning DEF: '26'
+  Magic Def: '27'
+  Petrify RES: '28'
+  Physical Def: '194'
+  Poise: '15'
+  Poison RES: '18'
+  Requirements: ''
+  Scaling: C
+  Vs Slash: '213'
+  Vs Strike: '175'
+  Vs Thrust: '194'
+  Weight: '9'
+  effects: ''
+  fashionID: '113'
+  ? 'id
+
+    '
+  : '9
+
+    '
+  name: Smelter Demon Helm
+  type: head
+- Bleed RES: '23'
+  Curse RES: '0'
+  Dark DEF: '19'
+  Durability: '95'
+  Fire DEF: '18'
+  Lightning DEF: '19'
+  Magic Def: '19'
+  Petrify RES: '0'
+  Physical Def: '170'
+  Poise: '14'
+  Poison RES: '18'
+  Requirements: ''
+  Scaling: C
+  Vs Slash: '177'
+  Vs Strike: '159'
+  Vs Thrust: '170'
+  Weight: '7.5'
+  effects: ''
+  fashionID: '153'
+  ? 'id
+
+    '
+  : '10
+
+    '
+  name: Dragonrider Helm
+  type: head
+- Bleed RES: '29'
+  Curse RES: '0'
+  Dark DEF: '17'
+  Durability: '20'
+  Fire DEF: '17'
+  Lightning DEF: '13'
+  Magic Def: '17'
+  Petrify RES: '0'
+  Physical Def: '155'
+  Poise: '14'
+  Poison RES: '17'
+  Requirements: ''
+  Scaling: C
+  Vs Slash: '161'
+  Vs Strike: '145'
+  Vs Thrust: '155'
+  Weight: '7'
+  effects: ''
+  fashionID: '181'
+  ? 'id
+
+    '
+  : '11
+
+    '
+  name: Old Knight Helm
+  type: head
+- Bleed RES: '35'
+  Curse RES: '0'
+  Dark DEF: '20'
+  Durability: '90'
+  Fire DEF: '22'
+  Lightning DEF: '14'
+  Magic Def: '20'
+  Petrify RES: '0'
+  Physical Def: '129'
+  Poise: '13'
+  Poison RES: '11'
+  Requirements: 14 STR
+  Scaling: C
+  Vs Slash: '137'
+  Vs Strike: '119'
+  Vs Thrust: '129'
+  Weight: '6.3'
+  effects: ''
+  fashionID: '103'
+  ? 'id
+
+    '
+  : '12
+
+    '
+  name: Ironclad Helm
+  type: head
+- Bleed RES: '27'
+  Curse RES: '0'
+  Dark DEF: '23'
+  Durability: '85'
+  Fire DEF: '29'
+  Lightning DEF: '20'
+  Magic Def: '23'
+  Petrify RES: '0'
+  Physical Def: '148'
+  Poise: '12'
+  Poison RES: '21'
+  Requirements: ''
+  Scaling: C
+  Vs Slash: '158'
+  Vs Strike: '140'
+  Vs Thrust: '148'
+  Weight: '6.8'
+  effects: ''
+  fashionID: '198'
+  ? 'id
+
+    '
+  : '13
+
+    '
+  name: Vengarl's Helm
+  type: head
+- Bleed RES: '28'
+  Curse RES: '0'
+  Dark DEF: '19'
+  Durability: '90'
+  Fire DEF: '21'
+  Lightning DEF: '13'
+  Magic Def: '19'
+  Petrify RES: '0'
+  Physical Def: '147'
+  Poise: '12'
+  Poison RES: '24'
+  Requirements: 16 STR
+  Scaling: C
+  Vs Slash: '157'
+  Vs Strike: '138'
+  Vs Thrust: '147'
+  Weight: '6.6'
+  effects: ''
+  fashionID: '176'
+  ? 'id
+
+    '
+  : '14
+
+    '
+  name: Mastodon Helm
+  type: head
+- Bleed RES: '29'
+  Curse RES: '28'
+  Dark DEF: '21'
+  Durability: '90'
+  Fire DEF: '23'
+  Lightning DEF: '19'
+  Magic Def: '21'
+  Petrify RES: '0'
+  Physical Def: '135'
+  Poise: '12'
+  Poison RES: '21'
+  Requirements: ''
+  Scaling: C
+  Vs Slash: '142'
+  Vs Strike: '130'
+  Vs Thrust: '135'
+  Weight: '6'
+  effects: ''
+  fashionID: '155'
+  ? 'id
+
+    '
+  : '15
+
+    '
+  name: Drakekeeper Helm
+  type: head
+- Bleed RES: '28'
+  Curse RES: '0'
+  Dark DEF: '19'
+  Durability: '100'
+  Fire DEF: '20'
+  Lightning DEF: '14'
+  Magic Def: '19'
+  Petrify RES: '0'
+  Physical Def: '124'
+  Poise: '12'
+  Poison RES: '17'
+  Requirements: ''
+  Scaling: C
+  Vs Slash: '132'
+  Vs Strike: '118'
+  Vs Thrust: '124'
+  Weight: '5.4'
+  effects: ''
+  fashionID: '194'
+  ? 'id
+
+    '
+  : '16
+
+    '
+  name: Steel Helm
+  type: head
+- Bleed RES: '25'
+  Curse RES: '0'
+  Dark DEF: '22'
+  Durability: '90'
+  Fire DEF: '34'
+  Lightning DEF: '15'
+  Magic Def: '22'
+  Petrify RES: '0'
+  Physical Def: '106'
+  Poise: '12'
+  Poison RES: '11'
+  Requirements: ''
+  Scaling: C
+  Vs Slash: '112'
+  Vs Strike: '100'
+  Vs Thrust: '106'
+  Weight: '5.1'
+  effects: ''
+  fashionID: '-1'
+  ? 'id
+
+    '
+  : '17
+
+    '
+  name: Alonne Captain Helm
+  type: head
+- Bleed RES: '46'
+  Curse RES: '35'
+  Dark DEF: '54'
+  Durability: '140'
+  Fire DEF: '27'
+  Lightning DEF: '15'
+  Magic Def: '26'
+  Petrify RES: '27'
+  Physical Def: '169'
+  Poise: '11'
+  Poison RES: '19'
+  Requirements: ''
+  Scaling: C
+  Vs Slash: '179'
+  Vs Strike: '155'
+  Vs Thrust: '176'
+  Weight: '7.5'
+  effects: ''
+  fashionID: '-1'
+  ? 'id
+
+    '
+  : '18
+
+    '
+  name: Velstadt's Helm
+  type: head
+- Bleed RES: '28'
+  Curse RES: '0'
+  Dark DEF: '32'
+  Durability: '72'
+  Fire DEF: '30'
+  Lightning DEF: '28'
+  Magic Def: '32'
+  Petrify RES: '0'
+  Physical Def: '139'
+  Poise: '11'
+  Poison RES: '36'
+  Requirements: ''
+  Scaling: C
+  Vs Slash: '144'
+  Vs Strike: '134'
+  Vs Thrust: '139'
+  Weight: '7'
+  effects: ''
+  fashionID: '86'
+  ? 'id
+
+    '
+  : '19
+
+    '
+  name: Benhart's Knight Helm
+  type: head
+- Bleed RES: '29'
+  Curse RES: '31'
+  Dark DEF: '36'
+  Durability: '90'
+  Fire DEF: '26'
+  Lightning DEF: '17'
+  Magic Def: '20'
+  Petrify RES: '0'
+  Physical Def: '119'
+  Poise: '11'
+  Poison RES: '39'
+  Requirements: ''
+  Scaling: C
+  Vs Slash: '127'
+  Vs Strike: '111'
+  Vs Thrust: '119'
+  Weight: '6'
+  effects: ''
+  fashionID: '161'
+  ? 'id
+
+    '
+  : '20
+
+    '
+  name: Heide Knight Greathelm
+  type: head
+- Bleed RES: '29'
+  Curse RES: '31'
+  Dark DEF: '36'
+  Durability: '90'
+  Fire DEF: '26'
+  Lightning DEF: '17'
+  Magic Def: '29'
+  Petrify RES: '0'
+  Physical Def: '119'
+  Poise: '11'
+  Poison RES: '39'
+  Requirements: ''
+  Scaling: C
+  Vs Slash: '127'
+  Vs Strike: '111'
+  Vs Thrust: '119'
+  Weight: '6'
+  effects: ''
+  fashionID: '162'
+  ? 'id
+
+    '
+  : '21
+
+    '
+  name: Heide Knight Iron Mask
+  type: head
+- Bleed RES: '28'
+  Curse RES: '0'
+  Dark DEF: '16'
+  Durability: '45'
+  Fire DEF: '18'
+  Lightning DEF: '13'
+  Magic Def: '16'
+  Petrify RES: '0'
+  Physical Def: '113'
+  Poise: '11'
+  Poison RES: '9'
+  Requirements: 14 STR
+  Scaling: C
+  Vs Slash: '121'
+  Vs Strike: '104'
+  Vs Thrust: '113'
+  Weight: '6.3'
+  effects: ''
+  fashionID: '180'
+  ? 'id
+
+    '
+  : '22
+
+    '
+  name: Old Ironclad Helm
+  type: head
+- Bleed RES: '27'
+  Curse RES: '21'
+  Dark DEF: '26'
+  Durability: '85'
+  Fire DEF: '22'
+  Lightning DEF: '18'
+  Magic Def: '26'
+  Petrify RES: '21'
+  Physical Def: '127'
+  Poise: '10'
+  Poison RES: '21'
+  Requirements: ''
+  Scaling: C
+  Vs Slash: '133'
+  Vs Strike: '121'
+  Vs Thrust: '127'
+  Weight: '5.8'
+  effects: ''
+  fashionID: '165'
+  ? 'id
+
+    '
+  : '23
+
+    '
+  name: Imperious Helm
+  type: head
+- Bleed RES: '41'
+  Curse RES: '0'
+  Dark DEF: '24'
+  Durability: '85'
+  Fire DEF: '32'
+  Lightning DEF: '14'
+  Magic Def: '24'
+  Petrify RES: '0'
+  Physical Def: '123'
+  Poise: '10'
+  Poison RES: '14'
+  Requirements: ''
+  Scaling: C
+  Vs Slash: '131'
+  Vs Strike: '110'
+  Vs Thrust: '125'
+  Weight: '6.2'
+  effects: ''
+  fashionID: '195'
+  ? 'id
+
+    '
+  : '24
+
+    '
+  name: Syan's Helm
+  type: head
+- Bleed RES: '26'
+  Curse RES: '0'
+  Dark DEF: '19'
+  Durability: '90'
+  Fire DEF: '19'
+  Lightning DEF: '17'
+  Magic Def: '19'
+  Petrify RES: '0'
+  Physical Def: '119'
+  Poise: '10'
+  Poison RES: '20'
+  Requirements: ''
+  Scaling: C
+  Vs Slash: '129'
+  Vs Strike: '112'
+  Vs Thrust: '121'
+  Weight: '5.9'
+  effects: ''
+  fashionID: '110'
+  ? 'id
+
+    '
+  : '25
+
+    '
+  name: Drangleic Helm
+  type: head
+- Bleed RES: '40'
+  Curse RES: '0'
+  Dark DEF: '40'
+  Durability: '85'
+  Fire DEF: '33'
+  Lightning DEF: '15'
+  Magic Def: '25'
+  Petrify RES: '0'
+  Physical Def: '103'
+  Poise: '10'
+  Poison RES: '13'
+  Requirements: ''
+  Scaling: C
+  Vs Slash: '121'
+  Vs Strike: '90'
+  Vs Thrust: '105'
+  Weight: '6'
+  effects: ''
+  fashionID: '187'
+  ? 'id
+
+    '
+  : '26
+
+    '
+  name: Raime's Helm
+  type: head
+- Bleed RES: '27'
+  Curse RES: '0'
+  Dark DEF: '18'
+  Durability: '90'
+  Fire DEF: '17'
+  Lightning DEF: '15'
+  Magic Def: '18'
+  Petrify RES: '0'
+  Physical Def: '120'
+  Poise: '9'
+  Poison RES: '17'
+  Requirements: ''
+  Scaling: C
+  Vs Slash: '130'
+  Vs Strike: '110'
+  Vs Thrust: '120'
+  Weight: '5.8'
+  effects: ''
+  fashionID: '191'
+  ? 'id
+
+    '
+  : '27
+
+    '
+  name: Sanctum Knight Helm
+  type: head
+- Bleed RES: '21'
+  Curse RES: '29'
+  Dark DEF: '17'
+  Durability: '75'
+  Fire DEF: '16'
+  Lightning DEF: '12'
+  Magic Def: '17'
+  Petrify RES: '29'
+  Physical Def: '103'
+  Poise: '9'
+  Poison RES: '21'
+  Requirements: ''
+  Scaling: C
+  Vs Slash: '108'
+  Vs Strike: '103'
+  Vs Thrust: '98'
+  Weight: '5'
+  effects: ''
+  fashionID: '174'
+  ? 'id
+
+    '
+  : '28
+
+    '
+  name: Mad Warrior Mask
+  type: head
+- Bleed RES: '18'
+  Curse RES: '0'
+  Dark DEF: '12'
+  Durability: '90'
+  Fire DEF: '12'
+  Lightning DEF: '10'
+  Magic Def: '12'
+  Petrify RES: '0'
+  Physical Def: '96'
+  Poise: '9'
+  Poison RES: '12'
+  Requirements: ''
+  Scaling: C
+  Vs Slash: '104'
+  Vs Strike: '88'
+  Vs Thrust: '96'
+  Weight: '5.8'
+  effects: ''
+  fashionID: '191'
+  ? 'id
+
+    '
+  : '29
+
+    '
+  name: Sanctum Knight Helm
+  type: head
+- Bleed RES: '21'
+  Curse RES: '0'
+  Dark DEF: '18'
+  Durability: '80'
+  Fire DEF: '29'
+  Lightning DEF: '14'
+  Magic Def: '18'
+  Petrify RES: '0'
+  Physical Def: '99'
+  Poise: '9'
+  Poison RES: '9'
+  Requirements: ''
+  Scaling: C
+  Vs Slash: '104'
+  Vs Strike: '94'
+  Vs Thrust: '99'
+  Weight: '4.6'
+  effects: ''
+  fashionID: '60'
+  ? 'id
+
+    '
+  : '30
+
+    '
+  name: Alonne Knight Helm
+  type: head
+- Bleed RES: '25'
+  Curse RES: '0'
+  Dark DEF: '21'
+  Durability: '85'
+  Fire DEF: '23'
+  Lightning DEF: '14'
+  Magic Def: '21'
+  Petrify RES: '0'
+  Physical Def: '95'
+  Poise: '9'
+  Poison RES: '18'
+  Requirements: ''
+  Scaling: C
+  Vs Slash: '101'
+  Vs Strike: '90'
+  Vs Thrust: '96'
+  Weight: '4.8'
+  effects: ''
+  fashionID: '20'
+  ? 'id
+
+    '
+  : '31
+
+    '
+  name: Faraam Helm
+  type: head
+- Bleed RES: '24'
+  Curse RES: '0'
+  Dark DEF: '16'
+  Durability: '95'
+  Fire DEF: '20'
+  Lightning DEF: '12'
+  Magic Def: '18'
+  Petrify RES: '0'
+  Physical Def: '86'
+  Poise: '9'
+  Poison RES: '15'
+  Requirements: ''
+  Scaling: C
+  Vs Slash: '100'
+  Vs Strike: '86'
+  Vs Thrust: '86'
+  Weight: '4.5'
+  effects: ''
+  fashionID: '145'
+  ? 'id
+
+    '
+  : '32
+
+    '
+  name: Catarina Helm
+  type: head
+- Bleed RES: '31'
+  Curse RES: '0'
+  Dark DEF: '26'
+  Durability: '100'
+  Fire DEF: '29'
+  Lightning DEF: '16'
+  Magic Def: '26'
+  Petrify RES: '0'
+  Physical Def: '131'
+  Poise: '8'
+  Poison RES: '18'
+  Requirements: ''
+  Scaling: C
+  Vs Slash: '136'
+  Vs Strike: '126'
+  Vs Thrust: '132'
+  Weight: '6.4'
+  effects: ''
+  fashionID: '114'
+  ? 'id
+
+    '
+  : '33
+
+    '
+  name: Throne Defender Helm
+  type: head
+- Bleed RES: '27'
+  Curse RES: '0'
+  Dark DEF: '23'
+  Durability: '85'
+  Fire DEF: '24'
+  Lightning DEF: '16'
+  Magic Def: '23'
+  Petrify RES: '0'
+  Physical Def: '80'
+  Poise: '8'
+  Poison RES: '19'
+  Requirements: ''
+  Scaling: C
+  Vs Slash: '88'
+  Vs Strike: '78'
+  Vs Thrust: '80'
+  Weight: '4.5'
+  effects: ''
+  fashionID: '18'
+  ? 'id
+
+    '
+  : '34
+
+    '
+  name: Elite Knight Helm
+  type: head
+- Bleed RES: '25'
+  Curse RES: '0'
+  Dark DEF: '19'
+  Durability: '105'
+  Fire DEF: '21'
+  Lightning DEF: '13'
+  Magic Def: '19'
+  Petrify RES: '33'
+  Physical Def: '80'
+  Poise: '8'
+  Poison RES: '11'
+  Requirements: ''
+  Scaling: C
+  Vs Slash: '86'
+  Vs Strike: '72'
+  Vs Thrust: '81'
+  Weight: '4'
+  effects: ''
+  fashionID: '188'
+  ? 'id
+
+    '
+  : '35
+
+    '
+  name: Ruin Helm
+  type: head
+- Bleed RES: '27'
+  Curse RES: '0'
+  Dark DEF: '21'
+  Durability: '80'
+  Fire DEF: '23'
+  Lightning DEF: '15'
+  Magic Def: '21'
+  Petrify RES: '0'
+  Physical Def: '71'
+  Poise: '8'
+  Poison RES: '19'
+  Requirements: ''
+  Scaling: C
+  Vs Slash: '80'
+  Vs Strike: '69'
+  Vs Thrust: '71'
+  Weight: '4.2'
+  effects: ''
+  fashionID: '17'
+  ? 'id
+
+    '
+  : '36
+
+    '
+  name: Knight Helm
+  type: head
+- Bleed RES: '28'
+  Curse RES: '0'
+  Dark DEF: '21'
+  Durability: '80'
+  Fire DEF: '22'
+  Lightning DEF: '15'
+  Magic Def: '20'
+  Petrify RES: '0'
+  Physical Def: '77'
+  Poise: '8'
+  Poison RES: '21'
+  Requirements: ''
+  Scaling: C
+  Vs Slash: '80'
+  Vs Strike: '74'
+  Vs Thrust: '76'
+  Weight: '4'
+  effects: ''
+  fashionID: '141'
+  ? 'id
+
+    '
+  : '37
+
+    '
+  name: Alonne's Helm
+  type: head
+- Bleed RES: '22'
+  Curse RES: '0'
+  Dark DEF: '29'
+  Durability: '80'
+  Fire DEF: '30'
+  Lightning DEF: '51'
+  Magic Def: '31'
+  Petrify RES: '0'
+  Physical Def: '98'
+  Poise: '7.5'
+  Poison RES: '26'
+  Requirements: ''
+  Scaling: C
+  Vs Slash: '98'
+  Vs Strike: '98'
+  Vs Thrust: '98'
+  Weight: '5.4'
+  effects: '[{"effect":  "Raises Intelligence by 1 point", "alters": "Intelligence",  "method":
+    "add", "value": 1}]'
+  fashionID: '2'
+  ? 'id
+
+    '
+  : '38
+
+    '
+  name: Archdrake Helm
+  type: head
+- Bleed RES: '26'
+  Curse RES: '0'
+  Dark DEF: '20'
+  Durability: '85'
+  Fire DEF: '24'
+  Lightning DEF: '11'
+  Magic Def: '15'
+  Petrify RES: '0'
+  Physical Def: '95'
+  Poise: '7'
+  Poison RES: '20'
+  Requirements: ''
+  Scaling: C
+  Vs Slash: '103'
+  Vs Strike: '92'
+  Vs Thrust: '98'
+  Weight: '4.7'
+  effects: ''
+  fashionID: '154'
+  ? 'id
+
+    '
+  : '39
+
+    '
+  name: Drakeblood Helm
+  type: head
+- Bleed RES: '25'
+  Curse RES: '0'
+  Dark DEF: '19'
+  Durability: '75'
+  Fire DEF: '25'
+  Lightning DEF: '13'
+  Magic Def: '19'
+  Petrify RES: '0'
+  Physical Def: '84'
+  Poise: '7'
+  Poison RES: '11'
+  Requirements: ''
+  Scaling: C
+  Vs Slash: '94'
+  Vs Strike: '74'
+  Vs Thrust: '88'
+  Weight: '4.7'
+  effects: ''
+  fashionID: '106'
+  ? 'id
+
+    '
+  : '40
+
+    '
+  name: Royal Swordsman Helm
+  type: head
+- Bleed RES: '33'
+  Curse RES: '0'
+  Dark DEF: '26'
+  Durability: '75'
+  Fire DEF: '37'
+  Lightning DEF: '14'
+  Magic Def: '26'
+  Petrify RES: '0'
+  Physical Def: '86'
+  Poise: '6'
+  Poison RES: '18'
+  Requirements: ''
+  Scaling: D
+  Vs Slash: '93'
+  Vs Strike: '76'
+  Vs Thrust: '88'
+  Weight: '4.5'
+  effects: ''
+  fashionID: '158'
+  ? 'id
+
+    '
+  : '41
+
+    '
+  name: Falconer Helm
+  type: head
+- Bleed RES: '25'
+  Curse RES: '21'
+  Dark DEF: '20'
+  Durability: '75'
+  Fire DEF: '21'
+  Lightning DEF: '27'
+  Magic Def: '21'
+  Petrify RES: '21'
+  Physical Def: '84'
+  Poise: '6'
+  Poison RES: '19'
+  Requirements: ''
+  Scaling: C
+  Vs Slash: '90'
+  Vs Strike: '80'
+  Vs Thrust: '84'
+  Weight: '4.8'
+  effects: '[{"effect":  "Increases Faith by 2", "alters": "Faith",  "method": "add",
+    "value": 1}]'
+  fashionID: '168'
+  ? 'id
+
+    '
+  : '42
+
+    '
+  name: Insolent Helm
+  type: head
+- Bleed RES: '25'
+  Curse RES: '0'
+  Dark DEF: '25'
+  Durability: '70'
+  Fire DEF: '26'
+  Lightning DEF: '17'
+  Magic Def: '25'
+  Petrify RES: '0'
+  Physical Def: '82'
+  Poise: '6'
+  Poison RES: '22'
+  Requirements: ''
+  Scaling: C
+  Vs Slash: '85'
+  Vs Strike: '78'
+  Vs Thrust: '84'
+  Weight: '4.8'
+  effects: ''
+  fashionID: '99'
+  ? 'id
+
+    '
+  : '43
+
+    '
+  name: Royal Solider Helm
+  type: head
+- Bleed RES: '30'
+  Curse RES: '0'
+  Dark DEF: '24'
+  Durability: '70'
+  Fire DEF: '27'
+  Lightning DEF: '14'
+  Magic Def: '24'
+  Petrify RES: '0'
+  Physical Def: '80'
+  Poise: '6'
+  Poison RES: '18'
+  Requirements: ''
+  Scaling: C
+  Vs Slash: '83'
+  Vs Strike: '78'
+  Vs Thrust: '80'
+  Weight: '4.3'
+  effects: ''
+  fashionID: '146'
+  ? 'id
+
+    '
+  : '44
+
+    '
+  name: Creighton's Helm
+  type: head
+- Bleed RES: '23'
+  Curse RES: '0'
+  Dark DEF: '22'
+  Durability: '80'
+  Fire DEF: '23'
+  Lightning DEF: '16'
+  Magic Def: '21'
+  Petrify RES: '0'
+  Physical Def: '75'
+  Poise: '6'
+  Poison RES: '22'
+  Requirements: ''
+  Scaling: C
+  Vs Slash: '78'
+  Vs Strike: '72'
+  Vs Thrust: '74'
+  Weight: '3.7'
+  effects: ''
+  fashionID: '27'
+  ? 'id
+
+    '
+  : '45
+
+    '
+  name: Alva Helm
+  type: head
+- Bleed RES: '25'
+  Curse RES: '0'
+  Dark DEF: '26'
+  Durability: '80'
+  Fire DEF: '24'
+  Lightning DEF: '17'
+  Magic Def: '24'
+  Petrify RES: '0'
+  Physical Def: '69'
+  Poise: '6'
+  Poison RES: '19'
+  Requirements: ''
+  Scaling: C
+  Vs Slash: '72'
+  Vs Strike: '67'
+  Vs Thrust: '69'
+  Weight: '3.8'
+  effects: ''
+  fashionID: '92'
+  ? 'id
+
+    '
+  : '46
+
+    '
+  name: Helm of Aurous
+  type: head
+- Bleed RES: '21'
+  Curse RES: '0'
+  Dark DEF: '37'
+  Durability: '90'
+  Fire DEF: '17'
+  Lightning DEF: '12'
+  Magic Def: '17'
+  Petrify RES: '0'
+  Physical Def: '66'
+  Poise: '6'
+  Poison RES: '18'
+  Requirements: ''
+  Scaling: C
+  Vs Slash: '70'
+  Vs Strike: '66'
+  Vs Thrust: '64'
+  Weight: '3.8'
+  effects: '[{"effect": "Increases Int by 1", "alters": "Intelligence", "method":
+    "add", "value":1},{"effect": "Increases Faith by 1", "alters": "Faith", "method":
+    "add", "value":1}]'
+  fashionID: '149'
+  ? 'id
+
+    '
+  : '47
+
+    '
+  name: Dark Mask
+  type: head
+- Bleed RES: '12'
+  Curse RES: '0'
+  Dark DEF: '15'
+  Durability: '60'
+  Fire DEF: '15'
+  Lightning DEF: '15'
+  Magic Def: '11'
+  Petrify RES: '0'
+  Physical Def: '31'
+  Poise: '6'
+  Poison RES: '15'
+  Requirements: ''
+  Scaling: C
+  Vs Slash: '30'
+  Vs Strike: '33'
+  Vs Thrust: '30'
+  Weight: '2'
+  effects: ''
+  fashionID: '159'
+  ? 'id
+
+    '
+  : '48
+
+    '
+  name: Fume Sorcerer Mask
+  type: head
+- Bleed RES: '24'
+  Curse RES: '0'
+  Dark DEF: '20'
+  Durability: '75'
+  Fire DEF: '18'
+  Lightning DEF: '15'
+  Magic Def: '18'
+  Petrify RES: '0'
+  Physical Def: '73'
+  Poise: '5.5'
+  Poison RES: '22'
+  Requirements: ''
+  Scaling: C
+  Vs Slash: '79'
+  Vs Strike: '68'
+  Vs Thrust: '73'
+  Weight: '4'
+  effects: ''
+  fashionID: '196'
+  ? 'id
+
+    '
+  : '49
+
+    '
+  name: Targray's Helm
+  type: head
+- Bleed RES: '45'
+  Curse RES: '0'
+  Dark DEF: '34'
+  Durability: '55'
+  Fire DEF: '38'
+  Lightning DEF: '20'
+  Magic Def: '34'
+  Petrify RES: '0'
+  Physical Def: '106'
+  Poise: '5'
+  Poison RES: '33'
+  Requirements: ''
+  Scaling: D
+  Vs Slash: '119'
+  Vs Strike: '92'
+  Vs Thrust: '109'
+  Weight: '4.6'
+  effects: ''
+  fashionID: '95'
+  ? 'id
+
+    '
+  : '50
+
+    '
+  name: Varangian Helm
+  type: head
+- Bleed RES: '31'
+  Curse RES: '0'
+  Dark DEF: '40'
+  Durability: '60'
+  Fire DEF: '36'
+  Lightning DEF: '10'
+  Magic Def: '22'
+  Petrify RES: '0'
+  Physical Def: '105'
+  Poise: '5'
+  Poison RES: '15'
+  Requirements: ''
+  Scaling: D
+  Vs Slash: '114'
+  Vs Strike: '90'
+  Vs Thrust: '110'
+  Weight: '4.8'
+  effects: ''
+  fashionID: '81'
+  ? 'id
+
+    '
+  : '51
+
+    '
+  name: Bell Keeper Helmet
+  type: head
+- Bleed RES: '22'
+  Curse RES: '62'
+  Dark DEF: '45'
+  Durability: '120'
+  Fire DEF: '50'
+  Lightning DEF: '26'
+  Magic Def: '40'
+  Petrify RES: '32'
+  Physical Def: '97'
+  Poise: '5'
+  Poison RES: '15'
+  Requirements: ''
+  Scaling: D
+  Vs Slash: '109'
+  Vs Strike: '89'
+  Vs Thrust: '90'
+  Weight: '5.1'
+  effects: '[{"effect":  "Increases maximum equipment load by 3%", "alters": "Equip
+    Load",  "method": "mul", "value": 1.03}]'
+  fashionID: '112'
+  ? 'id
+
+    '
+  : '52
+
+    '
+  name: Penal Mask
+  type: head
+- Bleed RES: '36'
+  Curse RES: '0'
+  Dark DEF: '15'
+  Durability: '65'
+  Fire DEF: '20'
+  Lightning DEF: '6'
+  Magic Def: '15'
+  Petrify RES: '0'
+  Physical Def: '80'
+  Poise: '5'
+  Poison RES: '19'
+  Requirements: ''
+  Scaling: D
+  Vs Slash: '106'
+  Vs Strike: '56'
+  Vs Thrust: '78'
+  Weight: '4'
+  effects: ''
+  fashionID: '15'
+  ? 'id
+
+    '
+  : '53
+
+    '
+  name: Standard Helm
+  type: head
+- Bleed RES: '34'
+  Curse RES: '0'
+  Dark DEF: '16'
+  Durability: '80'
+  Fire DEF: '20'
+  Lightning DEF: '6'
+  Magic Def: '15'
+  Petrify RES: '0'
+  Physical Def: '77'
+  Poise: '5'
+  Poison RES: '17'
+  Requirements: ''
+  Scaling: D
+  Vs Slash: '102'
+  Vs Strike: '53'
+  Vs Thrust: '75'
+  Weight: '3.5'
+  effects: ''
+  fashionID: '182'
+  ? 'id
+
+    '
+  : '54
+
+    '
+  name: Pate's Helm
+  type: head
+- Bleed RES: '63'
+  Curse RES: '44'
+  Dark DEF: '49'
+  Durability: '65'
+  Fire DEF: '22'
+  Lightning DEF: '15'
+  Magic Def: '21'
+  Petrify RES: '0'
+  Physical Def: '92'
+  Poise: '5'
+  Poison RES: '17'
+  Requirements: ''
+  Scaling: D
+  Vs Slash: '97'
+  Vs Strike: '84'
+  Vs Thrust: '95'
+  Weight: '4.4'
+  effects: ''
+  fashionID: '157'
+  ? 'id
+
+    '
+  : '55
+
+    '
+  name: Executioner Helm
+  type: head
+- Bleed RES: '28'
+  Curse RES: '0'
+  Dark DEF: '30'
+  Durability: '95'
+  Fire DEF: '30'
+  Lightning DEF: '24'
+  Magic Def: '46'
+  Petrify RES: '0'
+  Physical Def: '104'
+  Poise: '4'
+  Poison RES: '23'
+  Requirements: ''
+  Scaling: C
+  Vs Slash: '112'
+  Vs Strike: '99'
+  Vs Thrust: '104'
+  Weight: '5.6'
+  effects: ''
+  fashionID: '115'
+  ? 'id
+
+    '
+  : '56
+
+    '
+  name: Throne Watcher Helm
+  type: head
+- Bleed RES: '21'
+  Curse RES: '0'
+  Dark DEF: '22'
+  Durability: '35'
+  Fire DEF: '23'
+  Lightning DEF: '15'
+  Magic Def: '22'
+  Petrify RES: '0'
+  Physical Def: '69'
+  Poise: '4'
+  Poison RES: '18'
+  Requirements: ''
+  Scaling: C
+  Vs Slash: '73'
+  Vs Strike: '66'
+  Vs Thrust: '70'
+  Weight: '4.3'
+  effects: ''
+  fashionID: '29'
+  ? 'id
+
+    '
+  : '57
+
+    '
+  name: Hollow Solider Helm
+  type: head
+- Bleed RES: '17'
+  Curse RES: '0'
+  Dark DEF: '13'
+  Durability: '55'
+  Fire DEF: '14'
+  Lightning DEF: '13'
+  Magic Def: '20'
+  Petrify RES: '0'
+  Physical Def: '58'
+  Poise: '4'
+  Poison RES: '12'
+  Requirements: ''
+  Scaling: C
+  Vs Slash: '60'
+  Vs Strike: '56'
+  Vs Thrust: '59'
+  Weight: '4.3'
+  effects: ''
+  fashionID: '184'
+  ? 'id
+
+    '
+  : '58
+
+    '
+  name: Pharros Mask
+  type: head
+- Bleed RES: '38'
+  Curse RES: '120'
+  Dark DEF: '72'
+  Durability: '50'
+  Fire DEF: '33'
+  Lightning DEF: '48'
+  Magic Def: '72'
+  Petrify RES: '47'
+  Physical Def: '52'
+  Poise: '4'
+  Poison RES: '38'
+  Requirements: 14 INT
+  Scaling: E
+  Vs Slash: '48'
+  Vs Strike: '59'
+  Vs Thrust: '48'
+  Weight: '4.8'
+  effects: '[{"effect":  "Increases souls gained by 2.5%", "alters": "",  "method":
+    "", "value": 0},{"effect": "Increases Int by 1", "alters": "Intelligence", "method":
+    "add", "value": 1}]'
+  fashionID: '200'
+  ? 'id
+
+    '
+  : '59
+
+    '
+  name: Warlock Mask
+  type: head
+- Bleed RES: '28'
+  Curse RES: '0'
+  Dark DEF: '26'
+  Durability: '60'
+  Fire DEF: '27'
+  Lightning DEF: '22'
+  Magic Def: '26'
+  Petrify RES: '0'
+  Physical Def: '88'
+  Poise: '3.5'
+  Poison RES: '19'
+  Requirements: ''
+  Scaling: D
+  Vs Slash: '91'
+  Vs Strike: '88'
+  Vs Thrust: '85'
+  Weight: '4.1'
+  effects: ''
+  fashionID: '93'
+  ? 'id
+
+    '
+  : '60
+
+    '
+  name: Spiked Bandit Helm
+  type: head
+- Bleed RES: '23'
+  Curse RES: '0'
+  Dark DEF: '16'
+  Durability: '230'
+  Fire DEF: '23'
+  Lightning DEF: '18'
+  Magic Def: '23'
+  Petrify RES: '25'
+  Physical Def: '68'
+  Poise: '2.5'
+  Poison RES: '26'
+  Requirements: 14 STR, 12 DEX
+  Scaling: C
+  Vs Slash: '72'
+  Vs Strike: '65'
+  Vs Thrust: '68'
+  Weight: '3.8'
+  effects: '[{"effect": "Increases Int by 3", "alters": "Intelligence", "method":
+    "add", "value": 3},{"effect": "Increases Faith by 3", "alters": "Faith", "method":
+    "add", "value": 3},{"effect":  "Gives 10% extra spell casts", "alters": "",  "method":
+    "", "value": 0},{"effect":  "Prevents Hollowing after receiving Vendrick''s Blessing",
+    "alters": "",  "method": "", "value": 0}]'
+  fashionID: '170'
+  ? 'id
+
+    '
+  : '61
+
+    '
+  name: King's Crown
+  type: head
+- Bleed RES: '10'
+  Curse RES: '125'
+  Dark DEF: '22'
+  Durability: '60'
+  Fire DEF: '7'
+  Lightning DEF: '16'
+  Magic Def: '24'
+  Petrify RES: '0'
+  Physical Def: '100'
+  Poise: '0'
+  Poison RES: '11'
+  Requirements: ''
+  Scaling: E
+  Vs Slash: '100'
+  Vs Strike: '174'
+  Vs Thrust: '66'
+  Weight: '5'
+  effects: ''
+  fashionID: '203'
+  ? 'id
+
+    '
+  : '62
+
+    '
+  name: Xanthous Crown
+  type: head
+- Bleed RES: '21'
+  Curse RES: '0'
+  Dark DEF: '22'
+  Durability: '60'
+  Fire DEF: '23'
+  Lightning DEF: '19'
+  Magic Def: '22'
+  Petrify RES: '0'
+  Physical Def: '78'
+  Poise: '0'
+  Poison RES: '34'
+  Requirements: ''
+  Scaling: D
+  Vs Slash: '77'
+  Vs Strike: '77'
+  Vs Thrust: '80'
+  Weight: '3'
+  effects: ''
+  fashionID: '144'
+  ? 'id
+
+    '
+  : '63
+
+    '
+  name: Cale's Helm
+  type: head
+- Bleed RES: '20'
+  Curse RES: '0'
+  Dark DEF: '19'
+  Durability: '55'
+  Fire DEF: '18'
+  Lightning DEF: '25'
+  Magic Def: '19'
+  Petrify RES: '0'
+  Physical Def: '77'
+  Poise: '0'
+  Poison RES: '20'
+  Requirements: ''
+  Scaling: D
+  Vs Slash: '75'
+  Vs Strike: '80'
+  Vs Thrust: '75'
+  Weight: '4'
+  effects: ''
+  fashionID: '167'
+  ? 'id
+
+    '
+  : '64
+
+    '
+  name: Infantry Helm
+  type: head
+- Bleed RES: '17'
+  Curse RES: '20'
+  Dark DEF: '15'
+  Durability: '100'
+  Fire DEF: '12'
+  Lightning DEF: '13'
+  Magic Def: '12'
+  Petrify RES: '17'
+  Physical Def: '71'
+  Poise: '0'
+  Poison RES: '32'
+  Requirements: ''
+  Scaling: E
+  Vs Slash: '71'
+  Vs Strike: '67'
+  Vs Thrust: '67'
+  Weight: '4'
+  effects: '[{"effect": "20% of spell uses restored every 2 min", "alters": "", "method":
+    "", "value":0},{"effect":  "Prevents Hollowing after receiving Vendrick''s Blessing",
+    "alters": "",  "method": "", "value": 0}]'
+  fashionID: '147'
+  ? 'id
+
+    '
+  : '65
+
+    '
+  name: Crown of the Old Iron King
+  type: head
+- Bleed RES: '21'
+  Curse RES: '41'
+  Dark DEF: '33'
+  Durability: '50'
+  Fire DEF: '30'
+  Lightning DEF: '26'
+  Magic Def: '38'
+  Petrify RES: '0'
+  Physical Def: '74'
+  Poise: '0'
+  Poison RES: '20'
+  Requirements: ''
+  Scaling: E
+  Vs Slash: '71'
+  Vs Strike: '79'
+  Vs Thrust: '71'
+  Weight: '2.5'
+  effects: ''
+  fashionID: '175'
+  ? 'id
+
+    '
+  : '66
+
+    '
+  name: Mask of Judgment
+  type: head
+- Bleed RES: '20'
+  Curse RES: '0'
+  Dark DEF: '14'
+  Durability: '100'
+  Fire DEF: '15'
+  Lightning DEF: '16'
+  Magic Def: '17'
+  Petrify RES: '20'
+  Physical Def: '70'
+  Poise: '0'
+  Poison RES: '35'
+  Requirements: ''
+  Scaling: E
+  Vs Slash: '70'
+  Vs Strike: '66'
+  Vs Thrust: '66'
+  Weight: '4'
+  effects: '[{"effect": "Increases Faith by 1", "alters": "Faith", "method": "add",
+    "value":1},{"effect": "Increases Int by 1", "alters": "Intelligence", "method":
+    "add", "value":1}]'
+  fashionID: '148'
+  ? 'id
+
+    '
+  : '67
+
+    '
+  name: Crown of the Sunken King
+  type: head
+- Bleed RES: '59'
+  Curse RES: '0'
+  Dark DEF: '45'
+  Durability: '65'
+  Fire DEF: '34'
+  Lightning DEF: '43'
+  Magic Def: '37'
+  Petrify RES: '19'
+  Physical Def: '72'
+  Poise: '0'
+  Poison RES: '43'
+  Requirements: ''
+  Scaling: E
+  Vs Slash: '69'
+  Vs Strike: '76'
+  Vs Thrust: '69'
+  Weight: '1.8'
+  effects: ''
+  fashionID: '104'
+  ? 'id
+
+    '
+  : '68
+
+    '
+  name: Manikin Mask
+  type: head
+- Bleed RES: '32'
+  Curse RES: '27'
+  Dark DEF: '39'
+  Durability: '45'
+  Fire DEF: '39'
+  Lightning DEF: '39'
+  Magic Def: '39'
+  Petrify RES: '41'
+  Physical Def: '69'
+  Poise: '0'
+  Poison RES: '42'
+  Requirements: 14 DEX
+  Scaling: D
+  Vs Slash: '67'
+  Vs Strike: '73'
+  Vs Thrust: '67'
+  Weight: '3'
+  effects: '[{"effect":  "Increases item discovery", "alters": "",  "method": "",
+    "value": 0}]'
+  fashionID: '169'
+  ? 'id
+
+    '
+  : '69
+
+    '
+  name: Jester's Cap
+  type: head
+- Bleed RES: '25'
+  Curse RES: '38'
+  Dark DEF: '47'
+  Durability: '50'
+  Fire DEF: '41'
+  Lightning DEF: '43'
+  Magic Def: '56'
+  Petrify RES: '38'
+  Physical Def: '67'
+  Poise: '0'
+  Poison RES: '27'
+  Requirements: ''
+  Scaling: E
+  Vs Slash: '66'
+  Vs Strike: '70'
+  Vs Thrust: '66'
+  Weight: '1.8'
+  effects: '[{"effect": "Increases Int by 1", "alters": "Intelligence", "method":
+    "add", "value": 1}]'
+  fashionID: '201'
+  ? 'id
+
+    '
+  : '70
+
+    '
+  name: White Hollow Mage Hood
+  type: head
+- Bleed RES: '24'
+  Curse RES: '25'
+  Dark DEF: '45'
+  Durability: '50'
+  Fire DEF: '38'
+  Lightning DEF: '41'
+  Magic Def: '54'
+  Petrify RES: '25'
+  Physical Def: '64'
+  Poise: '0'
+  Poison RES: '26'
+  Requirements: ''
+  Scaling: E
+  Vs Slash: '62'
+  Vs Strike: '67'
+  Vs Thrust: '62'
+  Weight: '1.9'
+  effects: '[{"effect":  "Raises Intelligence by 1 point", "alters": "Intelligence",  "method":
+    "add", "value": 1}]'
+  fashionID: '96'
+  ? 'id
+
+    '
+  : '71
+
+    '
+  name: Black Hollow Mage Hood
+  type: head
+- Bleed RES: '13'
+  Curse RES: '0'
+  Dark DEF: '13'
+  Durability: '40'
+  Fire DEF: '11'
+  Lightning DEF: '17'
+  Magic Def: '13'
+  Petrify RES: '0'
+  Physical Def: '62'
+  Poise: '0'
+  Poison RES: '13'
+  Requirements: ''
+  Scaling: D
+  Vs Slash: '61'
+  Vs Strike: '64'
+  Vs Thrust: '61'
+  Weight: '4'
+  effects: ''
+  fashionID: '97'
+  ? 'id
+
+    '
+  : '72
+
+    '
+  name: Hollow Infantry Helm
+  type: head
+- Bleed RES: '41'
+  Curse RES: '0'
+  Dark DEF: '48'
+  Durability: '60'
+  Fire DEF: '41'
+  Lightning DEF: '37'
+  Magic Def: '36'
+  Petrify RES: '34'
+  Physical Def: '67'
+  Poise: '0'
+  Poison RES: '54'
+  Requirements: ''
+  Scaling: E
+  Vs Slash: '60'
+  Vs Strike: '76'
+  Vs Thrust: '60'
+  Weight: '1.8'
+  effects: ''
+  fashionID: '193'
+  ? 'id
+
+    '
+  : '73
+
+    '
+  name: Shadow Mask
+  type: head
+- Bleed RES: '16'
+  Curse RES: '0'
+  Dark DEF: '32'
+  Durability: '50'
+  Fire DEF: '26'
+  Lightning DEF: '26'
+  Magic Def: '38'
+  Petrify RES: '0'
+  Physical Def: '52'
+  Poise: '0'
+  Poison RES: '16'
+  Requirements: ''
+  Scaling: E
+  Vs Slash: '50'
+  Vs Strike: '54'
+  Vs Thrust: '50'
+  Weight: '2.2'
+  effects: '[{"effect":  "Increases Int by 1", "alters": "Intelligence",  "method":
+    "add", "value": 1}]'
+  fashionID: '21'
+  ? 'id
+
+    '
+  : '74
+
+    '
+  name: Moon Hat
+  type: head
+- Bleed RES: '20'
+  Curse RES: '0'
+  Dark DEF: '14'
+  Durability: '60'
+  Fire DEF: '15'
+  Lightning DEF: '17'
+  Magic Def: '14'
+  Petrify RES: '0'
+  Physical Def: '50'
+  Poise: '0'
+  Poison RES: '18'
+  Requirements: ''
+  Scaling: D
+  Vs Slash: '49'
+  Vs Strike: '53'
+  Vs Thrust: '48'
+  Weight: '2.6'
+  effects: '[{"effect":  "Increases item discovery", "alters": "",  "method": "",
+    "value": 0}]'
+  fashionID: '22'
+  ? 'id
+
+    '
+  : '75
+
+    '
+  name: Traveling Merchant Hat
+  type: head
+- Bleed RES: '19'
+  Curse RES: '42'
+  Dark DEF: '25'
+  Durability: '55'
+  Fire DEF: '21'
+  Lightning DEF: '24'
+  Magic Def: '21'
+  Petrify RES: '0'
+  Physical Def: '50'
+  Poise: '0'
+  Poison RES: '23'
+  Requirements: ''
+  Scaling: E
+  Vs Slash: '49'
+  Vs Strike: '53'
+  Vs Thrust: '49'
+  Weight: '2'
+  effects: '[{"effect": "Increases Faith by 1", "alters": "Faith", "method": "add",
+    "value":1},{"effect": "Increases Int by 1", "alters": "Intelligence", "method":
+    "add", "value":1}]'
+  fashionID: '152'
+  ? 'id
+
+    '
+  : '76
+
+    '
+  name: Dragon Sage Hood
+  type: head
+- Bleed RES: '17'
+  Curse RES: '18'
+  Dark DEF: '28'
+  Durability: '64'
+  Fire DEF: '25'
+  Lightning DEF: '30'
+  Magic Def: '28'
+  Petrify RES: '9'
+  Physical Def: '51'
+  Poise: '0'
+  Poison RES: '22'
+  Requirements: ''
+  Scaling: D
+  Vs Slash: '49'
+  Vs Strike: '55'
+  Vs Thrust: '49'
+  Weight: '2'
+  effects: ''
+  fashionID: '173'
+  ? 'id
+
+    '
+  : '77
+
+    '
+  name: Lucatiel's Mask
+  type: head
+- Bleed RES: '28'
+  Curse RES: '0'
+  Dark DEF: '16'
+  Durability: '50'
+  Fire DEF: '20'
+  Lightning DEF: '22'
+  Magic Def: '15'
+  Petrify RES: '0'
+  Physical Def: '46'
+  Poise: '0'
+  Poison RES: '17'
+  Requirements: ''
+  Scaling: E
+  Vs Slash: '47'
+  Vs Strike: '44'
+  Vs Thrust: '47'
+  Weight: '1.4'
+  effects: ''
+  fashionID: '199'
+  ? 'id
+
+    '
+  : '78
+
+    '
+  name: Wanderer Hood
+  type: head
+- Bleed RES: '16'
+  Curse RES: '30'
+  Dark DEF: '42'
+  Durability: '65'
+  Fire DEF: '34'
+  Lightning DEF: '27'
+  Magic Def: '30'
+  Petrify RES: '19'
+  Physical Def: '48'
+  Poise: '0'
+  Poison RES: '24'
+  Requirements: ''
+  Scaling: E
+  Vs Slash: '46'
+  Vs Strike: '52'
+  Vs Thrust: '46'
+  Weight: '1.7'
+  effects: ''
+  fashionID: '143'
+  ? 'id
+
+    '
+  : '79
+
+    '
+  name: Bone Crown
+  type: head
+- Bleed RES: '9'
+  Curse RES: '9'
+  Dark DEF: '31'
+  Durability: '50'
+  Fire DEF: '28'
+  Lightning DEF: '37'
+  Magic Def: '28'
+  Petrify RES: '9'
+  Physical Def: '47'
+  Poise: '0'
+  Poison RES: '10'
+  Requirements: ''
+  Scaling: E
+  Vs Slash: '46'
+  Vs Strike: '49'
+  Vs Thrust: '46'
+  Weight: '1.4'
+  effects: '[{"effect": "Increases Faith by 1", "alters": "Faith", "method": "add",
+    "value": 1}]'
+  fashionID: '-1'
+  ? 'id
+
+    '
+  : '80
+
+    '
+  name: White Priest Headset
+  type: head
+- Bleed RES: '17'
+  Curse RES: '21'
+  Dark DEF: '23'
+  Durability: '55'
+  Fire DEF: '19'
+  Lightning DEF: '22'
+  Magic Def: '19'
+  Petrify RES: '0'
+  Physical Def: '45'
+  Poise: '0'
+  Poison RES: '21'
+  Requirements: ''
+  Scaling: E
+  Vs Slash: '44'
+  Vs Strike: '48'
+  Vs Thrust: '44'
+  Weight: '1.5'
+  effects: ''
+  fashionID: '151'
+  ? 'id
+
+    '
+  : '81
+
+    '
+  name: Dragon Acolyte Mask
+  type: head
+- Bleed RES: '18'
+  Curse RES: '22'
+  Dark DEF: '31'
+  Durability: '50'
+  Fire DEF: '28'
+  Lightning DEF: '39'
+  Magic Def: '28'
+  Petrify RES: '22'
+  Physical Def: '46'
+  Poise: '0'
+  Poison RES: '19'
+  Requirements: ''
+  Scaling: E
+  Vs Slash: '44'
+  Vs Strike: '47'
+  Vs Thrust: '44'
+  Weight: '1.2'
+  effects: '[{"effect":  "Increases Faith by 1", "alters": "Faith",  "method": "add",
+    "value": 1}]'
+  fashionID: '185'
+  ? 'id
+
+    '
+  : '82
+
+    '
+  name: Priestess Headpiece
+  type: head
+- Bleed RES: '18'
+  Curse RES: '0'
+  Dark DEF: '19'
+  Durability: '60'
+  Fire DEF: '17'
+  Lightning DEF: '16'
+  Magic Def: '22'
+  Petrify RES: '0'
+  Physical Def: '44'
+  Poise: '0'
+  Poison RES: '18'
+  Requirements: ''
+  Scaling: E
+  Vs Slash: '43'
+  Vs Strike: '48'
+  Vs Thrust: '41'
+  Weight: '1.2'
+  effects: ''
+  fashionID: '19'
+  ? 'id
+
+    '
+  : '83
+
+    '
+  name: Brigand Hood
+  type: head
+- Bleed RES: '13'
+  Curse RES: '0'
+  Dark DEF: '15'
+  Durability: '40'
+  Fire DEF: '14'
+  Lightning DEF: '18'
+  Magic Def: '17'
+  Petrify RES: '0'
+  Physical Def: '43'
+  Poise: '0'
+  Poison RES: '12'
+  Requirements: ''
+  Scaling: E
+  Vs Slash: '41'
+  Vs Strike: '46'
+  Vs Thrust: '42'
+  Weight: '1.2'
+  effects: '[{"effect":  "Increases maximum equipment load by 1%", "alters": "Equip
+    Load",  "method": "mul", "value": 1.01}]'
+  fashionID: '425'
+  ? 'id
+
+    '
+  : '84
+
+    '
+  name: Helm of Aurous (Transparent)
+  type: head
+- Bleed RES: '16'
+  Curse RES: '0'
+  Dark DEF: '16'
+  Durability: '55'
+  Fire DEF: '15'
+  Lightning DEF: '14'
+  Magic Def: '19'
+  Petrify RES: '0'
+  Physical Def: '40'
+  Poise: '0'
+  Poison RES: '23'
+  Requirements: ''
+  Scaling: E
+  Vs Slash: '39'
+  Vs Strike: '42'
+  Vs Thrust: '39'
+  Weight: '1.2'
+  effects: ''
+  fashionID: '16'
+  ? 'id
+
+    '
+  : '85
+
+    '
+  name: Thief Mask
+  type: head
+- Bleed RES: '12'
+  Curse RES: '8'
+  Dark DEF: '23'
+  Durability: '55'
+  Fire DEF: '29'
+  Lightning DEF: '19'
+  Magic Def: '22'
+  Petrify RES: '0'
+  Physical Def: '41'
+  Poise: '0'
+  Poison RES: '35'
+  Requirements: ''
+  Scaling: E
+  Vs Slash: '39'
+  Vs Strike: '43'
+  Vs Thrust: '39'
+  Weight: '1.1'
+  effects: ''
+  fashionID: '197'
+  ? 'id
+
+    '
+  : '86
+
+    '
+  name: Tattered Cloth Hood
+  type: head
+- Bleed RES: '17'
+  Curse RES: '24'
+  Dark DEF: '18'
+  Durability: '45'
+  Fire DEF: '14'
+  Lightning DEF: '22'
+  Magic Def: '21'
+  Petrify RES: '22'
+  Physical Def: '41'
+  Poise: '0'
+  Poison RES: '39'
+  Requirements: ''
+  Scaling: E
+  Vs Slash: '39'
+  Vs Strike: '45'
+  Vs Thrust: '39'
+  Weight: '0.8'
+  effects: '[{"effect":  "Poisons nearby characters", "alters": "",  "method": "",
+    "value": 0},{"effect":  "Increases Int by 1", "alters": "Intelligence",  "method":
+    "add", "value": 1}]'
+  fashionID: '178'
+  ? 'id
+
+    '
+  : '87
+
+    '
+  name: Moon Butterfly Hat
+  type: head
+- Bleed RES: '19'
+  Curse RES: '25'
+  Dark DEF: '38'
+  Durability: '50'
+  Fire DEF: '18'
+  Lightning DEF: '20'
+  Magic Def: '21'
+  Petrify RES: '25'
+  Physical Def: '38'
+  Poise: '0'
+  Poison RES: '19'
+  Requirements: ''
+  Scaling: E
+  Vs Slash: '37'
+  Vs Strike: '41'
+  Vs Thrust: '37'
+  Weight: '1.5'
+  effects: '[{"effect":  "Increases souls gained by 2.5%", "alters": "",  "method":
+    "", "value": 0}]'
+  fashionID: '179'
+  ? 'id
+
+    '
+  : '88
+
+    '
+  name: Nahr Alma Hood
+  type: head
+- Bleed RES: '12'
+  Curse RES: '0'
+  Dark DEF: '15'
+  Durability: '48'
+  Fire DEF: '15'
+  Lightning DEF: '13'
+  Magic Def: '18'
+  Petrify RES: '0'
+  Physical Def: '33'
+  Poise: '0'
+  Poison RES: '14'
+  Requirements: 16 DEX
+  Scaling: E
+  Vs Slash: '35'
+  Vs Strike: '32'
+  Vs Thrust: '31'
+  Weight: '2.6'
+  effects: '[{"effect":  "Increases bow range", "alters": "",  "method": "", "value":
+    0}]'
+  fashionID: '156'
+  ? 'id
+
+    '
+  : '89
+
+    '
+  name: Durgo's Hat
+  type: head
+- Bleed RES: '16'
+  Curse RES: '10'
+  Dark DEF: '21'
+  Durability: '55'
+  Fire DEF: '30'
+  Lightning DEF: '18'
+  Magic Def: '21'
+  Petrify RES: '0'
+  Physical Def: '36'
+  Poise: '0'
+  Poison RES: '17'
+  Requirements: ''
+  Scaling: C
+  Vs Slash: '34'
+  Vs Strike: '38'
+  Vs Thrust: '34'
+  Weight: '2'
+  effects: ''
+  fashionID: '192'
+  ? 'id
+
+    '
+  : '90
+
+    '
+  name: Sanctum Priestess Tiara
+  type: head
+- Bleed RES: '14'
+  Curse RES: '18'
+  Dark DEF: '25'
+  Durability: '55'
+  Fire DEF: '25'
+  Lightning DEF: '25'
+  Magic Def: '38'
+  Petrify RES: '20'
+  Physical Def: '35'
+  Poise: '0'
+  Poison RES: '16'
+  Requirements: 16 INT
+  Scaling: E
+  Vs Slash: '33'
+  Vs Strike: '37'
+  Vs Thrust: '33'
+  Weight: '0.9'
+  effects: '[{"effect":  "Increases Intelligence by 2", "alters": "Intelligence",  "method":
+    "add", "value": 2},{"effect":  "Increases Faith by 2", "alters": "Faith",  "method":
+    "add", "value": 2},{"effect":  "Increases casting speed by 11%", "alters": "Cast
+    Speed",  "method": "mul", "value": 1.11}]'
+  fashionID: '89'
+  ? 'id
+
+    '
+  : '91
+
+    '
+  name: Black Hood
+  type: head
+- Bleed RES: '14'
+  Curse RES: '18'
+  Dark DEF: '37'
+  Durability: '55'
+  Fire DEF: '38'
+  Lightning DEF: '25'
+  Magic Def: '25'
+  Petrify RES: '20'
+  Physical Def: '35'
+  Poise: '0'
+  Poison RES: '16'
+  Requirements: 16 INT, 16 FTH
+  Scaling: E
+  Vs Slash: '33'
+  Vs Strike: '37'
+  Vs Thrust: '33'
+  Weight: '0.9'
+  effects: '[{"effect":  "Increases Int by 3 points", "alters": "Intelligence",  "method":
+    "add", "value": 3},{"effect":  "Increases casting speed by 5%", "alters": "Cast
+    Speed",  "method": "mul", "value": 1.05}]'
+  fashionID: '109'
+  ? 'id
+
+    '
+  : '92
+
+    '
+  name: Chaos Hood
+  type: head
+- Bleed RES: '14'
+  Curse RES: '18'
+  Dark DEF: '25'
+  Durability: '55'
+  Fire DEF: '38'
+  Lightning DEF: '25'
+  Magic Def: '25'
+  Petrify RES: '20'
+  Physical Def: '35'
+  Poise: '0'
+  Poison RES: '16'
+  Requirements: ''
+  Scaling: E
+  Vs Slash: '33'
+  Vs Strike: '37'
+  Vs Thrust: '33'
+  Weight: '0.9'
+  effects: '[{"effect": "Increases Faith by 1", "alters": "Faith", "method": "add",
+    "value": 1},{"effect": "Increases Int by 1", "alters": "Intelligence", "method":
+    "add", "value": 1},{"effect":  "Gives 10% extra spell casts", "alters": "",  "method":
+    "", "value": 0}]'
+  fashionID: '163'
+  ? 'id
+
+    '
+  : '93
+
+    '
+  name: Hexer's Hood
+  type: head
+- Bleed RES: '14'
+  Curse RES: '27'
+  Dark DEF: '25'
+  Durability: '55'
+  Fire DEF: '25'
+  Lightning DEF: '32'
+  Magic Def: '25'
+  Petrify RES: '30'
+  Physical Def: '35'
+  Poise: '0'
+  Poison RES: '16'
+  Requirements: 16 FTH
+  Scaling: E
+  Vs Slash: '33'
+  Vs Strike: '37'
+  Vs Thrust: '33'
+  Weight: '0.9'
+  effects: '[{"effect":  "Increases Faith by 1", "alters": "Faith",  "method": "add",
+    "value": 1},{"effect":  "Increases # of spells by 1", "alters": "",  "method":
+    "", "value": 0}]'
+  fashionID: '190'
+  ? 'id
+
+    '
+  : '94
+
+    '
+  name: Saint's Hood
+  type: head
+- Bleed RES: '11'
+  Curse RES: '0'
+  Dark DEF: '13'
+  Durability: '50'
+  Fire DEF: '8'
+  Lightning DEF: '16'
+  Magic Def: '12'
+  Petrify RES: '0'
+  Physical Def: '33'
+  Poise: '0'
+  Poison RES: '13'
+  Requirements: ''
+  Scaling: D
+  Vs Slash: '32'
+  Vs Strike: '35'
+  Vs Thrust: '32'
+  Weight: '1.2'
+  effects: ''
+  fashionID: '-1'
+  ? 'id
+
+    '
+  : '95
+
+    '
+  name: Hunter's Hat
+  type: head
+- Bleed RES: '13'
+  Curse RES: '0'
+  Dark DEF: '9'
+  Durability: '35'
+  Fire DEF: '8'
+  Lightning DEF: '11'
+  Magic Def: '9'
+  Petrify RES: '0'
+  Physical Def: '32'
+  Poise: '0'
+  Poison RES: '12'
+  Requirements: ''
+  Scaling: D
+  Vs Slash: '31'
+  Vs Strike: '36'
+  Vs Thrust: '31'
+  Weight: '2.2'
+  effects: ''
+  fashionID: '166'
+  ? 'id
+
+    '
+  : '96
+
+    '
+  name: Imported Hood
+  type: head
+- Bleed RES: '12'
+  Curse RES: '18'
+  Dark DEF: '22'
+  Durability: '55'
+  Fire DEF: '11'
+  Lightning DEF: '22'
+  Magic Def: '22'
+  Petrify RES: '18'
+  Physical Def: '29'
+  Poise: '0'
+  Poison RES: '10'
+  Requirements: 20 INT
+  Scaling: E
+  Vs Slash: '28'
+  Vs Strike: '34'
+  Vs Thrust: '28'
+  Weight: '1.5'
+  effects: '[{"effect":  "Gives 1 Attunement Slot", "alters": "Slots",  "method":
+    "add", "value": 1}]'
+  fashionID: '28'
+  ? 'id
+
+    '
+  : '97
+
+    '
+  name: Black Witch Hat
+  type: head
+- Bleed RES: '14'
+  Curse RES: '18'
+  Dark DEF: '27'
+  Durability: '50'
+  Fire DEF: '14'
+  Lightning DEF: '12'
+  Magic Def: '20'
+  Petrify RES: '12'
+  Physical Def: '30'
+  Poise: '0'
+  Poison RES: '15'
+  Requirements: ''
+  Scaling: E
+  Vs Slash: '28'
+  Vs Strike: '33'
+  Vs Thrust: '28'
+  Weight: '1'
+  effects: '[{"effect":  "Increases Faith by 1", "alters": "Faith",  "method": "add",
+    "value": 1},{"effect":  "Increases Int by 1", "alters": "Intelligence",  "method":
+    "add", "value": 1}]'
+  fashionID: '171'
+  ? 'id
+
+    '
+  : '98
+
+    '
+  name: Leydia Black Hood
+  type: head
+- Bleed RES: '12'
+  Curse RES: '25'
+  Dark DEF: '16'
+  Durability: '40'
+  Fire DEF: '15'
+  Lightning DEF: '16'
+  Magic Def: '17'
+  Petrify RES: '25'
+  Physical Def: '28'
+  Poise: '0'
+  Poison RES: '11'
+  Requirements: ''
+  Scaling: E
+  Vs Slash: '27'
+  Vs Strike: '32'
+  Vs Thrust: '27'
+  Weight: '0.8'
+  effects: ''
+  fashionID: '150'
+  ? 'id
+
+    '
+  : '99
+
+    '
+  name: Dingy Hood
+  type: head
+- Bleed RES: '12'
+  Curse RES: '16'
+  Dark DEF: '24'
+  Durability: '50'
+  Fire DEF: '18'
+  Lightning DEF: '18'
+  Magic Def: '18'
+  Petrify RES: '10'
+  Physical Def: '28'
+  Poise: '0'
+  Poison RES: '13'
+  Requirements: ''
+  Scaling: E
+  Vs Slash: '26'
+  Vs Strike: '30'
+  Vs Thrust: '26'
+  Weight: '1'
+  effects: ''
+  fashionID: '172'
+  ? 'id
+
+    '
+  : '100
+
+    '
+  name: Leydia White Hood
+  type: head
+- Bleed RES: '8'
+  Curse RES: '0'
+  Dark DEF: '9'
+  Durability: '40'
+  Fire DEF: '8'
+  Lightning DEF: '8'
+  Magic Def: '7'
+  Petrify RES: '0'
+  Physical Def: '22'
+  Poise: '0'
+  Poison RES: '8'
+  Requirements: ''
+  Scaling: E
+  Vs Slash: '23'
+  Vs Strike: '22'
+  Vs Thrust: '23'
+  Weight: '0.7'
+  effects: ''
+  fashionID: '98'
+  ? 'id
+
+    '
+  : '101
+
+    '
+  name: Rogue Hood
+  type: head
+- Bleed RES: '8'
+  Curse RES: '32'
+  Dark DEF: '18'
+  Durability: '40'
+  Fire DEF: '10'
+  Lightning DEF: '10'
+  Magic Def: '11'
+  Petrify RES: '16'
+  Physical Def: '23'
+  Poise: '0'
+  Poison RES: '8'
+  Requirements: ''
+  Scaling: E
+  Vs Slash: '22'
+  Vs Strike: '24'
+  Vs Thrust: '22'
+  Weight: '0.5'
+  effects: '[{"effect":  "Reduces falling damage", "alters": "",  "method": "", "value":
+    0}]'
+  fashionID: '51'
+  ? 'id
+
+    '
+  : '102
+
+    '
+  name: Lion Warrior Helm
+  type: head
+- Bleed RES: '16'
+  Curse RES: '17'
+  Dark DEF: '14'
+  Durability: '55'
+  Fire DEF: '15'
+  Lightning DEF: '13'
+  Magic Def: '20'
+  Petrify RES: '14'
+  Physical Def: '22'
+  Poise: '0'
+  Poison RES: '25'
+  Requirements: ''
+  Scaling: E
+  Vs Slash: '21'
+  Vs Strike: '24'
+  Vs Thrust: '21'
+  Weight: '0.6'
+  effects: ''
+  fashionID: '52'
+  ? 'id
+
+    '
+  : '103
+
+    '
+  name: Monastery Headcloth
+  type: head
+- Bleed RES: '10'
+  Curse RES: '0'
+  Dark DEF: '9'
+  Durability: '40'
+  Fire DEF: '10'
+  Lightning DEF: '12'
+  Magic Def: '9'
+  Petrify RES: '0'
+  Physical Def: '20'
+  Poise: '0'
+  Poison RES: '10'
+  Requirements: ''
+  Scaling: E
+  Vs Slash: '20'
+  Vs Strike: '23'
+  Vs Thrust: '20'
+  Weight: '1.4'
+  effects: '[{"effect":  "Increases souls gained by 2.5%", "alters": "",  "method":
+    "", "value": 0}]'
+  fashionID: '107'
+  ? 'id
+
+    '
+  : '104
+
+    '
+  name: Tseldora Cap
+  type: head
+- Bleed RES: '5'
+  Curse RES: '6'
+  Dark DEF: '17'
+  Durability: '50'
+  Fire DEF: '13'
+  Lightning DEF: '15'
+  Magic Def: '18'
+  Petrify RES: '13'
+  Physical Def: '20'
+  Poise: '0'
+  Poison RES: '7'
+  Requirements: ''
+  Scaling: E
+  Vs Slash: '19'
+  Vs Strike: '21'
+  Vs Thrust: '19'
+  Weight: '0.6'
+  effects: '[{"effect": "Increases Int by 3", "alters": "Intelligence", "method":
+    "add", "value":3}]'
+  fashionID: '47'
+  ? 'id
+
+    '
+  : '105
+
+    '
+  name: Desert Sorcesress Hood
+  type: head
+- Bleed RES: '10'
+  Curse RES: '0'
+  Dark DEF: '6'
+  Durability: '45'
+  Fire DEF: '9'
+  Lightning DEF: '11'
+  Magic Def: '8'
+  Petrify RES: '0'
+  Physical Def: '17'
+  Poise: '0'
+  Poison RES: '12'
+  Requirements: ''
+  Scaling: E
+  Vs Slash: '16'
+  Vs Strike: '19'
+  Vs Thrust: '16'
+  Weight: '1.3'
+  effects: ''
+  fashionID: '183'
+  ? 'id
+
+    '
+  : '106
+
+    '
+  name: Peasant Hat
+  type: head
+- Bleed RES: '6'
+  Curse RES: '7'
+  Dark DEF: '14'
+  Durability: '45'
+  Fire DEF: '11'
+  Lightning DEF: '13'
+  Magic Def: '14'
+  Petrify RES: '7'
+  Physical Def: '15'
+  Poise: '0'
+  Poison RES: '5'
+  Requirements: ''
+  Scaling: E
+  Vs Slash: '15'
+  Vs Strike: '16'
+  Vs Thrust: '15'
+  Weight: '0.5'
+  effects: ''
+  fashionID: '48'
+  ? 'id
+
+    '
+  : '107
+
+    '
+  name: Black Witch Veil
+  type: head
+- Bleed RES: '8'
+  Curse RES: '26'
+  Dark DEF: '24'
+  Durability: '60'
+  Fire DEF: '12'
+  Lightning DEF: '24'
+  Magic Def: '24'
+  Petrify RES: '26'
+  Physical Def: '15'
+  Poise: '0'
+  Poison RES: '7'
+  Requirements: 20 INT
+  Scaling: E
+  Vs Slash: '14'
+  Vs Strike: '16'
+  Vs Thrust: '14'
+  Weight: '0.5'
+  effects: '[{"effect":  "Lowers HP by 15%", "alters": "HP",  "method": "mul", "value":
+    0.85},{"effect":  "Increases Spell Damage By 3%", "alters": "",  "method": "",
+    "value": 0}]'
+  fashionID: '46'
+  ? 'id
+
+    '
+  : '108
+
+    '
+  name: Black Witch Domino Mask
+  type: head
+- Bleed RES: '4'
+  Curse RES: '1000'
+  Dark DEF: '4'
+  Durability: '50'
+  Fire DEF: '4'
+  Lightning DEF: '4'
+  Magic Def: '4'
+  Petrify RES: '4'
+  Physical Def: '13'
+  Poise: '0'
+  Poison RES: '4'
+  Requirements: ''
+  Scaling: D
+  Vs Slash: '13'
+  Vs Strike: '13'
+  Vs Thrust: '13'
+  Weight: '1.5'
+  effects: ''
+  fashionID: '164'
+  ? 'id
+
+    '
+  : '109
+
+    '
+  name: Hollow Skin
+  type: head
+- Bleed RES: '6'
+  Curse RES: '0'
+  Dark DEF: '7'
+  Durability: '40'
+  Fire DEF: '6'
+  Lightning DEF: '7'
+  Magic Def: '6'
+  Petrify RES: '0'
+  Physical Def: '13'
+  Poise: '0'
+  Poison RES: '7'
+  Requirements: ''
+  Scaling: E
+  Vs Slash: '13'
+  Vs Strike: '14'
+  Vs Thrust: '13'
+  Weight: '0.5'
+  effects: ''
+  fashionID: '49'
+  ? 'id
+
+    '
+  : '110
+
+    '
+  name: Grave Warden Mask
+  type: head
+- Bleed RES: '7'
+  Curse RES: '0'
+  Dark DEF: '9'
+  Durability: '25'
+  Fire DEF: '8'
+  Lightning DEF: '12'
+  Magic Def: '8'
+  Petrify RES: '0'
+  Physical Def: '8'
+  Poise: '0'
+  Poison RES: '9'
+  Requirements: ''
+  Scaling: E
+  Vs Slash: '8'
+  Vs Strike: '9'
+  Vs Thrust: '8'
+  Weight: '0.8'
+  effects: '[{"effect":  "Increases item discovery", "alters": "",  "method": "",
+    "value": 0}]'
+  fashionID: '186'
+  ? 'id
+
+    '
+  : '111
+
+    '
+  name: Prisoner's Hood
+  type: head
+- Bleed RES: '103'
+  Curse RES: '49'
+  Dark DEF: '62'
+  Durability: '255'
+  Fire DEF: '67'
+  Lightning DEF: '58'
+  Magic Def: '62'
+  Petrify RES: '49'
+  Physical Def: '437'
+  Poise: '47'
+  Poison RES: '25'
+  Requirements: 20 STR
+  Scaling: A
+  Vs Slash: '491'
+  Vs Strike: '382'
+  Vs Thrust: '437'
+  Weight: '19.5'
+  effects: ''
+  fashionID: '236'
+  ? 'id
+
+    '
+  : '112
+
+    '
+  name: Havel's Armor
+  type: chest
+- Bleed RES: '50'
+  Curse RES: '0'
+  Dark DEF: '40'
+  Durability: '95'
+  Fire DEF: '38'
+  Lightning DEF: '41'
+  Magic Def: '40'
+  Petrify RES: '0'
+  Physical Def: '362'
+  Poise: '40'
+  Poison RES: '39'
+  Requirements: ''
+  Scaling: A
+  Vs Slash: '377'
+  Vs Strike: '339'
+  Vs Thrust: '362'
+  Weight: '16'
+  effects: ''
+  fashionID: '415'
+  ? 'id
+
+    '
+  : '113
+
+    '
+  name: Dragonrider Armor
+  type: chest
+- Bleed RES: '68'
+  Curse RES: '0'
+  Dark DEF: '40'
+  Durability: '20'
+  Fire DEF: '40'
+  Lightning DEF: '30'
+  Magic Def: '40'
+  Petrify RES: '0'
+  Physical Def: '363'
+  Poise: '40'
+  Poison RES: '32'
+  Requirements: ''
+  Scaling: A
+  Vs Slash: '377'
+  Vs Strike: '340'
+  Vs Thrust: '363'
+  Weight: '16.4'
+  effects: ''
+  fashionID: '-1'
+  ? 'id
+
+    '
+  : '114
+
+    '
+  name: Old Knight Armor
+  type: chest
+- Bleed RES: '96'
+  Curse RES: '0'
+  Dark DEF: '54'
+  Durability: '150'
+  Fire DEF: '60'
+  Lightning DEF: '89'
+  Magic Def: '54'
+  Petrify RES: '0'
+  Physical Def: '393'
+  Poise: '40'
+  Poison RES: '51'
+  Requirements: 16 STR
+  Scaling: A
+  Vs Slash: '443'
+  Vs Strike: '347'
+  Vs Thrust: '393'
+  Weight: '18.3'
+  effects: ''
+  fashionID: '251'
+  ? 'id
+
+    '
+  : '115
+
+    '
+  name: Looking Glass Armor
+  type: chest
+- Bleed RES: '82'
+  Curse RES: '54'
+  Dark DEF: '53'
+  Durability: '160'
+  Fire DEF: '100'
+  Lightning DEF: '50'
+  Magic Def: '53'
+  Petrify RES: '54'
+  Physical Def: '379'
+  Poise: '39'
+  Poison RES: '36'
+  Requirements: 16 STR
+  Scaling: A
+  Vs Slash: '456'
+  Vs Strike: '382'
+  Vs Thrust: '279'
+  Weight: '17.6'
+  effects: ''
+  fashionID: '275'
+  ? 'id
+
+    '
+  : '116
+
+    '
+  name: Smelter Demon Armor
+  type: chest
+- Bleed RES: '64'
+  Curse RES: '0'
+  Dark DEF: '55'
+  Durability: '80'
+  Fire DEF: '91'
+  Lightning DEF: '44'
+  Magic Def: '55'
+  Petrify RES: '0'
+  Physical Def: '305'
+  Poise: '38'
+  Poison RES: '28'
+  Requirements: ''
+  Scaling: A
+  Vs Slash: '321'
+  Vs Strike: '291'
+  Vs Thrust: '305'
+  Weight: '14.2'
+  effects: ''
+  fashionID: '58'
+  ? 'id
+
+    '
+  : '117
+
+    '
+  name: Alonne Knight Armor
+  type: chest
+- Bleed RES: '75'
+  Curse RES: '0'
+  Dark DEF: '68'
+  Durability: '90'
+  Fire DEF: '106'
+  Lightning DEF: '45'
+  Magic Def: '68'
+  Petrify RES: '0'
+  Physical Def: '324'
+  Poise: '38'
+  Poison RES: '34'
+  Requirements: ''
+  Scaling: A
+  Vs Slash: '343'
+  Vs Strike: '305'
+  Vs Thrust: '324'
+  Weight: '15.6'
+  effects: ''
+  fashionID: '56'
+  ? 'id
+
+    '
+  : '118
+
+    '
+  name: Alonne Captain Armor
+  type: chest
+- Bleed RES: '75'
+  Curse RES: '72'
+  Dark DEF: '54'
+  Durability: '90'
+  Fire DEF: '59'
+  Lightning DEF: '49'
+  Magic Def: '54'
+  Petrify RES: '0'
+  Physical Def: '353'
+  Poise: '36'
+  Poison RES: '54'
+  Requirements: ''
+  Scaling: A
+  Vs Slash: '371'
+  Vs Strike: '340'
+  Vs Thrust: '353'
+  Weight: '15.7'
+  effects: ''
+  fashionID: '224'
+  ? 'id
+
+    '
+  : '119
+
+    '
+  name: Drakekeeper Armor
+  type: chest
+- Bleed RES: '74'
+  Curse RES: '0'
+  Dark DEF: '51'
+  Durability: '90'
+  Fire DEF: '56'
+  Lightning DEF: '34'
+  Magic Def: '51'
+  Petrify RES: '0'
+  Physical Def: '395'
+  Poise: '35'
+  Poison RES: '65'
+  Requirements: 16 STR
+  Scaling: A
+  Vs Slash: '421'
+  Vs Strike: '369'
+  Vs Thrust: '395'
+  Weight: '17.7'
+  effects: ''
+  fashionID: '255'
+  ? 'id
+
+    '
+  : '120
+
+    '
+  name: Mastodon Armor
+  type: chest
+- Bleed RES: '59'
+  Curse RES: '0'
+  Dark DEF: '52'
+  Durability: '85'
+  Fire DEF: '64'
+  Lightning DEF: '45'
+  Magic Def: '52'
+  Petrify RES: '0'
+  Physical Def: '329'
+  Poise: '34'
+  Poison RES: '47'
+  Requirements: ''
+  Scaling: A
+  Vs Slash: '351'
+  Vs Strike: '311'
+  Vs Thrust: '329'
+  Weight: '15.1'
+  effects: ''
+  fashionID: '286'
+  ? 'id
+
+    '
+  : '121
+
+    '
+  name: Vengarl's Armor
+  type: chest
+- Bleed RES: '72'
+  Curse RES: '0'
+  Dark DEF: '49'
+  Durability: '100'
+  Fire DEF: '52'
+  Lightning DEF: '37'
+  Magic Def: '49'
+  Petrify RES: '0'
+  Physical Def: '321'
+  Poise: '32'
+  Poison RES: '44'
+  Requirements: ''
+  Scaling: A
+  Vs Slash: '342'
+  Vs Strike: '306'
+  Vs Thrust: '321'
+  Weight: '14'
+  effects: ''
+  fashionID: '276'
+  ? 'id
+
+    '
+  : '122
+
+    '
+  name: Steel Armor
+  type: chest
+- Bleed RES: '93'
+  Curse RES: '0'
+  Dark DEF: '54'
+  Durability: '90'
+  Fire DEF: '59'
+  Lightning DEF: '38'
+  Magic Def: '54'
+  Petrify RES: '0'
+  Physical Def: '343'
+  Poise: '32'
+  Poison RES: '30'
+  Requirements: STR 14
+  Scaling: A
+  Vs Slash: '365'
+  Vs Strike: '317'
+  Vs Thrust: '343'
+  Weight: '29.8'
+  effects: ''
+  fashionID: '230'
+  ? 'id
+
+    '
+  : '123
+
+    '
+  name: Ironclad Armor
+  type: chest
+- Bleed RES: '68'
+  Curse RES: '53'
+  Dark DEF: '66'
+  Durability: '85'
+  Fire DEF: '55'
+  Lightning DEF: '46'
+  Magic Def: '66'
+  Petrify RES: '53'
+  Physical Def: '321'
+  Poise: '30'
+  Poison RES: '54'
+  Requirements: ''
+  Scaling: A
+  Vs Slash: '338'
+  Vs Strike: '308'
+  Vs Thrust: '321'
+  Weight: '14.7'
+  effects: ''
+  fashionID: '240'
+  ? 'id
+
+    '
+  : '124
+
+    '
+  name: Imperious Armor
+  type: chest
+- Bleed RES: '64'
+  Curse RES: '0'
+  Dark DEF: '47'
+  Durability: '90'
+  Fire DEF: '47'
+  Lightning DEF: '42'
+  Magic Def: '47'
+  Petrify RES: '0'
+  Physical Def: '293'
+  Poise: '28'
+  Poison RES: '49'
+  Requirements: ''
+  Scaling: A
+  Vs Slash: '316'
+  Vs Strike: '276'
+  Vs Thrust: '298'
+  Weight: '14.5'
+  effects: ''
+  fashionID: '219'
+  ? 'id
+
+    '
+  : '125
+
+    '
+  name: Drangleic Mail
+  type: chest
+- Bleed RES: '94'
+  Curse RES: '71'
+  Dark DEF: '109'
+  Durability: '140'
+  Fire DEF: '54'
+  Lightning DEF: '31'
+  Magic Def: '52'
+  Petrify RES: '55'
+  Physical Def: '343'
+  Poise: '28'
+  Poison RES: '38'
+  Requirements: ''
+  Scaling: A
+  Vs Slash: '363'
+  Vs Strike: '314'
+  Vs Thrust: '356'
+  Weight: '15.2'
+  effects: '[{"effect":  "Increases Vitality by 1", "alters": "Vitality",  "method":
+    "add", "value": 1},{"effect":  "Increases Endurance by 1", "alters": "Endurance",  "method":
+    "add", "value": 1}]'
+  fashionID: '285'
+  ? 'id
+
+    '
+  : '126
+
+    '
+  name: Velstadt's Armor
+  type: chest
+- Bleed RES: '60'
+  Curse RES: '0'
+  Dark DEF: '41'
+  Durability: '40'
+  Fire DEF: '45'
+  Lightning DEF: '27'
+  Magic Def: '41'
+  Petrify RES: '0'
+  Physical Def: '312'
+  Poise: '28'
+  Poison RES: '52'
+  Requirements: 14 STR
+  Scaling: A
+  Vs Slash: '334'
+  Vs Strike: '291'
+  Vs Thrust: '312'
+  Weight: '15.9'
+  effects: ''
+  fashionID: '-1'
+  ? 'id
+
+    '
+  : '127
+
+    '
+  name: Rusted Mastodon Armor
+  type: chest
+- Bleed RES: '75'
+  Curse RES: '0'
+  Dark DEF: '43'
+  Durability: '45'
+  Fire DEF: '47'
+  Lightning DEF: '34'
+  Magic Def: '43'
+  Petrify RES: '0'
+  Physical Def: '301'
+  Poise: '28'
+  Poison RES: '25'
+  Requirements: STR 14
+  Scaling: A
+  Vs Slash: '323'
+  Vs Strike: '279'
+  Vs Thrust: '301'
+  Weight: '29.8'
+  effects: ''
+  fashionID: '258'
+  ? 'id
+
+    '
+  : '128
+
+    '
+  name: Old Ironclad Armor
+  type: chest
+- Bleed RES: '56'
+  Curse RES: '39'
+  Dark DEF: '37'
+  Durability: '70'
+  Fire DEF: '34'
+  Lightning DEF: '30'
+  Magic Def: '37'
+  Petrify RES: '39'
+  Physical Def: '258'
+  Poise: '26'
+  Poison RES: '73'
+  Requirements: ''
+  Scaling: A
+  Vs Slash: '269'
+  Vs Strike: '258'
+  Vs Thrust: '246'
+  Weight: '12'
+  effects: ''
+  fashionID: '235'
+  ? 'id
+
+    '
+  : '129
+
+    '
+  name: Gyrm Armor
+  type: chest
+- Bleed RES: '56'
+  Curse RES: '36'
+  Dark DEF: '37'
+  Durability: '70'
+  Fire DEF: '34'
+  Lightning DEF: '30'
+  Magic Def: '37'
+  Petrify RES: '39'
+  Physical Def: '258'
+  Poise: '26'
+  Poison RES: '73'
+  Requirements: ''
+  Scaling: A
+  Vs Slash: '269'
+  Vs Strike: '258'
+  Vs Thrust: '246'
+  Weight: '12.3'
+  effects: ''
+  fashionID: '24'
+  ? 'id
+
+    '
+  : '130
+
+    '
+  name: Gyrm Warrior Armor
+  type: chest
+- Bleed RES: '62'
+  Curse RES: '0'
+  Dark DEF: '48'
+  Durability: '95'
+  Fire DEF: '53'
+  Lightning DEF: '32'
+  Magic Def: '48'
+  Petrify RES: '0'
+  Physical Def: '224'
+  Poise: '25'
+  Poison RES: '38'
+  Requirements: ''
+  Scaling: A
+  Vs Slash: '260'
+  Vs Strike: '224'
+  Vs Thrust: '224'
+  Weight: '11.7'
+  effects: ''
+  fashionID: '124'
+  ? 'id
+
+    '
+  : '131
+
+    '
+  name: Catarina Armor
+  type: chest
+- Bleed RES: '53'
+  Curse RES: '49'
+  Dark DEF: '42'
+  Durability: '75'
+  Fire DEF: '40'
+  Lightning DEF: '31'
+  Magic Def: '42'
+  Petrify RES: '49'
+  Physical Def: '257'
+  Poise: '25'
+  Poison RES: '53'
+  Requirements: ''
+  Scaling: A
+  Vs Slash: '270'
+  Vs Strike: '257'
+  Vs Thrust: '245'
+  Weight: '12.5'
+  effects: ''
+  fashionID: '253'
+  ? 'id
+
+    '
+  : '132
+
+    '
+  name: Mad Warrior Armor
+  type: chest
+- Bleed RES: '66'
+  Curse RES: '0'
+  Dark DEF: '57'
+  Durability: '100'
+  Fire DEF: '53'
+  Lightning DEF: '34'
+  Magic Def: '57'
+  Petrify RES: '0'
+  Physical Def: '283'
+  Poise: '25'
+  Poison RES: '40'
+  Requirements: ''
+  Scaling: A
+  Vs Slash: '292'
+  Vs Strike: '272'
+  Vs Thrust: '284'
+  Weight: '13.8'
+  effects: ''
+  fashionID: '280'
+  ? 'id
+
+    '
+  : '133
+
+    '
+  name: Throne Defender Armor
+  type: chest
+- Bleed RES: '65'
+  Curse RES: '0'
+  Dark DEF: '56'
+  Durability: '85'
+  Fire DEF: '61'
+  Lightning DEF: '37'
+  Magic Def: '56'
+  Petrify RES: '0'
+  Physical Def: '249'
+  Poise: '24'
+  Poison RES: '48'
+  Requirements: ''
+  Scaling: A
+  Vs Slash: '265'
+  Vs Strike: '235'
+  Vs Thrust: '253'
+  Weight: '12.6'
+  effects: ''
+  fashionID: '233'
+  ? 'id
+
+    '
+  : '134
+
+    '
+  name: Faraam Armor
+  type: chest
+- Bleed RES: '91'
+  Curse RES: '0'
+  Dark DEF: '53'
+  Durability: '85'
+  Fire DEF: '70'
+  Lightning DEF: '31'
+  Magic Def: '53'
+  Petrify RES: '0'
+  Physical Def: '273'
+  Poise: '23'
+  Poison RES: '31'
+  Requirements: ''
+  Scaling: A
+  Vs Slash: '291'
+  Vs Strike: '246'
+  Vs Thrust: '279'
+  Weight: '13.8'
+  effects: ''
+  fashionID: '277'
+  ? 'id
+
+    '
+  : '135
+
+    '
+  name: Syan's Armor
+  type: chest
+- Bleed RES: '66'
+  Curse RES: '0'
+  Dark DEF: '55'
+  Durability: '85'
+  Fire DEF: '62'
+  Lightning DEF: '33'
+  Magic Def: '50'
+  Petrify RES: '0'
+  Physical Def: '249'
+  Poise: '22'
+  Poison RES: '50'
+  Requirements: ''
+  Scaling: A
+  Vs Slash: '267'
+  Vs Strike: '237'
+  Vs Thrust: '255'
+  Weight: '12.5'
+  effects: ''
+  fashionID: '223'
+  ? 'id
+
+    '
+  : '136
+
+    '
+  name: Drakeblood Armor
+  type: chest
+- Bleed RES: '53'
+  Curse RES: '57'
+  Dark DEF: '65'
+  Durability: '90'
+  Fire DEF: '47'
+  Lightning DEF: '32'
+  Magic Def: '37'
+  Petrify RES: '0'
+  Physical Def: '215'
+  Poise: '20'
+  Poison RES: '70'
+  Requirements: ''
+  Scaling: A
+  Vs Slash: '230'
+  Vs Strike: '202'
+  Vs Thrust: '215'
+  Weight: '10.9'
+  effects: ''
+  fashionID: '237'
+  ? 'id
+
+    '
+  : '137
+
+    '
+  name: Heide Knight Chainmail
+  type: chest
+- Bleed RES: '69'
+  Curse RES: '0'
+  Dark DEF: '55'
+  Durability: '80'
+  Fire DEF: '59'
+  Lightning DEF: '39'
+  Magic Def: '55'
+  Petrify RES: '0'
+  Physical Def: '184'
+  Poise: '20'
+  Poison RES: '49'
+  Requirements: ''
+  Scaling: A
+  Vs Slash: '209'
+  Vs Strike: '178'
+  Vs Thrust: '184'
+  Weight: '10.9'
+  effects: ''
+  fashionID: '231'
+  ? 'id
+
+    '
+  : '138
+
+    '
+  name: Knight Armor
+  type: chest
+- Bleed RES: '65'
+  Curse RES: '0'
+  Dark DEF: '69'
+  Durability: '80'
+  Fire DEF: '63'
+  Lightning DEF: '45'
+  Magic Def: '65'
+  Petrify RES: '0'
+  Physical Def: '183'
+  Poise: '18'
+  Poison RES: '51'
+  Requirements: ''
+  Scaling: A
+  Vs Slash: '192'
+  Vs Strike: '177'
+  Vs Thrust: '184'
+  Weight: '10.1'
+  effects: ''
+  fashionID: '72'
+  ? 'id
+
+    '
+  : '139
+
+    '
+  name: Armor of Aurous
+  type: chest
+- Bleed RES: '66'
+  Curse RES: '0'
+  Dark DEF: '49'
+  Durability: '105'
+  Fire DEF: '55'
+  Lightning DEF: '33'
+  Magic Def: '49'
+  Petrify RES: '86'
+  Physical Def: '209'
+  Poise: '18'
+  Poison RES: '29'
+  Requirements: ''
+  Scaling: A
+  Vs Slash: '224'
+  Vs Strike: '189'
+  Vs Thrust: '213'
+  Weight: '10.5'
+  effects: ''
+  fashionID: '270'
+  ? 'id
+
+    '
+  : '140
+
+    '
+  name: Ruin Armor
+  type: chest
+- Bleed RES: '42'
+  Curse RES: '0'
+  Dark DEF: '48'
+  Durability: '72'
+  Fire DEF: '46'
+  Lightning DEF: '41'
+  Magic Def: '48'
+  Petrify RES: '0'
+  Physical Def: '208'
+  Poise: '18'
+  Poison RES: '54'
+  Requirements: ''
+  Scaling: A
+  Vs Slash: '216'
+  Vs Strike: '200'
+  Vs Thrust: '208'
+  Weight: '10.5'
+  effects: ''
+  fashionID: '83'
+  ? 'id
+
+    '
+  : '141
+
+    '
+  name: Benhart's Armor
+  type: chest
+- Bleed RES: '59'
+  Curse RES: '0'
+  Dark DEF: '46'
+  Durability: '75'
+  Fire DEF: '59'
+  Lightning DEF: '31'
+  Magic Def: '46'
+  Petrify RES: '0'
+  Physical Def: '201'
+  Poise: '18'
+  Poison RES: '27'
+  Requirements: ''
+  Scaling: A
+  Vs Slash: '223'
+  Vs Strike: '176'
+  Vs Thrust: '210'
+  Weight: '11.2'
+  effects: ''
+  fashionID: '269'
+  ? 'id
+
+    '
+  : '142
+
+    '
+  name: Royal Swordsman Armor
+  type: chest
+- Bleed RES: '59'
+  Curse RES: '0'
+  Dark DEF: '49'
+  Durability: '75'
+  Fire DEF: '44'
+  Lightning DEF: '36'
+  Magic Def: '44'
+  Petrify RES: '0'
+  Physical Def: '178'
+  Poise: '17'
+  Poison RES: '54'
+  Requirements: ''
+  Scaling: A
+  Vs Slash: '193'
+  Vs Strike: '166'
+  Vs Thrust: '178'
+  Weight: '9.8'
+  effects: ''
+  fashionID: '278'
+  ? 'id
+
+    '
+  : '143
+
+    '
+  name: Targray's Armor
+  type: chest
+- Bleed RES: '74'
+  Curse RES: '0'
+  Dark DEF: '51'
+  Durability: '120'
+  Fire DEF: '72'
+  Lightning DEF: '57'
+  Magic Def: '72'
+  Petrify RES: '80'
+  Physical Def: '215'
+  Poise: '16.5'
+  Poison RES: '81'
+  Requirements: 14 STR, 12 DEX
+  Scaling: A
+  Vs Slash: '227'
+  Vs Strike: '204'
+  Vs Thrust: '215'
+  Weight: '12'
+  effects: ''
+  fashionID: '416'
+  ? 'id
+
+    '
+  : '144
+
+    '
+  name: King's Armor
+  type: chest
+- Bleed RES: '47'
+  Curse RES: '0'
+  Dark DEF: '49'
+  Durability: '70'
+  Fire DEF: '50'
+  Lightning DEF: '33'
+  Magic Def: '49'
+  Petrify RES: '0'
+  Physical Def: '157'
+  Poise: '16'
+  Poison RES: '42'
+  Requirements: ''
+  Scaling: A
+  Vs Slash: '164'
+  Vs Strike: '149'
+  Vs Thrust: '160'
+  Weight: '9.2'
+  effects: ''
+  fashionID: '268'
+  ? 'id
+
+    '
+  : '145
+
+    '
+  name: Royal Soldier Armor
+  type: chest
+- Bleed RES: '53'
+  Curse RES: '0'
+  Dark DEF: '95'
+  Durability: '90'
+  Fire DEF: '45'
+  Lightning DEF: '30'
+  Magic Def: '45'
+  Petrify RES: '0'
+  Physical Def: '171'
+  Poise: '16'
+  Poison RES: '46'
+  Requirements: ''
+  Scaling: A
+  Vs Slash: '180'
+  Vs Strike: '171'
+  Vs Thrust: '164'
+  Weight: '9.8'
+  effects: ''
+  fashionID: '127'
+  ? 'id
+
+    '
+  : '146
+
+    '
+  name: Dark Armor
+  type: chest
+- Bleed RES: '51'
+  Curse RES: '42'
+  Dark DEF: '40'
+  Durability: '75'
+  Fire DEF: '44'
+  Lightning DEF: '54'
+  Magic Def: '44'
+  Petrify RES: '42'
+  Physical Def: '171'
+  Poise: '16'
+  Poison RES: '39'
+  Requirements: ''
+  Scaling: A
+  Vs Slash: '183'
+  Vs Strike: '162'
+  Vs Thrust: '171'
+  Weight: '9.8'
+  effects: ''
+  fashionID: '229'
+  ? 'id
+
+    '
+  : '147
+
+    '
+  name: Insolent Armor
+  type: chest
+- Bleed RES: '56'
+  Curse RES: '0'
+  Dark DEF: '59'
+  Durability: '95'
+  Fire DEF: '59'
+  Lightning DEF: '47'
+  Magic Def: '91'
+  Petrify RES: '0'
+  Physical Def: '209'
+  Poise: '16'
+  Poison RES: '47'
+  Requirements: ''
+  Scaling: A
+  Vs Slash: '225'
+  Vs Strike: '198'
+  Vs Thrust: '209'
+  Weight: '11.2'
+  effects: ''
+  fashionID: '281'
+  ? 'id
+
+    '
+  : '148
+
+    '
+  name: Throne Watcher Armor
+  type: chest
+- Bleed RES: '69'
+  Curse RES: '0'
+  Dark DEF: '53'
+  Durability: '80'
+  Fire DEF: '54'
+  Lightning DEF: '37'
+  Magic Def: '49'
+  Petrify RES: '0'
+  Physical Def: '179'
+  Poise: '15'
+  Poison RES: '53'
+  Requirements: ''
+  Scaling: A
+  Vs Slash: '185'
+  Vs Strike: '170'
+  Vs Thrust: '176'
+  Weight: '8.8'
+  effects: ''
+  fashionID: '62'
+  ? 'id
+
+    '
+  : '149
+
+    '
+  name: Alva Armor
+  type: chest
+- Bleed RES: '69'
+  Curse RES: '0'
+  Dark DEF: '58'
+  Durability: '85'
+  Fire DEF: '36'
+  Lightning DEF: '43'
+  Magic Def: '59'
+  Petrify RES: '0'
+  Physical Def: '202'
+  Poise: '15'
+  Poison RES: '49'
+  Requirements: ''
+  Scaling: A
+  Vs Slash: '229'
+  Vs Strike: '202'
+  Vs Thrust: '207'
+  Weight: '11.7'
+  effects: ''
+  fashionID: '220'
+  ? 'id
+
+    '
+  : '150
+
+    '
+  name: Elite Knight Armor
+  type: chest
+- Bleed RES: '67'
+  Curse RES: '0'
+  Dark DEF: '54'
+  Durability: '70'
+  Fire DEF: '60'
+  Lightning DEF: '31'
+  Magic Def: '54'
+  Petrify RES: '0'
+  Physical Def: '180'
+  Poise: '14.5'
+  Poison RES: '42'
+  Requirements: ''
+  Scaling: A
+  Vs Slash: '187'
+  Vs Strike: '176'
+  Vs Thrust: '180'
+  Weight: '9.7'
+  effects: ''
+  fashionID: '126'
+  ? 'id
+
+    '
+  : '151
+
+    '
+  name: Creighton's Chainmail
+  type: chest
+- Bleed RES: '40'
+  Curse RES: '0'
+  Dark DEF: '53'
+  Durability: '80'
+  Fire DEF: '54'
+  Lightning DEF: '93'
+  Magic Def: '57'
+  Petrify RES: '0'
+  Physical Def: '178'
+  Poise: '13.5'
+  Poison RES: '48'
+  Requirements: ''
+  Scaling: A
+  Vs Slash: '178'
+  Vs Strike: '178'
+  Vs Thrust: '178'
+  Weight: '9.8'
+  effects: ''
+  fashionID: '68'
+  ? 'id
+
+    '
+  : '152
+
+    '
+  name: Archdrake Robes
+  type: chest
+- Bleed RES: '39'
+  Curse RES: '0'
+  Dark DEF: '44'
+  Durability: '75'
+  Fire DEF: '37'
+  Lightning DEF: '50'
+  Magic Def: '44'
+  Petrify RES: '0'
+  Physical Def: '147'
+  Poise: '12'
+  Poison RES: '48'
+  Requirements: ''
+  Scaling: B
+  Vs Slash: '142'
+  Vs Strike: '156'
+  Vs Thrust: '142'
+  Weight: '7.7'
+  effects: ''
+  fashionID: '70'
+  ? 'id
+
+    '
+  : '153
+
+    '
+  name: Falconer Armor
+  type: chest
+- Bleed RES: '0'
+  Curse RES: '0'
+  Dark DEF: '46'
+  Durability: '90'
+  Fire DEF: '45'
+  Lightning DEF: '40'
+  Magic Def: '45'
+  Petrify RES: '0'
+  Physical Def: '295'
+  Poise: '27'
+  Poison RES: '0'
+  Requirements: ''
+  Scaling: A
+  Vs Slash: '317'
+  Vs Strike: '275'
+  Vs Thrust: '297'
+  Weight: '14.4'
+  effects: ''
+  fashionID: '272'
+  ? 'id
+
+    '
+  : '154
+
+    '
+  name: Sanctum Knight Armor
+  type: chest
+- Bleed RES: '95'
+  Curse RES: '67'
+  Dark DEF: '75'
+  Durability: '65'
+  Fire DEF: '34'
+  Lightning DEF: '22'
+  Magic Def: '32'
+  Petrify RES: '0'
+  Physical Def: '140'
+  Poise: '7.5'
+  Poison RES: '25'
+  Requirements: ''
+  Scaling: B
+  Vs Slash: '148'
+  Vs Strike: '128'
+  Vs Thrust: '144'
+  Weight: '6.7'
+  effects: ''
+  fashionID: '221'
+  ? 'id
+
+    '
+  : '155
+
+    '
+  name: Executioner Armor
+  type: chest
+- Bleed RES: '42'
+  Curse RES: '0'
+  Dark DEF: '44'
+  Durability: '35'
+  Fire DEF: '46'
+  Lightning DEF: '31'
+  Magic Def: '44'
+  Petrify RES: '0'
+  Physical Def: '138'
+  Poise: '7'
+  Poison RES: '37'
+  Requirements: ''
+  Scaling: A
+  Vs Slash: '146'
+  Vs Strike: '132'
+  Vs Thrust: '139'
+  Weight: '8.6'
+  effects: ''
+  fashionID: '239'
+  ? 'id
+
+    '
+  : '156
+
+    '
+  name: Hollow Soldier Armor
+  type: chest
+- Bleed RES: '42'
+  Curse RES: '0'
+  Dark DEF: '40'
+  Durability: '60'
+  Fire DEF: '41'
+  Lightning DEF: '33'
+  Magic Def: '40'
+  Petrify RES: '0'
+  Physical Def: '133'
+  Poise: '5'
+  Poison RES: '29'
+  Requirements: ''
+  Scaling: B
+  Vs Slash: '137'
+  Vs Strike: '133'
+  Vs Thrust: '128'
+  Weight: '6.2'
+  effects: ''
+  fashionID: '76'
+  ? 'id
+
+    '
+  : '157
+
+    '
+  name: Bandit Armor
+  type: chest
+- Bleed RES: '39'
+  Curse RES: '53'
+  Dark DEF: '106'
+  Durability: '55'
+  Fire DEF: '110'
+  Lightning DEF: '74'
+  Magic Def: '74'
+  Petrify RES: '58'
+  Physical Def: '101'
+  Poise: '0'
+  Poison RES: '45'
+  Requirements: 16 INT, 16 FTH
+  Scaling: B
+  Vs Slash: '96'
+  Vs Strike: '108'
+  Vs Thrust: '96'
+  Weight: '2.6'
+  effects: ''
+  fashionID: '125'
+  ? 'id
+
+    '
+  : '158
+
+    '
+  name: Chaos Robe
+  type: chest
+- Bleed RES: '29'
+  Curse RES: '42'
+  Dark DEF: '32'
+  Durability: '35'
+  Fire DEF: '25'
+  Lightning DEF: '38'
+  Magic Def: '37'
+  Petrify RES: '39'
+  Physical Def: '72'
+  Poise: '0'
+  Poison RES: '68'
+  Requirements: ''
+  Scaling: B
+  Vs Slash: '68'
+  Vs Strike: '79'
+  Vs Thrust: '68'
+  Weight: '1.4'
+  effects: '[{"effect":  "Poisons nearby characters", "alters": "",  "method": "",
+    "value": 0},{"effect":  "Increases jump length", "alters": "",  "method": "",
+    "value": 0}]'
+  fashionID: '26'
+  ? 'id
+
+    '
+  : '159
+
+    '
+  name: Moon Butterfly Wings
+  type: chest
+- Bleed RES: '39'
+  Curse RES: '53'
+  Dark DEF: '74'
+  Durability: '55'
+  Fire DEF: '74'
+  Lightning DEF: '74'
+  Magic Def: '110'
+  Petrify RES: '58'
+  Physical Def: '101'
+  Poise: '0'
+  Poison RES: '45'
+  Requirements: 16 INT
+  Scaling: B
+  Vs Slash: '96'
+  Vs Strike: '108'
+  Vs Thrust: '96'
+  Weight: '2.6'
+  effects: ''
+  fashionID: '90'
+  ? 'id
+
+    '
+  : '160
+
+    '
+  name: Black Robes
+  type: chest
+- Bleed RES: '39'
+  Curse RES: '53'
+  Dark DEF: '74'
+  Durability: '22'
+  Fire DEF: '110'
+  Lightning DEF: '74'
+  Magic Def: '74'
+  Petrify RES: '58'
+  Physical Def: '101'
+  Poise: '0'
+  Poison RES: '45'
+  Requirements: ''
+  Scaling: B
+  Vs Slash: '96'
+  Vs Strike: '108'
+  Vs Thrust: '96'
+  Weight: '2.6'
+  effects: ''
+  fashionID: '238'
+  ? 'id
+
+    '
+  : '161
+
+    '
+  name: Hexer's Robes
+  type: chest
+- Bleed RES: '39'
+  Curse RES: '79'
+  Dark DEF: '74'
+  Durability: '55'
+  Fire DEF: '74'
+  Lightning DEF: '91'
+  Magic Def: '74'
+  Petrify RES: '86'
+  Physical Def: '101'
+  Poise: '0'
+  Poison RES: '45'
+  Requirements: 16 FTH
+  Scaling: B
+  Vs Slash: '96'
+  Vs Strike: '108'
+  Vs Thrust: '96'
+  Weight: '2.6'
+  effects: ''
+  fashionID: '271'
+  ? 'id
+
+    '
+  : '162
+
+    '
+  name: Saint's Dress
+  type: chest
+- Bleed RES: '23'
+  Curse RES: '95'
+  Dark DEF: '53'
+  Durability: '55'
+  Fire DEF: '30'
+  Lightning DEF: '30'
+  Magic Def: '32'
+  Petrify RES: '47'
+  Physical Def: '68'
+  Poise: '0'
+  Poison RES: '24'
+  Requirements: ''
+  Scaling: B
+  Vs Slash: '66'
+  Vs Strike: '71'
+  Vs Thrust: '66'
+  Weight: '1.5'
+  effects: '[{"effect":  "Reduces falling damage", "alters": "",  "method": "", "value":
+    0}]'
+  fashionID: '265'
+  ? 'id
+
+    '
+  : '163
+
+    '
+  name: Red Lion Warrior Cape
+  type: chest
+- Bleed RES: '34'
+  Curse RES: '90'
+  Dark DEF: '74'
+  Durability: '40'
+  Fire DEF: '60'
+  Lightning DEF: '62'
+  Magic Def: '74'
+  Petrify RES: '40'
+  Physical Def: '79'
+  Poise: '0'
+  Poison RES: '34'
+  Requirements: ''
+  Scaling: B
+  Vs Slash: '72'
+  Vs Strike: '83'
+  Vs Thrust: '72'
+  Weight: '2.2'
+  effects: '[{"effect":  "Increases cast speed by 5%", "alters": "Cast Speed",  "method":
+    "mul", "value": 1.05}]'
+  fashionID: '12'
+  ? 'id
+
+    '
+  : '164
+
+    '
+  name: Lion Mage Robe
+  type: chest
+- Bleed RES: '42'
+  Curse RES: '52'
+  Dark DEF: '73'
+  Durability: '50'
+  Fire DEF: '65'
+  Lightning DEF: '91'
+  Magic Def: '66'
+  Petrify RES: '52'
+  Physical Def: '106'
+  Poise: '0'
+  Poison RES: '44'
+  Requirements: ''
+  Scaling: B
+  Vs Slash: '104'
+  Vs Strike: '110'
+  Vs Thrust: '104'
+  Weight: '2.8'
+  effects: ''
+  fashionID: '14'
+  ? 'id
+
+    '
+  : '165
+
+    '
+  name: Priestess Robe
+  type: chest
+- Bleed RES: '39'
+  Curse RES: '60'
+  Dark DEF: '73'
+  Durability: '50'
+  Fire DEF: '63'
+  Lightning DEF: '66'
+  Magic Def: '88'
+  Petrify RES: '60'
+  Physical Def: '105'
+  Poise: '0'
+  Poison RES: '41'
+  Requirements: ''
+  Scaling: B
+  Vs Slash: '102'
+  Vs Strike: '109'
+  Vs Thrust: '102'
+  Weight: '2.8'
+  effects: ''
+  fashionID: '288'
+  ? 'id
+
+    '
+  : '166
+
+    '
+  name: White Hollow Mage Robe
+  type: chest
+- Bleed RES: '42'
+  Curse RES: '44'
+  Dark DEF: '38'
+  Durability: '55'
+  Fire DEF: '39'
+  Lightning DEF: '34'
+  Magic Def: '53'
+  Petrify RES: '37'
+  Physical Def: '60'
+  Poise: '0'
+  Poison RES: '66'
+  Requirements: ''
+  Scaling: B
+  Vs Slash: '55'
+  Vs Strike: '63'
+  Vs Thrust: '55'
+  Weight: '1.6'
+  effects: ''
+  fashionID: '256'
+  ? 'id
+
+    '
+  : '167
+
+    '
+  name: Monastery Longshirt
+  type: chest
+- Bleed RES: '75'
+  Curse RES: '0'
+  Dark DEF: '57'
+  Durability: '65'
+  Fire DEF: '44'
+  Lightning DEF: '55'
+  Magic Def: '47'
+  Petrify RES: '24'
+  Physical Def: '92'
+  Poise: '0'
+  Poison RES: '54'
+  Requirements: ''
+  Scaling: B
+  Vs Slash: '88'
+  Vs Strike: '97'
+  Vs Thrust: '88'
+  Weight: '2.3'
+  effects: ''
+  fashionID: '254'
+  ? 'id
+
+    '
+  : '168
+
+    '
+  name: Manikin Top
+  type: chest
+- Bleed RES: '21'
+  Curse RES: '27'
+  Dark DEF: '75'
+  Durability: '50'
+  Fire DEF: '57'
+  Lightning DEF: '69'
+  Magic Def: '83'
+  Petrify RES: '58'
+  Physical Def: '89'
+  Poise: '0'
+  Poison RES: '32'
+  Requirements: ''
+  Scaling: B
+  Vs Slash: '87'
+  Vs Strike: '93'
+  Vs Thrust: '87'
+  Weight: '2.7'
+  effects: ''
+  fashionID: '420'
+  ? 'id
+
+    '
+  : '169
+
+    '
+  name: Desert Sorceress Top
+  type: chest
+- Bleed RES: '60'
+  Curse RES: '0'
+  Dark DEF: '70'
+  Durability: '60'
+  Fire DEF: '59'
+  Lightning DEF: '54'
+  Magic Def: '52'
+  Petrify RES: '49'
+  Physical Def: '97'
+  Poise: '0'
+  Poison RES: '77'
+  Requirements: ''
+  Scaling: B
+  Vs Slash: '87'
+  Vs Strike: '109'
+  Vs Thrust: '87'
+  Weight: '2.6'
+  effects: ''
+  fashionID: '273'
+  ? 'id
+
+    '
+  : '170
+
+    '
+  name: Shadow Top
+  type: chest
+- Bleed RES: '42'
+  Curse RES: '43'
+  Dark DEF: '79'
+  Durability: '50'
+  Fire DEF: '67'
+  Lightning DEF: '72'
+  Magic Def: '94'
+  Petrify RES: '43'
+  Physical Def: '110'
+  Poise: '0'
+  Poison RES: '46'
+  Requirements: ''
+  Scaling: B
+  Vs Slash: '109'
+  Vs Strike: '117'
+  Vs Thrust: '109'
+  Weight: '3.3'
+  effects: ''
+  fashionID: '119'
+  ? 'id
+
+    '
+  : '171
+
+    '
+  name: Black Hollow Mage Robe
+  type: chest
+- Bleed RES: '30'
+  Curse RES: '19'
+  Dark DEF: '53'
+  Durability: '55'
+  Fire DEF: '72'
+  Lightning DEF: '47'
+  Magic Def: '53'
+  Petrify RES: '0'
+  Physical Def: '100'
+  Poise: '0'
+  Poison RES: '87'
+  Requirements: ''
+  Scaling: B
+  Vs Slash: '97'
+  Vs Strike: '105'
+  Vs Thrust: '97'
+  Weight: '2.7'
+  effects: ''
+  fashionID: '279'
+  ? 'id
+
+    '
+  : '172
+
+    '
+  name: Tattered Cloth Robe
+  type: chest
+- Bleed RES: '46'
+  Curse RES: '92'
+  Dark DEF: '62'
+  Durability: '40'
+  Fire DEF: '55'
+  Lightning DEF: '62'
+  Magic Def: '65'
+  Petrify RES: '92'
+  Physical Def: '108'
+  Poise: '0'
+  Poison RES: '41'
+  Requirements: ''
+  Scaling: B
+  Vs Slash: '101'
+  Vs Strike: '122'
+  Vs Thrust: '101'
+  Weight: '3'
+  effects: ''
+  fashionID: '128'
+  ? 'id
+
+    '
+  : '173
+
+    '
+  name: Dingy Robe
+  type: chest
+- Bleed RES: '43'
+  Curse RES: '42'
+  Dark DEF: '73'
+  Durability: '50'
+  Fire DEF: '66'
+  Lightning DEF: '86'
+  Magic Def: '66'
+  Petrify RES: '42'
+  Physical Def: '111'
+  Poise: '0'
+  Poison RES: '45'
+  Requirements: ''
+  Scaling: B
+  Vs Slash: '108'
+  Vs Strike: '116'
+  Vs Thrust: '108'
+  Weight: '3.3'
+  effects: ''
+  fashionID: '289'
+  ? 'id
+
+    '
+  : '174
+
+    '
+  name: White Priest Robe
+  type: chest
+- Bleed RES: '15'
+  Curse RES: '81'
+  Dark DEF: '43'
+  Durability: '55'
+  Fire DEF: '23'
+  Lightning DEF: '23'
+  Magic Def: '24'
+  Petrify RES: '43'
+  Physical Def: '56'
+  Poise: '0'
+  Poison RES: '16'
+  Requirements: ''
+  Scaling: B
+  Vs Slash: '55'
+  Vs Strike: '58'
+  Vs Thrust: '55'
+  Weight: '1.5'
+  effects: '[{"effect":  "Reduces falling damage", "alters": "",  "method": "", "value":
+    0}]'
+  fashionID: '249'
+  ? 'id
+
+    '
+  : '175
+
+    '
+  name: Lion Warrior Cape
+  type: chest
+- Bleed RES: '58'
+  Curse RES: '66'
+  Dark DEF: '131'
+  Durability: '55'
+  Fire DEF: '108'
+  Lightning DEF: '126'
+  Magic Def: '135'
+  Petrify RES: '65'
+  Physical Def: '120'
+  Poise: '0'
+  Poison RES: '49'
+  Requirements: ''
+  Scaling: B
+  Vs Slash: '116'
+  Vs Strike: '132'
+  Vs Thrust: '116'
+  Weight: '4.8'
+  effects: ''
+  fashionID: '23'
+  ? 'id
+
+    '
+  : '176
+
+    '
+  name: Black Witch Robe
+  type: chest
+- Bleed RES: '46'
+  Curse RES: '0'
+  Dark DEF: '48'
+  Durability: '60'
+  Fire DEF: '45'
+  Lightning DEF: '42'
+  Magic Def: '56'
+  Petrify RES: '0'
+  Physical Def: '113'
+  Poise: '0'
+  Poison RES: '46'
+  Requirements: ''
+  Scaling: B
+  Vs Slash: '111'
+  Vs Strike: '124'
+  Vs Thrust: '105'
+  Weight: '3.1'
+  effects: ''
+  fashionID: '122'
+  ? 'id
+
+    '
+  : '177
+
+    '
+  name: Brigand Armor
+  type: chest
+- Bleed RES: '50'
+  Curse RES: '64'
+  Dark DEF: '95'
+  Durability: '50'
+  Fire DEF: '50'
+  Lightning DEF: '43'
+  Magic Def: '72'
+  Petrify RES: '40'
+  Physical Def: '105'
+  Poise: '0'
+  Poison RES: '53'
+  Requirements: ''
+  Scaling: B
+  Vs Slash: '100'
+  Vs Strike: '116'
+  Vs Thrust: '100'
+  Weight: '3.5'
+  effects: ''
+  fashionID: '421'
+  ? 'id
+
+    '
+  : '178
+
+    '
+  name: Leydia Black Robe
+  type: chest
+- Bleed RES: '35'
+  Curse RES: '67'
+  Dark DEF: '94'
+  Durability: '65'
+  Fire DEF: '75'
+  Lightning DEF: '61'
+  Magic Def: '68'
+  Petrify RES: '42'
+  Physical Def: '106'
+  Poise: '0'
+  Poison RES: '55'
+  Requirements: ''
+  Scaling: B
+  Vs Slash: '102'
+  Vs Strike: '116'
+  Vs Thrust: '102'
+  Weight: '3.8'
+  effects: ''
+  fashionID: '121'
+  ? 'id
+
+    '
+  : '179
+
+    '
+  name: Bone King Armor
+  type: chest
+- Bleed RES: '36'
+  Curse RES: '0'
+  Dark DEF: '41'
+  Durability: '40'
+  Fire DEF: '37'
+  Lightning DEF: '48'
+  Magic Def: '45'
+  Petrify RES: '0'
+  Physical Def: '115'
+  Poise: '0'
+  Poison RES: '31'
+  Requirements: ''
+  Scaling: B
+  Vs Slash: '109'
+  Vs Strike: '123'
+  Vs Thrust: '111'
+  Weight: '3.2'
+  effects: '[{"effect":  "Increases maximum equipment load by 1.5%", "alters": "Equip
+    Load",  "method": "mul", "value": 1.015}]'
+  fashionID: '424'
+  ? 'id
+
+    '
+  : '180
+
+    '
+  name: Armor of Aurous (Transparent)
+  type: chest
+- Bleed RES: '43'
+  Curse RES: '55'
+  Dark DEF: '82'
+  Durability: '50'
+  Fire DEF: '64'
+  Lightning DEF: '54'
+  Magic Def: '64'
+  Petrify RES: '35'
+  Physical Def: '96'
+  Poise: '0'
+  Poison RES: '46'
+  Requirements: ''
+  Scaling: B
+  Vs Slash: '92'
+  Vs Strike: '106'
+  Vs Thrust: '92'
+  Weight: '3.5'
+  effects: ''
+  fashionID: '4'
+  ? 'id
+
+    '
+  : '181
+
+    '
+  name: Leydia White Robe
+  type: chest
+- Bleed RES: '51'
+  Curse RES: '0'
+  Dark DEF: '51'
+  Durability: '55'
+  Fire DEF: '47'
+  Lightning DEF: '45'
+  Magic Def: '62'
+  Petrify RES: '0'
+  Physical Def: '131'
+  Poise: '0'
+  Poison RES: '75'
+  Requirements: ''
+  Scaling: B
+  Vs Slash: '128'
+  Vs Strike: '135'
+  Vs Thrust: '128'
+  Weight: '3.9'
+  effects: ''
+  fashionID: '120'
+  ? 'id
+
+    '
+  : '182
+
+    '
+  name: Black Leather Armor
+  type: chest
+- Bleed RES: '70'
+  Curse RES: '0'
+  Dark DEF: '40'
+  Durability: '50'
+  Fire DEF: '50'
+  Lightning DEF: '56'
+  Magic Def: '38'
+  Petrify RES: '0'
+  Physical Def: '115'
+  Poise: '0'
+  Poison RES: '43'
+  Requirements: ''
+  Scaling: B
+  Vs Slash: '117'
+  Vs Strike: '111'
+  Vs Thrust: '118'
+  Weight: '3.5'
+  effects: ''
+  fashionID: '287'
+  ? 'id
+
+    '
+  : '183
+
+    '
+  name: Wanderer Coat
+  type: chest
+- Bleed RES: '35'
+  Curse RES: '65'
+  Dark DEF: '62'
+  Durability: '40'
+  Fire DEF: '53'
+  Lightning DEF: '62'
+  Magic Def: '68'
+  Petrify RES: '65'
+  Physical Def: '45'
+  Poise: '0'
+  Poison RES: '47'
+  Requirements: ''
+  Scaling: B
+  Vs Slash: '43'
+  Vs Strike: '49'
+  Vs Thrust: '43'
+  Weight: '2.6'
+  effects: ''
+  fashionID: '274'
+  ? 'id
+
+    '
+  : '184
+
+    '
+  name: Singer's Dress
+  type: chest
+- Bleed RES: '45'
+  Curse RES: '54'
+  Dark DEF: '60'
+  Durability: '55'
+  Fire DEF: '48'
+  Lightning DEF: '56'
+  Magic Def: '48'
+  Petrify RES: '0'
+  Physical Def: '118'
+  Poise: '0'
+  Poison RES: '55'
+  Requirements: ''
+  Scaling: B
+  Vs Slash: '115'
+  Vs Strike: '124'
+  Vs Thrust: '115'
+  Weight: '3.9'
+  effects: ''
+  fashionID: '129'
+  ? 'id
+
+    '
+  : '185
+
+    '
+  name: Dragon Acolyte Robe
+  type: chest
+- Bleed RES: '40'
+  Curse RES: '0'
+  Dark DEF: '47'
+  Durability: '55'
+  Fire DEF: '42'
+  Lightning DEF: '40'
+  Magic Def: '35'
+  Petrify RES: '0'
+  Physical Def: '111'
+  Poise: '0'
+  Poison RES: '42'
+  Requirements: ''
+  Scaling: B
+  Vs Slash: '113'
+  Vs Strike: '108'
+  Vs Thrust: '113'
+  Weight: '3.5'
+  effects: ''
+  fashionID: '267'
+  ? 'id
+
+    '
+  : '186
+
+    '
+  name: Rogue Armor
+  type: chest
+- Bleed RES: '44'
+  Curse RES: '57'
+  Dark DEF: '88'
+  Durability: '50'
+  Fire DEF: '42'
+  Lightning DEF: '46'
+  Magic Def: '49'
+  Petrify RES: '57'
+  Physical Def: '89'
+  Poise: '0'
+  Poison RES: '44'
+  Requirements: ''
+  Scaling: B
+  Vs Slash: '87'
+  Vs Strike: '95'
+  Vs Thrust: '87'
+  Weight: '3.5'
+  effects: '[{"effect":  "Increases souls gained by 10%", "alters": "",  "method":
+    "", "value": 0}]'
+  fashionID: '257'
+  ? 'id
+
+    '
+  : '187
+
+    '
+  name: Nahr Alma Robes
+  type: chest
+- Bleed RES: '33'
+  Curse RES: '64'
+  Dark DEF: '52'
+  Durability: '50'
+  Fire DEF: '48'
+  Lightning DEF: '41'
+  Magic Def: '59'
+  Petrify RES: '0'
+  Physical Def: '115'
+  Poise: '0'
+  Poison RES: '31'
+  Requirements: ''
+  Scaling: B
+  Vs Slash: '111'
+  Vs Strike: '123'
+  Vs Thrust: '111'
+  Weight: '3.9'
+  effects: ''
+  fashionID: '266'
+  ? 'id
+
+    '
+  : '188
+
+    '
+  name: Robe of Judgment
+  type: chest
+- Bleed RES: '51'
+  Curse RES: '54'
+  Dark DEF: '84'
+  Durability: '65'
+  Fire DEF: '75'
+  Lightning DEF: '91'
+  Magic Def: '84'
+  Petrify RES: '27'
+  Physical Def: '153'
+  Poise: '0'
+  Poison RES: '65'
+  Requirements: ''
+  Scaling: B
+  Vs Slash: '147'
+  Vs Strike: '164'
+  Vs Thrust: '147'
+  Weight: '6'
+  effects: ''
+  fashionID: '329'
+  ? 'id
+
+    '
+  : '189
+
+    '
+  name: Lucatiel's Vest
+  type: chest
+- Bleed RES: '69'
+  Curse RES: '0'
+  Dark DEF: '89'
+  Durability: '60'
+  Fire DEF: '66'
+  Lightning DEF: '84'
+  Magic Def: '69'
+  Petrify RES: '0'
+  Physical Def: '158'
+  Poise: '0'
+  Poison RES: '85'
+  Requirements: ''
+  Scaling: B
+  Vs Slash: '152'
+  Vs Strike: '172'
+  Vs Thrust: '152'
+  Weight: '6'
+  effects: ''
+  fashionID: '71'
+  ? 'id
+
+    '
+  : '190
+
+    '
+  name: Grave Warden Top
+  type: chest
+- Bleed RES: '57'
+  Curse RES: '98'
+  Dark DEF: '108'
+  Durability: '65'
+  Fire DEF: '79'
+  Lightning DEF: '72'
+  Magic Def: '81'
+  Petrify RES: '72'
+  Physical Def: '139'
+  Poise: '0'
+  Poison RES: '83'
+  Requirements: ''
+  Scaling: B
+  Vs Slash: '135'
+  Vs Strike: '147'
+  Vs Thrust: '135'
+  Weight: '5.8'
+  effects: ''
+  fashionID: '53'
+  ? 'id
+
+    '
+  : '191
+
+    '
+  name: Agdayne's Black Robe
+  type: chest
+- Bleed RES: '37'
+  Curse RES: '0'
+  Dark DEF: '74'
+  Durability: '50'
+  Fire DEF: '60'
+  Lightning DEF: '60'
+  Magic Def: '87'
+  Petrify RES: '0'
+  Physical Def: '121'
+  Poise: '0'
+  Poison RES: '38'
+  Requirements: ''
+  Scaling: B
+  Vs Slash: '117'
+  Vs Strike: '126'
+  Vs Thrust: '117'
+  Weight: '5.1'
+  effects: ''
+  fashionID: '69'
+  ? 'id
+
+    '
+  : '192
+
+    '
+  name: Astrologist's Robes
+  type: chest
+- Bleed RES: '45'
+  Curse RES: '0'
+  Dark DEF: '63'
+  Durability: '60'
+  Fire DEF: '33'
+  Lightning DEF: '61'
+  Magic Def: '45'
+  Petrify RES: '0'
+  Physical Def: '128'
+  Poise: '0'
+  Poison RES: '55'
+  Requirements: ''
+  Scaling: B
+  Vs Slash: '124'
+  Vs Strike: '136'
+  Vs Thrust: '124'
+  Weight: '4.7'
+  effects: ''
+  fashionID: '234'
+  ? 'id
+
+    '
+  : '193
+
+    '
+  name: Fume Sorcerer Robes
+  type: chest
+- Bleed RES: '44'
+  Curse RES: '0'
+  Dark DEF: '51'
+  Durability: '60'
+  Fire DEF: '30'
+  Lightning DEF: '62'
+  Magic Def: '47'
+  Petrify RES: '0'
+  Physical Def: '130'
+  Poise: '0'
+  Poison RES: '53'
+  Requirements: ''
+  Scaling: B
+  Vs Slash: '126'
+  Vs Strike: '138'
+  Vs Thrust: '126'
+  Weight: '4.7'
+  effects: ''
+  fashionID: '232'
+  ? 'id
+
+    '
+  : '194
+
+    '
+  name: Leather Armor
+  type: chest
+- Bleed RES: '60'
+  Curse RES: '52'
+  Dark DEF: '74'
+  Durability: '45'
+  Fire DEF: '74'
+  Lightning DEF: '74'
+  Magic Def: '74'
+  Petrify RES: '77'
+  Physical Def: '131'
+  Poise: '0'
+  Poison RES: '80'
+  Requirements: 14 DEX
+  Scaling: B
+  Vs Slash: '127'
+  Vs Strike: '139'
+  Vs Thrust: '127'
+  Weight: '5.7'
+  effects: '[{"effect":  "Prevents backstabs", "alters": "",  "method": "", "value":
+    0}]'
+  fashionID: '422'
+  ? 'id
+
+    '
+  : '195
+
+    '
+  name: Jester's Robes
+  type: chest
+- Bleed RES: '47'
+  Curse RES: '0'
+  Dark DEF: '43'
+  Durability: '55'
+  Fire DEF: '31'
+  Lightning DEF: '51'
+  Magic Def: '43'
+  Petrify RES: '0'
+  Physical Def: '135'
+  Poise: '0'
+  Poison RES: '52'
+  Requirements: ''
+  Scaling: B
+  Vs Slash: '132'
+  Vs Strike: '142'
+  Vs Thrust: '132'
+  Weight: '5.1'
+  effects: ''
+  fashionID: '284'
+  ? 'id
+
+    '
+  : '196
+
+    '
+  name: Varangian Armor
+  type: chest
+- Bleed RES: '82'
+  Curse RES: '33'
+  Dark DEF: '58'
+  Durability: '85'
+  Fire DEF: '69'
+  Lightning DEF: '44'
+  Magic Def: '58'
+  Petrify RES: '33'
+  Physical Def: '180'
+  Poise: '0'
+  Poison RES: '59'
+  Requirements: ''
+  Scaling: B
+  Vs Slash: '186'
+  Vs Strike: '167'
+  Vs Thrust: '182'
+  Weight: '6.8'
+  effects: ''
+  fashionID: '250'
+  ? 'id
+
+    '
+  : '197
+
+    '
+  name: Llewellyn Armor
+  type: chest
+- Bleed RES: '21'
+  Curse RES: '0'
+  Dark DEF: '22'
+  Durability: '60'
+  Fire DEF: '23'
+  Lightning DEF: '19'
+  Magic Def: '22'
+  Petrify RES: '0'
+  Physical Def: '78'
+  Poise: '0'
+  Poison RES: '34'
+  Requirements: ''
+  Scaling: B
+  Vs Slash: '77'
+  Vs Strike: '77'
+  Vs Thrust: '80'
+  Weight: '3'
+  effects: ''
+  fashionID: '123'
+  ? 'id
+
+    '
+  : '198
+
+    '
+  name: Cale's Leather Armor
+  type: chest
+- Bleed RES: '31'
+  Curse RES: '0'
+  Dark DEF: '46'
+  Durability: '60'
+  Fire DEF: '15'
+  Lightning DEF: '37'
+  Magic Def: '59'
+  Petrify RES: '0'
+  Physical Def: '78'
+  Poise: '0'
+  Poison RES: '35'
+  Requirements: ''
+  Scaling: B
+  Vs Slash: '78'
+  Vs Strike: '89'
+  Vs Thrust: '67'
+  Weight: '3.9'
+  effects: ''
+  fashionID: '290'
+  ? 'id
+
+    '
+  : '199
+
+    '
+  name: Xanthous Overcoat
+  type: chest
+- Bleed RES: '41'
+  Curse RES: '0'
+  Dark DEF: '44'
+  Durability: '70'
+  Fire DEF: '28'
+  Lightning DEF: '53'
+  Magic Def: '42'
+  Petrify RES: '0'
+  Physical Def: '130'
+  Poise: '0'
+  Poison RES: '46'
+  Requirements: ''
+  Scaling: B
+  Vs Slash: '127'
+  Vs Strike: '135'
+  Vs Thrust: '127'
+  Weight: '5.9'
+  effects: ''
+  fashionID: '259'
+  ? 'id
+
+    '
+  : '200
+
+    '
+  name: Pate's Armor
+  type: chest
+- Bleed RES: '26'
+  Curse RES: '0'
+  Dark DEF: '50'
+  Durability: '60'
+  Fire DEF: '26'
+  Lightning DEF: '37'
+  Magic Def: '28'
+  Petrify RES: '0'
+  Physical Def: '131'
+  Poise: '0'
+  Poison RES: '32'
+  Requirements: ''
+  Scaling: B
+  Vs Slash: '128'
+  Vs Strike: '138'
+  Vs Thrust: '128'
+  Weight: '6'
+  effects: ''
+  fashionID: '79'
+  ? 'id
+
+    '
+  : '201
+
+    '
+  name: Bell Keeper Bellyband
+  type: chest
+- Bleed RES: '14'
+  Curse RES: '48'
+  Dark DEF: '52'
+  Durability: '55'
+  Fire DEF: '58'
+  Lightning DEF: '42'
+  Magic Def: '47'
+  Petrify RES: '37'
+  Physical Def: '113'
+  Poise: '0'
+  Poison RES: '18'
+  Requirements: ''
+  Scaling: B
+  Vs Slash: '116'
+  Vs Strike: '116'
+  Vs Thrust: '105'
+  Weight: '6.2'
+  effects: ''
+  fashionID: '261'
+  ? 'id
+
+    '
+  : '202
+
+    '
+  name: Penal Straighjacket
+  type: chest
+- Bleed RES: '59'
+  Curse RES: '0'
+  Dark DEF: '42'
+  Durability: '60'
+  Fire DEF: '46'
+  Lightning DEF: '49'
+  Magic Def: '42'
+  Petrify RES: '0'
+  Physical Def: '148'
+  Poise: '0'
+  Poison RES: '52'
+  Requirements: ''
+  Scaling: B
+  Vs Slash: '143'
+  Vs Strike: '158'
+  Vs Thrust: '143'
+  Weight: '7.7'
+  effects: ''
+  fashionID: '282'
+  ? 'id
+
+    '
+  : '203
+
+    '
+  name: Traveling Merchant Coat
+  type: chest
+- Bleed RES: '47'
+  Curse RES: '0'
+  Dark DEF: '44'
+  Durability: '65'
+  Fire DEF: '28'
+  Lightning DEF: '53'
+  Magic Def: '42'
+  Petrify RES: '0'
+  Physical Def: '135'
+  Poise: '0'
+  Poison RES: '52'
+  Requirements: ''
+  Scaling: B
+  Vs Slash: '132'
+  Vs Strike: '141'
+  Vs Thrust: '133'
+  Weight: '7.2'
+  effects: ''
+  fashionID: '5'
+  ? 'id
+
+    '
+  : '204
+
+    '
+  name: Hard Leather Armor
+  type: chest
+- Bleed RES: '19'
+  Curse RES: '0'
+  Dark DEF: '26'
+  Durability: '25'
+  Fire DEF: '23'
+  Lightning DEF: '33'
+  Magic Def: '23'
+  Petrify RES: '0'
+  Physical Def: '22'
+  Poise: '0'
+  Poison RES: '26'
+  Requirements: ''
+  Scaling: B
+  Vs Slash: '21'
+  Vs Strike: '25'
+  Vs Thrust: '21'
+  Weight: '2.2'
+  effects: ''
+  fashionID: '262'
+  ? 'id
+
+    '
+  : '205
+
+    '
+  name: Prisoner's Tatters (2)
+  type: chest
+- Bleed RES: '19'
+  Curse RES: '0'
+  Dark DEF: '26'
+  Durability: '25'
+  Fire DEF: '23'
+  Lightning DEF: '33'
+  Magic Def: '23'
+  Petrify RES: '0'
+  Physical Def: '22'
+  Poise: '0'
+  Poison RES: '26'
+  Requirements: ''
+  Scaling: B
+  Vs Slash: '21'
+  Vs Strike: '25'
+  Vs Thrust: '21'
+  Weight: '2.2'
+  effects: ''
+  fashionID: '263'
+  ? 'id
+
+    '
+  : '206
+
+    '
+  name: Prisoner's Tatters
+  type: chest
+- Bleed RES: '29'
+  Curse RES: '0'
+  Dark DEF: '28'
+  Durability: '55'
+  Fire DEF: '26'
+  Lightning DEF: '36'
+  Magic Def: '28'
+  Petrify RES: '0'
+  Physical Def: '113'
+  Poise: '0'
+  Poison RES: '29'
+  Requirements: ''
+  Scaling: B
+  Vs Slash: '111'
+  Vs Strike: '118'
+  Vs Thrust: '111'
+  Weight: '5.9'
+  effects: ''
+  fashionID: '228'
+  ? 'id
+
+    '
+  : '207
+
+    '
+  name: Infantry Armor
+  type: chest
+- Bleed RES: '21'
+  Curse RES: '0'
+  Dark DEF: '19'
+  Durability: '40'
+  Fire DEF: '21'
+  Lightning DEF: '26'
+  Magic Def: '20'
+  Petrify RES: '0'
+  Physical Def: '44'
+  Poise: '0'
+  Poison RES: '20'
+  Requirements: ''
+  Scaling: B
+  Vs Slash: '42'
+  Vs Strike: '48'
+  Vs Thrust: '42'
+  Weight: '3'
+  effects: '[{"effect": "Increases souls gained by 5%", "alters": "", "method": "",
+    "value": 0}]'
+  fashionID: '283'
+  ? 'id
+
+    '
+  : '208
+
+    '
+  name: Tseldora Robe
+  type: chest
+- Bleed RES: '29'
+  Curse RES: '0'
+  Dark DEF: '23'
+  Durability: '45'
+  Fire DEF: '25'
+  Lightning DEF: '31'
+  Magic Def: '23'
+  Petrify RES: '0'
+  Physical Def: '50'
+  Poise: '0'
+  Poison RES: '36'
+  Requirements: ''
+  Scaling: B
+  Vs Slash: '48'
+  Vs Strike: '55'
+  Vs Thrust: '48'
+  Weight: '3.8'
+  effects: ''
+  fashionID: '260'
+  ? 'id
+
+    '
+  : '209
+
+    '
+  name: Peasant Attire
+  type: chest
+- Bleed RES: '34'
+  Curse RES: '0'
+  Dark DEF: '45'
+  Durability: '60'
+  Fire DEF: '33'
+  Lightning DEF: '42'
+  Magic Def: '35'
+  Petrify RES: '0'
+  Physical Def: '79'
+  Poise: '0'
+  Poison RES: '42'
+  Requirements: ''
+  Scaling: B
+  Vs Slash: '76'
+  Vs Strike: '86'
+  Vs Thrust: '76'
+  Weight: '6'
+  effects: ''
+  fashionID: '71'
+  ? 'id
+
+    '
+  : '210
+
+    '
+  name: Grave Warden Top
+  type: chest
+- Bleed RES: '19'
+  Curse RES: '0'
+  Dark DEF: '37'
+  Durability: '50'
+  Fire DEF: '30'
+  Lightning DEF: '30'
+  Magic Def: '44'
+  Petrify RES: '0'
+  Physical Def: '60'
+  Poise: '0'
+  Poison RES: '19'
+  Requirements: ''
+  Scaling: B
+  Vs Slash: '58'
+  Vs Strike: '63'
+  Vs Thrust: '58'
+  Weight: '5.1'
+  effects: ''
+  fashionID: '75'
+  ? 'id
+
+    '
+  : '211
+
+    '
+  name: Astrologist's Robes
+  type: chest
+- Bleed RES: '38'
+  Curse RES: '0'
+  Dark DEF: '28'
+  Durability: '35'
+  Fire DEF: '24'
+  Lightning DEF: '33'
+  Magic Def: '28'
+  Petrify RES: '0'
+  Physical Def: '95'
+  Poise: '0'
+  Poison RES: '34'
+  Requirements: ''
+  Scaling: B
+  Vs Slash: '90'
+  Vs Strike: '105'
+  Vs Thrust: '90'
+  Weight: '6.5'
+  effects: ''
+  fashionID: '3'
+  ? 'id
+
+    '
+  : '212
+
+    '
+  name: Imported Tunic
+  type: chest
+- Bleed RES: '20'
+  Curse RES: '0'
+  Dark DEF: '20'
+  Durability: '40'
+  Fire DEF: '10'
+  Lightning DEF: '24'
+  Magic Def: '20'
+  Petrify RES: '0'
+  Physical Def: '91'
+  Poise: '0'
+  Poison RES: '20'
+  Requirements: ''
+  Scaling: B
+  Vs Slash: '90'
+  Vs Strike: '94'
+  Vs Thrust: '90'
+  Weight: '5.9'
+  effects: ''
+  fashionID: '-1'
+  ? 'id
+
+    '
+  : '213
+
+    '
+  name: Hollow Infantry Armor
+  type: chest
+- Bleed RES: '21'
+  Curse RES: '0'
+  Dark DEF: '22'
+  Durability: '95'
+  Fire DEF: '22'
+  Lightning DEF: '17'
+  Magic Def: '33'
+  Petrify RES: '0'
+  Physical Def: '76'
+  Poise: '10'
+  Poison RES: '17'
+  Requirements: ''
+  Scaling: C
+  Vs Slash: '82'
+  Vs Strike: '73'
+  Vs Thrust: '76'
+  Weight: '4.1'
+  effects: ''
+  fashionID: '36'
+  ? 'id
+
+    '
+  : '214
+
+    '
+  name: Throne Watcher Gauntlets
+  type: hands
+- Bleed RES: '61'
+  Curse RES: '29'
+  Dark DEF: '37'
+  Durability: '255'
+  Fire DEF: '40'
+  Lightning DEF: '34'
+  Magic Def: '37'
+  Petrify RES: '29'
+  Physical Def: '258'
+  Poise: '28'
+  Poison RES: '15'
+  Requirements: 20 STR
+  Scaling: C
+  Vs Slash: '290'
+  Vs Strike: '225'
+  Vs Thrust: '258'
+  Weight: '11.5'
+  effects: ''
+  fashionID: '314'
+  ? 'id
+
+    '
+  : '215
+
+    '
+  name: Havel's Gauntlets
+  type: hands
+- Bleed RES: '31'
+  Curse RES: '23'
+  Dark DEF: '36'
+  Durability: '140'
+  Fire DEF: '18'
+  Lightning DEF: '10'
+  Magic Def: '17'
+  Petrify RES: '16'
+  Physical Def: '113'
+  Poise: '12'
+  Poison RES: '13'
+  Requirements: ''
+  Scaling: C
+  Vs Slash: '119'
+  Vs Strike: '103'
+  Vs Thrust: '117'
+  Weight: '5'
+  effects: ''
+  fashionID: '-1'
+  ? 'id
+
+    '
+  : '216
+
+    '
+  name: Velstadt's Gauntlets
+  type: hands
+- Bleed RES: '24'
+  Curse RES: '0'
+  Dark DEF: '21'
+  Durability: '85'
+  Fire DEF: '23'
+  Lightning DEF: '14'
+  Magic Def: '21'
+  Petrify RES: '0'
+  Physical Def: '93'
+  Poise: '11'
+  Poison RES: '18'
+  Requirements: ''
+  Scaling: C
+  Vs Slash: '99'
+  Vs Strike: '88'
+  Vs Thrust: '94'
+  Weight: '4.7'
+  effects: ''
+  fashionID: '309'
+  ? 'id
+
+    '
+  : '217
+
+    '
+  name: Faraam Gauntlets
+  type: hands
+- Bleed RES: '55'
+  Curse RES: '0'
+  Dark DEF: '31'
+  Durability: '150'
+  Fire DEF: '34'
+  Lightning DEF: '51'
+  Magic Def: '31'
+  Petrify RES: '0'
+  Physical Def: '223'
+  Poise: '24'
+  Poison RES: '29'
+  Requirements: ''
+  Scaling: C
+  Vs Slash: '252'
+  Vs Strike: '197'
+  Vs Thrust: '223'
+  Weight: '10.4'
+  effects: ''
+  fashionID: '328'
+  ? 'id
+
+    '
+  : '218
+
+    '
+  name: Looking Glass Gauntlets
+  type: hands
+- Bleed RES: '16'
+  Curse RES: '11'
+  Dark DEF: '11'
+  Durability: '70'
+  Fire DEF: '10'
+  Lightning DEF: '9'
+  Magic Def: '11'
+  Petrify RES: '11'
+  Physical Def: '75'
+  Poise: '8'
+  Poison RES: '21'
+  Requirements: ''
+  Scaling: C
+  Vs Slash: '79'
+  Vs Strike: '75'
+  Vs Thrust: '72'
+  Weight: '3.6'
+  effects: ''
+  fashionID: '312'
+  ? 'id
+
+    '
+  : '219
+
+    '
+  name: Gyrm Gloves
+  type: hands
+- Bleed RES: '16'
+  Curse RES: '11'
+  Dark DEF: '11'
+  Durability: '70'
+  Fire DEF: '10'
+  Lightning DEF: '9'
+  Magic Def: '11'
+  Petrify RES: '11'
+  Physical Def: '75'
+  Poise: '8'
+  Poison RES: '21'
+  Requirements: ''
+  Scaling: C
+  Vs Slash: '79'
+  Vs Strike: '75'
+  Vs Thrust: '72'
+  Weight: '3.6'
+  effects: ''
+  fashionID: '313'
+  ? 'id
+
+    '
+  : '220
+
+    '
+  name: Gyrm Warrior Gloves
+  type: hands
+- Bleed RES: '48'
+  Curse RES: '32'
+  Dark DEF: '31'
+  Durability: '160'
+  Fire DEF: '59'
+  Lightning DEF: '30'
+  Magic Def: '31'
+  Petrify RES: '32'
+  Physical Def: '224'
+  Poise: '23'
+  Poison RES: '21'
+  Requirements: 16 STR
+  Scaling: C
+  Vs Slash: '246'
+  Vs Strike: '202'
+  Vs Thrust: '224'
+  Weight: '10.4'
+  effects: ''
+  fashionID: '7'
+  ? 'id
+
+    '
+  : '221
+
+    '
+  name: Smelter Demon Gauntlets
+  type: hands
+- Bleed RES: '52'
+  Curse RES: '0'
+  Dark DEF: '30'
+  Durability: '90'
+  Fire DEF: '33'
+  Lightning DEF: '22'
+  Magic Def: '30'
+  Petrify RES: '0'
+  Physical Def: '192'
+  Poise: '20'
+  Poison RES: '17'
+  Requirements: 14 STR
+  Scaling: C
+  Vs Slash: '204'
+  Vs Strike: '177'
+  Vs Thrust: '192'
+  Weight: '9.4'
+  effects: ''
+  fashionID: '321'
+  ? 'id
+
+    '
+  : '222
+
+    '
+  name: Ironclad Gauntlets
+  type: hands
+- Bleed RES: '20'
+  Curse RES: '0'
+  Dark DEF: '17'
+  Durability: '75'
+  Fire DEF: '15'
+  Lightning DEF: '12'
+  Magic Def: '15'
+  Petrify RES: '0'
+  Physical Def: '60'
+  Poise: '7'
+  Poison RES: '18'
+  Requirements: ''
+  Scaling: C
+  Vs Slash: '65'
+  Vs Strike: '56'
+  Vs Thrust: '60'
+  Weight: '3.3'
+  effects: ''
+  fashionID: '349'
+  ? 'id
+
+    '
+  : '223
+
+    '
+  name: Targray's Manifers
+  type: hands
+- Bleed RES: '37'
+  Curse RES: '0'
+  Dark DEF: '25'
+  Durability: '90'
+  Fire DEF: '28'
+  Lightning DEF: '17'
+  Magic Def: '25'
+  Petrify RES: '0'
+  Physical Def: '196'
+  Poise: '18'
+  Poison RES: '32'
+  Requirements: 16 STR
+  Scaling: C
+  Vs Slash: '209'
+  Vs Strike: '183'
+  Vs Thrust: '196'
+  Weight: '8.8'
+  effects: ''
+  fashionID: '332'
+  ? 'id
+
+    '
+  : '224
+
+    '
+  name: Mastodon Gauntlets
+  type: hands
+- Bleed RES: '26'
+  Curse RES: '0'
+  Dark DEF: '18'
+  Durability: '120'
+  Fire DEF: '25'
+  Lightning DEF: '20'
+  Magic Def: '25'
+  Petrify RES: '28'
+  Physical Def: '75'
+  Poise: '8.5'
+  Poison RES: '29'
+  Requirements: 14 STR, 12 DEX
+  Scaling: C
+  Vs Slash: '80'
+  Vs Strike: '71'
+  Vs Thrust: '75'
+  Weight: '4.2'
+  effects: ''
+  fashionID: '323'
+  ? 'id
+
+    '
+  : '225
+
+    '
+  name: King's Gauntlets
+  type: hands
+- Bleed RES: '25'
+  Curse RES: '0'
+  Dark DEF: '20'
+  Durability: '85'
+  Fire DEF: '24'
+  Lightning DEF: '10'
+  Magic Def: '15'
+  Petrify RES: '0'
+  Physical Def: '93'
+  Poise: '9'
+  Poison RES: '20'
+  Requirements: ''
+  Scaling: C
+  Vs Slash: '101'
+  Vs Strike: '90'
+  Vs Thrust: '96'
+  Weight: '4.6'
+  effects: ''
+  fashionID: '304'
+  ? 'id
+
+    '
+  : '226
+
+    '
+  name: Drakeblood Gauntlets
+  type: hands
+- Bleed RES: '34'
+  Curse RES: '0'
+  Dark DEF: '20'
+  Durability: '20'
+  Fire DEF: '20'
+  Lightning DEF: '15'
+  Magic Def: '20'
+  Petrify RES: '0'
+  Physical Def: '181'
+  Poise: '16'
+  Poison RES: '16'
+  Requirements: ''
+  Scaling: C
+  Vs Slash: '189'
+  Vs Strike: '170'
+  Vs Thrust: '181'
+  Weight: '8.2'
+  effects: ''
+  fashionID: '-1'
+  ? 'id
+
+    '
+  : '227
+
+    '
+  name: Old Knight Gauntlets
+  type: hands
+- Bleed RES: '43'
+  Curse RES: '0'
+  Dark DEF: '29'
+  Durability: '100'
+  Fire DEF: '31'
+  Lightning DEF: '22'
+  Magic Def: '29'
+  Petrify RES: '0'
+  Physical Def: '190'
+  Poise: '16'
+  Poison RES: '26'
+  Requirements: ''
+  Scaling: C
+  Vs Slash: '203'
+  Vs Strike: '181'
+  Vs Thrust: '190'
+  Weight: '8.3'
+  effects: ''
+  fashionID: '347'
+  ? 'id
+
+    '
+  : '228
+
+    '
+  name: Steel Gauntlets
+  type: hands
+- Bleed RES: '24'
+  Curse RES: '0'
+  Dark DEF: '19'
+  Durability: '70'
+  Fire DEF: '21'
+  Lightning DEF: '11'
+  Magic Def: '19'
+  Petrify RES: '0'
+  Physical Def: '63'
+  Poise: '6.5'
+  Poison RES: '15'
+  Requirements: ''
+  Scaling: C
+  Vs Slash: '66'
+  Vs Strike: '62'
+  Vs Thrust: '63'
+  Weight: '3.4'
+  effects: ''
+  fashionID: '136'
+  ? 'id
+
+    '
+  : '229
+
+    '
+  name: Creighton's Chain Gloves
+  type: hands
+- Bleed RES: '42'
+  Curse RES: '0'
+  Dark DEF: '24'
+  Durability: '45'
+  Fire DEF: '26'
+  Lightning DEF: '19'
+  Magic Def: '24'
+  Petrify RES: '0'
+  Physical Def: '168'
+  Poise: '18'
+  Poison RES: '14'
+  Requirements: 14 STR
+  Scaling: C
+  Vs Slash: '181'
+  Vs Strike: '156'
+  Vs Thrust: '168'
+  Weight: '9.4'
+  effects: ''
+  fashionID: '334'
+  ? 'id
+
+    '
+  : '230
+
+    '
+  name: Old Ironclad Gauntlets
+  type: hands
+- Bleed RES: '20'
+  Curse RES: '0'
+  Dark DEF: '17'
+  Durability: '100'
+  Fire DEF: '19'
+  Lightning DEF: '10'
+  Magic Def: '17'
+  Petrify RES: '0'
+  Physical Def: '86'
+  Poise: '8'
+  Poison RES: '12'
+  Requirements: ''
+  Scaling: C
+  Vs Slash: '89'
+  Vs Strike: '83'
+  Vs Thrust: '86'
+  Weight: '4.2'
+  effects: ''
+  fashionID: '35'
+  ? 'id
+
+    '
+  : '231
+
+    '
+  name: Throne Defender Gauntlets
+  type: hands
+- Bleed RES: '13'
+  Curse RES: '0'
+  Dark DEF: '17'
+  Durability: '80'
+  Fire DEF: '18'
+  Lightning DEF: '30'
+  Magic Def: '19'
+  Petrify RES: '0'
+  Physical Def: '58'
+  Poise: '6'
+  Poison RES: '16'
+  Requirements: ''
+  Scaling: C
+  Vs Slash: '58'
+  Vs Strike: '58'
+  Vs Thrust: '58'
+  Weight: '3.2'
+  effects: ''
+  fashionID: '67'
+  ? 'id
+
+    '
+  : '232
+
+    '
+  name: Archdrake Gloves
+  type: hands
+- Bleed RES: '21'
+  Curse RES: '0'
+  Dark DEF: '22'
+  Durability: '80'
+  Fire DEF: '20'
+  Lightning DEF: '14'
+  Magic Def: '21'
+  Petrify RES: '0'
+  Physical Def: '58'
+  Poise: '6'
+  Poison RES: '16'
+  Requirements: ''
+  Scaling: C
+  Vs Slash: '61'
+  Vs Strike: '56'
+  Vs Thrust: '58'
+  Weight: '3.2'
+  effects: ''
+  fashionID: '311'
+  ? 'id
+
+    '
+  : '233
+
+    '
+  name: Gauntlets of Aurous
+  type: hands
+- Bleed RES: '36'
+  Curse RES: '0'
+  Dark DEF: '28'
+  Durability: '95'
+  Fire DEF: '31'
+  Lightning DEF: '19'
+  Magic Def: '28'
+  Petrify RES: '0'
+  Physical Def: '132'
+  Poise: '13'
+  Poison RES: '23'
+  Requirements: ''
+  Scaling: C
+  Vs Slash: '153'
+  Vs Strike: '132'
+  Vs Thrust: '132'
+  Weight: '6.9'
+  effects: ''
+  fashionID: '134'
+  ? 'id
+
+    '
+  : '234
+
+    '
+  name: Catarina Gauntlets
+  type: hands
+- Bleed RES: '34'
+  Curse RES: '0'
+  Dark DEF: '20'
+  Durability: '85'
+  Fire DEF: '27'
+  Lightning DEF: '12'
+  Magic Def: '20'
+  Petrify RES: '0'
+  Physical Def: '103'
+  Poise: '9.5'
+  Poison RES: '12'
+  Requirements: ''
+  Scaling: C
+  Vs Slash: '110'
+  Vs Strike: '93'
+  Vs Thrust: '105'
+  Weight: '5.2'
+  effects: ''
+  fashionID: '348'
+  ? 'id
+
+    '
+  : '235
+
+    '
+  name: Syan's Gauntlets
+  type: hands
+- Bleed RES: '30'
+  Curse RES: '0'
+  Dark DEF: '26'
+  Durability: '80'
+  Fire DEF: '43'
+  Lightning DEF: '21'
+  Magic Def: '26'
+  Petrify RES: '0'
+  Physical Def: '144'
+  Poise: '12'
+  Poison RES: '13'
+  Requirements: ''
+  Scaling: C
+  Vs Slash: '151'
+  Vs Strike: '137'
+  Vs Thrust: '144'
+  Weight: '6.7'
+  effects: ''
+  fashionID: '59'
+  ? 'id
+
+    '
+  : '236
+
+    '
+  name: Alonne Knight Gauntlets
+  type: hands
+- Bleed RES: '22'
+  Curse RES: '0'
+  Dark DEF: '18'
+  Durability: '80'
+  Fire DEF: '19'
+  Lightning DEF: '13'
+  Magic Def: '18'
+  Petrify RES: '0'
+  Physical Def: '59'
+  Poise: '6'
+  Poison RES: '16'
+  Requirements: ''
+  Scaling: C
+  Vs Slash: '67'
+  Vs Strike: '57'
+  Vs Thrust: '59'
+  Weight: '3.5'
+  effects: ''
+  fashionID: '-1'
+  ? 'id
+
+    '
+  : '237
+
+    '
+  name: Knight Gauntlets
+  type: hands
+- Bleed RES: '28'
+  Curse RES: '22'
+  Dark DEF: '27'
+  Durability: '85'
+  Fire DEF: '23'
+  Lightning DEF: '19'
+  Magic Def: '27'
+  Petrify RES: '22'
+  Physical Def: '131'
+  Poise: '10'
+  Poison RES: '22'
+  Requirements: ''
+  Scaling: C
+  Vs Slash: '138'
+  Vs Strike: '126'
+  Vs Thrust: '131'
+  Weight: '6'
+  effects: ''
+  fashionID: '318'
+  ? 'id
+
+    '
+  : '238
+
+    '
+  name: Imperious Gloves
+  type: hands
+- Bleed RES: '40'
+  Curse RES: '39'
+  Dark DEF: '29'
+  Durability: '90'
+  Fire DEF: '32'
+  Lightning DEF: '26'
+  Magic Def: '29'
+  Petrify RES: '0'
+  Physical Def: '189'
+  Poise: '14'
+  Poison RES: '29'
+  Requirements: ''
+  Scaling: C
+  Vs Slash: '199'
+  Vs Strike: '182'
+  Vs Thrust: '189'
+  Weight: '8.4'
+  effects: ''
+  fashionID: '305'
+  ? 'id
+
+    '
+  : '239
+
+    '
+  name: Drakekeeper Gauntlets
+  type: hands
+- Bleed RES: '29'
+  Curse RES: '0'
+  Dark DEF: '20'
+  Durability: '40'
+  Fire DEF: '22'
+  Lightning DEF: '13'
+  Magic Def: '20'
+  Petrify RES: '0'
+  Physical Def: '153'
+  Poise: '13'
+  Poison RES: '26'
+  Requirements: 14 STR
+  Scaling: C
+  Vs Slash: '164'
+  Vs Strike: '143'
+  Vs Thrust: '153'
+  Weight: '7.8'
+  effects: ''
+  fashionID: '-1'
+  ? 'id
+
+    '
+  : '240
+
+    '
+  name: Rusted Mastodon Gauntlets
+  type: hands
+- Bleed RES: '22'
+  Curse RES: '0'
+  Dark DEF: '25'
+  Durability: '72'
+  Fire DEF: '24'
+  Lightning DEF: '22'
+  Magic Def: '25'
+  Petrify RES: '0'
+  Physical Def: '109'
+  Poise: '9'
+  Poison RES: '29'
+  Requirements: ''
+  Scaling: C
+  Vs Slash: '113'
+  Vs Strike: '105'
+  Vs Thrust: '109'
+  Weight: '5.5'
+  effects: ''
+  fashionID: '85'
+  ? 'id
+
+    '
+  : '241
+
+    '
+  name: Benhart's Gauntlets
+  type: hands
+- Bleed RES: '32'
+  Curse RES: '0'
+  Dark DEF: '25'
+  Durability: '75'
+  Fire DEF: '32'
+  Lightning DEF: '17'
+  Magic Def: '25'
+  Petrify RES: '0'
+  Physical Def: '110'
+  Poise: '10'
+  Poison RES: '15'
+  Requirements: ''
+  Scaling: C
+  Vs Slash: '122'
+  Vs Strike: '96'
+  Vs Thrust: '114'
+  Weight: '6.1'
+  effects: ''
+  fashionID: '342'
+  ? 'id
+
+    '
+  : '242
+
+    '
+  name: Royal Swordsman Gloves
+  type: hands
+- Bleed RES: '32'
+  Curse RES: '29'
+  Dark DEF: '25'
+  Durability: '75'
+  Fire DEF: '24'
+  Lightning DEF: '18'
+  Magic Def: '25'
+  Petrify RES: '29'
+  Physical Def: '152'
+  Poise: '12'
+  Poison RES: '32'
+  Requirements: ''
+  Scaling: C
+  Vs Slash: '160'
+  Vs Strike: '152'
+  Vs Thrust: '145'
+  Weight: '7.4'
+  effects: ''
+  fashionID: '330'
+  ? 'id
+
+    '
+  : '243
+
+    '
+  name: Mad Warrior Gauntlets
+  type: hands
+- Bleed RES: '39'
+  Curse RES: '0'
+  Dark DEF: '29'
+  Durability: '105'
+  Fire DEF: '32'
+  Lightning DEF: '20'
+  Magic Def: '29'
+  Petrify RES: '51'
+  Physical Def: '123'
+  Poise: '10'
+  Poison RES: '17'
+  Requirements: ''
+  Scaling: C
+  Vs Slash: '133'
+  Vs Strike: '112'
+  Vs Thrust: '126'
+  Weight: '6.2'
+  effects: ''
+  fashionID: '343'
+  ? 'id
+
+    '
+  : '244
+
+    '
+  name: Ruin Gauntlets
+  type: hands
+- Bleed RES: '19'
+  Curse RES: '0'
+  Dark DEF: '16'
+  Durability: '95'
+  Fire DEF: '15'
+  Lightning DEF: '16'
+  Magic Def: '16'
+  Petrify RES: '0'
+  Physical Def: '140'
+  Poise: '10'
+  Poison RES: '15'
+  Requirements: ''
+  Scaling: C
+  Vs Slash: '146'
+  Vs Strike: '131'
+  Vs Thrust: '140'
+  Weight: '6.2'
+  effects: ''
+  fashionID: '303'
+  ? 'id
+
+    '
+  : '245
+
+    '
+  name: Dragonrider Gauntlets
+  type: hands
+- Bleed RES: '27'
+  Curse RES: '0'
+  Dark DEF: '20'
+  Durability: '90'
+  Fire DEF: '20'
+  Lightning DEF: '18'
+  Magic Def: '20'
+  Petrify RES: '0'
+  Physical Def: '125'
+  Poise: '10'
+  Poison RES: '21'
+  Requirements: ''
+  Scaling: C
+  Vs Slash: '135'
+  Vs Strike: '118'
+  Vs Thrust: '127'
+  Weight: '6.2'
+  effects: ''
+  fashionID: '34'
+  ? 'id
+
+    '
+  : '246
+
+    '
+  name: Drangleic Gauntlets
+  type: hands
+- Bleed RES: '19'
+  Curse RES: '0'
+  Dark DEF: '20'
+  Durability: '70'
+  Fire DEF: '21'
+  Lightning DEF: '14'
+  Magic Def: '20'
+  Petrify RES: '0'
+  Physical Def: '65'
+  Poise: '6'
+  Poison RES: '17'
+  Requirements: ''
+  Scaling: C
+  Vs Slash: '68'
+  Vs Strike: '62'
+  Vs Thrust: '66'
+  Weight: '3.8'
+  effects: ''
+  fashionID: '341'
+  ? 'id
+
+    '
+  : '247
+
+    '
+  name: Royal Soldier Gauntlets
+  type: hands
+- Bleed RES: '31'
+  Curse RES: '0'
+  Dark DEF: '56'
+  Durability: '90'
+  Fire DEF: '27'
+  Lightning DEF: '18'
+  Magic Def: '27'
+  Petrify RES: '0'
+  Physical Def: '101'
+  Poise: '9'
+  Poison RES: '27'
+  Requirements: ''
+  Scaling: C
+  Vs Slash: '107'
+  Vs Strike: '101'
+  Vs Thrust: '97'
+  Weight: '5.8'
+  effects: ''
+  fashionID: '299'
+  ? 'id
+
+    '
+  : '248
+
+    '
+  name: Dark Gauntlets
+  type: hands
+- Bleed RES: '30'
+  Curse RES: '25'
+  Dark DEF: '24'
+  Durability: '75'
+  Fire DEF: '26'
+  Lightning DEF: '32'
+  Magic Def: '26'
+  Petrify RES: '25'
+  Physical Def: '101'
+  Poise: '9'
+  Poison RES: '23'
+  Requirements: ''
+  Scaling: C
+  Vs Slash: '108'
+  Vs Strike: '96'
+  Vs Thrust: '101'
+  Weight: '5.8'
+  effects: ''
+  fashionID: '320'
+  ? 'id
+
+    '
+  : '249
+
+    '
+  name: Insolent Gloves
+  type: hands
+- Bleed RES: '21'
+  Curse RES: '0'
+  Dark DEF: '18'
+  Durability: '85'
+  Fire DEF: '22'
+  Lightning DEF: '16'
+  Magic Def: '18'
+  Petrify RES: '0'
+  Physical Def: '116'
+  Poise: '8'
+  Poison RES: '17'
+  Requirements: ''
+  Scaling: C
+  Vs Slash: '123'
+  Vs Strike: '109'
+  Vs Thrust: '116'
+  Weight: '5.3'
+  effects: ''
+  fashionID: '38'
+  ? 'id
+
+    '
+  : '250
+
+    '
+  name: Vengarl's Gloves
+  type: hands
+- Bleed RES: '0'
+  Curse RES: '0'
+  Dark DEF: '17'
+  Durability: '90'
+  Fire DEF: '18'
+  Lightning DEF: '16'
+  Magic Def: '19'
+  Petrify RES: '0'
+  Physical Def: '127'
+  Poise: '9'
+  Poison RES: '0'
+  Requirements: ''
+  Scaling: C
+  Vs Slash: '136'
+  Vs Strike: '116'
+  Vs Thrust: '129'
+  Weight: '6'
+  effects: ''
+  fashionID: '345'
+  ? 'id
+
+    '
+  : '251
+
+    '
+  name: Sanctum Knight Gauntlets
+  type: hands
+- Bleed RES: '38'
+  Curse RES: '27'
+  Dark DEF: '30'
+  Durability: '65'
+  Fire DEF: '14'
+  Lightning DEF: '9'
+  Magic Def: '13'
+  Petrify RES: '0'
+  Physical Def: '56'
+  Poise: '4'
+  Poison RES: '10'
+  Requirements: ''
+  Scaling: D
+  Vs Slash: '60'
+  Vs Strike: '52'
+  Vs Thrust: '58'
+  Weight: '2.7'
+  effects: ''
+  fashionID: '-1'
+  ? 'id
+
+    '
+  : '252
+
+    '
+  name: Executioner Gauntlets
+  type: hands
+- Bleed RES: '26'
+  Curse RES: '28'
+  Dark DEF: '32'
+  Durability: '90'
+  Fire DEF: '23'
+  Lightning DEF: '16'
+  Magic Def: '18'
+  Petrify RES: '0'
+  Physical Def: '107'
+  Poise: '8'
+  Poison RES: '35'
+  Requirements: ''
+  Scaling: C
+  Vs Slash: '114'
+  Vs Strike: '100'
+  Vs Thrust: '107'
+  Weight: '5.4'
+  effects: ''
+  fashionID: '315'
+  ? 'id
+
+    '
+  : '253
+
+    '
+  name: Heide Knight Gauntlets
+  type: hands
+- Bleed RES: '22'
+  Curse RES: '0'
+  Dark DEF: '17'
+  Durability: '80'
+  Fire DEF: '18'
+  Lightning DEF: '15'
+  Magic Def: '12'
+  Petrify RES: '0'
+  Physical Def: '57'
+  Poise: '5'
+  Poison RES: '20'
+  Requirements: ''
+  Scaling: C
+  Vs Slash: '65'
+  Vs Strike: '55'
+  Vs Thrust: '53'
+  Weight: '3.5'
+  effects: ''
+  fashionID: '346'
+  ? 'id
+
+    '
+  : '254
+
+    '
+  name: Sanctum Solider Gauntlets
+  type: hands
+- Bleed RES: '23'
+  Curse RES: '0'
+  Dark DEF: '17'
+  Durability: '80'
+  Fire DEF: '18'
+  Lightning DEF: '12'
+  Magic Def: '16'
+  Petrify RES: '0'
+  Physical Def: '59'
+  Poise: '4'
+  Poison RES: '17'
+  Requirements: ''
+  Scaling: C
+  Vs Slash: '51'
+  Vs Strike: '56'
+  Vs Thrust: '58'
+  Weight: '2.9'
+  effects: ''
+  fashionID: '64'
+  ? 'id
+
+    '
+  : '255
+
+    '
+  name: Alva Gauntlets
+  type: hands
+- Bleed RES: '19'
+  Curse RES: '0'
+  Dark DEF: '18'
+  Durability: '60'
+  Fire DEF: '19'
+  Lightning DEF: '15'
+  Magic Def: '18'
+  Petrify RES: '0'
+  Physical Def: '60'
+  Poise: '3.5'
+  Poison RES: '13'
+  Requirements: ''
+  Scaling: D
+  Vs Slash: '62'
+  Vs Strike: '60'
+  Vs Thrust: '58'
+  Weight: '2.8'
+  effects: ''
+  fashionID: '78'
+  ? 'id
+
+    '
+  : '256
+
+    '
+  name: Bandit Gauntlets
+  type: hands
+- Bleed RES: '16'
+  Curse RES: '0'
+  Dark DEF: '18'
+  Durability: '75'
+  Fire DEF: '15'
+  Lightning DEF: '21'
+  Magic Def: '18'
+  Petrify RES: '0'
+  Physical Def: '61'
+  Poise: '4'
+  Poison RES: '20'
+  Requirements: ''
+  Scaling: D
+  Vs Slash: '59'
+  Vs Strike: '65'
+  Vs Thrust: '59'
+  Weight: '3.2'
+  effects: ''
+  fashionID: '308'
+  ? 'id
+
+    '
+  : '257
+
+    '
+  name: Falconer Gloves
+  type: hands
+- Bleed RES: '16'
+  Curse RES: '0'
+  Dark DEF: '16'
+  Durability: '35'
+  Fire DEF: '17'
+  Lightning DEF: '11'
+  Magic Def: '16'
+  Petrify RES: '0'
+  Physical Def: '51'
+  Poise: '4'
+  Poison RES: '14'
+  Requirements: ''
+  Scaling: C
+  Vs Slash: '54'
+  Vs Strike: '49'
+  Vs Thrust: '52'
+  Weight: '3.2'
+  effects: ''
+  fashionID: '317'
+  ? 'id
+
+    '
+  : '258
+
+    '
+  name: Hollow Soldier Gauntlets
+  type: hands
+- Bleed RES: '22'
+  Curse RES: '0'
+  Dark DEF: '19'
+  Durability: '85'
+  Fire DEF: '20'
+  Lightning DEF: '14'
+  Magic Def: '19'
+  Petrify RES: '0'
+  Physical Def: '66'
+  Poise: '4'
+  Poison RES: '15'
+  Requirements: ''
+  Scaling: C
+  Vs Slash: '72'
+  Vs Strike: '64'
+  Vs Thrust: '66'
+  Weight: '3.7'
+  effects: ''
+  fashionID: '306'
+  ? 'id
+
+    '
+  : '259
+
+    '
+  name: Elite Knight Gloves
+  type: hands
+- Bleed RES: '15'
+  Curse RES: '20'
+  Dark DEF: '41'
+  Durability: '55'
+  Fire DEF: '42'
+  Lightning DEF: '28'
+  Magic Def: '28'
+  Petrify RES: '22'
+  Physical Def: '39'
+  Poise: '0'
+  Poison RES: '17'
+  Requirements: 16 INT, 16 FTH
+  Scaling: E
+  Vs Slash: '37'
+  Vs Strike: '42'
+  Vs Thrust: '37'
+  Weight: '1'
+  effects: ''
+  fashionID: '135'
+  ? 'id
+
+    '
+  : '260
+
+    '
+  name: Chaos Gloves
+  type: hands
+- Bleed RES: '17'
+  Curse RES: '24'
+  Dark DEF: '18'
+  Durability: '35'
+  Fire DEF: '14'
+  Lightning DEF: '22'
+  Magic Def: '21'
+  Petrify RES: '22'
+  Physical Def: '41'
+  Poise: '0'
+  Poison RES: '39'
+  Requirements: ''
+  Scaling: E
+  Vs Slash: '39'
+  Vs Strike: '45'
+  Vs Thrust: '39'
+  Weight: '0.8'
+  effects: '[{"effect": "Poisons nearby characters", "alters": "", "method": "", "value":
+    0}]'
+  fashionID: '-1'
+  ? 'id
+
+    '
+  : '261
+
+    '
+  name: Moon Butterfly Cuffs
+  type: hands
+- Bleed RES: '15'
+  Curse RES: '20'
+  Dark DEF: '28'
+  Durability: '55'
+  Fire DEF: '28'
+  Lightning DEF: '28'
+  Magic Def: '42'
+  Petrify RES: '22'
+  Physical Def: '39'
+  Poise: '0'
+  Poison RES: '17'
+  Requirements: 16 INT
+  Scaling: E
+  Vs Slash: '37'
+  Vs Strike: '42'
+  Vs Thrust: '37'
+  Weight: '1'
+  effects: ''
+  fashionID: '88'
+  ? 'id
+
+    '
+  : '262
+
+    '
+  name: Black Gloves
+  type: hands
+- Bleed RES: '15'
+  Curse RES: '20'
+  Dark DEF: '28'
+  Durability: '55'
+  Fire DEF: '42'
+  Lightning DEF: '28'
+  Magic Def: '28'
+  Petrify RES: '22'
+  Physical Def: '39'
+  Poise: '0'
+  Poison RES: '17'
+  Requirements: ''
+  Scaling: E
+  Vs Slash: '37'
+  Vs Strike: '42'
+  Vs Thrust: '37'
+  Weight: '1'
+  effects: ''
+  fashionID: '316'
+  ? 'id
+
+    '
+  : '263
+
+    '
+  name: Hexer's Gloves
+  type: hands
+- Bleed RES: '15'
+  Curse RES: '30'
+  Dark DEF: '28'
+  Durability: '55'
+  Fire DEF: '28'
+  Lightning DEF: '35'
+  Magic Def: '28'
+  Petrify RES: '33'
+  Physical Def: '39'
+  Poise: '0'
+  Poison RES: '17'
+  Requirements: 16 FTH
+  Scaling: E
+  Vs Slash: '37'
+  Vs Strike: '42'
+  Vs Thrust: '37'
+  Weight: '1'
+  effects: ''
+  fashionID: '344'
+  ? 'id
+
+    '
+  : '264
+
+    '
+  name: Saint's Long Gloves
+  type: hands
+- Bleed RES: '22'
+  Curse RES: '57'
+  Dark DEF: '47'
+  Durability: '40'
+  Fire DEF: '38'
+  Lightning DEF: '39'
+  Magic Def: '47'
+  Petrify RES: '25'
+  Physical Def: '50'
+  Poise: '0'
+  Poison RES: '22'
+  Requirements: ''
+  Scaling: E
+  Vs Slash: '46'
+  Vs Strike: '53'
+  Vs Thrust: '46'
+  Weight: '1.4'
+  effects: '[{"effect": "Increases casting speed by 5%", "alters": "Cast Speed", "method":
+    "mul", "value": 1.05}]'
+  fashionID: '325'
+  ? 'id
+
+    '
+  : '265
+
+    '
+  name: Lion Mage Cuffs
+  type: hands
+- Bleed RES: '14'
+  Curse RES: '17'
+  Dark DEF: '24'
+  Durability: '50'
+  Fire DEF: '21'
+  Lightning DEF: '29'
+  Magic Def: '21'
+  Petrify RES: '17'
+  Physical Def: '34'
+  Poise: '0'
+  Poison RES: '14'
+  Requirements: ''
+  Scaling: E
+  Vs Slash: '33'
+  Vs Strike: '35'
+  Vs Thrust: '33'
+  Weight: '0.9'
+  effects: ''
+  fashionID: '337'
+  ? 'id
+
+    '
+  : '266
+
+    '
+  name: Priestess Gloves
+  type: hands
+- Bleed RES: '23'
+  Curse RES: '25'
+  Dark DEF: '22'
+  Durability: '55'
+  Fire DEF: '22'
+  Lightning DEF: '19'
+  Magic Def: '30'
+  Petrify RES: '21'
+  Physical Def: '34'
+  Poise: '0'
+  Poison RES: '37'
+  Requirements: ''
+  Scaling: E
+  Vs Slash: '31'
+  Vs Strike: '36'
+  Vs Thrust: '31'
+  Weight: '0.9'
+  effects: ''
+  fashionID: '333'
+  ? 'id
+
+    '
+  : '267
+
+    '
+  name: Monastary Long Gloves
+  type: hands
+- Bleed RES: '30'
+  Curse RES: '0'
+  Dark DEF: '30'
+  Durability: '65'
+  Fire DEF: '23'
+  Lightning DEF: '29'
+  Magic Def: '24'
+  Petrify RES: '13'
+  Physical Def: '48'
+  Poise: '0'
+  Poison RES: '28'
+  Requirements: ''
+  Scaling: E
+  Vs Slash: '46'
+  Vs Strike: '51'
+  Vs Thrust: '46'
+  Weight: '1.2'
+  effects: ''
+  fashionID: '-1'
+  ? 'id
+
+    '
+  : '268
+
+    '
+  name: Manikin Gloves
+  type: hands
+- Bleed RES: '12'
+  Curse RES: '15'
+  Dark DEF: '42'
+  Durability: '50'
+  Fire DEF: '32'
+  Lightning DEF: '38'
+  Magic Def: '46'
+  Petrify RES: '32'
+  Physical Def: '60'
+  Poise: '0'
+  Poison RES: '18'
+  Requirements: ''
+  Scaling: E
+  Vs Slash: '48'
+  Vs Strike: '52'
+  Vs Thrust: '48'
+  Weight: '1.5'
+  effects: ''
+  fashionID: '300'
+  ? 'id
+
+    '
+  : '269
+
+    '
+  name: Desert Soceress Gloves
+  type: hands
+- Bleed RES: '37'
+  Curse RES: '0'
+  Dark DEF: '43'
+  Durability: '60'
+  Fire DEF: '36'
+  Lightning DEF: '33'
+  Magic Def: '32'
+  Petrify RES: '30'
+  Physical Def: '60'
+  Poise: '0'
+  Poison RES: '48'
+  Requirements: 16 DEX
+  Scaling: E
+  Vs Slash: '53'
+  Vs Strike: '67'
+  Vs Thrust: '53'
+  Weight: '1.6'
+  effects: ''
+  fashionID: '428'
+  ? 'id
+
+    '
+  : '270
+
+    '
+  name: Shadow Gauntlets
+  type: hands
+- Bleed RES: '21'
+  Curse RES: '23'
+  Dark DEF: '46'
+  Durability: '55'
+  Fire DEF: '38'
+  Lightning DEF: '45'
+  Magic Def: '48'
+  Petrify RES: '23'
+  Physical Def: '52'
+  Poise: '0'
+  Poison RES: '17'
+  Requirements: ''
+  Scaling: E
+  Vs Slash: '50'
+  Vs Strike: '56'
+  Vs Thrust: '50'
+  Weight: '1.7'
+  effects: ''
+  fashionID: '293'
+  ? 'id
+
+    '
+  : '271
+
+    '
+  name: Black Witch Gloves
+  type: hands
+- Bleed RES: '18'
+  Curse RES: '12'
+  Dark DEF: '31'
+  Durability: '55'
+  Fire DEF: '43'
+  Lightning DEF: '28'
+  Magic Def: '31'
+  Petrify RES: '0'
+  Physical Def: '59'
+  Poise: '0'
+  Poison RES: '51'
+  Requirements: ''
+  Scaling: E
+  Vs Slash: '57'
+  Vs Strike: '62'
+  Vs Thrust: '57'
+  Weight: '1.6'
+  effects: ''
+  fashionID: '350'
+  ? 'id
+
+    '
+  : '272
+
+    '
+  name: Tattered Cloth Manchettes
+  type: hands
+- Bleed RES: '19'
+  Curse RES: '37'
+  Dark DEF: '25'
+  Durability: '40'
+  Fire DEF: '22'
+  Lightning DEF: '25'
+  Magic Def: '26'
+  Petrify RES: '37'
+  Physical Def: '43'
+  Poise: '0'
+  Poison RES: '16'
+  Requirements: ''
+  Scaling: E
+  Vs Slash: '40'
+  Vs Strike: '49'
+  Vs Thrust: '40'
+  Weight: '1.2'
+  effects: ''
+  fashionID: '139'
+  ? 'id
+
+    '
+  : '273
+
+    '
+  name: Dingy Cuffs
+  type: hands
+- Bleed RES: '14'
+  Curse RES: '14'
+  Dark DEF: '24'
+  Durability: '50'
+  Fire DEF: '22'
+  Lightning DEF: '29'
+  Magic Def: '22'
+  Petrify RES: '14'
+  Physical Def: '37'
+  Poise: '0'
+  Poison RES: '15'
+  Requirements: ''
+  Scaling: E
+  Vs Slash: '36'
+  Vs Strike: '39'
+  Vs Thrust: '36'
+  Weight: '1.1'
+  effects: ''
+  fashionID: '-1'
+  ? 'id
+
+    '
+  : '274
+
+    '
+  name: White Priest Gloves
+  type: hands
+- Bleed RES: '13'
+  Curse RES: '70'
+  Dark DEF: '37'
+  Durability: '40'
+  Fire DEF: '2'
+  Lightning DEF: '20'
+  Magic Def: '21'
+  Petrify RES: '37'
+  Physical Def: '49'
+  Poise: '0'
+  Poison RES: '14'
+  Requirements: ''
+  Scaling: E
+  Vs Slash: '48'
+  Vs Strike: '50'
+  Vs Thrust: '48'
+  Weight: '1.3'
+  effects: '[{"effect": "Reduces falling damage", "alters": "", "method": "", "value":
+    0}]'
+  fashionID: '326'
+  ? 'id
+
+    '
+  : '275
+
+    '
+  name: Lion Warrior Cuffs
+  type: hands
+- Bleed RES: '27'
+  Curse RES: '0'
+  Dark DEF: '28'
+  Durability: '60'
+  Fire DEF: '26'
+  Lightning DEF: '25'
+  Magic Def: '32'
+  Petrify RES: '0'
+  Physical Def: '66'
+  Poise: '0'
+  Poison RES: '26'
+  Requirements: ''
+  Scaling: E
+  Vs Slash: '65'
+  Vs Strike: '72'
+  Vs Thrust: '61'
+  Weight: '1.8'
+  effects: ''
+  fashionID: '133'
+  ? 'id
+
+    '
+  : '276
+
+    '
+  name: Brigand Gauntlets
+  type: hands
+- Bleed RES: '17'
+  Curse RES: '34'
+  Dark DEF: '47'
+  Durability: '65'
+  Fire DEF: '37'
+  Lightning DEF: '30'
+  Magic Def: '34'
+  Petrify RES: '21'
+  Physical Def: '57'
+  Poise: '0'
+  Poison RES: '27'
+  Requirements: ''
+  Scaling: E
+  Vs Slash: '51'
+  Vs Strike: '58'
+  Vs Thrust: '51'
+  Weight: '1.9'
+  effects: ''
+  fashionID: '294'
+  ? 'id
+
+    '
+  : '277
+
+    '
+  name: Bone King Cuffs
+  type: hands
+- Bleed RES: '13'
+  Curse RES: '0'
+  Dark DEF: '15'
+  Durability: '40'
+  Fire DEF: '14'
+  Lightning DEF: '18'
+  Magic Def: '17'
+  Petrify RES: '0'
+  Physical Def: '43'
+  Poise: '0'
+  Poison RES: '12'
+  Requirements: ''
+  Scaling: E
+  Vs Slash: '41'
+  Vs Strike: '46'
+  Vs Thrust: '42'
+  Weight: '1.2'
+  effects: '[{"effect": "Increases maximum equipment load by 1%", "alters": "Equip
+    Load", "method": "mul", "value": 1.01}]'
+  fashionID: '426'
+  ? 'id
+
+    '
+  : '278
+
+    '
+  name: Gauntlets of Aurous (transparent)
+  type: hands
+- Bleed RES: '15'
+  Curse RES: '19'
+  Dark DEF: '28'
+  Durability: '50'
+  Fire DEF: '22'
+  Lightning DEF: '19'
+  Magic Def: '22'
+  Petrify RES: '12'
+  Physical Def: '33'
+  Poise: '0'
+  Poison RES: '16'
+  Requirements: ''
+  Scaling: E
+  Vs Slash: '32'
+  Vs Strike: '36'
+  Vs Thrust: '32'
+  Weight: '1.2'
+  effects: ''
+  fashionID: '50'
+  ? 'id
+
+    '
+  : '279
+
+    '
+  name: Leydia Gauntlets
+  type: hands
+- Bleed RES: '24'
+  Curse RES: '0'
+  Dark DEF: '24'
+  Durability: '55'
+  Fire DEF: '22'
+  Lightning DEF: '21'
+  Magic Def: '29'
+  Petrify RES: '0'
+  Physical Def: '60'
+  Poise: '0'
+  Poison RES: '35'
+  Requirements: ''
+  Scaling: E
+  Vs Slash: '59'
+  Vs Strike: '62'
+  Vs Thrust: '59'
+  Weight: '1.8'
+  effects: ''
+  fashionID: '30'
+  ? 'id
+
+    '
+  : '280
+
+    '
+  name: Black Leather Gloves
+  type: hands
+- Bleed RES: '42'
+  Curse RES: '0'
+  Dark DEF: '24'
+  Durability: '50'
+  Fire DEF: '30'
+  Lightning DEF: '33'
+  Magic Def: '23'
+  Petrify RES: '0'
+  Physical Def: '69'
+  Poise: '0'
+  Poison RES: '26'
+  Requirements: ''
+  Scaling: E
+  Vs Slash: '70'
+  Vs Strike: '67'
+  Vs Thrust: '71'
+  Weight: '2.1'
+  effects: ''
+  fashionID: '354'
+  ? 'id
+
+    '
+  : '281
+
+    '
+  name: Wanderer Manchettes
+  type: hands
+- Bleed RES: '47'
+  Curse RES: '0'
+  Dark DEF: '25'
+  Durability: '55'
+  Fire DEF: '20'
+  Lightning DEF: '23'
+  Magic Def: '20'
+  Petrify RES: '0'
+  Physical Def: '48'
+  Poise: '0'
+  Poison RES: '22'
+  Requirements: ''
+  Scaling: E
+  Vs Slash: '47'
+  Vs Strike: '51'
+  Vs Thrust: '47'
+  Weight: '1.6'
+  effects: ''
+  fashionID: '140'
+  ? 'id
+
+    '
+  : '282
+
+    '
+  name: Dragon Acolyte Gloves
+  type: hands
+- Bleed RES: '21'
+  Curse RES: '0'
+  Dark DEF: '24'
+  Durability: '55'
+  Fire DEF: '22'
+  Lightning DEF: '21'
+  Magic Def: '18'
+  Petrify RES: '0'
+  Physical Def: '57'
+  Poise: '0'
+  Poison RES: '22'
+  Requirements: ''
+  Scaling: E
+  Vs Slash: '58'
+  Vs Strike: '55'
+  Vs Thrust: '58'
+  Weight: '1.8'
+  effects: ''
+  fashionID: '340'
+  ? 'id
+
+    '
+  : '283
+
+    '
+  name: Rogue Gauntlets
+  type: hands
+- Bleed RES: '15'
+  Curse RES: '29'
+  Dark DEF: '24'
+  Durability: '50'
+  Fire DEF: '22'
+  Lightning DEF: '19'
+  Magic Def: '27'
+  Petrify RES: '0'
+  Physical Def: '53'
+  Poise: '0'
+  Poison RES: '14'
+  Requirements: ''
+  Scaling: E
+  Vs Slash: '51'
+  Vs Strike: '57'
+  Vs Thrust: '51'
+  Weight: '1.8'
+  effects: ''
+  fashionID: '331'
+  ? 'id
+
+    '
+  : '284
+
+    '
+  name: Manchettes of Judgment
+  type: hands
+- Bleed RES: '17'
+  Curse RES: '18'
+  Dark DEF: '28'
+  Durability: '85'
+  Fire DEF: '25'
+  Lightning DEF: '30'
+  Magic Def: '28'
+  Petrify RES: '9'
+  Physical Def: '51'
+  Poise: '0'
+  Poison RES: '22'
+  Requirements: ''
+  Scaling: D
+  Vs Slash: '49'
+  Vs Strike: '55'
+  Vs Thrust: '49'
+  Weight: '2'
+  effects: ''
+  fashionID: '329'
+  ? 'id
+
+    '
+  : '285
+
+    '
+  name: Lucatiel's Gloves
+  type: hands
+- Bleed RES: '28'
+  Curse RES: '49'
+  Dark DEF: '54'
+  Durability: '65'
+  Fire DEF: '39'
+  Lightning DEF: '36'
+  Magic Def: '41'
+  Petrify RES: '36'
+  Physical Def: '70'
+  Poise: '0'
+  Poison RES: '41'
+  Requirements: ''
+  Scaling: E
+  Vs Slash: '68'
+  Vs Strike: '74'
+  Vs Thrust: '68'
+  Weight: '2.9'
+  effects: '[{"effect": "Increases Faith by 1", "alters": "Faith", "method": "add",
+    "value":1}]'
+  fashionID: '54'
+  ? 'id
+
+    '
+  : '286
+
+    '
+  name: Agdayne's Cuffs
+  type: hands
+- Bleed RES: '25'
+  Curse RES: '0'
+  Dark DEF: '33'
+  Durability: '60'
+  Fire DEF: '24'
+  Lightning DEF: '31'
+  Magic Def: '25'
+  Petrify RES: '0'
+  Physical Def: '58'
+  Poise: '0'
+  Poison RES: '31'
+  Requirements: ''
+  Scaling: E
+  Vs Slash: '56'
+  Vs Strike: '63'
+  Vs Thrust: '56'
+  Weight: '2.2'
+  effects: ''
+  fashionID: '-1'
+  ? 'id
+
+    '
+  : '287
+
+    '
+  name: Grave Warden Cuffs
+  type: hands
+- Bleed RES: '15'
+  Curse RES: '0'
+  Dark DEF: '31'
+  Durability: '50'
+  Fire DEF: '25'
+  Lightning DEF: '25'
+  Magic Def: '36'
+  Petrify RES: '0'
+  Physical Def: '50'
+  Poise: '0'
+  Poison RES: '16'
+  Requirements: ''
+  Scaling: E
+  Vs Slash: '48'
+  Vs Strike: '52'
+  Vs Thrust: '48'
+  Weight: '2.1'
+  effects: ''
+  fashionID: '74'
+  ? 'id
+
+    '
+  : '288
+
+    '
+  name: Astrologist's Gauntlets
+  type: hands
+- Bleed RES: '26'
+  Curse RES: '0'
+  Dark DEF: '30'
+  Durability: '60'
+  Fire DEF: '18'
+  Lightning DEF: '37'
+  Magic Def: '28'
+  Petrify RES: '0'
+  Physical Def: '77'
+  Poise: '0'
+  Poison RES: '31'
+  Requirements: ''
+  Scaling: D
+  Vs Slash: '75'
+  Vs Strike: '82'
+  Vs Thrust: '75'
+  Weight: '2.8'
+  effects: ''
+  fashionID: '32'
+  ? 'id
+
+    '
+  : '289
+
+    '
+  name: Leather Gloves
+  type: hands
+- Bleed RES: '24'
+  Curse RES: '21'
+  Dark DEF: '30'
+  Durability: '45'
+  Fire DEF: '30'
+  Lightning DEF: '30'
+  Magic Def: '30'
+  Petrify RES: '31'
+  Physical Def: '53'
+  Poise: '0'
+  Poison RES: '32'
+  Requirements: 14 DEX
+  Scaling: D
+  Vs Slash: '51'
+  Vs Strike: '56'
+  Vs Thrust: '51'
+  Weight: '2.3'
+  effects: '[{"effect": "Increases souls gained by 10%", "alters": "", "method": "",
+    "value": 0}]'
+  fashionID: '322'
+  ? 'id
+
+    '
+  : '290
+
+    '
+  name: Jester's Gloves
+  type: hands
+- Bleed RES: '37'
+  Curse RES: '15'
+  Dark DEF: '26'
+  Durability: '85'
+  Fire DEF: '31'
+  Lightning DEF: '20'
+  Magic Def: '26'
+  Petrify RES: '15'
+  Physical Def: '82'
+  Poise: '0'
+  Poison RES: '27'
+  Requirements: ''
+  Scaling: D
+  Vs Slash: '85'
+  Vs Strike: '76'
+  Vs Thrust: '83'
+  Weight: '3.1'
+  effects: ''
+  fashionID: '327'
+  ? 'id
+
+    '
+  : '291
+
+    '
+  name: Llewellyn Gloves
+  type: hands
+- Bleed RES: '18'
+  Curse RES: '0'
+  Dark DEF: '27'
+  Durability: '60'
+  Fire DEF: '9'
+  Lightning DEF: '22'
+  Magic Def: '35'
+  Petrify RES: '0'
+  Physical Def: '46'
+  Poise: '0'
+  Poison RES: '20'
+  Requirements: ''
+  Scaling: E
+  Vs Slash: '46'
+  Vs Strike: '53'
+  Vs Thrust: '40'
+  Weight: '2.3'
+  effects: ''
+  fashionID: '355'
+  ? 'id
+
+    '
+  : '292
+
+    '
+  name: Xanthous Gloves
+  type: hands
+- Bleed RES: '24'
+  Curse RES: '0'
+  Dark DEF: '26'
+  Durability: '70'
+  Fire DEF: '16'
+  Lightning DEF: '31'
+  Magic Def: '25'
+  Petrify RES: '0'
+  Physical Def: '77'
+  Poise: '0'
+  Poison RES: '27'
+  Requirements: ''
+  Scaling: D
+  Vs Slash: '75'
+  Vs Strike: '80'
+  Vs Thrust: '75'
+  Weight: '3.5'
+  effects: ''
+  fashionID: '335'
+  ? 'id
+
+    '
+  : '293
+
+    '
+  name: Pate's Gloves
+  type: hands
+- Bleed RES: '11'
+  Curse RES: '0'
+  Dark DEF: '21'
+  Durability: '60'
+  Fire DEF: '11'
+  Lightning DEF: '16'
+  Magic Def: '12'
+  Petrify RES: '0'
+  Physical Def: '55'
+  Poise: '0'
+  Poison RES: '13'
+  Requirements: ''
+  Scaling: D
+  Vs Slash: '53'
+  Vs Strike: '58'
+  Vs Thrust: '53'
+  Weight: '2.5'
+  effects: ''
+  fashionID: '80'
+  ? 'id
+
+    '
+  : '294
+
+    '
+  name: Bell Keeper Cuffs
+  type: hands
+- Bleed RES: '25'
+  Curse RES: '0'
+  Dark DEF: '26'
+  Durability: '65'
+  Fire DEF: '16'
+  Lightning DEF: '31'
+  Magic Def: '25'
+  Petrify RES: '0'
+  Physical Def: '80'
+  Poise: '0'
+  Poison RES: '28'
+  Requirements: ''
+  Scaling: D
+  Vs Slash: '78'
+  Vs Strike: '83'
+  Vs Thrust: '78'
+  Weight: '3.8'
+  effects: ''
+  fashionID: '31'
+  ? 'id
+
+    '
+  : '295
+
+    '
+  name: Hard Leather Gauntlets
+  type: hands
+- Bleed RES: '29'
+  Curse RES: '0'
+  Dark DEF: '21'
+  Durability: '60'
+  Fire DEF: '23'
+  Lightning DEF: '24'
+  Magic Def: '21'
+  Petrify RES: '0'
+  Physical Def: '73'
+  Poise: '0'
+  Poison RES: '26'
+  Requirements: ''
+  Scaling: D
+  Vs Slash: '71'
+  Vs Strike: '78'
+  Vs Thrust: '71'
+  Weight: '3.6'
+  effects: ''
+  fashionID: '351'
+  ? 'id
+
+    '
+  : '296
+
+    '
+  name: Traveling Merchant Gloves
+  type: hands
+- Bleed RES: '12'
+  Curse RES: '0'
+  Dark DEF: '11'
+  Durability: '55'
+  Fire DEF: '8'
+  Lightning DEF: '13'
+  Magic Def: '11'
+  Petrify RES: '0'
+  Physical Def: '36'
+  Poise: '0'
+  Poison RES: '14'
+  Requirements: ''
+  Scaling: D
+  Vs Slash: '35'
+  Vs Strike: '37'
+  Vs Thrust: '35'
+  Weight: '1.8'
+  effects: ''
+  fashionID: '353'
+  ? 'id
+
+    '
+  : '297
+
+    '
+  name: Varangian Cuffs
+  type: hands
+- Bleed RES: '13'
+  Curse RES: '44'
+  Dark DEF: '37'
+  Durability: '55'
+  Fire DEF: '53'
+  Lightning DEF: '28'
+  Magic Def: '32'
+  Petrify RES: '34'
+  Physical Def: '85'
+  Poise: '0'
+  Poison RES: '16'
+  Requirements: ''
+  Scaling: D
+  Vs Slash: '85'
+  Vs Strike: '85'
+  Vs Thrust: '75'
+  Weight: '4.8'
+  effects: '[{"effect":  "Increases pyromancy damage by 7.5%", "alters": "",  "method":
+    "", "value": 0}]'
+  fashionID: '33'
+  ? 'id
+
+    '
+  : '298
+
+    '
+  name: Penal Handcuffs
+  type: hands
+- Bleed RES: '14'
+  Curse RES: '0'
+  Dark DEF: '14'
+  Durability: '55'
+  Fire DEF: '13'
+  Lightning DEF: '17'
+  Magic Def: '14'
+  Petrify RES: '0'
+  Physical Def: '54'
+  Poise: '0'
+  Poison RES: '14'
+  Requirements: ''
+  Scaling: D
+  Vs Slash: '53'
+  Vs Strike: '56'
+  Vs Thrust: '53'
+  Weight: '2.8'
+  effects: ''
+  fashionID: '319'
+  ? 'id
+
+    '
+  : '299
+
+    '
+  name: Infantry Gloves
+  type: hands
+- Bleed RES: '9'
+  Curse RES: '0'
+  Dark DEF: '12'
+  Durability: '25'
+  Fire DEF: '11'
+  Lightning DEF: '15'
+  Magic Def: '10'
+  Petrify RES: '0'
+  Physical Def: '10'
+  Poise: '0'
+  Poison RES: '12'
+  Requirements: ''
+  Scaling: E
+  Vs Slash: '9'
+  Vs Strike: '11'
+  Vs Thrust: '9'
+  Weight: '1'
+  effects: ''
+  fashionID: '338'
+  ? 'id
+
+    '
+  : '300
+
+    '
+  name: Prisoner's Gloves
+  type: hands
+- Bleed RES: '14'
+  Curse RES: '0'
+  Dark DEF: '13'
+  Durability: '40'
+  Fire DEF: '14'
+  Lightning DEF: '18'
+  Magic Def: '13'
+  Petrify RES: '0'
+  Physical Def: '29'
+  Poise: '0'
+  Poison RES: '14'
+  Requirements: ''
+  Scaling: E
+  Vs Slash: '28'
+  Vs Strike: '32'
+  Vs Thrust: '28'
+  Weight: '2'
+  effects: '[{"effect": "Increases souls gained by 10%", "alters": "", "method": "",
+    "value": 0}]'
+  fashionID: '352'
+  ? 'id
+
+    '
+  : '301
+
+    '
+  name: Tseldora Manchettes
+  type: hands
+- Bleed RES: '14'
+  Curse RES: '0'
+  Dark DEF: '11'
+  Durability: '45'
+  Fire DEF: '12'
+  Lightning DEF: '15'
+  Magic Def: '11'
+  Petrify RES: '0'
+  Physical Def: '24'
+  Poise: '0'
+  Poison RES: '17'
+  Requirements: ''
+  Scaling: E
+  Vs Slash: '23'
+  Vs Strike: '26'
+  Vs Thrust: '23'
+  Weight: '1.8'
+  effects: ''
+  fashionID: '336'
+  ? 'id
+
+    '
+  : '302
+
+    '
+  name: Peasant Long Gloves
+  type: hands
+- Bleed RES: '10'
+  Curse RES: '0'
+  Dark DEF: '8'
+  Durability: '35'
+  Fire DEF: '7'
+  Lightning DEF: '9'
+  Magic Def: '8'
+  Petrify RES: '0'
+  Physical Def: '26'
+  Poise: '0'
+  Poison RES: '9'
+  Requirements: ''
+  Scaling: D
+  Vs Slash: '25'
+  Vs Strike: '29'
+  Vs Thrust: '25'
+  Weight: '1.8'
+  effects: ''
+  fashionID: '6'
+  ? 'id
+
+    '
+  : '303
+
+    '
+  name: Imported Manchettes
+  type: hands
+- Bleed RES: '9'
+  Curse RES: '0'
+  Dark DEF: '9'
+  Durability: '40'
+  Fire DEF: '8'
+  Lightning DEF: '12'
+  Magic Def: '9'
+  Petrify RES: '0'
+  Physical Def: '45'
+  Poise: '0'
+  Poison RES: '9'
+  Requirements: ''
+  Scaling: D
+  Vs Slash: '42'
+  Vs Strike: '45'
+  Vs Thrust: '42'
+  Weight: '2.8'
+  effects: ''
+  fashionID: '356'
+  ? 'id
+
+    '
+  : '304
+
+    '
+  name: Hollow Infantry Gloves
+  type: hands
+- Bleed RES: '22'
+  Curse RES: '66'
+  Dark DEF: '22'
+  Durability: '55'
+  Fire DEF: '22'
+  Lightning DEF: '22'
+  Magic Def: '22'
+  Petrify RES: '66'
+  Physical Def: '44'
+  Poise: '0'
+  Poison RES: '22'
+  Requirements: 12 STR, 12 DEX
+  Scaling: C
+  Vs Slash: '44'
+  Vs Strike: '44'
+  Vs Thrust: '44'
+  Weight: '5.5'
+  effects: ''
+  fashionID: '307'
+  ? 'id
+
+    '
+  : '305
+
+    '
+  name: Engraved Gauntlets
+  type: hands
+- Bleed RES: '61'
+  Curse RES: '29'
+  Dark DEF: '37'
+  Durability: '255'
+  Fire DEF: '40'
+  Lightning DEF: '34'
+  Magic Def: '37'
+  Petrify RES: '29'
+  Physical Def: '256'
+  Poise: '28'
+  Poison RES: '15'
+  Requirements: STR 20
+  Scaling: C
+  Vs Slash: '290'
+  Vs Strike: '225'
+  Vs Thrust: '258'
+  Weight: '11.5'
+  effects: ''
+  fashionID: '369'
+  ? 'id
+
+    '
+  : '306
+
+    '
+  name: Havel's Leggings
+  type: legs
+- Bleed RES: '55'
+  Curse RES: '0'
+  Dark DEF: '31'
+  Durability: '150'
+  Fire DEF: '34'
+  Lightning DEF: '51'
+  Magic Def: '31'
+  Petrify RES: '0'
+  Physical Def: '223'
+  Poise: '24'
+  Poison RES: '29'
+  Requirements: 16 STR
+  Scaling: C
+  Vs Slash: '252'
+  Vs Strike: '197'
+  Vs Thrust: '223'
+  Weight: '10.4'
+  effects: ''
+  fashionID: '9'
+  ? 'id
+
+    '
+  : '307
+
+    '
+  name: Looking Glass Leggings
+  type: legs
+- Bleed RES: '45'
+  Curse RES: '0'
+  Dark DEF: '31'
+  Durability: '90'
+  Fire DEF: '34'
+  Lightning DEF: '21'
+  Magic Def: '31'
+  Petrify RES: '0'
+  Physical Def: '241'
+  Poise: '24'
+  Poison RES: '40'
+  Requirements: 16 STR
+  Scaling: C
+  Vs Slash: '257'
+  Vs Strike: '225'
+  Vs Thrust: '241'
+  Weight: '10.8'
+  effects: ''
+  fashionID: '386'
+  ? 'id
+
+    '
+  : '308
+
+    '
+  name: Mastodon Leggings
+  type: legs
+- Bleed RES: '48'
+  Curse RES: '32'
+  Dark DEF: '31'
+  Durability: '160'
+  Fire DEF: '59'
+  Lightning DEF: '30'
+  Magic Def: '31'
+  Petrify RES: '32'
+  Physical Def: '224'
+  Poise: '23'
+  Poison RES: '21'
+  Requirements: ''
+  Scaling: C
+  Vs Slash: '246'
+  Vs Strike: '202'
+  Vs Thrust: '224'
+  Weight: '10.4'
+  effects: ''
+  fashionID: '403'
+  ? 'id
+
+    '
+  : '309
+
+    '
+  name: Smelter Demon Leggings
+  type: legs
+- Bleed RES: '44'
+  Curse RES: '0'
+  Dark DEF: '38'
+  Durability: '80'
+  Fire DEF: '62'
+  Lightning DEF: '30'
+  Magic Def: '38'
+  Petrify RES: '0'
+  Physical Def: '210'
+  Poise: '20'
+  Poison RES: '19'
+  Requirements: ''
+  Scaling: C
+  Vs Slash: '222'
+  Vs Strike: '201'
+  Vs Thrust: '210'
+  Weight: '9.8'
+  effects: ''
+  fashionID: '61'
+  ? 'id
+
+    '
+  : '310
+
+    '
+  name: Alonne Knight Leggings
+  type: legs
+- Bleed RES: '42'
+  Curse RES: '0'
+  Dark DEF: '24'
+  Durability: '45'
+  Fire DEF: '26'
+  Lightning DEF: '19'
+  Magic Def: '24'
+  Petrify RES: '0'
+  Physical Def: '168'
+  Poise: '18'
+  Poison RES: '14'
+  Requirements: 14 STR
+  Scaling: C
+  Vs Slash: '181'
+  Vs Strike: '156'
+  Vs Thrust: '168'
+  Weight: '9.4'
+  effects: ''
+  fashionID: '389'
+  ? 'id
+
+    '
+  : '311
+
+    '
+  name: Old Ironclad Leggings
+  type: legs
+- Bleed RES: '52'
+  Curse RES: '0'
+  Dark DEF: '30'
+  Durability: '90'
+  Fire DEF: '33'
+  Lightning DEF: '22'
+  Magic Def: '30'
+  Petrify RES: '0'
+  Physical Def: '192'
+  Poise: '17'
+  Poison RES: '17'
+  Requirements: 14 STR
+  Scaling: C
+  Vs Slash: '204'
+  Vs Strike: '177'
+  Vs Thrust: '192'
+  Weight: '9.4'
+  effects: ''
+  fashionID: '377'
+  ? 'id
+
+    '
+  : '312
+
+    '
+  name: Ironclad Leggings
+  type: legs
+- Bleed RES: '37'
+  Curse RES: '0'
+  Dark DEF: '25'
+  Durability: '40'
+  Fire DEF: '28'
+  Lightning DEF: '17'
+  Magic Def: '25'
+  Petrify RES: '0'
+  Physical Def: '193'
+  Poise: '17'
+  Poison RES: '32'
+  Requirements: 14 STR
+  Scaling: C
+  Vs Slash: '206'
+  Vs Strike: '179'
+  Vs Thrust: '193'
+  Weight: '9.8'
+  effects: ''
+  fashionID: '-1'
+  ? 'id
+
+    '
+  : '313
+
+    '
+  name: Rusted Mastodon Leggings
+  type: legs
+- Bleed RES: '34'
+  Curse RES: '0'
+  Dark DEF: '20'
+  Durability: '20'
+  Fire DEF: '20'
+  Lightning DEF: '15'
+  Magic Def: '20'
+  Petrify RES: '0'
+  Physical Def: '181'
+  Poise: '16'
+  Poison RES: '16'
+  Requirements: ''
+  Scaling: C
+  Vs Slash: '189'
+  Vs Strike: '170'
+  Vs Thrust: '181'
+  Weight: '8.2'
+  effects: ''
+  fashionID: '-1'
+  ? 'id
+
+    '
+  : '314
+
+    '
+  name: Old Knight Leggings
+  type: legs
+- Bleed RES: '43'
+  Curse RES: '0'
+  Dark DEF: '29'
+  Durability: '100'
+  Fire DEF: '31'
+  Lightning DEF: '22'
+  Magic Def: '29'
+  Petrify RES: '0'
+  Physical Def: '190'
+  Poise: '16'
+  Poison RES: '26'
+  Requirements: ''
+  Scaling: C
+  Vs Slash: '203'
+  Vs Strike: '181'
+  Vs Thrust: '190'
+  Weight: '8.3'
+  effects: ''
+  fashionID: '404'
+  ? 'id
+
+    '
+  : '315
+
+    '
+  name: Steel Leggings
+  type: legs
+- Bleed RES: '26'
+  Curse RES: '18'
+  Dark DEF: '17'
+  Durability: '70'
+  Fire DEF: '16'
+  Lightning DEF: '14'
+  Magic Def: '17'
+  Petrify RES: '18'
+  Physical Def: '117'
+  Poise: '14'
+  Poison RES: '33'
+  Requirements: ''
+  Scaling: C
+  Vs Slash: '123'
+  Vs Strike: '117'
+  Vs Thrust: '112'
+  Weight: '5.6'
+  effects: ''
+  fashionID: '367'
+  ? 'id
+
+    '
+  : '316
+
+    '
+  name: Gyrm Boots
+  type: legs
+- Bleed RES: '26'
+  Curse RES: '18'
+  Dark DEF: '17'
+  Durability: '70'
+  Fire DEF: '16'
+  Lightning DEF: '14'
+  Magic Def: '17'
+  Petrify RES: '18'
+  Physical Def: '117'
+  Poise: '14'
+  Poison RES: '33'
+  Requirements: ''
+  Scaling: C
+  Vs Slash: '123'
+  Vs Strike: '117'
+  Vs Thrust: '112'
+  Weight: '5.6'
+  effects: ''
+  fashionID: '368'
+  ? 'id
+
+    '
+  : '317
+
+    '
+  name: Gyrm Warrior Boots
+  type: legs
+- Bleed RES: '45'
+  Curse RES: '34'
+  Dark DEF: '52'
+  Durability: '140'
+  Fire DEF: '26'
+  Lightning DEF: '15'
+  Magic Def: '25'
+  Petrify RES: '26'
+  Physical Def: '163'
+  Poise: '14'
+  Poison RES: '18'
+  Requirements: ''
+  Scaling: C
+  Vs Slash: '172'
+  Vs Strike: '149'
+  Vs Thrust: '169'
+  Weight: '7.2'
+  effects: ''
+  fashionID: '412'
+  ? 'id
+
+    '
+  : '318
+
+    '
+  name: Velstadt's Leggings
+  type: legs
+- Bleed RES: '35'
+  Curse RES: '27'
+  Dark DEF: '34'
+  Durability: '85'
+  Fire DEF: '28'
+  Lightning DEF: '23'
+  Magic Def: '34'
+  Petrify RES: '27'
+  Physical Def: '164'
+  Poise: '14'
+  Poison RES: '27'
+  Requirements: ''
+  Scaling: C
+  Vs Slash: '173'
+  Vs Strike: '157'
+  Vs Thrust: '164'
+  Weight: '7.5'
+  effects: ''
+  fashionID: '374'
+  ? 'id
+
+    '
+  : '319
+
+    '
+  name: Imperious Leggings
+  type: legs
+- Bleed RES: '31'
+  Curse RES: '0'
+  Dark DEF: '27'
+  Durability: '85'
+  Fire DEF: '33'
+  Lightning DEF: '24'
+  Magic Def: '27'
+  Petrify RES: '0'
+  Physical Def: '172'
+  Poise: '14'
+  Poison RES: '25'
+  Requirements: ''
+  Scaling: C
+  Vs Slash: '183'
+  Vs Strike: '163'
+  Vs Thrust: '172'
+  Weight: '7.9'
+  effects: ''
+  fashionID: '419'
+  ? 'id
+
+    '
+  : '320
+
+    '
+  name: Vengarl's Boots
+  type: legs
+- Bleed RES: '40'
+  Curse RES: '39'
+  Dark DEF: '29'
+  Durability: '90'
+  Fire DEF: '32'
+  Lightning DEF: '26'
+  Magic Def: '29'
+  Petrify RES: '0'
+  Physical Def: '189'
+  Poise: '14'
+  Poison RES: '29'
+  Requirements: ''
+  Scaling: C
+  Vs Slash: '199'
+  Vs Strike: '182'
+  Vs Thrust: '189'
+  Weight: '8.4'
+  effects: ''
+  fashionID: '359'
+  ? 'id
+
+    '
+  : '321
+
+    '
+  name: Drakekeeper Boots
+  type: legs
+- Bleed RES: '36'
+  Curse RES: '0'
+  Dark DEF: '28'
+  Durability: '95'
+  Fire DEF: '31'
+  Lightning DEF: '19'
+  Magic Def: '28'
+  Petrify RES: '0'
+  Physical Def: '132'
+  Poise: '13'
+  Poison RES: '23'
+  Requirements: ''
+  Scaling: C
+  Vs Slash: '153'
+  Vs Strike: '132'
+  Vs Thrust: '132'
+  Weight: '6.9'
+  effects: ''
+  fashionID: '210'
+  ? 'id
+
+    '
+  : '322
+
+    '
+  name: Catarina Leggings
+  type: legs
+- Bleed RES: '37'
+  Curse RES: '0'
+  Dark DEF: '32'
+  Durability: '100'
+  Fire DEF: '35'
+  Lightning DEF: '19'
+  Magic Def: '32'
+  Petrify RES: '0'
+  Physical Def: '158'
+  Poise: '13'
+  Poison RES: '22'
+  Requirements: ''
+  Scaling: C
+  Vs Slash: '163'
+  Vs Strike: '152'
+  Vs Thrust: '159'
+  Weight: '7.7'
+  effects: ''
+  fashionID: '407'
+  ? 'id
+
+    '
+  : '323
+
+    '
+  name: Throne Defender Leggings
+  type: legs
+- Bleed RES: '39'
+  Curse RES: '0'
+  Dark DEF: '29'
+  Durability: '105'
+  Fire DEF: '32'
+  Lightning DEF: '20'
+  Magic Def: '29'
+  Petrify RES: '51'
+  Physical Def: '123'
+  Poise: '12'
+  Poison RES: '17'
+  Requirements: ''
+  Scaling: C
+  Vs Slash: '133'
+  Vs Strike: '112'
+  Vs Thrust: '126'
+  Weight: '6.2'
+  effects: ''
+  fashionID: '399'
+  ? 'id
+
+    '
+  : '324
+
+    '
+  name: Ruin Leggings
+  type: legs
+- Bleed RES: '40'
+  Curse RES: '0'
+  Dark DEF: '32'
+  Durability: '80'
+  Fire DEF: '35'
+  Lightning DEF: '23'
+  Magic Def: '32'
+  Petrify RES: '0'
+  Physical Def: '108'
+  Poise: '12'
+  Poison RES: '29'
+  Requirements: ''
+  Scaling: C
+  Vs Slash: '123'
+  Vs Strike: '105'
+  Vs Thrust: '108'
+  Weight: '6.4'
+  effects: ''
+  fashionID: '43'
+  ? 'id
+
+    '
+  : '325
+
+    '
+  name: Knight Leggings
+  type: legs
+- Bleed RES: '33'
+  Curse RES: '0'
+  Dark DEF: '35'
+  Durability: '95'
+  Fire DEF: '35'
+  Lightning DEF: '28'
+  Magic Def: '54'
+  Petrify RES: '0'
+  Physical Def: '123'
+  Poise: '12'
+  Poison RES: '28'
+  Requirements: ''
+  Scaling: C
+  Vs Slash: '132'
+  Vs Strike: '117'
+  Vs Thrust: '123'
+  Weight: '6.6'
+  effects: ''
+  fashionID: '408'
+  ? 'id
+
+    '
+  : '326
+
+    '
+  name: Throne Watcher Leggings
+  type: legs
+- Bleed RES: '47'
+  Curse RES: '0'
+  Dark DEF: '27'
+  Durability: '85'
+  Fire DEF: '36'
+  Lightning DEF: '16'
+  Magic Def: '27'
+  Petrify RES: '0'
+  Physical Def: '141'
+  Poise: '12'
+  Poison RES: '16'
+  Requirements: ''
+  Scaling: C
+  Vs Slash: '150'
+  Vs Strike: '126'
+  Vs Thrust: '143'
+  Weight: '7.1'
+  effects: ''
+  fashionID: '405'
+  ? 'id
+
+    '
+  : '327
+
+    '
+  name: Syan's Leggings
+  type: legs
+- Bleed RES: '23'
+  Curse RES: '0'
+  Dark DEF: '19'
+  Durability: '95'
+  Fire DEF: '18'
+  Lightning DEF: '19'
+  Magic Def: '19'
+  Petrify RES: '0'
+  Physical Def: '168'
+  Poise: '12'
+  Poison RES: '18'
+  Requirements: ''
+  Scaling: C
+  Vs Slash: '175'
+  Vs Strike: '157'
+  Vs Thrust: '168'
+  Weight: '7.4'
+  effects: ''
+  fashionID: '357'
+  ? 'id
+
+    '
+  : '328
+
+    '
+  name: Dragonrider Leggings
+  type: legs
+- Bleed RES: '32'
+  Curse RES: '29'
+  Dark DEF: '25'
+  Durability: '75'
+  Fire DEF: '24'
+  Lightning DEF: '18'
+  Magic Def: '25'
+  Petrify RES: '29'
+  Physical Def: '152'
+  Poise: '12'
+  Poison RES: '32'
+  Requirements: ''
+  Scaling: C
+  Vs Slash: '160'
+  Vs Strike: '152'
+  Vs Thrust: '145'
+  Weight: '7.4'
+  effects: ''
+  fashionID: '117'
+  ? 'id
+
+    '
+  : '329
+
+    '
+  name: Mad Warrior Leggings
+  type: legs
+- Bleed RES: '33'
+  Curse RES: '0'
+  Dark DEF: '25'
+  Durability: '90'
+  Fire DEF: '25'
+  Lightning DEF: '22'
+  Magic Def: '25'
+  Petrify RES: '0'
+  Physical Def: '153'
+  Poise: '12'
+  Poison RES: '26'
+  Requirements: ''
+  Scaling: C
+  Vs Slash: '166'
+  Vs Strike: '145'
+  Vs Thrust: '156'
+  Weight: '7.6'
+  effects: ''
+  fashionID: '360'
+  ? 'id
+
+    '
+  : '330
+
+    '
+  name: Drangleic Leggings
+  type: legs
+- Bleed RES: '26'
+  Curse RES: '0'
+  Dark DEF: '30'
+  Durability: '72'
+  Fire DEF: '28'
+  Lightning DEF: '26'
+  Magic Def: '30'
+  Petrify RES: '0'
+  Physical Def: '129'
+  Poise: '11'
+  Poison RES: '34'
+  Requirements: ''
+  Scaling: C
+  Vs Slash: '134'
+  Vs Strike: '124'
+  Vs Thrust: '129'
+  Weight: '6.5'
+  effects: ''
+  fashionID: '84'
+  ? 'id
+
+    '
+  : '331
+
+    '
+  name: Benhart's Boots
+  type: legs
+- Bleed RES: '41'
+  Curse RES: '0'
+  Dark DEF: '35'
+  Durability: '85'
+  Fire DEF: '38'
+  Lightning DEF: '23'
+  Magic Def: '35'
+  Petrify RES: '0'
+  Physical Def: '156'
+  Poise: '11'
+  Poison RES: '30'
+  Requirements: ''
+  Scaling: C
+  Vs Slash: '166'
+  Vs Strike: '147'
+  Vs Thrust: '159'
+  Weight: '7.9'
+  effects: ''
+  fashionID: '363'
+  ? 'id
+
+    '
+  : '332
+
+    '
+  name: Faraam Boots
+  type: legs
+- Bleed RES: '37'
+  Curse RES: '0'
+  Dark DEF: '40'
+  Durability: '80'
+  Fire DEF: '36'
+  Lightning DEF: '26'
+  Magic Def: '37'
+  Petrify RES: '0'
+  Physical Def: '105'
+  Poise: '10'
+  Poison RES: '29'
+  Requirements: ''
+  Scaling: C
+  Vs Slash: '110'
+  Vs Strike: '102'
+  Vs Thrust: '106'
+  Weight: '5.8'
+  effects: ''
+  fashionID: '94'
+  ? 'id
+
+    '
+  : '333
+
+    '
+  name: Leggings of Aurous
+  type: legs
+- Bleed RES: '35'
+  Curse RES: '0'
+  Dark DEF: '29'
+  Durability: '75'
+  Fire DEF: '26'
+  Lightning DEF: '21'
+  Magic Def: '26'
+  Petrify RES: '0'
+  Physical Def: '105'
+  Poise: '10'
+  Poison RES: '32'
+  Requirements: ''
+  Scaling: C
+  Vs Slash: '114'
+  Vs Strike: '98'
+  Vs Thrust: '105'
+  Weight: '5.8'
+  effects: ''
+  fashionID: '406'
+  ? 'id
+
+    '
+  : '334
+
+    '
+  name: Targray's Leggings
+  type: legs
+- Bleed RES: '32'
+  Curse RES: '0'
+  Dark DEF: '25'
+  Durability: '75'
+  Fire DEF: '32'
+  Lightning DEF: '17'
+  Magic Def: '25'
+  Petrify RES: '0'
+  Physical Def: '110'
+  Poise: '10'
+  Poison RES: '15'
+  Requirements: ''
+  Scaling: C
+  Vs Slash: '122'
+  Vs Strike: '96'
+  Vs Thrust: '114'
+  Weight: '6.1'
+  effects: ''
+  fashionID: '398'
+  ? 'id
+
+    '
+  : '335
+
+    '
+  name: Royal Swordsman Leggings
+  type: legs
+- Bleed RES: '31'
+  Curse RES: '33'
+  Dark DEF: '38'
+  Durability: '90'
+  Fire DEF: '28'
+  Lightning DEF: '19'
+  Magic Def: '22'
+  Petrify RES: '0'
+  Physical Def: '126'
+  Poise: '10'
+  Poison RES: '41'
+  Requirements: ''
+  Scaling: C
+  Vs Slash: '136'
+  Vs Strike: '119'
+  Vs Thrust: '126'
+  Weight: '6.4'
+  effects: ''
+  fashionID: '370'
+  ? 'id
+
+    '
+  : '336
+
+    '
+  name: Heide Knight Leggings
+  type: legs
+- Bleed RES: '43'
+  Curse RES: '0'
+  Dark DEF: '30'
+  Durability: '120'
+  Fire DEF: '42'
+  Lightning DEF: '34'
+  Magic Def: '42'
+  Petrify RES: '47'
+  Physical Def: '127'
+  Poise: '10'
+  Poison RES: '48'
+  Requirements: ''
+  Scaling: C
+  Vs Slash: '134'
+  Vs Strike: '121'
+  Vs Thrust: '127'
+  Weight: '7.1'
+  effects: ''
+  fashionID: '379'
+  ? 'id
+
+    '
+  : '337
+
+    '
+  name: King's Leggings
+  type: legs
+- Bleed RES: '33'
+  Curse RES: '0'
+  Dark DEF: '22'
+  Durability: '90'
+  Fire DEF: '23'
+  Lightning DEF: '19'
+  Magic Def: '23'
+  Petrify RES: '0'
+  Physical Def: '154'
+  Poise: '10'
+  Poison RES: '21'
+  Requirements: ''
+  Scaling: C
+  Vs Slash: '165'
+  Vs Strike: '142'
+  Vs Thrust: '154'
+  Weight: '7.4'
+  effects: '[{"effect":  "Reduces falling damage", "alters": "",  "method": "", "value":
+    0},{"effect":  "Makes your footsteps silent", "alters": "",  "method": "", "value":
+    0}]'
+  fashionID: '401'
+  ? 'id
+
+    '
+  : '338
+
+    '
+  name: Sanctum Knight Leggings
+  type: legs
+- Bleed RES: '41'
+  Curse RES: '0'
+  Dark DEF: '31'
+  Durability: '80'
+  Fire DEF: '32'
+  Lightning DEF: '22'
+  Magic Def: '29'
+  Petrify RES: '0'
+  Physical Def: '106'
+  Poise: '9'
+  Poison RES: '31'
+  Requirements: ''
+  Scaling: C
+  Vs Slash: '109'
+  Vs Strike: '101'
+  Vs Thrust: '104'
+  Weight: '5.2'
+  effects: ''
+  fashionID: '65'
+  ? 'id
+
+    '
+  : '339
+
+    '
+  name: Alva Leggings
+  type: legs
+- Bleed RES: '31'
+  Curse RES: '0'
+  Dark DEF: '56'
+  Durability: '90'
+  Fire DEF: '27'
+  Lightning DEF: '18'
+  Magic Def: '27'
+  Petrify RES: '0'
+  Physical Def: '101'
+  Poise: '9'
+  Poison RES: '27'
+  Requirements: ''
+  Scaling: C
+  Vs Slash: '107'
+  Vs Strike: '101'
+  Vs Thrust: '97'
+  Weight: '5.8'
+  effects: ''
+  fashionID: '213'
+  ? 'id
+
+    '
+  : '340
+
+    '
+  name: Dark Leggings
+  type: legs
+- Bleed RES: '30'
+  Curse RES: '25'
+  Dark DEF: '24'
+  Durability: '75'
+  Fire DEF: '26'
+  Lightning DEF: '32'
+  Magic Def: '26'
+  Petrify RES: '25'
+  Physical Def: '101'
+  Poise: '9'
+  Poison RES: '23'
+  Requirements: ''
+  Scaling: C
+  Vs Slash: '108'
+  Vs Strike: '96'
+  Vs Thrust: '101'
+  Weight: '5.8'
+  effects: ''
+  fashionID: '376'
+  ? 'id
+
+    '
+  : '341
+
+    '
+  name: Insolent Boots
+  type: legs
+- Bleed RES: '41'
+  Curse RES: '0'
+  Dark DEF: '35'
+  Durability: '85'
+  Fire DEF: '37'
+  Lightning DEF: '25'
+  Magic Def: '35'
+  Petrify RES: '0'
+  Physical Def: '122'
+  Poise: '9'
+  Poison RES: '29'
+  Requirements: ''
+  Scaling: C
+  Vs Slash: '135'
+  Vs Strike: '119'
+  Vs Thrust: '122'
+  Weight: '6.9'
+  effects: ''
+  fashionID: '40'
+  ? 'id
+
+    '
+  : '342
+
+    '
+  name: Elite Knight Leggings
+  type: legs
+- Bleed RES: '42'
+  Curse RES: '0'
+  Dark DEF: '34'
+  Durability: '85'
+  Fire DEF: '39'
+  Lightning DEF: '20'
+  Magic Def: '29'
+  Petrify RES: '0'
+  Physical Def: '156'
+  Poise: '9'
+  Poison RES: '32'
+  Requirements: ''
+  Scaling: C
+  Vs Slash: '168'
+  Vs Strike: '149'
+  Vs Thrust: '161'
+  Weight: '7.8'
+  effects: ''
+  fashionID: '358'
+  ? 'id
+
+    '
+  : '343
+
+    '
+  name: Drakeblood Leggings
+  type: legs
+- Bleed RES: '27'
+  Curse RES: '0'
+  Dark DEF: '28'
+  Durability: '70'
+  Fire DEF: '29'
+  Lightning DEF: '19'
+  Magic Def: '28'
+  Petrify RES: '0'
+  Physical Def: '91'
+  Poise: '8'
+  Poison RES: '24'
+  Requirements: ''
+  Scaling: C
+  Vs Slash: '95'
+  Vs Strike: '86'
+  Vs Thrust: '92'
+  Weight: '5.3'
+  effects: ''
+  fashionID: '397'
+  ? 'id
+
+    '
+  : '344
+
+    '
+  name: Royal Soliders Leggings
+  type: legs
+- Bleed RES: '29'
+  Curse RES: '0'
+  Dark DEF: '33'
+  Durability: '75'
+  Fire DEF: '28'
+  Lightning DEF: '38'
+  Magic Def: '33'
+  Petrify RES: '0'
+  Physical Def: '111'
+  Poise: '8'
+  Poison RES: '36'
+  Requirements: ''
+  Scaling: D
+  Vs Slash: '107'
+  Vs Strike: '118'
+  Vs Thrust: '107'
+  Weight: '5.8'
+  effects: ''
+  fashionID: '362'
+  ? 'id
+
+    '
+  : '345
+
+    '
+  name: Falconer Boots
+  type: legs
+- Bleed RES: '31'
+  Curse RES: '0'
+  Dark DEF: '25'
+  Durability: '70'
+  Fire DEF: '28'
+  Lightning DEF: '14'
+  Magic Def: '25'
+  Petrify RES: '0'
+  Physical Def: '84'
+  Poise: '7.5'
+  Poison RES: '19'
+  Requirements: ''
+  Scaling: C
+  Vs Slash: '87'
+  Vs Strike: '82'
+  Vs Thrust: '84'
+  Weight: '4.5'
+  effects: ''
+  fashionID: '212'
+  ? 'id
+
+    '
+  : '346
+
+    '
+  name: Creighton's Chain Leggings
+  type: legs
+- Bleed RES: '19'
+  Curse RES: '0'
+  Dark DEF: '25'
+  Durability: '80'
+  Fire DEF: '26'
+  Lightning DEF: '45'
+  Magic Def: '27'
+  Petrify RES: '0'
+  Physical Def: '85'
+  Poise: '7.5'
+  Poison RES: '22'
+  Requirements: ''
+  Scaling: C
+  Vs Slash: '85'
+  Vs Strike: '85'
+  Vs Thrust: '85'
+  Weight: '4.7'
+  effects: ''
+  fashionID: '66'
+  ? 'id
+
+    '
+  : '347
+
+    '
+  name: Archdrake Boots
+  type: legs
+- Bleed RES: '38'
+  Curse RES: '27'
+  Dark DEF: '30'
+  Durability: '65'
+  Fire DEF: '14'
+  Lightning DEF: '9'
+  Magic Def: '13'
+  Petrify RES: '0'
+  Physical Def: '56'
+  Poise: '4'
+  Poison RES: '10'
+  Requirements: ''
+  Scaling: D
+  Vs Slash: '60'
+  Vs Strike: '52'
+  Vs Thrust: '58'
+  Weight: '2.7'
+  effects: ''
+  fashionID: '361'
+  ? 'id
+
+    '
+  : '348
+
+    '
+  name: Executioner Leggings
+  type: legs
+- Bleed RES: '19'
+  Curse RES: '0'
+  Dark DEF: '18'
+  Durability: '60'
+  Fire DEF: '19'
+  Lightning DEF: '15'
+  Magic Def: '18'
+  Petrify RES: '0'
+  Physical Def: '60'
+  Poise: '3.5'
+  Poison RES: '13'
+  Requirements: ''
+  Scaling: D
+  Vs Slash: '62'
+  Vs Strike: '60'
+  Vs Thrust: '58'
+  Weight: '2.8'
+  effects: ''
+  fashionID: '77'
+  ? 'id
+
+    '
+  : '349
+
+    '
+  name: Bandit Boots
+  type: legs
+- Bleed RES: '21'
+  Curse RES: '0'
+  Dark DEF: '22'
+  Durability: '60'
+  Fire DEF: '23'
+  Lightning DEF: '19'
+  Magic Def: '22'
+  Petrify RES: '0'
+  Physical Def: '78'
+  Poise: '0'
+  Poison RES: '34'
+  Requirements: ''
+  Scaling: D
+  Vs Slash: '77'
+  Vs Strike: '77'
+  Vs Thrust: '80'
+  Weight: '6.4'
+  effects: ''
+  fashionID: '209'
+  ? 'id
+
+    '
+  : '350
+
+    '
+  name: Cale's Shoes
+  type: legs
+- Bleed RES: '13'
+  Curse RES: '44'
+  Dark DEF: '47'
+  Durability: '55'
+  Fire DEF: '53'
+  Lightning DEF: '38'
+  Magic Def: '42'
+  Petrify RES: '34'
+  Physical Def: '102'
+  Poise: '0'
+  Poison RES: '16'
+  Requirements: ''
+  Scaling: D
+  Vs Slash: '105'
+  Vs Strike: '105'
+  Vs Thrust: '95'
+  Weight: '4.8'
+  effects: ''
+  fashionID: '392'
+  ? 'id
+
+    '
+  : '351
+
+    '
+  name: Penal Skirt
+  type: legs
+- Bleed RES: '15'
+  Curse RES: '0'
+  Dark DEF: '15'
+  Durability: '40'
+  Fire DEF: '13'
+  Lightning DEF: '19'
+  Magic Def: '15'
+  Petrify RES: '0'
+  Physical Def: '70'
+  Poise: '0'
+  Poison RES: '15'
+  Requirements: ''
+  Scaling: D
+  Vs Slash: '68'
+  Vs Strike: '72'
+  Vs Thrust: '68'
+  Weight: '4.5'
+  effects: ''
+  fashionID: '372'
+  ? 'id
+
+    '
+  : '352
+
+    '
+  name: Hollow Infantry Boots
+  type: legs
+- Bleed RES: '22'
+  Curse RES: '0'
+  Dark DEF: '22'
+  Durability: '55'
+  Fire DEF: '20'
+  Lightning DEF: '28'
+  Magic Def: '22'
+  Petrify RES: '0'
+  Physical Def: '86'
+  Poise: '0'
+  Poison RES: '22'
+  Requirements: ''
+  Scaling: D
+  Vs Slash: '85'
+  Vs Strike: '90'
+  Vs Thrust: '85'
+  Weight: '4.5'
+  effects: ''
+  fashionID: '375'
+  ? 'id
+
+    '
+  : '353
+
+    '
+  name: Infantry Boots
+  type: legs
+- Bleed RES: '17'
+  Curse RES: '0'
+  Dark DEF: '33'
+  Durability: '60'
+  Fire DEF: '18'
+  Lightning DEF: '25'
+  Magic Def: '19'
+  Petrify RES: '0'
+  Physical Def: '87'
+  Poise: '0'
+  Poison RES: '21'
+  Requirements: ''
+  Scaling: D
+  Vs Slash: '85'
+  Vs Strike: '82'
+  Vs Thrust: '85'
+  Weight: '4'
+  effects: ''
+  fashionID: '82'
+  ? 'id
+
+    '
+  : '354
+
+    '
+  name: Bell Keeper Trousers
+  type: legs
+- Bleed RES: '34'
+  Curse RES: '36'
+  Dark DEF: '56'
+  Durability: '65'
+  Fire DEF: '50'
+  Lightning DEF: '61'
+  Magic Def: '56'
+  Petrify RES: '18'
+  Physical Def: '102'
+  Poise: '0'
+  Poison RES: '43'
+  Requirements: ''
+  Scaling: D
+  Vs Slash: '98'
+  Vs Strike: '109'
+  Vs Thrust: '98'
+  Weight: '4'
+  effects: ''
+  fashionID: '383'
+  ? 'id
+
+    '
+  : '355
+
+    '
+  name: Lucatiel's Trousers
+  type: legs
+- Bleed RES: '50'
+  Curse RES: '53'
+  Dark DEF: '45'
+  Durability: '55'
+  Fire DEF: '46'
+  Lightning DEF: '40'
+  Magic Def: '63'
+  Petrify RES: '44'
+  Physical Def: '71'
+  Poise: '0'
+  Poison RES: '79'
+  Requirements: ''
+  Scaling: E
+  Vs Slash: '66'
+  Vs Strike: '75'
+  Vs Thrust: '66'
+  Weight: '4'
+  effects: ''
+  fashionID: '387'
+  ? 'id
+
+    '
+  : '356
+
+    '
+  name: Monastery Skirt
+  type: legs
+- Bleed RES: '32'
+  Curse RES: '0'
+  Dark DEF: '47'
+  Durability: '60'
+  Fire DEF: '16'
+  Lightning DEF: '38'
+  Magic Def: '61'
+  Petrify RES: '0'
+  Physical Def: '80'
+  Poise: '0'
+  Poison RES: '36'
+  Requirements: ''
+  Scaling: E
+  Vs Slash: '80'
+  Vs Strike: '92'
+  Vs Thrust: '69'
+  Weight: '4'
+  effects: ''
+  fashionID: '414'
+  ? 'id
+
+    '
+  : '357
+
+    '
+  name: Xanthous Waistcloth
+  type: legs
+- Bleed RES: '28'
+  Curse RES: '0'
+  Dark DEF: '56'
+  Durability: '50'
+  Fire DEF: '44'
+  Lightning DEF: '44'
+  Magic Def: '65'
+  Petrify RES: '0'
+  Physical Def: '90'
+  Poise: '0'
+  Poison RES: '28'
+  Requirements: ''
+  Scaling: D
+  Vs Slash: '87'
+  Vs Strike: '94'
+  Vs Thrust: '87'
+  Weight: '3.8'
+  effects: ''
+  fashionID: '73'
+  ? 'id
+
+    '
+  : '358
+
+    '
+  name: Astrologist's Bottoms
+  type: legs
+- Bleed RES: '43'
+  Curse RES: '0'
+  Dark DEF: '57'
+  Durability: '60'
+  Fire DEF: '42'
+  Lightning DEF: '53'
+  Magic Def: '44'
+  Petrify RES: '0'
+  Physical Def: '100'
+  Poise: '0'
+  Poison RES: '54'
+  Requirements: ''
+  Scaling: E
+  Vs Slash: '96'
+  Vs Strike: '109'
+  Vs Thrust: '96'
+  Weight: '3.8'
+  effects: ''
+  fashionID: '423'
+  ? 'id
+
+    '
+  : '359
+
+    '
+  name: Grave Warden Bottoms
+  type: legs
+- Bleed RES: '25'
+  Curse RES: '0'
+  Dark DEF: '26'
+  Durability: '65'
+  Fire DEF: '16'
+  Lightning DEF: '31'
+  Magic Def: '25'
+  Petrify RES: '0'
+  Physical Def: '80'
+  Poise: '0'
+  Poison RES: '28'
+  Requirements: ''
+  Scaling: D
+  Vs Slash: '78'
+  Vs Strike: '83'
+  Vs Thrust: '78'
+  Weight: '3.8'
+  effects: ''
+  fashionID: '8'
+  ? 'id
+
+    '
+  : '360
+
+    '
+  name: Hard Leather Leggings
+  type: legs
+- Bleed RES: '28'
+  Curse RES: '0'
+  Dark DEF: '21'
+  Durability: '60'
+  Fire DEF: '23'
+  Lightning DEF: '24'
+  Magic Def: '21'
+  Petrify RES: '0'
+  Physical Def: '73'
+  Poise: '0'
+  Poison RES: '26'
+  Requirements: ''
+  Scaling: D
+  Vs Slash: '71'
+  Vs Strike: '78'
+  Vs Thrust: '71'
+  Weight: '3.8'
+  effects: ''
+  fashionID: '45'
+  ? 'id
+
+    '
+  : '361
+
+    '
+  name: Traveling Merchant Boots
+  type: legs
+- Bleed RES: '21'
+  Curse RES: '0'
+  Dark DEF: '15'
+  Durability: '35'
+  Fire DEF: '13'
+  Lightning DEF: '18'
+  Magic Def: '15'
+  Petrify RES: '0'
+  Physical Def: '52'
+  Poise: '0'
+  Poison RES: '19'
+  Requirements: ''
+  Scaling: D
+  Vs Slash: '50'
+  Vs Strike: '58'
+  Vs Thrust: '50'
+  Weight: '3.6'
+  effects: ''
+  fashionID: '42'
+  ? 'id
+
+    '
+  : '362
+
+    '
+  name: Imported Trousers
+  type: legs
+- Bleed RES: '24'
+  Curse RES: '0'
+  Dark DEF: '26'
+  Durability: '70'
+  Fire DEF: '16'
+  Lightning DEF: '31'
+  Magic Def: '25'
+  Petrify RES: '0'
+  Physical Def: '77'
+  Poise: '0'
+  Poison RES: '27'
+  Requirements: ''
+  Scaling: D
+  Vs Slash: '75'
+  Vs Strike: '80'
+  Vs Thrust: '75'
+  Weight: '3.5'
+  effects: ''
+  fashionID: '390'
+  ? 'id
+
+    '
+  : '363
+
+    '
+  name: Pate's Trousers
+  type: legs
+- Bleed RES: '37'
+  Curse RES: '15'
+  Dark DEF: '26'
+  Durability: '85'
+  Fire DEF: '31'
+  Lightning DEF: '20'
+  Magic Def: '26'
+  Petrify RES: '15'
+  Physical Def: '85'
+  Poise: '0'
+  Poison RES: '27'
+  Requirements: ''
+  Scaling: D
+  Vs Slash: '85'
+  Vs Strike: '76'
+  Vs Thrust: '83'
+  Weight: '3.1'
+  effects: ''
+  fashionID: '382'
+  ? 'id
+
+    '
+  : '364
+
+    '
+  name: Llewellyn Shoes
+  type: legs
+- Bleed RES: '28'
+  Curse RES: '49'
+  Dark DEF: '54'
+  Durability: '65'
+  Fire DEF: '39'
+  Lightning DEF: '36'
+  Magic Def: '41'
+  Petrify RES: '36'
+  Physical Def: '70'
+  Poise: '0'
+  Poison RES: '41'
+  Requirements: ''
+  Scaling: E
+  Vs Slash: '68'
+  Vs Strike: '74'
+  Vs Thrust: '68'
+  Weight: '2.9'
+  effects: ''
+  fashionID: '55'
+  ? 'id
+
+    '
+  : '365
+
+    '
+  name: Agdayne's Kilt
+  type: legs
+- Bleed RES: '26'
+  Curse RES: '51'
+  Dark DEF: '72'
+  Durability: '65'
+  Fire DEF: '57'
+  Lightning DEF: '46'
+  Magic Def: '52'
+  Petrify RES: '32'
+  Physical Def: '81'
+  Poise: '0'
+  Poison RES: '42'
+  Requirements: ''
+  Scaling: E
+  Vs Slash: '78'
+  Vs Strike: '88'
+  Vs Thrust: '78'
+  Weight: '2.9'
+  effects: ''
+  fashionID: '207'
+  ? 'id
+
+    '
+  : '366
+
+    '
+  name: Bone King Skirt
+  type: legs
+- Bleed RES: '26'
+  Curse RES: '0'
+  Dark DEF: '30'
+  Durability: '60'
+  Fire DEF: '18'
+  Lightning DEF: '37'
+  Magic Def: '28'
+  Petrify RES: '0'
+  Physical Def: '77'
+  Poise: '0'
+  Poison RES: '31'
+  Requirements: ''
+  Scaling: D
+  Vs Slash: '75'
+  Vs Strike: '82'
+  Vs Thrust: '75'
+  Weight: '2.8'
+  effects: ''
+  fashionID: '44'
+  ? 'id
+
+    '
+  : '367
+
+    '
+  name: Leather Boots
+  type: legs
+- Bleed RES: '24'
+  Curse RES: '46'
+  Dark DEF: '37'
+  Durability: '50'
+  Fire DEF: '34'
+  Lightning DEF: '29'
+  Magic Def: '42'
+  Petrify RES: '0'
+  Physical Def: '83'
+  Poise: '0'
+  Poison RES: '22'
+  Requirements: ''
+  Scaling: E
+  Vs Slash: '80'
+  Vs Strike: '89'
+  Vs Thrust: '80'
+  Weight: '2.8'
+  effects: ''
+  fashionID: '409'
+  ? 'id
+
+    '
+  : '368
+
+    '
+  name: Tights of Judgement
+  type: legs
+- Bleed RES: '29'
+  Curse RES: '24'
+  Dark DEF: '35'
+  Durability: '45'
+  Fire DEF: '35'
+  Lightning DEF: '35'
+  Magic Def: '35'
+  Petrify RES: '37'
+  Physical Def: '62'
+  Poise: '0'
+  Poison RES: '38'
+  Requirements: ''
+  Scaling: D
+  Vs Slash: '60'
+  Vs Strike: '66'
+  Vs Thrust: '60'
+  Weight: '2.7'
+  effects: '[{"effect":  "Reduces falling damage", "alters": "",  "method": "", "value":
+    0}]'
+  fashionID: '378'
+  ? 'id
+
+    '
+  : '369
+
+    '
+  name: Jester's Tights
+  type: legs
+- Bleed RES: '20'
+  Curse RES: '0'
+  Dark DEF: '16'
+  Durability: '45'
+  Fire DEF: '17'
+  Lightning DEF: '21'
+  Magic Def: '16'
+  Petrify RES: '0'
+  Physical Def: '34'
+  Poise: '0'
+  Poison RES: '25'
+  Requirements: ''
+  Scaling: E
+  Vs Slash: '33'
+  Vs Strike: '38'
+  Vs Thrust: '33'
+  Weight: '2.6'
+  effects: ''
+  fashionID: '391'
+  ? 'id
+
+    '
+  : '370
+
+    '
+  name: Peasant Trousers
+  type: legs
+- Bleed RES: '39'
+  Curse RES: '77'
+  Dark DEF: '51'
+  Durability: '40'
+  Fire DEF: '46'
+  Lightning DEF: '51'
+  Magic Def: '54'
+  Petrify RES: '77'
+  Physical Def: '90'
+  Poise: '0'
+  Poison RES: '34'
+  Requirements: ''
+  Scaling: E
+  Vs Slash: '84'
+  Vs Strike: '101'
+  Vs Thrust: '84'
+  Weight: '2.5'
+  effects: ''
+  fashionID: '206'
+  ? 'id
+
+    '
+  : '371
+
+    '
+  name: Blood-Stained Skirt
+  type: legs
+- Bleed RES: '29'
+  Curse RES: '0'
+  Dark DEF: '34'
+  Durability: '55'
+  Fire DEF: '30'
+  Lightning DEF: '29'
+  Magic Def: '25'
+  Petrify RES: '0'
+  Physical Def: '79'
+  Poise: '0'
+  Poison RES: '30'
+  Requirements: ''
+  Scaling: E
+  Vs Slash: '81'
+  Vs Strike: '77'
+  Vs Thrust: '81'
+  Weight: '2.5'
+  effects: ''
+  fashionID: '396'
+  ? 'id
+
+    '
+  : '372
+
+    '
+  name: Rogue Leggings
+  type: legs
+- Bleed RES: '19'
+  Curse RES: '24'
+  Dark DEF: '67'
+  Durability: '50'
+  Fire DEF: '51'
+  Lightning DEF: '61'
+  Magic Def: '74'
+  Petrify RES: '52'
+  Physical Def: '79'
+  Poise: '0'
+  Poison RES: '29'
+  Requirements: ''
+  Scaling: E
+  Vs Slash: '77'
+  Vs Strike: '83'
+  Vs Thrust: '77'
+  Weight: '2.4'
+  effects: ''
+  fashionID: '214'
+  ? 'id
+
+    '
+  : '373
+
+    '
+  name: Desert Sorceress Skirt
+  type: legs
+- Bleed RES: '66'
+  Curse RES: '0'
+  Dark DEF: '37'
+  Durability: '55'
+  Fire DEF: '30'
+  Lightning DEF: '34'
+  Magic Def: '30'
+  Petrify RES: '0'
+  Physical Def: '73'
+  Poise: '0'
+  Poison RES: '34'
+  Requirements: ''
+  Scaling: E
+  Vs Slash: '71'
+  Vs Strike: '76'
+  Vs Thrust: '71'
+  Weight: '2.4'
+  effects: ''
+  fashionID: '215'
+  ? 'id
+
+    '
+  : '374
+
+    '
+  name: Dragon Acolyte Boots
+  type: legs
+- Bleed RES: '18'
+  Curse RES: '0'
+  Dark DEF: '17'
+  Durability: '55'
+  Fire DEF: '12'
+  Lightning DEF: '20'
+  Magic Def: '17'
+  Petrify RES: '0'
+  Physical Def: '52'
+  Poise: '0'
+  Poison RES: '20'
+  Requirements: ''
+  Scaling: D
+  Vs Slash: '51'
+  Vs Strike: '55'
+  Vs Thrust: '51'
+  Weight: '2.4'
+  effects: ''
+  fashionID: '411'
+  ? 'id
+
+    '
+  : '375
+
+    '
+  name: Varangian Leggings
+  type: legs
+- Bleed RES: '31'
+  Curse RES: '31'
+  Dark DEF: '53'
+  Durability: '50'
+  Fire DEF: '48'
+  Lightning DEF: '63'
+  Magic Def: '48'
+  Petrify RES: '31'
+  Physical Def: '80'
+  Poise: '0'
+  Poison RES: '33'
+  Requirements: ''
+  Scaling: E
+  Vs Slash: '78'
+  Vs Strike: '84'
+  Vs Thrust: '78'
+  Weight: '2.4'
+  effects: ''
+  fashionID: '-1'
+  ? 'id
+
+    '
+  : '376
+
+    '
+  name: White Priest Skirt
+  type: legs
+- Bleed RES: '29'
+  Curse RES: '0'
+  Dark DEF: '29'
+  Durability: '55'
+  Fire DEF: '27'
+  Lightning DEF: '25'
+  Magic Def: '35'
+  Petrify RES: '0'
+  Physical Def: '74'
+  Poise: '0'
+  Poison RES: '42'
+  Requirements: ''
+  Scaling: E
+  Vs Slash: '72'
+  Vs Strike: '76'
+  Vs Thrust: '72'
+  Weight: '2.2'
+  effects: ''
+  fashionID: '39'
+  ? 'id
+
+    '
+  : '377
+
+    '
+  name: Black Leather Boots
+  type: legs
+- Bleed RES: '42'
+  Curse RES: '0'
+  Dark DEF: '24'
+  Durability: '50'
+  Fire DEF: '30'
+  Lightning DEF: '33'
+  Magic Def: '23'
+  Petrify RES: '0'
+  Physical Def: '69'
+  Poise: '0'
+  Poison RES: '26'
+  Requirements: ''
+  Scaling: E
+  Vs Slash: '70'
+  Vs Strike: '67'
+  Vs Thrust: '71'
+  Weight: '2.1'
+  effects: ''
+  fashionID: '413'
+  ? 'id
+
+    '
+  : '378
+
+    '
+  name: Wanderer Boots
+  type: legs
+- Bleed RES: '30'
+  Curse RES: '41'
+  Dark DEF: '57'
+  Durability: '55'
+  Fire DEF: '57'
+  Lightning DEF: '57'
+  Magic Def: '85'
+  Petrify RES: '45'
+  Physical Def: '78'
+  Poise: '0'
+  Poison RES: '35'
+  Requirements: 16 INT
+  Scaling: E
+  Vs Slash: '74'
+  Vs Strike: '83'
+  Vs Thrust: '74'
+  Weight: '2'
+  effects: ''
+  fashionID: '87'
+  ? 'id
+
+    '
+  : '379
+
+    '
+  name: Black Boots
+  type: legs
+- Bleed RES: '30'
+  Curse RES: '41'
+  Dark DEF: '57'
+  Durability: '55'
+  Fire DEF: '85'
+  Lightning DEF: '57'
+  Magic Def: '57'
+  Petrify RES: '45'
+  Physical Def: '78'
+  Poise: '0'
+  Poison RES: '35'
+  Requirements: 16 INT, 16 FTH
+  Scaling: E
+  Vs Slash: '74'
+  Vs Strike: '83'
+  Vs Thrust: '74'
+  Weight: '2'
+  effects: ''
+  fashionID: '211'
+  ? 'id
+
+    '
+  : '380
+
+    '
+  name: Chaos Boots
+  type: legs
+- Bleed RES: '28'
+  Curse RES: '75'
+  Dark DEF: '24'
+  Durability: '66'
+  Fire DEF: '14'
+  Lightning DEF: '37'
+  Magic Def: '22'
+  Petrify RES: '0'
+  Physical Def: '60'
+  Poise: '0'
+  Poison RES: '26'
+  Requirements: ''
+  Scaling: E
+  Vs Slash: '53'
+  Vs Strike: '74'
+  Vs Thrust: '54'
+  Weight: '2'
+  effects: '[{"effect":  "Reduces falling damage", "alters": "",  "method": "", "value":
+    0}]'
+  fashionID: '365'
+  ? 'id
+
+    '
+  : '381
+
+    '
+  name: Flying Feline Boots
+  type: legs
+- Bleed RES: '30'
+  Curse RES: '41'
+  Dark DEF: '82'
+  Durability: '55'
+  Fire DEF: '85'
+  Lightning DEF: '57'
+  Magic Def: '57'
+  Petrify RES: '45'
+  Physical Def: '78'
+  Poise: '0'
+  Poison RES: '35'
+  Requirements: ''
+  Scaling: E
+  Vs Slash: '74'
+  Vs Strike: '83'
+  Vs Thrust: '74'
+  Weight: '2'
+  effects: ''
+  fashionID: '371'
+  ? 'id
+
+    '
+  : '382
+
+    '
+  name: Hexer's Boots
+  type: legs
+- Bleed RES: '22'
+  Curse RES: '0'
+  Dark DEF: '26'
+  Durability: '40'
+  Fire DEF: '23'
+  Lightning DEF: '30'
+  Magic Def: '28'
+  Petrify RES: '0'
+  Physical Def: '72'
+  Poise: '0'
+  Poison RES: '19'
+  Requirements: ''
+  Scaling: E
+  Vs Slash: '68'
+  Vs Strike: '77'
+  Vs Thrust: '69'
+  Weight: '2'
+  effects: '[{"effect":  "Increases maximum equipment load by 1.5%", "alters": "Equip
+    Load",  "method": "mul", "value": 1.015}]'
+  fashionID: '427'
+  ? 'id
+
+    '
+  : '383
+
+    '
+  name: Leggings of Aurous (transparent)
+  type: legs
+- Bleed RES: '30'
+  Curse RES: '61'
+  Dark DEF: '57'
+  Durability: '55'
+  Fire DEF: '57'
+  Lightning DEF: '70'
+  Magic Def: '57'
+  Petrify RES: '66'
+  Physical Def: '78'
+  Poise: '0'
+  Poison RES: '35'
+  Requirements: 14 FTH
+  Scaling: E
+  Vs Slash: '74'
+  Vs Strike: '83'
+  Vs Thrust: '74'
+  Weight: '2'
+  effects: ''
+  fashionID: '400'
+  ? 'id
+
+    '
+  : '384
+
+    '
+  name: Saint's Trousers
+  type: legs
+- Bleed RES: '14'
+  Curse RES: '0'
+  Dark DEF: '12'
+  Durability: '40'
+  Fire DEF: '14'
+  Lightning DEF: '18'
+  Magic Def: '13'
+  Petrify RES: '0'
+  Physical Def: '29'
+  Poise: '0'
+  Poison RES: '14'
+  Requirements: ''
+  Scaling: E
+  Vs Slash: '28'
+  Vs Strike: '32'
+  Vs Thrust: '28'
+  Weight: '2'
+  effects: '[{"effect": "Increases souls gained by 5%", "alters": "", "method": "",
+    "value": 0}]'
+  fashionID: '410'
+  ? 'id
+
+    '
+  : '385
+
+    '
+  name: Tseldora Trousers
+  type: legs
+- Bleed RES: '29'
+  Curse RES: '35'
+  Dark DEF: '50'
+  Durability: '50'
+  Fire DEF: '44'
+  Lightning DEF: '62'
+  Magic Def: '45'
+  Petrify RES: '35'
+  Physical Def: '72'
+  Poise: '0'
+  Poison RES: '30'
+  Requirements: ''
+  Scaling: E
+  Vs Slash: '70'
+  Vs Strike: '75'
+  Vs Thrust: '70'
+  Weight: '1.9'
+  effects: ''
+  fashionID: '393'
+  ? 'id
+
+    '
+  : '386
+
+    '
+  name: Priestess Skirt
+  type: legs
+- Bleed RES: '27'
+  Curse RES: '0'
+  Dark DEF: '28'
+  Durability: '60'
+  Fire DEF: '26'
+  Lightning DEF: '25'
+  Magic Def: '32'
+  Petrify RES: '0'
+  Physical Def: '65'
+  Poise: '0'
+  Poison RES: '26'
+  Requirements: ''
+  Scaling: E
+  Vs Slash: '65'
+  Vs Strike: '72'
+  Vs Thrust: '61'
+  Weight: '1.8'
+  effects: ''
+  fashionID: '208'
+  ? 'id
+
+    '
+  : '387
+
+    '
+  name: Brigand Trousers
+  type: legs
+- Bleed RES: '9'
+  Curse RES: '0'
+  Dark DEF: '9'
+  Durability: '35'
+  Fire DEF: '10'
+  Lightning DEF: '6'
+  Magic Def: '9'
+  Petrify RES: '0'
+  Physical Def: '29'
+  Poise: '0'
+  Poison RES: '8'
+  Requirements: ''
+  Scaling: C
+  Vs Slash: '30'
+  Vs Strike: '28'
+  Vs Thrust: '29'
+  Weight: '1.8'
+  effects: ''
+  fashionID: '373'
+  ? 'id
+
+    '
+  : '388
+
+    '
+  name: Hollow Soldier Leggings
+  type: legs
+- Bleed RES: '21'
+  Curse RES: '23'
+  Dark DEF: '46'
+  Durability: '55'
+  Fire DEF: '38'
+  Lightning DEF: '45'
+  Magic Def: '48'
+  Petrify RES: '23'
+  Physical Def: '52'
+  Poise: '0'
+  Poison RES: '17'
+  Requirements: ''
+  Scaling: E
+  Vs Slash: '50'
+  Vs Strike: '56'
+  Vs Thrust: '50'
+  Weight: '1.7'
+  effects: ''
+  fashionID: '205'
+  ? 'id
+
+    '
+  : '389
+
+    '
+  name: Black Witch Trousers
+  type: legs
+- Bleed RES: '30'
+  Curse RES: '10'
+  Dark DEF: '31'
+  Durability: '80'
+  Fire DEF: '25'
+  Lightning DEF: '28'
+  Magic Def: '30'
+  Petrify RES: '0'
+  Physical Def: '52'
+  Poise: '0'
+  Poison RES: '53'
+  Requirements: ''
+  Scaling: ''
+  Vs Slash: '50'
+  Vs Strike: '55'
+  Vs Thrust: '50'
+  Weight: '1.7'
+  effects: ''
+  fashionID: '364'
+  ? 'id
+
+    '
+  : '390
+
+    '
+  name: Flower Skirt
+  type: legs
+- Bleed RES: '18'
+  Curse RES: '11'
+  Dark DEF: '31'
+  Durability: '55'
+  Fire DEF: '43'
+  Lightning DEF: '28'
+  Magic Def: '31'
+  Petrify RES: '0'
+  Physical Def: '59'
+  Poise: '0'
+  Poison RES: '51'
+  Requirements: ''
+  Scaling: E
+  Vs Slash: '57'
+  Vs Strike: '62'
+  Vs Thrust: '57'
+  Weight: '1.6'
+  effects: ''
+  fashionID: '41'
+  ? 'id
+
+    '
+  : '391
+
+    '
+  name: Heavy Boots
+  type: legs
+- Bleed RES: '52'
+  Curse RES: '0'
+  Dark DEF: '40'
+  Durability: '65'
+  Fire DEF: '31'
+  Lightning DEF: '39'
+  Magic Def: '32'
+  Petrify RES: '17'
+  Physical Def: '64'
+  Poise: '0'
+  Poison RES: '36'
+  Requirements: ''
+  Scaling: E
+  Vs Slash: '61'
+  Vs Strike: '68'
+  Vs Thrust: '61'
+  Weight: '1.6'
+  effects: ''
+  fashionID: '385'
+  ? 'id
+
+    '
+  : '392
+
+    '
+  name: Manikin Boots
+  type: legs
+- Bleed RES: '37'
+  Curse RES: '0'
+  Dark DEF: '43'
+  Durability: '60'
+  Fire DEF: '36'
+  Lightning DEF: '33'
+  Magic Def: '32'
+  Petrify RES: '30'
+  Physical Def: '60'
+  Poise: '0'
+  Poison RES: '48'
+  Requirements: ''
+  Scaling: E
+  Vs Slash: '53'
+  Vs Strike: '67'
+  Vs Thrust: '53'
+  Weight: '1.6'
+  effects: ''
+  fashionID: '402'
+  ? 'id
+
+    '
+  : '393
+
+    '
+  name: Shadow Leggings
+  type: legs
+- Bleed RES: '22'
+  Curse RES: '57'
+  Dark DEF: '47'
+  Durability: '40'
+  Fire DEF: '38'
+  Lightning DEF: '39'
+  Magic Def: '47'
+  Petrify RES: '25'
+  Physical Def: '50'
+  Poise: '0'
+  Poison RES: '22'
+  Requirements: ''
+  Scaling: E
+  Vs Slash: '46'
+  Vs Strike: '53'
+  Vs Thrust: '46'
+  Weight: '1.3'
+  effects: '[{"effect": "Increases casting speed by 5%", "alters": "Cast Speed", "method":
+    "mul", "value": 1.05}]'
+  fashionID: '380'
+  ? 'id
+
+    '
+  : '394
+
+    '
+  name: Lion Mage Skirt
+  type: legs
+- Bleed RES: '12'
+  Curse RES: '65'
+  Dark DEF: '35'
+  Durability: '40'
+  Fire DEF: '18'
+  Lightning DEF: '18'
+  Magic Def: '19'
+  Petrify RES: '64'
+  Physical Def: '45'
+  Poise: '0'
+  Poison RES: '13'
+  Requirements: ''
+  Scaling: E
+  Vs Slash: '44'
+  Vs Strike: '47'
+  Vs Thrust: '44'
+  Weight: '1.2'
+  effects: '[{"effect":  "Reduces falling damage", "alters": "",  "method": "", "value":
+    0}]'
+  fashionID: '381'
+  ? 'id
+
+    '
+  : '395
+
+    '
+  name: Lion Warrior Skirt
+  type: legs
+- Bleed RES: '25'
+  Curse RES: '36'
+  Dark DEF: '27'
+  Durability: '35'
+  Fire DEF: '21'
+  Lightning DEF: '33'
+  Magic Def: '32'
+  Petrify RES: '33'
+  Physical Def: '61'
+  Poise: '0'
+  Poison RES: '59'
+  Requirements: ''
+  Scaling: E
+  Vs Slash: '58'
+  Vs Strike: '67'
+  Vs Thrust: '58'
+  Weight: '1.2'
+  effects: '[{"effect": "Poisons nearby characters", "alters": "", "method": "", "value":
+    0},{"effect": "Increases jump length", "alters": "", "method": "", "value": 0}]'
+  fashionID: '388'
+  ? 'id
+
+    '
+  : '396
+
+    '
+  name: Moon Butterfly Skirt
+  type: legs
+- Bleed RES: '9'
+  Curse RES: '0'
+  Dark DEF: '12'
+  Durability: '25'
+  Fire DEF: '11'
+  Lightning DEF: '15'
+  Magic Def: '10'
+  Petrify RES: '0'
+  Physical Def: '10'
+  Poise: '0'
+  Poison RES: '12'
+  Requirements: ''
+  Scaling: E
+  Vs Slash: '9'
+  Vs Strike: '11'
+  Vs Thrust: '9'
+  Weight: '1'
+  effects: ''
+  fashionID: '394'
+  ? 'id
+
+    '
+  : '397
+
+    '
+  name: Prisoner's Waistloth
+  type: legs
+- Bleed RES: '0'
+  Curse RES: '0'
+  Dark DEF: '0'
+  Durability: '0'
+  Fire DEF: '0'
+  Lightning DEF: '0'
+  Magic Def: '0'
+  Petrify RES: '0'
+  Physical Def: '0'
+  Poise: '0'
+  Poison RES: '0'
+  Requirements: ''
+  Scaling: '0'
+  Vs Slash: '0'
+  Vs Strike: '0'
+  Vs Thrust: '0'
+  Weight: '0'
+  effects: ''
+  fashionID: '-1'
+  ? 'id
+
+    '
+  : '0
+
+    '
+  name: defaulthead
+  type: head
+- Bleed RES: '0'
+  Curse RES: '0'
+  Dark DEF: '0'
+  Durability: '0'
+  Fire DEF: '0'
+  Lightning DEF: '0'
+  Magic Def: '0'
+  Petrify RES: '0'
+  Physical Def: '0'
+  Poise: '0'
+  Poison RES: '0'
+  Requirements: ''
+  Scaling: '0'
+  Vs Slash: '0'
+  Vs Strike: '0'
+  Vs Thrust: '0'
+  Weight: '0'
+  effects: ''
+  fashionID: '-1'
+  ? 'id
+
+    '
+  : '0
+
+    '
+  name: defaultchest
+  type: chest
+- Bleed RES: '0'
+  Curse RES: '0'
+  Dark DEF: '0'
+  Durability: '0'
+  Fire DEF: '0'
+  Lightning DEF: '0'
+  Magic Def: '0'
+  Petrify RES: '0'
+  Physical Def: '0'
+  Poise: '0'
+  Poison RES: '0'
+  Requirements: ''
+  Scaling: '0'
+  Vs Slash: '0'
+  Vs Strike: '0'
+  Vs Thrust: '0'
+  Weight: '0'
+  effects: ''
+  fashionID: '-1'
+  ? 'id
+
+    '
+  : '0
+
+    '
+  name: defaulthands
+  type: hands
+- Bleed RES: '0'
+  Curse RES: '0'
+  Dark DEF: '0'
+  Durability: '0'
+  Fire DEF: '0'
+  Lightning DEF: '0'
+  Magic Def: '0'
+  Petrify RES: '0'
+  Physical Def: '0'
+  Poise: '0'
+  Poison RES: '0'
+  Requirements: ''
+  Scaling: '0'
+  Vs Slash: '0'
+  Vs Strike: '0'
+  Vs Thrust: '0'
+  Weight: '0'
+  effects: ''
+  fashionID: '-1'
+  ? 'id
+
+    '
+  : '0
+
+    '
+  name: defaultlegs
+  type: legs
+- Bleed RES: '12'
+  Curse RES: '0'
+  Dark DEF: '8'
+  Durability: '100'
+  Fire DEF: '9'
+  Lightning DEF: '10'
+  Magic Def: '11'
+  Petrify RES: '12'
+  Physical Def: '55'
+  Poise: '0'
+  Poison RES: '22'
+  Requirements: ''
+  Scaling: E
+  Vs Slash: '55'
+  Vs Strike: '52'
+  Vs Thrust: '52'
+  Weight: '3.5'
+  effects: '[{"effect":  "Restores 2HP/3sec", "alters": "",  "method": "", "value":
+    0},{"effect":  "Prevents Hollowing after receiving Vendrick''s Blessing", "alters":
+    "",  "method": "", "value": 0}]'
+  fashionID: '-1'
+  ? 'id
+
+    '
+  : '398
+
+    '
+  name: Crown of the Ivory King
+  type: head
+- Bleed RES: '8'
+  Curse RES: '8'
+  Dark DEF: '13'
+  Durability: '50'
+  Fire DEF: '12'
+  Lightning DEF: '15'
+  Magic Def: '14'
+  Petrify RES: '4'
+  Physical Def: '21'
+  Poise: '0'
+  Poison RES: '10'
+  Requirements: ''
+  Scaling: D
+  Vs Slash: '20'
+  Vs Strike: '23'
+  Vs Thrust: '20'
+  Weight: '1.5'
+  effects: ''
+  fashionID: '-1'
+  ? 'id
+
+    '
+  : '399
+
+    '
+  name: Mirrah Hat
+  type: head
+- Bleed RES: '16'
+  Curse RES: '0'
+  Dark DEF: '7'
+  Durability: '80'
+  Fire DEF: '7'
+  Lightning DEF: '8'
+  Magic Def: '6'
+  Petrify RES: '0'
+  Physical Def: '32'
+  Poise: '10'
+  Poison RES: '4'
+  Requirements: ''
+  Scaling: C
+  Vs Slash: '34'
+  Vs Strike: '28'
+  Vs Thrust: '30'
+  Weight: '6'
+  effects: '[{"effect":  "Negates headshots", "alters": "",  "method": "", "value":
+    0}]'
+  fashionID: '-1'
+  ? 'id
+
+    '
+  : '400
+
+    '
+  name: Old Bell Helm
+  type: head
+- Bleed RES: '20'
+  Curse RES: '24'
+  Dark DEF: '50'
+  Durability: '50'
+  Fire DEF: '47'
+  Lightning DEF: '49'
+  Magic Def: '57'
+  Petrify RES: '24'
+  Physical Def: '81'
+  Poise: '0'
+  Poison RES: '20'
+  Requirements: ''
+  Scaling: B
+  Vs Slash: '79'
+  Vs Strike: '85'
+  Vs Thrust: '79'
+  Weight: '3.3'
+  effects: ''
+  fashionID: '-1'
+  ? 'id
+
+    '
+  : '401
+
+    '
+  name: Retainer Robe
+  type: chest
+- Bleed RES: '19'
+  Curse RES: '20'
+  Dark DEF: '17'
+  Durability: '100'
+  Fire DEF: '14'
+  Lightning DEF: '20'
+  Magic Def: '14'
+  Petrify RES: '21'
+  Physical Def: '72'
+  Poise: '10'
+  Poison RES: '14'
+  Requirements: ''
+  Scaling: C
+  Vs Slash: '80'
+  Vs Strike: '56'
+  Vs Thrust: '80'
+  Weight: '8'
+  effects: '[{"effect":  "Increases souls gained by 2.5%", "alters": "",  "method":
+    "", "value": 0},{"effect":  "Increases Item Discovery", "alters": "",  "method":
+    "", "value": 0},{"effect":  "Lose 5HP/2sec", "alters": "",  "method": "", "value":
+    0}]'
+  fashionID: '-1'
+  ? 'id
+
+    '
+  : '402
+
+    '
+  name: Symbol of Avarice
+  type: head
+- Bleed RES: '18'
+  Curse RES: '0'
+  Dark DEF: '16'
+  Durability: '45'
+  Fire DEF: '22'
+  Lightning DEF: '10'
+  Magic Def: '16'
+  Petrify RES: '0'
+  Physical Def: '97'
+  Poise: '7'
+  Poison RES: '14'
+  Requirements: ''
+  Scaling: C
+  Vs Slash: '104'
+  Vs Strike: '84'
+  Vs Thrust: '97'
+  Weight: '6.5'
+  effects: ''
+  fashionID: '429'
+  ? 'id
+
+    '
+  : '403
+
+    '
+  name: Charred Loyce Helm
+  type: head
+- Bleed RES: '36'
+  Curse RES: '0'
+  Dark DEF: '36'
+  Durability: '45'
+  Fire DEF: '45'
+  Lightning DEF: '22'
+  Magic Def: '37'
+  Petrify RES: '0'
+  Physical Def: '208'
+  Poise: '22'
+  Poison RES: '30'
+  Requirements: ''
+  Scaling: A
+  Vs Slash: '212'
+  Vs Strike: '179'
+  Vs Thrust: '208'
+  Weight: '12.8'
+  effects: ''
+  fashionID: '434'
+  ? 'id
+
+    '
+  : '404
+
+    '
+  name: Charred Loyce Armor
+  type: chest
+- Bleed RES: '13'
+  Curse RES: '0'
+  Dark DEF: '10'
+  Durability: '45'
+  Fire DEF: '16'
+  Lightning DEF: '6'
+  Magic Def: '10'
+  Petrify RES: '0'
+  Physical Def: '62'
+  Poise: '11'
+  Poison RES: '11'
+  Requirements: ''
+  Scaling: C
+  Vs Slash: '67'
+  Vs Strike: '53'
+  Vs Thrust: '62'
+  Weight: '4.5'
+  effects: ''
+  fashionID: '439'
+  ? 'id
+
+    '
+  : '405
+
+    '
+  name: Charred Loyce Gauntlets
+  type: hands
+- Bleed RES: '21'
+  Curse RES: '0'
+  Dark DEF: '20'
+  Durability: '45'
+  Fire DEF: '29'
+  Lightning DEF: '12'
+  Magic Def: '20'
+  Petrify RES: '0'
+  Physical Def: '119'
+  Poise: '13'
+  Poison RES: '18'
+  Requirements: ''
+  Scaling: C
+  Vs Slash: '126'
+  Vs Strike: '100'
+  Vs Thrust: '119'
+  Weight: '7.8'
+  effects: ''
+  fashionID: '443'
+  ? 'id
+
+    '
+  : '406
+
+    '
+  name: Charred Loyce Leggings
+  type: legs
+- Bleed RES: '18'
+  Curse RES: '0'
+  Dark DEF: '17'
+  Durability: '55'
+  Fire DEF: '24'
+  Lightning DEF: '10'
+  Magic Def: '16'
+  Petrify RES: '0'
+  Physical Def: '107'
+  Poise: '10'
+  Poison RES: '14'
+  Requirements: ''
+  Scaling: C
+  Vs Slash: '111'
+  Vs Strike: '88'
+  Vs Thrust: '107'
+  Weight: '7'
+  effects: ''
+  fashionID: '430'
+  ? 'id
+
+    '
+  : '407
+
+    '
+  name: Ivory King Helm
+  type: head
+- Bleed RES: '0'
+  Curse RES: '28'
+  Dark DEF: '37'
+  Durability: '55'
+  Fire DEF: '47'
+  Lightning DEF: '22'
+  Magic Def: '34'
+  Petrify RES: '0'
+  Physical Def: '228'
+  Poise: '30'
+  Poison RES: '36'
+  Requirements: ''
+  Scaling: A
+  Vs Slash: '236'
+  Vs Strike: '187'
+  Vs Thrust: '228'
+  Weight: '14.8'
+  effects: ''
+  fashionID: '435'
+  ? 'id
+
+    '
+  : '408
+
+    '
+  name: Ivory King Armor
+  type: chest
+- Bleed RES: '13'
+  Curse RES: '0'
+  Dark DEF: '11'
+  Durability: '55'
+  Fire DEF: '17'
+  Lightning DEF: '6'
+  Magic Def: '10'
+  Petrify RES: '0'
+  Physical Def: '70'
+  Poise: '12'
+  Poison RES: '11'
+  Requirements: ''
+  Scaling: C
+  Vs Slash: '72'
+  Vs Strike: '56'
+  Vs Thrust: '70'
+  Weight: '5'
+  effects: ''
+  fashionID: '440'
+  ? 'id
+
+    '
+  : '409
+
+    '
+  name: Ivory King Gauntlets
+  type: hands
+- Bleed RES: '21'
+  Curse RES: '0'
+  Dark DEF: '21'
+  Durability: '55'
+  Fire DEF: '30'
+  Lightning DEF: '12'
+  Magic Def: '20'
+  Petrify RES: '0'
+  Physical Def: '128'
+  Poise: '15'
+  Poison RES: '18'
+  Requirements: ''
+  Scaling: C
+  Vs Slash: '132'
+  Vs Strike: '104'
+  Vs Thrust: '128'
+  Weight: '8.6'
+  effects: ''
+  fashionID: '444'
+  ? 'id
+
+    '
+  : '410
+
+    '
+  name: Ivory King Leggings
+  type: legs
+- Bleed RES: '18'
+  Curse RES: '0'
+  Dark DEF: '16'
+  Durability: '85'
+  Fire DEF: '16'
+  Lightning DEF: '10'
+  Magic Def: '22'
+  Petrify RES: '0'
+  Physical Def: '92'
+  Poise: '6'
+  Poison RES: '14'
+  Requirements: ''
+  Scaling: C
+  Vs Slash: '102'
+  Vs Strike: '92'
+  Vs Thrust: '96'
+  Weight: '6.3'
+  effects: ''
+  fashionID: '431'
+  ? 'id
+
+    '
+  : '411
+
+    '
+  name: Loyce Helm
+  type: head
+- Bleed RES: '36'
+  Curse RES: '0'
+  Dark DEF: '36'
+  Durability: '85'
+  Fire DEF: '37'
+  Lightning DEF: '22'
+  Magic Def: '45'
+  Petrify RES: '0'
+  Physical Def: '198'
+  Poise: '20'
+  Poison RES: '30'
+  Requirements: ''
+  Scaling: A
+  Vs Slash: '204'
+  Vs Strike: '191'
+  Vs Thrust: '200'
+  Weight: '12.3'
+  effects: ''
+  fashionID: '436'
+  ? 'id
+
+    '
+  : '412
+
+    '
+  name: Loyce Armor
+  type: chest
+- Bleed RES: '13'
+  Curse RES: '0'
+  Dark DEF: '10'
+  Durability: '85'
+  Fire DEF: '10'
+  Lightning DEF: '6'
+  Magic Def: '16'
+  Petrify RES: '0'
+  Physical Def: '60'
+  Poise: '10'
+  Poison RES: '11'
+  Requirements: ''
+  Scaling: C
+  Vs Slash: '64'
+  Vs Strike: '57'
+  Vs Thrust: '60'
+  Weight: '4.4'
+  effects: ''
+  fashionID: '441'
+  ? 'id
+
+    '
+  : '413
+
+    '
+  name: Loyce Gauntlets
+  type: hands
+- Bleed RES: '21'
+  Curse RES: '0'
+  Dark DEF: '20'
+  Durability: '85'
+  Fire DEF: '20'
+  Lightning DEF: '12'
+  Magic Def: '29'
+  Petrify RES: '0'
+  Physical Def: '115'
+  Poise: '12'
+  Poison RES: '18'
+  Requirements: ''
+  Scaling: C
+  Vs Slash: '122'
+  Vs Strike: '110'
+  Vs Thrust: '115'
+  Weight: '7.5'
+  effects: ''
+  fashionID: '445'
+  ? 'id
+
+    '
+  : '414
+
+    '
+  name: Loyce Leggings
+  type: legs
+- Bleed RES: '9'
+  Curse RES: '6'
+  Dark DEF: '20'
+  Durability: '55'
+  Fire DEF: '17'
+  Lightning DEF: '23'
+  Magic Def: '18'
+  Petrify RES: '0'
+  Physical Def: '31'
+  Poise: '0'
+  Poison RES: '24'
+  Requirements: ''
+  Scaling: E
+  Vs Slash: '29'
+  Vs Strike: '32'
+  Vs Thrust: '29'
+  Weight: '0.9'
+  effects: ''
+  fashionID: '432'
+  ? 'id
+
+    '
+  : '415
+
+    '
+  name: Northwarder Hood
+  type: head
+- Bleed RES: '21'
+  Curse RES: '14'
+  Dark DEF: '47'
+  Durability: '55'
+  Fire DEF: '42'
+  Lightning DEF: '43'
+  Magic Def: '57'
+  Petrify RES: '0'
+  Physical Def: '79'
+  Poise: '0'
+  Poison RES: '59'
+  Requirements: ''
+  Scaling: B
+  Vs Slash: '76'
+  Vs Strike: '83'
+  Vs Thrust: '76'
+  Weight: '2.5'
+  effects: ''
+  fashionID: '437'
+  ? 'id
+
+    '
+  : '416
+
+    '
+  name: Northwarder Robe
+  type: chest
+- Bleed RES: '13'
+  Curse RES: '8'
+  Dark DEF: '16'
+  Durability: '55'
+  Fire DEF: '14'
+  Lightning DEF: '19'
+  Magic Def: '14'
+  Petrify RES: '0'
+  Physical Def: '30'
+  Poise: '0'
+  Poison RES: '35'
+  Requirements: ''
+  Scaling: E
+  Vs Slash: '28'
+  Vs Strike: '31'
+  Vs Thrust: '29'
+  Weight: '1'
+  effects: ''
+  fashionID: '442'
+  ? 'id
+
+    '
+  : '417
+
+    '
+  name: Northwarder Manchettes
+  type: hands
+- Bleed RES: '14'
+  Curse RES: '9'
+  Dark DEF: '32'
+  Durability: '55'
+  Fire DEF: '28'
+  Lightning DEF: '34'
+  Magic Def: '30'
+  Petrify RES: '0'
+  Physical Def: '50'
+  Poise: '0'
+  Poison RES: '37'
+  Requirements: ''
+  Scaling: E
+  Vs Slash: '48'
+  Vs Strike: '52'
+  Vs Thrust: '48'
+  Weight: '1.8'
+  effects: ''
+  fashionID: '447'
+  ? 'id
+
+    '
+  : '418
+
+    '
+  name: Northwarder Trousers
+  type: legs
+- Bleed RES: '16'
+  Curse RES: '16'
+  Dark DEF: '12'
+  Durability: '70'
+  Fire DEF: '10'
+  Lightning DEF: '11'
+  Magic Def: '14'
+  Petrify RES: '0'
+  Physical Def: '94'
+  Poise: '13'
+  Poison RES: '11'
+  Requirements: ''
+  Scaling: C
+  Vs Slash: '100'
+  Vs Strike: '74'
+  Vs Thrust: '94'
+  Weight: '5.8'
+  effects: ''
+  fashionID: '433'
+  ? 'id
+
+    '
+  : '419
+
+    '
+  name: Rampart Golem Helm
+  type: head
+- Bleed RES: '43'
+  Curse RES: '41'
+  Dark DEF: '29'
+  Durability: '70'
+  Fire DEF: '27'
+  Lightning DEF: '28'
+  Magic Def: '30'
+  Petrify RES: '0'
+  Physical Def: '235'
+  Poise: '38'
+  Poison RES: '29'
+  Requirements: ''
+  Scaling: A
+  Vs Slash: '257'
+  Vs Strike: '216'
+  Vs Thrust: '243'
+  Weight: '15.5'
+  effects: ''
+  fashionID: '438'
+  ? 'id
+
+    '
+  : '420
+
+    '
+  name: Rampart Golem Armor
+  type: chest
+- Bleed RES: '22'
+  Curse RES: '22'
+  Dark DEF: '16'
+  Durability: '70'
+  Fire DEF: '12'
+  Lightning DEF: '14'
+  Magic Def: '16'
+  Petrify RES: '0'
+  Physical Def: '127'
+  Poise: '16'
+  Poison RES: '15'
+  Requirements: ''
+  Scaling: C
+  Vs Slash: '135'
+  Vs Strike: '105'
+  Vs Thrust: '127'
+  Weight: '8.2'
+  effects: ''
+  fashionID: '-1'
+  ? 'id
+
+    '
+  : '421
+
+    '
+  name: Rampart Golem Leggings
+  type: legs
+- Bleed RES: '22'
+  Curse RES: '22'
+  Dark DEF: '16'
+  Durability: '70'
+  Fire DEF: '15'
+  Lightning DEF: '14'
+  Magic Def: '16'
+  Petrify RES: '0'
+  Physical Def: '127'
+  Poise: '16'
+  Poison RES: '15'
+  Requirements: ''
+  Scaling: C
+  Vs Slash: '135'
+  Vs Strike: '105'
+  Vs Thrust: '127'
+  Weight: '8.8'
+  effects: ''
+  fashionID: '-1'
+  ? 'id
+
+    '
+  : '422
+
+    '
+  name: Rampart Golem Gauntlets
+  type: hands
+- Bleed RES: '68'
+  Curse RES: '0'
+  Dark DEF: '52'
+  Durability: '80'
+  Fire DEF: '53'
+  Lightning DEF: '36'
+  Magic Def: '48'
+  Petrify RES: '0'
+  Physical Def: '181'
+  Poise: '17'
+  Poison RES: '52'
+  Requirements: ''
+  Scaling: A
+  Vs Slash: '187'
+  Vs Strike: '172'
+  Vs Thrust: '178'
+  Weight: '9'
+  effects: ''
+  fashionID: '118'
+  ? 'id
+
+    '
+  : '423
+
+    '
+  name: Alonne's Armor
+  type: chest
+- Bleed RES: '22'
+  Curse RES: '0'
+  Dark DEF: '16'
+  Durability: '80'
+  Fire DEF: '17'
+  Lightning DEF: '11'
+  Magic Def: '15'
+  Petrify RES: '0'
+  Physical Def: '61'
+  Poise: '6'
+  Poison RES: '16'
+  Requirements: ''
+  Scaling: C
+  Vs Slash: '63'
+  Vs Strike: '58'
+  Vs Thrust: '60'
+  Weight: '3'
+  effects: ''
+  fashionID: '291'
+  ? 'id
+
+    '
+  : '424
+
+    '
+  name: Alonne's Gauntlets
+  type: hands
+- Bleed RES: '40'
+  Curse RES: '0'
+  Dark DEF: '30'
+  Durability: '80'
+  Fire DEF: '31'
+  Lightning DEF: '21'
+  Magic Def: '28'
+  Petrify RES: '0'
+  Physical Def: '108'
+  Poise: '11'
+  Poison RES: '30'
+  Requirements: ''
+  Scaling: C
+  Vs Slash: '111'
+  Vs Strike: '103'
+  Vs Thrust: '106'
+  Weight: '5.5'
+  effects: ''
+  fashionID: '204'
+  ? 'id
+
+    '
+  : '425
+
+    '
+  name: Alonne's Leggings
+  type: legs
+- Bleed RES: '60'
+  Curse RES: '0'
+  Dark DEF: '69'
+  Durability: '85'
+  Fire DEF: '71'
+  Lightning DEF: '32'
+  Magic Def: '54'
+  Petrify RES: '0'
+  Physical Def: '253'
+  Poise: '23'
+  Poison RES: '20'
+  Requirements: ''
+  Scaling: A
+  Vs Slash: '271'
+  Vs Strike: '226'
+  Vs Thrust: '259'
+  Weight: '13.6'
+  effects: ''
+  fashionID: '264'
+  ? 'id
+
+    '
+  : '426
+
+    '
+  name: Raime's Armor
+  type: chest
+- Bleed RES: '32'
+  Curse RES: '0'
+  Dark DEF: '36'
+  Durability: '85'
+  Fire DEF: '28'
+  Lightning DEF: '13'
+  Magic Def: '21'
+  Petrify RES: '0'
+  Physical Def: '83'
+  Poise: '9'
+  Poison RES: '10'
+  Requirements: ''
+  Scaling: C
+  Vs Slash: '90'
+  Vs Strike: '73'
+  Vs Thrust: '95'
+  Weight: '5'
+  effects: ''
+  fashionID: '339'
+  ? 'id
+
+    '
+  : '427
+
+    '
+  name: Raime's Gauntlets
+  type: hands
+- Bleed RES: '30'
+  Curse RES: '0'
+  Dark DEF: '29'
+  Durability: '85'
+  Fire DEF: '25'
+  Lightning DEF: '12'
+  Magic Def: '19'
+  Petrify RES: '0'
+  Physical Def: '97'
+  Poise: '12'
+  Poison RES: '10'
+  Requirements: ''
+  Scaling: C
+  Vs Slash: '104'
+  Vs Strike: '85'
+  Vs Thrust: '99'
+  Weight: '6.9'
+  effects: ''
+  fashionID: '395'
+  ? 'id
+
+    '
+  : '428
+
+    '
+  name: Raime's Leggings
+  type: legs
+- Bleed RES: '20'
+  Curse RES: '0'
+  Dark DEF: '33'
+  Durability: '40'
+  Fire DEF: '28'
+  Lightning DEF: '37'
+  Magic Def: '29'
+  Petrify RES: '0'
+  Physical Def: '42'
+  Poise: '0'
+  Poison RES: '40'
+  Requirements: ''
+  Scaling: A
+  Vs Slash: '40'
+  Vs Strike: '44'
+  Vs Thrust: '40'
+  Weight: '1.1'
+  effects: ''
+  fashionID: '-1'
+  ? 'id
+
+    '
+  : '429
+
+    '
+  name: Hood of the Forlorn
+  type: head
+- Bleed RES: '58'
+  Curse RES: '0'
+  Dark DEF: '68'
+  Durability: '80'
+  Fire DEF: '50'
+  Lightning DEF: '35'
+  Magic Def: '42'
+  Petrify RES: '0'
+  Physical Def: '220'
+  Poise: '22'
+  Poison RES: '75'
+  Requirements: ''
+  Scaling: A
+  Vs Slash: '235'
+  Vs Strike: '207'
+  Vs Thrust: '220'
+  Weight: '11.3'
+  effects: ''
+  fashionID: '-1'
+  ? 'id
+
+    '
+  : '430
+
+    '
+  name: Armor of the Forlorn
+  type: chest
+- Bleed RES: '28'
+  Curse RES: '0'
+  Dark DEF: '34'
+  Durability: '75'
+  Fire DEF: '25'
+  Lightning DEF: '18'
+  Magic Def: '20'
+  Petrify RES: '0'
+  Physical Def: '109'
+  Poise: '9'
+  Poison RES: '38'
+  Requirements: ''
+  Scaling: A
+  Vs Slash: '115'
+  Vs Strike: '101'
+  Vs Thrust: '108'
+  Weight: '5.5'
+  effects: ''
+  fashionID: '-1'
+  ? 'id
+
+    '
+  : '431
+
+    '
+  name: Gauntlets of the Forlorn
+  type: hands
+- Bleed RES: '29'
+  Curse RES: '0'
+  Dark DEF: '36'
+  Durability: '75'
+  Fire DEF: '26'
+  Lightning DEF: '17'
+  Magic Def: '20'
+  Petrify RES: '0'
+  Physical Def: '124'
+  Poise: '11'
+  Poison RES: '39'
+  Requirements: ''
+  Scaling: A
+  Vs Slash: '133'
+  Vs Strike: '117'
+  Vs Thrust: '124'
+  Weight: '6.2'
+  effects: ''
+  fashionID: '-1'
+  ? 'id
+
+    '
+  : '432
+
+    '
+  name: Leggings of the Forlorn
+  type: legs
+- Bleed RES: '19'
+  Curse RES: '0'
+  Dark DEF: '33'
+  Durability: '60'
+  Fire DEF: '20'
+  Lightning DEF: '36'
+  Magic Def: '26'
+  Petrify RES: '0'
+  Physical Def: '75'
+  Poise: '0'
+  Poison RES: '22'
+  Requirements: ''
+  Scaling: D
+  Vs Slash: '59'
+  Vs Strike: '64'
+  Vs Thrust: '59'
+  Weight: '2.8'
+  effects: ''
+  fashionID: '-1'
+  ? 'id
+
+    '
+  : '433
+
+    '
+  name: Fume Sorcerer Gloves
+  type: hands
+- Bleed RES: '28'
+  Curse RES: '0'
+  Dark DEF: '33'
+  Durability: '60'
+  Fire DEF: '20'
+  Lightning DEF: '36'
+  Magic Def: '26'
+  Petrify RES: '0'
+  Physical Def: '75'
+  Poise: '0'
+  Poison RES: '32'
+  Requirements: ''
+  Scaling: D
+  Vs Slash: '73'
+  Vs Strike: '80'
+  Vs Thrust: '73'
+  Weight: '2.8'
+  effects: ''
+  fashionID: '-1'
+  ? 'id
+
+    '
+  : '434
+
+    '
+  name: Fume Sorcerer Boots
+  type: legs
